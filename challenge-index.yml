@@ -19,6 +19,16 @@
   title_id: hookes-law
   topics: []
   translations: {}
+b969ef61-49fc-4e97-bf55-6a393489a4e5:
+  hexsha:
+    private: fe6c5e2f7a6f58d9af0bf4785c2f4d1928578996
+    public: 5a59ece4f1a016dae37067d843851749076fc7bd
+  language: en
+  modified: '2018-10-20T06:00:12.525683Z'
+  title: 'Characteristic equation: understanding'
+  title_id: characteristic-equation-understanding
+  topics: []
+  translations: {}
 f3df34b5-743f-4d00-a9ed-c792db6d1673:
   hexsha:
     private: c6d656786fd05415c7c109631ef2eddfd9614c85

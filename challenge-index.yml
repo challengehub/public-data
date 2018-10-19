@@ -21,10 +21,10 @@
   translations: {}
 b969ef61-49fc-4e97-bf55-6a393489a4e5:
   hexsha:
-    private: 656657b0efd2fd2da3d3f278a682316077d7f078
-    public: 7f55229189bd403b53f752a776a7a03b15c8387f
+    private: 7b3dbf891c179fd403ed826abf7611a725523c30
+    public: 1277ce13670685a151bb166cecb689c8d6977d03
   language: en
-  modified: '2018-10-20T06:19:12.841764Z'
+  modified: '2018-10-20T06:45:50.403512Z'
   title: 'Characteristic equation: understanding'
   title_id: characteristic-equation-understanding
   topics: []

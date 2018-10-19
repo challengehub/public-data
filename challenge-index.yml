@@ -11,10 +11,10 @@
   translations: {}
 765d76b3-b013-481e-96c9-d642b3f3ceff:
   hexsha:
-    private: d55b814df41d8d00b1e29edc1239d648407a3fad
-    public: 465e3b681a28a03cdba6341bad5ad17b6c14c73f
+    private: ffa0e3f3383e89ac3c00e6c5b1351aee20e8afc4
+    public: 0254b95840807a8b3bed061f02782b0a1df58c03
   language: en
-  modified: '2018-10-14T13:44:47.968666Z'
+  modified: '2018-10-20T07:38:19.250189Z'
   title: Hooke's law
   title_id: hookes-law
   topics: []

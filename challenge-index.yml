@@ -69,6 +69,16 @@
   title_id: hookes-law
   topics: []
   translations: {}
+80c1cc16-4ece-4177-9759-8674981e2933:
+  hexsha:
+    private: b70babff984aee2570d7f6910cfbc03904f3b2b7
+    public: 5fb7d56c59ddcdc866ca95a67d32b705f9dfe6ab
+  language: en
+  modified: '2018-10-21T08:15:30.211443Z'
+  title: 'Characteristic equation: complex roots with B=0'
+  title_id: characteristic-equation-complex-roots-with-b0
+  topics: []
+  translations: {}
 b969ef61-49fc-4e97-bf55-6a393489a4e5:
   hexsha:
     private: 7b3dbf891c179fd403ed826abf7611a725523c30

@@ -9,6 +9,16 @@
   title_id: trigonometric-functions-in-exponential-form
   topics: []
   translations: {}
+252e4f0b-2972-48ac-8729-5e2e2ccfe2ac:
+  hexsha:
+    private: 7bec1e59d1869291c0f721748d8dde605982dd1e
+    public: 22ea3156fe3829de383f6c87f19da5459db20ce9
+  language: en
+  modified: '2018-10-21T02:29:40.82695Z'
+  title: 'Characteristic equation: Real, distinct roots'
+  title_id: characteristic-equation-real-distinct-roots
+  topics: []
+  translations: {}
 765d76b3-b013-481e-96c9-d642b3f3ceff:
   hexsha:
     private: 0c9a72caab9d4af56b852a15cd80fb7e35ce8a5d

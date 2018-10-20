@@ -49,6 +49,16 @@
   title_id: characteristic-equation-real-negative-roots
   topics: []
   translations: {}
+4ebe97ab-3a92-4aac-9d05-ad825b07de95:
+  hexsha:
+    private: e2cc00711b55ecbd7a269127e5b93c0770d58258
+    public: 06ec84543e9eb1c60b6d69c72ab0c5deaf5858ce
+  language: en
+  modified: '2018-10-21T06:44:15.945692Z'
+  title: 'Characteristic equation: real mixed roots'
+  title_id: characteristic-equation-real-mixed-roots
+  topics: []
+  translations: {}
 765d76b3-b013-481e-96c9-d642b3f3ceff:
   hexsha:
     private: 0c9a72caab9d4af56b852a15cd80fb7e35ce8a5d

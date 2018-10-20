@@ -39,6 +39,16 @@ b969ef61-49fc-4e97-bf55-6a393489a4e5:
   title_id: characteristic-equation-understanding
   topics: []
   translations: {}
+d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:
+  hexsha:
+    private: 5d16e2a64ff9ebdd7995f0e42d8a9113dab011fb
+    public: 42e6821a30120745cd34e2d773f45f5f51f6caca
+  language: en
+  modified: '2018-10-21T02:32:09.595711Z'
+  title: 'Characteristic equation: Complex roots'
+  title_id: characteristic-equation-complex-roots
+  topics: []
+  translations: {}
 f3df34b5-743f-4d00-a9ed-c792db6d1673:
   hexsha:
     private: a795ad6bb251e9f55711960f05b3b78a288cd773

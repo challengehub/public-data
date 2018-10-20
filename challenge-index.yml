@@ -29,6 +29,16 @@
   title_id: characteristic-equation-real-distinct-roots
   topics: []
   translations: {}
+3473bf8c-fe46-4221-a1c8-cbf49b2254ef:
+  hexsha:
+    private: b115ca8a7c30e6c794917ef36b2c4a621c4adf03
+    public: bea0b495308fb357017b084e51a3e48c9758bce0
+  language: en
+  modified: '2018-10-21T06:31:54.973771Z'
+  title: 'Characteristic equation: real negative roots'
+  title_id: characteristic-equation-real-negative-roots
+  topics: []
+  translations: {}
 765d76b3-b013-481e-96c9-d642b3f3ceff:
   hexsha:
     private: 0c9a72caab9d4af56b852a15cd80fb7e35ce8a5d

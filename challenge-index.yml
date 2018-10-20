@@ -49,6 +49,16 @@
   title_id: characteristic-equation-real-negative-roots
   topics: []
   translations: {}
+3ee6ea3f-bee0-4710-a246-edf6923b84db:
+  hexsha:
+    private: bf4648ea978b1c51f3bec53fe9da7cb72b30a5c8
+    public: bb0cc945ce338ad5f38ee82c415999282fa7c81e
+  language: en
+  modified: '2018-10-21T08:20:10.173604Z'
+  title: 'Characteristic equation: complex roots with non-zero B (I)'
+  title_id: characteristic-equation-complex-roots-with-non-zero-b-i
+  topics: []
+  translations: {}
 4ebe97ab-3a92-4aac-9d05-ad825b07de95:
   hexsha:
     private: e2cc00711b55ecbd7a269127e5b93c0770d58258

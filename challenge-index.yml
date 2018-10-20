@@ -31,12 +31,12 @@
   translations: {}
 252e4f0b-2972-48ac-8729-5e2e2ccfe2ac:
   hexsha:
-    private: 7bec1e59d1869291c0f721748d8dde605982dd1e
-    public: 22ea3156fe3829de383f6c87f19da5459db20ce9
+    private: 414e8bd934c136f9ce43e0ae09c55eb7b3eb8624
+    public: 5ebc31204175491c4b0bbefbdc9f38663f481ae0
   language: en
-  modified: '2018-10-21T02:29:40.82695Z'
-  title: 'Characteristic equation: Real, distinct roots'
-  title_id: characteristic-equation-real-distinct-roots
+  modified: '2018-10-21T07:28:15.421704Z'
+  title: 'Characteristic equation identification: Real, distinct roots'
+  title_id: characteristic-equation-identification-real-distinct-roots
   topics: []
   translations: {}
 3473bf8c-fe46-4221-a1c8-cbf49b2254ef:

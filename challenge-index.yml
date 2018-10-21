@@ -71,10 +71,10 @@
   translations: {}
 4ebe97ab-3a92-4aac-9d05-ad825b07de95:
   hexsha:
-    private: a4184ab16f84c5c159c2842a0c192c1948aded0f
-    public: d1c4fd255d88150dd98244743a7d62403fe89a14
+    private: 33ef487e619cce2e8aecb51647e329fcf658c776
+    public: 029522b8899597822991e0de4166dc0c1cb08824
   language: en
-  modified: '2018-10-21T09:54:06.715793Z'
+  modified: '2018-10-21T10:36:11.122229Z'
   title: 'Characteristic equation: mixed real roots'
   title_id: characteristic-equation-mixed-real-roots
   topics: []

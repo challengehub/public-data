@@ -7,7 +7,7 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: ba2a7b3b-0b51-4aae-beec-9c24a51a5f4e
 language: en
-modified: '2018-10-21T08:23:32.760347Z'
+modified: '2018-10-21T10:28:42.468191Z'
 title: 'Characteristic equation: complex roots with non-zero B (II)'
 title_id: characteristic-equation-complex-roots-with-non-zero-b-ii
 topics: []
@@ -26,7 +26,7 @@ need to find the other one.
 
 ## Resources
 
-- Book (http://tutorial.math.lamar.edu/getfile.aspx?file=B,1,N) from page 112.
+- Book (http://tutorial.math.lamar.edu/getfile.aspx?file=B,1,N) from page 113.
 - Text: http://www.its.caltech.edu/~roberto/FSRI/Lecture/fsri_math_2011_Aug_4.pdf
 
 ## Solution

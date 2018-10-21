@@ -39,6 +39,16 @@
   title_id: characteristic-equation-identification-real-distinct-roots
   topics: []
   translations: {}
+2e8d8182-aaf8-4ae1-99a3-6510723306ea:
+  hexsha:
+    private: 6b9fc3c8ab5bd46398d932a140c3685693d135b3
+    public: 72093144b9e4ab03012b671cbdd76444e20fd3a4
+  language: en
+  modified: '2018-10-21T09:01:48.341163Z'
+  title: Damping
+  title_id: damping
+  topics: []
+  translations: {}
 3473bf8c-fe46-4221-a1c8-cbf49b2254ef:
   hexsha:
     private: 54ec52bc4bb994cdab98c2318123f72438aecda3

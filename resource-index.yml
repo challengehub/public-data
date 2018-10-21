@@ -29,3 +29,13 @@ d7b461cd-a68b-4abf-a0a3-b50385d7a4c9:
   topics: []
   upload_time: '2018-10-21T08:14:27Z'
   uploader_id: github.NanoScaleDesign
+
+454b443e-2655-49d7-a6d3-abc33e27658d:
+  content_type: image/png
+  hexsha: 437bf34570ffec2e52add0480995a1b951eeb258
+  original_name: damping.png
+  title: Mixed graphs of damped and non-damped functions
+  title_id: mixed-graphs-of-damped-and-non-damped-functions-437bf3
+  topics: []
+  upload_time: '2018-10-21T08:57:45Z'
+  uploader_id: github.NanoScaleDesign

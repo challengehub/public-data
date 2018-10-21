@@ -61,10 +61,10 @@
   translations: {}
 3ee6ea3f-bee0-4710-a246-edf6923b84db:
   hexsha:
-    private: d9397ccd200c7c2bb2b9bffe2e3919c6d26f008c
-    public: 85748483715fa0622094f4663bcd17096e44a4fe
+    private: a10d1be7fcd449969e3e7b973dcd5c83e9662340
+    public: 2576a5ac319030e5d6d9411aeab26d5114c6aacd
   language: en
-  modified: '2018-10-21T10:27:25.348366Z'
+  modified: '2018-10-21T10:42:37.105445Z'
   title: 'Characteristic equation: complex roots with non-zero B (I)'
   title_id: characteristic-equation-complex-roots-with-non-zero-b-i
   topics: []

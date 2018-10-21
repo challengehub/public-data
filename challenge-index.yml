@@ -91,10 +91,10 @@
   translations: {}
 80c1cc16-4ece-4177-9759-8674981e2933:
   hexsha:
-    private: f421973e6b02390017d936046f2b2a78f8f86ce1
-    public: b213d11968788876ea8cd47969ef10061abd7674
+    private: afa17b53bc4b6fb60062b02f57c418ba0a85657d
+    public: d627f31dbcc9de4c4184c76be2eaebd778c2ed1b
   language: en
-  modified: '2018-10-21T10:25:57.547484Z'
+  modified: '2018-10-21T10:41:10.419841Z'
   title: 'Characteristic equation: complex roots with B=0'
   title_id: characteristic-equation-complex-roots-with-b0
   topics: []

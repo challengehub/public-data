@@ -121,12 +121,12 @@ ba2a7b3b-0b51-4aae-beec-9c24a51a5f4e:
   translations: {}
 d1d8b7b9-6a76-41a1-aab9-b7e3d677d39f:
   hexsha:
-    private: 9e68e182d78ad4a95348c89d2c44b91f778def2a
-    public: 12ce96186262ea7621deb164646aa078c2e2e818
+    private: 32441d88ea1bcb7ddbb01ef3b035e68900a199bb
+    public: eba0461331f928f2e8ee014a6801c959540e3a2f
   language: en
-  modified: '2018-10-21T10:38:37.375779Z'
-  title: 'Characteristic equation: equal roots'
-  title_id: characteristic-equation-equal-roots
+  modified: '2018-10-22T20:14:12.061211Z'
+  title: 'Characteristic equation: With equal roots'
+  title_id: characteristic-equation-with-equal-roots
   topics: []
   translations: {}
 d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:

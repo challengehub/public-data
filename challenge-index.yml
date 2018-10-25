@@ -159,6 +159,16 @@ ad274394-954f-4710-8970-5458b94afa4e:
   title_id: characteristic-equation-exersizes-3
   topics: []
   translations: {}
+b4a29e3d-b428-46eb-add6-e1c73b17286a:
+  hexsha:
+    private: af091152a87f1157a262d35e72b943932bafa936
+    public: 384d2131a6fd50d68357950b79c7645262a5998a
+  language: en
+  modified: '2018-10-26T03:49:33.795172Z'
+  title: 'Non-homogeneous equations: Method of undetermined coefficients (4)'
+  title_id: non-homogeneous-equations-method-of-undetermined-coefficients-4
+  topics: []
+  translations: {}
 b969ef61-49fc-4e97-bf55-6a393489a4e5:
   hexsha:
     private: 2846f198f928480ffd4ae6f600da0edd85de5a2e

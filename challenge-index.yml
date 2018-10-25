@@ -29,6 +29,16 @@
   title_id: characteristic-equation-real-positive-roots
   topics: []
   translations: {}
+1d51e481-8d91-4ed5-82e5-3f44d044837e:
+  hexsha:
+    private: 3e290d1abd7e9e5d8930121b7c467aa3032195a6
+    public: 8ee6eafdf851f83cc3bea36c730c249c7cb678bf
+  language: en
+  modified: '2018-10-26T03:16:29.332812Z'
+  title: Damping and 2nd-order differential equations
+  title_id: damping-and-2nd-order-differential-equations
+  topics: []
+  translations: {}
 252e4f0b-2972-48ac-8729-5e2e2ccfe2ac:
   hexsha:
     private: 414e8bd934c136f9ce43e0ae09c55eb7b3eb8624

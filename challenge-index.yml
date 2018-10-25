@@ -109,6 +109,16 @@
   title_id: hookes-law
   topics: []
   translations: {}
+76da5697-3251-4d5e-8382-e35857ed724a:
+  hexsha:
+    private: 54d9b78112f2683edf8600d6a9a50b673d686f47
+    public: 1dd5e393be8c03cc32a935ee43bcbcfd90192d66
+  language: en
+  modified: '2018-10-26T03:24:05.268843Z'
+  title: 'Characteristic equation: exersizes (2)'
+  title_id: characteristic-equation-exersizes-2
+  topics: []
+  translations: {}
 80c1cc16-4ece-4177-9759-8674981e2933:
   hexsha:
     private: afa17b53bc4b6fb60062b02f57c418ba0a85657d

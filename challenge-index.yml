@@ -89,6 +89,16 @@
   title_id: characteristic-equation-complex-roots-with-non-zero-b-i
   topics: []
   translations: {}
+4cd95bbf-cca3-4a90-ad30-136ff463c37d:
+  hexsha:
+    private: 07c2e22a4ecdd7bd008f9c43d5726866f733522d
+    public: f74706d063c39b56946e8eea5005c024c779df26
+  language: en
+  modified: '2018-10-26T03:30:27.876834Z'
+  title: 'Non-homogeneous equations: Method of undetermined coefficients (2)'
+  title_id: non-homogeneous-equations-method-of-undetermined-coefficients-2
+  topics: []
+  translations: {}
 4ebe97ab-3a92-4aac-9d05-ad825b07de95:
   hexsha:
     private: 33ef487e619cce2e8aecb51647e329fcf658c776

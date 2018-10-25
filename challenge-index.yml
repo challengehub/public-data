@@ -129,6 +129,16 @@
   title_id: characteristic-equation-complex-roots-with-b0
   topics: []
   translations: {}
+ad274394-954f-4710-8970-5458b94afa4e:
+  hexsha:
+    private: a4ec2e829413c5c0a79400871c55c10248d45765
+    public: 72b34b73adb2f8f16bbba6935b5d18f6ffa453cd
+  language: en
+  modified: '2018-10-26T03:25:45.788807Z'
+  title: 'Characteristic equation: exersizes (3)'
+  title_id: characteristic-equation-exersizes-3
+  topics: []
+  translations: {}
 b969ef61-49fc-4e97-bf55-6a393489a4e5:
   hexsha:
     private: 2846f198f928480ffd4ae6f600da0edd85de5a2e

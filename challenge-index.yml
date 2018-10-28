@@ -11,10 +11,10 @@
   translations: {}
 09aedea8-24dd-444c-a67f-b59993e6d0f8:
   hexsha:
-    private: 2a5b56320816ba13d155c929420ff0eb52c3208b
-    public: f026885f9fe95a75583ab8ccb5547137315adc0f
+    private: ebb624e5192cf6252e4da98ffec126bf383ace24
+    public: 16aa9e9b2e531711efdfd06258003005370a1103
   language: en
-  modified: '2018-10-20T05:52:13.721968Z'
+  modified: '2018-10-28T19:43:41.48311Z'
   title: Trigonometric functions in exponential form
   title_id: trigonometric-functions-in-exponential-form
   topics: []

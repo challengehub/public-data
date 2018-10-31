@@ -109,6 +109,16 @@
   title_id: characteristic-equation-mixed-real-roots
   topics: []
   translations: {}
+679d28b6-b316-4e4b-9c1a-840d0f1b8905:
+  hexsha:
+    private: a90884a107a2fe140cae7447ee98ceb765758e98
+    public: 5b49597af0d7ff19fa65bcd9bdf73b1985d44c62
+  language: en
+  modified: '2018-11-01T01:47:28.169312Z'
+  title: Test 006
+  title_id: test-006
+  topics: []
+  translations: {}
 765d76b3-b013-481e-96c9-d642b3f3ceff:
   hexsha:
     private: 0c9a72caab9d4af56b852a15cd80fb7e35ce8a5d

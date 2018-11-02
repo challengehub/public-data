@@ -89,6 +89,16 @@
   title_id: characteristic-equation-real-negative-roots
   topics: []
   translations: {}
+36e77427-f07a-4790-a1b6-0bf9c151774f:
+  hexsha:
+    private: a4ba970f8a836f8cef561ccc4b629768589c7f3d
+    public: f83855391760f46a9f23ceb1dfc883bdbad56447
+  language: en
+  modified: '2018-11-02T21:25:40.006469Z'
+  title: Challenge 4.16 part I
+  title_id: challenge-416-part-i
+  topics: []
+  translations: {}
 3ee6ea3f-bee0-4710-a246-edf6923b84db:
   hexsha:
     private: a10d1be7fcd449969e3e7b973dcd5c83e9662340

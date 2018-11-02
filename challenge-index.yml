@@ -179,6 +179,16 @@
   title_id: non-homogeneous-equations-method-of-undetermined-coefficients-1
   topics: []
   translations: {}
+aceaf9ac-cb3e-4bee-ab01-764112cd80d2:
+  hexsha:
+    private: 912cb2944dc251a5c3143fbd599382a9229a5e50
+    public: 59ef0232c50da0d1bde2eb0a50251b01833eade1
+  language: en
+  modified: '2018-11-02T21:29:46.229393Z'
+  title: Method of undetermined coefficients II - part 2
+  title_id: method-of-undetermined-coefficients-ii-part-2
+  topics: []
+  translations: {}
 ad274394-954f-4710-8970-5458b94afa4e:
   hexsha:
     private: a4ec2e829413c5c0a79400871c55c10248d45765

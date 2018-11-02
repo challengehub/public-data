@@ -91,12 +91,12 @@
   translations: {}
 36e77427-f07a-4790-a1b6-0bf9c151774f:
   hexsha:
-    private: a4ba970f8a836f8cef561ccc4b629768589c7f3d
-    public: f83855391760f46a9f23ceb1dfc883bdbad56447
+    private: f52ba4b944f533c694e5827fcbd11540a034d21d
+    public: c965e3fb485eb58699457cc89c196197e1ace8ce
   language: en
-  modified: '2018-11-02T21:25:40.006469Z'
-  title: Challenge 4.16 part I
-  title_id: challenge-416-part-i
+  modified: '2018-11-02T21:27:39.516274Z'
+  title: Method of undetermined coefficients II - 1
+  title_id: method-of-undetermined-coefficients-ii-1
   topics: []
   translations: {}
 3ee6ea3f-bee0-4710-a246-edf6923b84db:

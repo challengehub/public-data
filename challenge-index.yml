@@ -129,6 +129,16 @@
   title_id: characteristic-equation-mixed-real-roots
   topics: []
   translations: {}
+65cc3492-2545-4f68-9d25-9758a04fe9a7:
+  hexsha:
+    private: 4b757f7969edcbc3550af13d16c97e7f4cf8d241
+    public: 6f22aeddbbed1892c2d6cd0dfaf5e736240ccbd6
+  language: en
+  modified: '2018-11-04T19:44:23.706321Z'
+  title: 'Method of undetermined coefficients: Determining the ODE I'
+  title_id: method-of-undetermined-coefficients-determining-the-ode-i
+  topics: []
+  translations: {}
 679d28b6-b316-4e4b-9c1a-840d0f1b8905:
   hexsha:
     private: a90884a107a2fe140cae7447ee98ceb765758e98

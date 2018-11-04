@@ -179,6 +179,16 @@
   title_id: characteristic-equation-complex-roots-with-b0
   topics: []
   translations: {}
+82587093-0f57-4142-a64c-bf81f73434fc:
+  hexsha:
+    private: 862a90d072dd7728c8507e5b3617f2b743a4cdd7
+    public: c8c9f10a21b99f167a82ea6d78cbf9a4bb65315d
+  language: en
+  modified: '2018-11-04T19:50:57.870541Z'
+  title: 'Method of undetermined coefficients: Determining the ODE II'
+  title_id: method-of-undetermined-coefficients-determining-the-ode-ii
+  topics: []
+  translations: {}
 855c7fdc-61bc-4ae8-8ced-ddbf3516a4db:
   hexsha:
     private: ece65436eb45cf87f78e758d4a943a8d6646c730

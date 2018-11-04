@@ -199,6 +199,16 @@
   title_id: method-of-undetermined-coefficients-ii-part-3
   topics: []
   translations: {}
+a767ccfa-0821-47fb-a7bf-002272fcc65a:
+  hexsha:
+    private: 89e8292f31bbfd325cd89e08ad9e852252d1bf83
+    public: 71563fbcaf35fce284c1ecbe2545aad41f807272
+  language: en
+  modified: '2018-11-04T19:24:44.396157Z'
+  title: Method of undetermined coefficients II - part 6
+  title_id: method-of-undetermined-coefficients-ii-part-6
+  topics: []
+  translations: {}
 aceaf9ac-cb3e-4bee-ab01-764112cd80d2:
   hexsha:
     private: 912cb2944dc251a5c3143fbd599382a9229a5e50

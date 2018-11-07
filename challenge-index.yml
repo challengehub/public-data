@@ -109,6 +109,16 @@
   title_id: characteristic-equation-complex-roots-with-non-zero-b-i
   topics: []
   translations: {}
+4148748f-d8fe-4f62-84a6-ce43ba3c96bd:
+  hexsha:
+    private: 0288165092b7990c66a49eefe466243efd79bded
+    public: 0858603e841375beb0bd772f2aaafb636ca5b733
+  language: en
+  modified: '2018-11-08T08:01:37.896638Z'
+  title: Beating equation
+  title_id: beating-equation
+  topics: []
+  translations: {}
 4cd95bbf-cca3-4a90-ad30-136ff463c37d:
   hexsha:
     private: 07c2e22a4ecdd7bd008f9c43d5726866f733522d

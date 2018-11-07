@@ -151,10 +151,10 @@
   translations: {}
 765d76b3-b013-481e-96c9-d642b3f3ceff:
   hexsha:
-    private: 0c9a72caab9d4af56b852a15cd80fb7e35ce8a5d
-    public: c43b4c4e8ce4c761a726f26c6fe5a96a18e9399f
+    private: 1dd6654e89ed681d7ac3beabe3475a2e0a6ad5dc
+    public: 3e071b4939d7cd629e17217ecec16dce058ad373
   language: en
-  modified: '1858-11-17T00:00:00Z'
+  modified: '2018-11-08T00:12:42.099039Z'
   title: Hooke's law
   title_id: hookes-law
   topics: []

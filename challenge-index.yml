@@ -329,3 +329,13 @@ f3df34b5-743f-4d00-a9ed-c792db6d1673:
   title_id: test-6
   topics: []
   translations: {}
+fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
+  hexsha:
+    private: b6376078317e441fc196068642639b0a8332d31c
+    public: f376ca7e771c2f6c28437e74ca5aca11eadb56c4
+  language: en
+  modified: '2018-11-08T07:44:37.711375Z'
+  title: Free vibration of a spring (review)
+  title_id: free-vibration-of-a-spring-review
+  topics: []
+  translations: {}

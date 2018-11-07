@@ -349,6 +349,16 @@ f3df34b5-743f-4d00-a9ed-c792db6d1673:
   title_id: test-6
   topics: []
   translations: {}
+f5748ada-0a79-4ae1-8f96-388d6133f7ca:
+  hexsha:
+    private: 8f14e586b0d1e773e15fd4cf0ff55b2a32a2f1e6
+    public: c8309b411abb984a54c0344e010be966fa33574b
+  language: en
+  modified: '2018-11-08T08:14:12.918493Z'
+  title: Beating explanation
+  title_id: beating-explanation
+  topics: []
+  translations: {}
 f5c97038-c150-4774-925e-04a803deb5a6:
   hexsha:
     private: 6a9169a39a33abeee4b8301b714e0b8f51891d0f

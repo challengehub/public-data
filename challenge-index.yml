@@ -91,12 +91,12 @@
   translations: {}
 36e77427-f07a-4790-a1b6-0bf9c151774f:
   hexsha:
-    private: f52ba4b944f533c694e5827fcbd11540a034d21d
-    public: c965e3fb485eb58699457cc89c196197e1ace8ce
+    private: 37c113d524f98bd90243246b476f56167f9d5412
+    public: fe61d0af37fbd5ea4bc95737efe260b3042dc5e7
   language: en
-  modified: '2018-11-02T21:27:39.516274Z'
-  title: Method of undetermined coefficients II - 1
-  title_id: method-of-undetermined-coefficients-ii-1
+  modified: '2018-11-08T00:10:14.607239Z'
+  title: Method of undetermined coefficients II - part 1
+  title_id: method-of-undetermined-coefficients-ii-part-1
   topics: []
   translations: {}
 3ee6ea3f-bee0-4710-a246-edf6923b84db:

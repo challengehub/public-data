@@ -181,10 +181,10 @@
   translations: {}
 82587093-0f57-4142-a64c-bf81f73434fc:
   hexsha:
-    private: 862a90d072dd7728c8507e5b3617f2b743a4cdd7
-    public: c8c9f10a21b99f167a82ea6d78cbf9a4bb65315d
+    private: 383f6f7e3725e3143aced82404165749d83c91d7
+    public: 2c958273251bf81c86e54cd540e879ca8232fe3a
   language: en
-  modified: '2018-11-04T19:50:57.870541Z'
+  modified: '2018-11-07T23:38:19.240031Z'
   title: 'Method of undetermined coefficients: Determining the ODE II'
   title_id: method-of-undetermined-coefficients-determining-the-ode-ii
   topics: []

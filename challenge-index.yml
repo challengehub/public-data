@@ -201,10 +201,10 @@
   translations: {}
 858c648c-95fc-449c-a09f-33dfa0ce06b1:
   hexsha:
-    private: b25ec6b2eaa4bab83a3f8f146e8d4c4c78d118b1
-    public: 20287a5ac426a2f337cb5091a7406778537c2242
+    private: 65a16b16fdadd6d8b0d594f0ec9a35e56d7990c1
+    public: b72e1c65ef0cbbbd2b9587699f7f4894deab3ddf
   language: en
-  modified: '2018-11-04T19:17:58.020094Z'
+  modified: '2018-11-07T23:59:09.956633Z'
   title: Method of undetermined coefficients II - part 4
   title_id: method-of-undetermined-coefficients-ii-part-4
   topics: []

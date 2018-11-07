@@ -189,6 +189,16 @@
   title_id: method-of-undetermined-coefficients-determining-the-ode-ii
   topics: []
   translations: {}
+84e5e67a-7b46-45a4-9706-f2e5295eb2b6:
+  hexsha:
+    private: 760e700d708ef2a1f42ebdaeee73284e2a780070
+    public: 048895ac0aecbbcafbe7cc34e09ac1cc82c2bce1
+  language: en
+  modified: '2018-11-08T07:51:36.585681Z'
+  title: Phase-shift
+  title_id: phase-shift
+  topics: []
+  translations: {}
 855c7fdc-61bc-4ae8-8ced-ddbf3516a4db:
   hexsha:
     private: ece65436eb45cf87f78e758d4a943a8d6646c730

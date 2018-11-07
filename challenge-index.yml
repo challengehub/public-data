@@ -109,6 +109,16 @@
   title_id: characteristic-equation-complex-roots-with-non-zero-b-i
   topics: []
   translations: {}
+3f1577f0-4485-4627-abe5-a9fe45b0e338:
+  hexsha:
+    private: c9d4f1309c2fa1f34971176fb5faac289757ecad
+    public: 4105e2f8f3a4f95b4fa04b9025030c68c5e813e5
+  language: en
+  modified: '2018-11-08T08:17:53.182786Z'
+  title: Resonance
+  title_id: resonance
+  topics: []
+  translations: {}
 4148748f-d8fe-4f62-84a6-ce43ba3c96bd:
   hexsha:
     private: 0288165092b7990c66a49eefe466243efd79bded

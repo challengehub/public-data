@@ -339,6 +339,16 @@ f3df34b5-743f-4d00-a9ed-c792db6d1673:
   title_id: test-6
   topics: []
   translations: {}
+f5c97038-c150-4774-925e-04a803deb5a6:
+  hexsha:
+    private: 6a9169a39a33abeee4b8301b714e0b8f51891d0f
+    public: 6e53e52f3056bbc2b7152c01df3c5e929ba7f830
+  language: en
+  modified: '2018-11-08T07:55:31.670267Z'
+  title: Derivation of a periodically-forced system
+  title_id: derivation-of-a-periodically-forced-system
+  topics: []
+  translations: {}
 fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
   hexsha:
     private: b6376078317e441fc196068642639b0a8332d31c

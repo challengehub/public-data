@@ -111,10 +111,10 @@
   translations: {}
 3f1577f0-4485-4627-abe5-a9fe45b0e338:
   hexsha:
-    private: c9d4f1309c2fa1f34971176fb5faac289757ecad
-    public: 4105e2f8f3a4f95b4fa04b9025030c68c5e813e5
+    private: a7920cf76a937533a932f20113774c13cd07a011
+    public: d6d8d946e96d57551829f32a0fe1903b135017ca
   language: en
-  modified: '2018-11-08T08:17:53.182786Z'
+  modified: '2018-11-11T23:56:47.966327Z'
   title: Resonance
   title_id: resonance
   topics: []

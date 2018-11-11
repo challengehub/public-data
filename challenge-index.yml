@@ -121,10 +121,10 @@
   translations: {}
 4148748f-d8fe-4f62-84a6-ce43ba3c96bd:
   hexsha:
-    private: 0288165092b7990c66a49eefe466243efd79bded
-    public: 0858603e841375beb0bd772f2aaafb636ca5b733
+    private: 14abe53b39f03d8f113ec1a59113eff404586841
+    public: 21789aed3e7f3deff0a96f418cc4994902e836c2
   language: en
-  modified: '2018-11-08T08:01:37.896638Z'
+  modified: '2018-11-12T00:16:31.420939Z'
   title: Beating equation
   title_id: beating-equation
   topics: []

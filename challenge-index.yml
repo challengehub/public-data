@@ -349,6 +349,16 @@ ea22fb9b-f151-42a2-ace2-81546dce5705:
   title_id: non-homogeneous-equations-method-of-undetermined-coefficients-3
   topics: []
   translations: {}
+f1ac917c-551c-4196-b5ba-82eb64b91a8d:
+  hexsha:
+    private: accde0da853b1fccbe52d77ac46e3b923bdcdc92
+    public: 6c85cbb97a37c3fb1ef198490186fd86791fd53e
+  language: en
+  modified: '2018-11-16T00:16:10.147468Z'
+  title: Laplace transform of `$ \mathcal{L}{1} $`
+  title_id: laplace-transform-of-mathcall1
+  topics: []
+  translations: {}
 f3df34b5-743f-4d00-a9ed-c792db6d1673:
   hexsha:
     private: a795ad6bb251e9f55711960f05b3b78a288cd773

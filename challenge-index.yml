@@ -99,6 +99,16 @@
   title_id: method-of-undetermined-coefficients-ii-part-1
   topics: []
   translations: {}
+3e0f96e1-d3aa-4c49-bbec-5da3b64951c7:
+  hexsha:
+    private: f5d95a69982765b284d16b606bf2288793ef77c9
+    public: 1149a78a50973f32e6e58ec1c84ecc86b73d57e7
+  language: en
+  modified: '2018-11-16T01:30:57.042535Z'
+  title: Laplace transform of (a t)
+  title_id: laplace-transform-of-a-t
+  topics: []
+  translations: {}
 3ee6ea3f-bee0-4710-a246-edf6923b84db:
   hexsha:
     private: a10d1be7fcd449969e3e7b973dcd5c83e9662340

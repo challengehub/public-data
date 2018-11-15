@@ -101,10 +101,10 @@
   translations: {}
 3e0f96e1-d3aa-4c49-bbec-5da3b64951c7:
   hexsha:
-    private: f5d95a69982765b284d16b606bf2288793ef77c9
-    public: 1149a78a50973f32e6e58ec1c84ecc86b73d57e7
+    private: 24ae3e7bebdc28cff466ba1a709d769edfe37e09
+    public: dab16576ce3f21da22740cdcddb7070dd1600ae7
   language: en
-  modified: '2018-11-16T01:30:57.042535Z'
+  modified: '2018-11-16T01:37:42.740688Z'
   title: Laplace transform of (a t)
   title_id: laplace-transform-of-a-t
   topics: []

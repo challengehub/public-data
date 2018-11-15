@@ -351,10 +351,10 @@ ea22fb9b-f151-42a2-ace2-81546dce5705:
   translations: {}
 f1ac917c-551c-4196-b5ba-82eb64b91a8d:
   hexsha:
-    private: f60da3c7747e488c870a533b20bde7a8693fecd1
-    public: a7845be11c1df8ab50901879163b5c3cb1ee324c
+    private: 2e84992b872bf959e3f56072e663f8c7c24f88ff
+    public: b266c71121f05d746aac7999f10ea3898734b716
   language: en
-  modified: '2018-11-16T00:16:44.850129Z'
+  modified: '2018-11-16T00:18:28.181569Z'
   title: Laplace transform of 1
   title_id: laplace-transform-of-1
   topics: []

@@ -249,6 +249,16 @@
   title_id: method-of-undetermined-coefficients-ii-part-4
   topics: []
   translations: {}
+8b2c94e5-c9e7-4296-83db-bb0aec0f9cb0:
+  hexsha:
+    private: daef85520115f4d3d3d40e432814307d200ebb6a
+    public: 75cf1c81b5abdb45eeaa0c32e83636e463f9df72
+  language: en
+  modified: '2018-11-16T01:45:41.424016Z'
+  title: 'Shifting Laplace transforms: e^(3t) cosh(5t)'
+  title_id: shifting-laplace-transforms-e3t-cosh5t
+  topics: []
+  translations: {}
 8f29022d-ebf7-4d81-bf58-2159a627ed01:
   hexsha:
     private: a2b666073043da9a01850c93dd2e01724b52a75b

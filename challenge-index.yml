@@ -339,6 +339,16 @@ ba2a7b3b-0b51-4aae-beec-9c24a51a5f4e:
   title_id: characteristic-equation-complex-roots-with-non-zero-b-ii
   topics: []
   translations: {}
+cb151613-d7d4-40b0-8c0a-5f848645b490:
+  hexsha:
+    private: ea47d885c003c3298ef607f26cc206aef3c0c673
+    public: e32bcd5591d1e8e8d407b69adedc0c314fcbbec8
+  language: en
+  modified: '2018-11-16T01:52:39.142609Z'
+  title: 'Shifting Laplace transforms: identifying f(t)'
+  title_id: shifting-laplace-transforms-identifying-ft
+  topics: []
+  translations: {}
 d09bbeae-78f8-48ee-bab7-923df8d14481:
   hexsha:
     private: 449db90f88187fab704839967a145a260f24085b

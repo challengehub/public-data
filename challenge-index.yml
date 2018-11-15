@@ -261,10 +261,10 @@ a767ccfa-0821-47fb-a7bf-002272fcc65a:
   translations: {}
 a981641d-ba54-4e90-a3ba-672807935d17:
   hexsha:
-    private: 2d9ae3c0ed2160384a7f422f523e89af1763028f
-    public: 83844263110d726e72efbe53c5a69e16a9574e2d
+    private: d9c9762965ad09f7a592eaff9e843a7126d8e792
+    public: 50bdf303a0c4d21d0aaedbc8ead42c1afdb707b6
   language: en
-  modified: '2018-11-16T00:27:55.555519Z'
+  modified: '2018-11-16T00:28:34.370843Z'
   title: Laplace transform of cos(at)
   title_id: laplace-transform-of-cosat
   topics: []

@@ -351,10 +351,10 @@ d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:
   translations: {}
 ea1da35f-98a6-41b3-83a7-14df85a62212:
   hexsha:
-    private: 4fe69020dba21a80f93f05edb28fdadd6b897482
-    public: 03c05e820f91eb845773e0228feffe46a6722e61
+    private: 63a62eafba66040b86e9c01f4eddcb1563516674
+    public: b1808b0ef57239cce95dc8f37a14a2c5a7d5e141
   language: en
-  modified: '2018-11-16T01:13:50.592094Z'
+  modified: '2018-11-16T01:14:46.974999Z'
   title: Laplace transform and derivatives
   title_id: laplace-transform-and-derivatives
   topics: []

@@ -351,12 +351,12 @@ ea22fb9b-f151-42a2-ace2-81546dce5705:
   translations: {}
 f1ac917c-551c-4196-b5ba-82eb64b91a8d:
   hexsha:
-    private: accde0da853b1fccbe52d77ac46e3b923bdcdc92
-    public: 6c85cbb97a37c3fb1ef198490186fd86791fd53e
+    private: f60da3c7747e488c870a533b20bde7a8693fecd1
+    public: a7845be11c1df8ab50901879163b5c3cb1ee324c
   language: en
-  modified: '2018-11-16T00:16:10.147468Z'
-  title: Laplace transform of `$ \mathcal{L}{1} $`
-  title_id: laplace-transform-of-mathcall1
+  modified: '2018-11-16T00:16:44.850129Z'
+  title: Laplace transform of 1
+  title_id: laplace-transform-of-1
   topics: []
   translations: {}
 f3df34b5-743f-4d00-a9ed-c792db6d1673:

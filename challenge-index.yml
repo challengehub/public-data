@@ -21,10 +21,10 @@
   translations: {}
 8e7e4257-f031-4b58-8f52-a965d591fcb4:
   hexsha:
-    private: d104db20714c113d5b071ddf9791292213552da7
-    public: 523cfc5e0727f0b2f74cec94bbf423f5a124999e
+    private: af86242b0ca0f66449f57ed9f85c57d628c7f6c6
+    public: 67a55b44cb8aaa897a5b6eefefab10411391ded7
   language: en
-  modified: '2018-11-08T10:53:56.55323Z'
+  modified: '2018-11-17T05:12:16.621725Z'
   title: Simple Division
   title_id: simple-division
   topics: []

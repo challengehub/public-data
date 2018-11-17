@@ -399,6 +399,16 @@ d1d8b7b9-6a76-41a1-aab9-b7e3d677d39f:
   title_id: characteristic-equation-with-equal-roots
   topics: []
   translations: {}
+d5fa7dc8-e1d6-4c6b-b740-ba35ee70785f:
+  hexsha:
+    private: 8e5b7964d1bf39af47da5b03c4271aa330e40b61
+    public: a929cb33ca86281439110efa65772cbbfe0c6891
+  language: en
+  modified: '2018-11-17T12:22:54.814127Z'
+  title: 'Laplace transform of step functions: A 1-second pulse function'
+  title_id: laplace-transform-of-step-functions-a-1-second-pulse-function
+  topics: []
+  translations: {}
 d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:
   hexsha:
     private: 2ab3d654d0a233eaa1b7878fb8bb496b63f47e6f

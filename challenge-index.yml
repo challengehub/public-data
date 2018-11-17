@@ -189,6 +189,16 @@
   title_id: characteristic-equation-mixed-real-roots
   topics: []
   translations: {}
+5ef934f8-0c6c-4559-99b1-6c6ac8c81e4e:
+  hexsha:
+    private: 5020c9694e1ad976b88542fa9af4c78a83f0e29b
+    public: e02d6c826f77b45332fd691a5811e69930ed4f3b
+  language: en
+  modified: '2018-11-17T12:29:50.770072Z'
+  title: "Laplace transform of step functions: L{U_\u03C0(t)cos(t\u2212\u03C0)}"
+  title_id: "laplace-transform-of-step-functions-lu\u03C0tcost\u03C0"
+  topics: []
+  translations: {}
 65cc3492-2545-4f68-9d25-9758a04fe9a7:
   hexsha:
     private: 0602f4a00b5b2e9ffa2d0dbfb1f379b2390b82e3

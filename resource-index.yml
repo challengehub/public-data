@@ -39,3 +39,13 @@ d7b461cd-a68b-4abf-a0a3-b50385d7a4c9:
   topics: []
   upload_time: '2018-10-21T08:57:45Z'
   uploader_id: github.NanoScaleDesign
+
+14bbdddd-0855-4617-9367-5c8289aaadee:
+  content_type: image/png
+  hexsha: 1057d86c878819c25aa3b8de17770078fea68256
+  original_name: pulse.png
+  title: Pulse from t=1 to t=2
+  title_id: pulse-from-t1-to-t2-1057d8
+  topics: []
+  upload_time: '2018-11-17T12:19:38Z'
+  uploader_id: github.NanoScaleDesign

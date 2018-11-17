@@ -19,6 +19,16 @@
   title_id: trigonometric-functions-in-exponential-form
   topics: []
   translations: {}
+0d915f52-08f0-4147-b067-05a0437e9f36:
+  hexsha:
+    private: 8f8f9fa6fc9c02b41746fa41bf2a7d63c99ea338
+    public: 38cee0f1848ebce01b71fa1880ad1ee7aa24b67e
+  language: en
+  modified: '2018-11-17T12:02:57.378622Z'
+  title: 'Laplace transform of step functions: U_0'
+  title_id: laplace-transform-of-step-functions-u0
+  topics: []
+  translations: {}
 101dc2db-3300-4fa8-ad2a-3cdfcbe5ccde:
   hexsha:
     private: 39518c191b8ad0a2e5436b8ad77a5bbc111fb6f6

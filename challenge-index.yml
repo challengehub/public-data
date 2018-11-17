@@ -159,6 +159,16 @@
   title_id: beating-equation
   topics: []
   translations: {}
+4a57e0ee-5c01-4a16-ab89-174c45b27ddd:
+  hexsha:
+    private: 781cdab3ccee123e97ed54bb5ffa486487e798b9
+    public: 835fb09a6fa3ea09422e62dfd13258c022a988ac
+  language: en
+  modified: '2018-11-17T12:12:13.844672Z'
+  title: 'Laplace transform of step functions: U_c'
+  title_id: laplace-transform-of-step-functions-uc
+  topics: []
+  translations: {}
 4cd95bbf-cca3-4a90-ad30-136ff463c37d:
   hexsha:
     private: 07c2e22a4ecdd7bd008f9c43d5726866f733522d

@@ -121,10 +121,10 @@
   translations: {}
 383d28d9-1c6c-45b2-baa3-fed5d3fe8071:
   hexsha:
-    private: 7ee2092e61883a45a15ef215b49b914e2cc2644d
-    public: cae3822463956842e755c1ec9308083f98770db4
+    private: b3ff83c724a69cbf5f0e609ea0bfbbaa0932ff4c
+    public: 95951873dc3aef2adc8bdad665048ca583c3bc97
   language: en
-  modified: '2018-11-18T19:30:55.859178Z'
+  modified: '2018-11-18T20:10:51.434432Z'
   title: 'Reverse Laplace transform: 1/(s-1)^2'
   title_id: reverse-laplace-transform-1s-12
   topics: []

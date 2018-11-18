@@ -439,6 +439,16 @@ d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:
   title_id: characteristic-equation-identification-complex-roots
   topics: []
   translations: {}
+d8d5e07f-816d-4adb-92df-19e10e8be4b9:
+  hexsha:
+    private: a51b69e9f055bac260faf619bd66d3861555da2b
+    public: 8a66e0ca24fcbcb3deb13208dc51c0ba0b40ee58
+  language: en
+  modified: '2018-11-18T19:40:10.38229Z'
+  title: 'Reverse Laplace transform: 1/s^2 - 1/s'
+  title_id: reverse-laplace-transform-1s2-1s
+  topics: []
+  translations: {}
 ea1da35f-98a6-41b3-83a7-14df85a62212:
   hexsha:
     private: b8a482056f910511724104429e3f29e38cb079af

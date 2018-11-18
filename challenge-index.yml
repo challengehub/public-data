@@ -421,10 +421,10 @@ c7132fd6-fb16-4db4-8118-b1bc5f7ec5e9:
   translations: {}
 cb151613-d7d4-40b0-8c0a-5f848645b490:
   hexsha:
-    private: ea47d885c003c3298ef607f26cc206aef3c0c673
-    public: e32bcd5591d1e8e8d407b69adedc0c314fcbbec8
+    private: b093a24bdd2d362bae5b99fb6e759c0b752c6cc1
+    public: 83620b0dd22b2fb1e270bf1c07fa3a68ccda7e58
   language: en
-  modified: '2018-11-16T01:52:39.142609Z'
+  modified: '2018-11-18T20:23:23.609224Z'
   title: 'Shifting Laplace transforms: identifying f(t)'
   title_id: shifting-laplace-transforms-identifying-ft
   topics: []

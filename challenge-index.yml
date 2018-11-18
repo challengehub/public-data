@@ -119,6 +119,16 @@
   title_id: method-of-undetermined-coefficients-ii-part-1
   topics: []
   translations: {}
+383d28d9-1c6c-45b2-baa3-fed5d3fe8071:
+  hexsha:
+    private: 7ee2092e61883a45a15ef215b49b914e2cc2644d
+    public: cae3822463956842e755c1ec9308083f98770db4
+  language: en
+  modified: '2018-11-18T19:30:55.859178Z'
+  title: 'Reverse Laplace transform: 1/(s-1)^2'
+  title_id: reverse-laplace-transform-1s-12
+  topics: []
+  translations: {}
 3e0f96e1-d3aa-4c49-bbec-5da3b64951c7:
   hexsha:
     private: 24ae3e7bebdc28cff466ba1a709d769edfe37e09

@@ -319,6 +319,16 @@
   title_id: method-of-undetermined-coefficients-ii-part-3
   topics: []
   translations: {}
+91ce0b79-300c-4536-ae8b-f5a4921153d1:
+  hexsha:
+    private: 35c2e3642b2b0114595313da05e3a38221c9a6bc
+    public: 7c7e771f389278dc9b87d7b2da1b45b55f818b8b
+  language: en
+  modified: '2018-11-18T19:46:08.445834Z'
+  title: 'Reverse Laplace transform: (5-5s)/s^2'
+  title_id: reverse-laplace-transform-5-5ss2
+  topics: []
+  translations: {}
 a767ccfa-0821-47fb-a7bf-002272fcc65a:
   hexsha:
     private: 7fe1b3d64010f318a2caac6d37eef36223a0fe65

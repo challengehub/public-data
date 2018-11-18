@@ -521,10 +521,10 @@ f3df34b5-743f-4d00-a9ed-c792db6d1673:
   translations: {}
 f5748ada-0a79-4ae1-8f96-388d6133f7ca:
   hexsha:
-    private: 9993dfdd6b65a78f33ed40d4203774d30ad46e33
-    public: e059a1083146d623263bcb828e420fd1290747c5
+    private: 6de6597784544cf370954150b296c16008449767
+    public: 86d15126c9399d2f2fd096ff1cf6c9b277dcb617
   language: en
-  modified: '2018-11-08T08:15:00.188009Z'
+  modified: '2018-11-18T23:22:32.902619Z'
   title: Beating explanation
   title_id: beating-explanation
   topics: []

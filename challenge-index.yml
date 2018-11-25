@@ -151,10 +151,10 @@
   translations: {}
 3f1577f0-4485-4627-abe5-a9fe45b0e338:
   hexsha:
-    private: a7920cf76a937533a932f20113774c13cd07a011
-    public: d6d8d946e96d57551829f32a0fe1903b135017ca
+    private: 0ef81cdb52938423f55956b290b2b4ac8f2070fe
+    public: cf5a24e19889d2f75f7d01618758e0a72381488f
   language: en
-  modified: '2018-11-11T23:56:47.966327Z'
+  modified: '2018-11-26T00:08:41.041283Z'
   title: Resonance
   title_id: resonance
   topics: []

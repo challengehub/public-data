@@ -391,10 +391,10 @@ b969ef61-49fc-4e97-bf55-6a393489a4e5:
   translations: {}
 ba2728d9-b295-423b-b7e9-ffd106ec8984:
   hexsha:
-    private: 0df06f96bb76313d1ed905bb39e4330fd5be460e
-    public: 8287ceca8bc961b1d56414943ccba15a5bd0230b
+    private: 68fca3fd64fc5664d74cdf7d29bc98829affc58b
+    public: ac0882c318f5e5710a12ba30f86ec2674b4c487f
   language: en
-  modified: '2018-11-18T20:15:55.439325Z'
+  modified: '2018-11-26T00:08:04.324585Z'
   title: Reverse Laplace transform:(2e^-2s)/(s^2-2s+2)
   title_id: reverse-laplace-transform2e-2ss2-2s2
   topics: []

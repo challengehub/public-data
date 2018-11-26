@@ -169,6 +169,16 @@
   title_id: beating-equation
   topics: []
   translations: {}
+487a8cac-bcff-4a5e-8286-efcc86e33fb2:
+  hexsha:
+    private: 4ff0132cb81a3913bb91878fcd891bb0532d5f57
+    public: 3d1292f802165a0f88b292853f977b3e7bef0bdd
+  language: en
+  modified: '2018-11-26T12:00:22.041202Z'
+  title: Could a bubble be created more easily on a hydrophobic or hydrophilic surface?
+  title_id: could-a-bubble-be-created-more-easily-on-a-hydrophobic-or-hydrophilic-surface
+  topics: []
+  translations: {}
 4a57e0ee-5c01-4a16-ab89-174c45b27ddd:
   hexsha:
     private: 781cdab3ccee123e97ed54bb5ffa486487e798b9

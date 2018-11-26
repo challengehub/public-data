@@ -199,6 +199,16 @@
   title_id: non-homogeneous-equations-method-of-undetermined-coefficients-2
   topics: []
   translations: {}
+4de3d1f8-1421-4935-b8c1-544ed5a625c7:
+  hexsha:
+    private: e3a418362dc9e8029d33bfb82245defdc958b6fe
+    public: 26d6b366734e3bb750ac5e4b0c4008124d539538
+  language: en
+  modified: '2018-11-26T12:09:31.055916Z'
+  title: What is the maximum ratio observed for this thermophysical property?
+  title_id: what-is-the-maximum-ratio-observed-for-this-thermophysical-property
+  topics: []
+  translations: {}
 4ebe97ab-3a92-4aac-9d05-ad825b07de95:
   hexsha:
     private: 33ef487e619cce2e8aecb51647e329fcf658c776

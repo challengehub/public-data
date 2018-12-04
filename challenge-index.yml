@@ -1,10 +1,10 @@
 # ChallengeHub Challenge Index
 26d584f8-b828-4d05-8d14-f4ec6bd160fd:
   hexsha:
-    private: 3df52d3fc5b629700073db5c80a510dc47c956e3
-    public: 798c35586c9f572a3d426ba83ed55b611fef0e82
+    private: 5ad698e1a949d5e82b8932b26813493560cd9801
+    public: b603bd708d76cd821bee9db366cd4e3efbb7f5cf
   language: en
-  modified: '2018-12-05T02:29:34.340128Z'
+  modified: '2018-12-05T02:55:05.026626Z'
   title: Simple Subtraction
   title_id: simple-subtraction
   topics: []

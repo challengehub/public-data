@@ -349,6 +349,16 @@
   title_id: shifting-laplace-transforms-e3t-cosh5t
   topics: []
   translations: {}
+8f0d9748-048f-4e0b-90da-8dd113cbcda9:
+  hexsha:
+    private: 6d8b96231572cccc85facc9b9e98bd4b9d1c485a
+    public: 0770142fc8c2677c1a023e1a20ccfd21ee3004a6
+  language: en
+  modified: '2018-12-13T08:25:55.395962Z'
+  title: 'The Dirac delta function and its Laplace transform: delta(t) (t^2+10)'
+  title_id: the-dirac-delta-function-and-its-laplace-transform-deltat-t210
+  topics: []
+  translations: {}
 8f29022d-ebf7-4d81-bf58-2159a627ed01:
   hexsha:
     private: a2b666073043da9a01850c93dd2e01724b52a75b

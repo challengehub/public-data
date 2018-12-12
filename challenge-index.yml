@@ -380,6 +380,16 @@
   title_id: at-roughly-what-mole-fraction-does-water-water-interaction-experience-the-greatest-drop-in-its-contribution-to-thermal-conductivity
   topics: []
   translations: {}
+9a933582-fd69-45ff-88fc-c33954f1caf3:
+  hexsha:
+    private: d51790c003ac3f93624ca49c5f76a79639870223
+    public: 04bce40a0f8b3b85c098870ec5fdd7d01516499c
+  language: en
+  modified: '2018-12-13T08:24:39.61954Z'
+  title: 'The Dirac delta function and its Laplace transform: delta(t-2) cos(4t)'
+  title_id: the-dirac-delta-function-and-its-laplace-transform-deltat-2-cos4t
+  topics: []
+  translations: {}
 a767ccfa-0821-47fb-a7bf-002272fcc65a:
   hexsha:
     private: 7fe1b3d64010f318a2caac6d37eef36223a0fe65

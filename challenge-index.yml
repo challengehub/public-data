@@ -129,6 +129,16 @@
   title_id: reverse-laplace-transform-1s-12
   topics: []
   translations: {}
+3bdb5c87-a8c0-43e0-8178-c1b7b5558c7c:
+  hexsha:
+    private: 84855c9aa1405fc387a4ea2e79c9f54aa967beac
+    public: 66c924a9a9408ce7fcafc6b4b5d85658662aee33
+  language: en
+  modified: '2018-12-13T08:22:11.711559Z'
+  title: 'The Dirac delta function and its Laplace transform: \delta(t-c)'
+  title_id: the-dirac-delta-function-and-its-laplace-transform-deltat-c
+  topics: []
+  translations: {}
 3e0f96e1-d3aa-4c49-bbec-5da3b64951c7:
   hexsha:
     private: 24ae3e7bebdc28cff466ba1a709d769edfe37e09

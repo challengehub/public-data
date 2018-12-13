@@ -131,10 +131,10 @@
   translations: {}
 3bdb5c87-a8c0-43e0-8178-c1b7b5558c7c:
   hexsha:
-    private: 84855c9aa1405fc387a4ea2e79c9f54aa967beac
-    public: 66c924a9a9408ce7fcafc6b4b5d85658662aee33
+    private: a02e239971ed45674f31dae7f110e089c48a1b45
+    public: 1241c14c8507163de4a260e5c64137bbda66b86c
   language: en
-  modified: '2018-12-13T08:22:11.711559Z'
+  modified: '2018-12-13T23:58:08.30377Z'
   title: 'The Dirac delta function and its Laplace transform: \delta(t-c)'
   title_id: the-dirac-delta-function-and-its-laplace-transform-deltat-c
   topics: []

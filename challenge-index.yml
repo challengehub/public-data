@@ -79,6 +79,16 @@
   title_id: damping-and-2nd-order-differential-equations
   topics: []
   translations: {}
+24d3e9ea-6c49-455f-b0fc-2cca2a6f5f2c:
+  hexsha:
+    private: 2b83fda7658e0cc8018479216eb4dc779227ec3a
+    public: 792dd9c8324d3b6805d71232cb1e86998736e4ce
+  language: en
+  modified: '2018-12-14T07:12:33.010169Z'
+  title: 'Convolution and the Laplace transform: 1/(s^4 + s^2)'
+  title_id: convolution-and-the-laplace-transform-1s4-s2
+  topics: []
+  translations: {}
 252e4f0b-2972-48ac-8729-5e2e2ccfe2ac:
   hexsha:
     private: 414e8bd934c136f9ce43e0ae09c55eb7b3eb8624

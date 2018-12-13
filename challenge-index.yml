@@ -319,6 +319,16 @@
   title_id: the-dirac-delta-function-and-its-laplace-transform-deltat
   topics: []
   translations: {}
+7b819da4-d0ff-4cc2-aa3a-d43863e2473b:
+  hexsha:
+    private: f1f7f9c5b5ab75f88538e2c73fb5ee6a314b9b87
+    public: 3c22473f639750ce0b3cbb803bc62dd238cdbf57
+  language: en
+  modified: '2018-12-14T06:57:09.667898Z'
+  title: 'Introduction to convolution: t * cos(t)'
+  title_id: introduction-to-convolution-t-cost
+  topics: []
+  translations: {}
 80c1cc16-4ece-4177-9759-8674981e2933:
   hexsha:
     private: afa17b53bc4b6fb60062b02f57c418ba0a85657d

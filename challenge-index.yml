@@ -480,6 +480,16 @@ a981641d-ba54-4e90-a3ba-672807935d17:
   title_id: laplace-transform-of-cosat
   topics: []
   translations: {}
+a9b599cb-c6e7-4d2d-bab3-f4542b390649:
+  hexsha:
+    private: 16eb2698dafcc2d8b6ffd8d932f990d9e732ad55
+    public: 7e93a2bb949a31f20a433e06b12b6e7b47e8173e
+  language: en
+  modified: '2018-12-14T06:59:22.039273Z'
+  title: 'Introduction to convolution: 1 * cos(t)'
+  title_id: introduction-to-convolution-1-cost
+  topics: []
+  translations: {}
 aceaf9ac-cb3e-4bee-ab01-764112cd80d2:
   hexsha:
     private: 5f820c22c19cdda7e934a8fde65917a379757a95

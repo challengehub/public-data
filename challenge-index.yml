@@ -109,6 +109,16 @@
   title_id: test007
   topics: []
   translations: {}
+33dbaf42-ce23-4085-97e8-36400ed58b14:
+  hexsha:
+    private: bee01d2cad4d84b48f71262d241a382d5155ea1c
+    public: de84c84546343454c6c24aa7d85efec286ed4c3d
+  language: en
+  modified: '2018-12-14T06:31:40.714133Z'
+  title: 'Laplace transform and ODE''s: A sudden impulse'
+  title_id: laplace-transform-and-odes-a-sudden-impulse
+  topics: []
+  translations: {}
 3473bf8c-fe46-4221-a1c8-cbf49b2254ef:
   hexsha:
     private: d657eae1bc6e6035c16549186e2f8891c0d0899e

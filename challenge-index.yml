@@ -159,6 +159,16 @@
   title_id: reverse-laplace-transform-1s-12
   topics: []
   translations: {}
+38b87ef9-ffbf-48cb-95b1-f2cf745c5cf0:
+  hexsha:
+    private: 96c1496435e27e00ba715182a570fbab9725d0a8
+    public: 46f5a2a4c9d8e7c45b4c366decf8a34e913f4f83
+  language: en
+  modified: '2018-12-14T07:07:22.214173Z'
+  title: 'Convolution and the Laplace transform: 1/(2^2 - 2s)'
+  title_id: convolution-and-the-laplace-transform-122-2s
+  topics: []
+  translations: {}
 3bdb5c87-a8c0-43e0-8178-c1b7b5558c7c:
   hexsha:
     private: a02e239971ed45674f31dae7f110e089c48a1b45

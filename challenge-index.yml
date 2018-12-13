@@ -59,6 +59,16 @@
   title_id: characteristic-equation-real-positive-roots
   topics: []
   translations: {}
+18083bcf-c812-45d5-aa4a-1c7d55c5eaa7:
+  hexsha:
+    private: 890b328a608d1bd1846f1d1f58d13e9bdd15a2c4
+    public: bc001d2eebfbc911a089dd333c67a1709015f902
+  language: en
+  modified: '2018-12-14T06:52:53.840574Z'
+  title: 'Introduction to convolution: sin(t)*cos(t)'
+  title_id: introduction-to-convolution-sintcost
+  topics: []
+  translations: {}
 1d51e481-8d91-4ed5-82e5-3f44d044837e:
   hexsha:
     private: 3e290d1abd7e9e5d8930121b7c467aa3032195a6

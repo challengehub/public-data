@@ -500,6 +500,16 @@ c7132fd6-fb16-4db4-8118-b1bc5f7ec5e9:
   title_id: reverse-laplace-transform-62s4
   topics: []
   translations: {}
+c9dfbc7a-e714-4974-a776-57b82b3ff51d:
+  hexsha:
+    private: 021765c128e815f8e650dd21a05fe9cb565a44a2
+    public: c24b1510cee9b7a897513fb5c1f8d101fb47f9e9
+  language: en
+  modified: '2018-12-14T02:31:21.370796Z'
+  title: Solving an ODE with exponential forcing using the Laplace transform method
+  title_id: solving-an-ode-with-exponential-forcing-using-the-laplace-transform-method
+  topics: []
+  translations: {}
 cb151613-d7d4-40b0-8c0a-5f848645b490:
   hexsha:
     private: b093a24bdd2d362bae5b99fb6e759c0b752c6cc1

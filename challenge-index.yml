@@ -349,6 +349,16 @@
   title_id: method-of-undetermined-coefficients-ii-part-4
   topics: []
   translations: {}
+890cd2f7-9843-41b1-a937-bca1077dbb85:
+  hexsha:
+    private: f317b20f2059611a7f095b1bf43540cd53e2e76b
+    public: baa5c891db33e74592c77e5c3335b497f0f7bb4e
+  language: en
+  modified: '2018-12-14T03:01:14.43803Z'
+  title: Solving a unit step ODE with Laplace transform
+  title_id: solving-a-unit-step-ode-with-laplace-transform
+  topics: []
+  translations: {}
 8b2c94e5-c9e7-4296-83db-bb0aec0f9cb0:
   hexsha:
     private: 2b9438eda8438a8509a3aa996d5f4587810f6575

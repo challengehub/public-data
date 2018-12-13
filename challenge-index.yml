@@ -39,6 +39,16 @@
   title_id: characteristic-equation-exersizes-1
   topics: []
   translations: {}
+162d9156-8356-4137-a2f9-5748ecdc43c0:
+  hexsha:
+    private: 5ddc0fbd4381c595aff0eff578f1f1f935405530
+    public: b554ad859854f2ce8666e9c49c700322b9f90e52
+  language: en
+  modified: '2018-12-14T02:47:24.830233Z'
+  title: 'Comparing solutions of ODE''s: With and without exponential forcing'
+  title_id: comparing-solutions-of-odes-with-and-without-exponential-forcing
+  topics: []
+  translations: {}
 17986c2c-49ef-4d45-bfd5-3dcf94aed393:
   hexsha:
     private: 493eed3d0551df6ab6f6d900b7feeee19313719f

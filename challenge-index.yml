@@ -432,10 +432,10 @@
   translations: {}
 a3de3205-4018-4432-b8bd-a450390d67bb:
   hexsha:
-    private: eddb8c52372649ae8938e39fdae71d47a0f64b8b
-    public: 029e764c06dac53e4011bfaccfd1911dd7c65801
+    private: 95802bde5b6c5c49f91613b62fbd670b0507d301
+    public: a0af46673c2439db0086b59f073dddac9a958224
   language: en
-  modified: '2018-12-14T02:23:11.084022Z'
+  modified: '2018-12-14T06:45:08.524899Z'
   title: Solving a forced-spring problem with the Laplace transform
   title_id: solving-a-forced-spring-problem-with-the-laplace-transform
   topics: []

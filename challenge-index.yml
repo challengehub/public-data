@@ -400,6 +400,16 @@
   title_id: the-dirac-delta-function-and-its-laplace-transform-deltat-2-cos4t
   topics: []
   translations: {}
+a3de3205-4018-4432-b8bd-a450390d67bb:
+  hexsha:
+    private: eddb8c52372649ae8938e39fdae71d47a0f64b8b
+    public: 029e764c06dac53e4011bfaccfd1911dd7c65801
+  language: en
+  modified: '2018-12-14T02:23:11.084022Z'
+  title: Solving a forced-spring problem with the Laplace transform
+  title_id: solving-a-forced-spring-problem-with-the-laplace-transform
+  topics: []
+  translations: {}
 a767ccfa-0821-47fb-a7bf-002272fcc65a:
   hexsha:
     private: 7fe1b3d64010f318a2caac6d37eef36223a0fe65

@@ -131,10 +131,10 @@
   translations: {}
 33dbaf42-ce23-4085-97e8-36400ed58b14:
   hexsha:
-    private: bee01d2cad4d84b48f71262d241a382d5155ea1c
-    public: de84c84546343454c6c24aa7d85efec286ed4c3d
+    private: 37408893ef776e483e3e8dc5bbb640c3e9800e1c
+    public: 8144baf9c67ee563d21efe8c980e7b6b72f0280c
   language: en
-  modified: '2018-12-14T06:31:40.714133Z'
+  modified: '2018-12-16T23:27:28.048409Z'
   title: 'Laplace transform and ODE''s: A sudden impulse'
   title_id: laplace-transform-and-odes-a-sudden-impulse
   topics: []

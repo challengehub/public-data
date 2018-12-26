@@ -129,6 +129,17 @@
   title_id: test007
   topics: []
   translations: {}
+32a02bad-bcf3-4c8f-b263-b4608c963a3c:
+  hexsha:
+    private: 4a565facf4f8749d34bb950b789029b3f17cafb6
+    public: 9c9e8cb1bd16a10110e67f37238540d38de71275
+  language: en
+  modified: '2018-12-27T07:34:30.807786Z'
+  title: 'Systems of ODE''s: Basis for creating a system of equations from a single
+    homogeneous ODE: y'''' - 4y'' + 5y = 0'
+  title_id: systems-of-odes-basis-for-creating-a-system-of-equations-from-a-single-homogeneous-ode-y-4y-5y-0
+  topics: []
+  translations: {}
 33dbaf42-ce23-4085-97e8-36400ed58b14:
   hexsha:
     private: 37408893ef776e483e3e8dc5bbb640c3e9800e1c

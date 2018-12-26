@@ -490,6 +490,17 @@ a3de3205-4018-4432-b8bd-a450390d67bb:
   title_id: solving-a-forced-spring-problem-with-the-laplace-transform
   topics: []
   translations: {}
+a43db494-2821-461b-8765-3cc2a0fc7859:
+  hexsha:
+    private: a7e664075bc35e6ff1470d2442937704eb6397f6
+    public: 0e23ad3c3d56ee71434001943b11612a3378426f
+  language: en
+  modified: '2018-12-27T05:40:06.278826Z'
+  title: 'Using convolution to solve an ODE: y'''''' - 3a y'''' + 3a^2 y'' - a^3 y
+    = 2 t'
+  title_id: using-convolution-to-solve-an-ode-y-3a-y-3a2-y-a3-y-2-t
+  topics: []
+  translations: {}
 a767ccfa-0821-47fb-a7bf-002272fcc65a:
   hexsha:
     private: 7fe1b3d64010f318a2caac6d37eef36223a0fe65

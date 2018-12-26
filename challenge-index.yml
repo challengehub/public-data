@@ -681,6 +681,16 @@ d8d5e07f-816d-4adb-92df-19e10e8be4b9:
   title_id: reverse-laplace-transform-1s2-1s
   topics: []
   translations: {}
+e4e87237-eb2b-4a14-ac1f-ad115eeb0e7d:
+  hexsha:
+    private: d3612a0f7ee5fc2e1431202b7ae90d21facd2f9d
+    public: 2d1eb29b5090839ccbd10052001ad12ab4a68635
+  language: en
+  modified: '2018-12-27T07:18:32.085795Z'
+  title: 'Systems of ODE''s: Homogeneous vs non-homogeneous'
+  title_id: systems-of-odes-homogeneous-vs-non-homogeneous
+  topics: []
+  translations: {}
 ea1da35f-98a6-41b3-83a7-14df85a62212:
   hexsha:
     private: fdc772197c864e6bb38dba68686f064ec4410e81

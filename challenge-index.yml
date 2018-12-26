@@ -671,6 +671,17 @@ d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:
   title_id: characteristic-equation-identification-complex-roots
   topics: []
   translations: {}
+d7cf3ecc-0a2b-48f0-82f5-f3afc7c40425:
+  hexsha:
+    private: c05d3b543a2fd6ab869a0fb677fda25a8e6f7402
+    public: 1f7070afd3828ee3c90d48231d1b6e6e0c70f8c9
+  language: en
+  modified: '2018-12-27T07:33:12.618218Z'
+  title: 'Systems of ODE''s: Basis for creating a system of equations from a single
+    homogeneous ODE: 2y'''' + 4y'' - 6y = 0'
+  title_id: systems-of-odes-basis-for-creating-a-system-of-equations-from-a-single-homogeneous-ode-2y-4y-6y-0
+  topics: []
+  translations: {}
 d8d5e07f-816d-4adb-92df-19e10e8be4b9:
   hexsha:
     private: b0cebaeb19f4b137b060f12926095631e9b4b5d8

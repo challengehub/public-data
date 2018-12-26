@@ -612,6 +612,17 @@ bad21262-8553-45d2-91db-e18ecfa80229:
   title_id: using-convolution-to-solve-an-ode-y-10y-26y-cost
   topics: []
   translations: {}
+be22bd55-b482-4a18-820c-28b5aae191a0:
+  hexsha:
+    private: 9669a5804877d86e68144f4c86403b15b18bab0d
+    public: 6ff0cc2d883b9865aee39bf81d7205c5e78d3cd4
+  language: en
+  modified: '2018-12-27T07:46:12.748367Z'
+  title: 'Systems of equations from a non-homogeneous ODE: y'''' - 5 y'' + 9 y = t
+    cos(2t)'
+  title_id: systems-of-equations-from-a-non-homogeneous-ode-y-5-y-9-y-t-cos2t
+  topics: []
+  translations: {}
 c7132fd6-fb16-4db4-8118-b1bc5f7ec5e9:
   hexsha:
     private: 58dd5e1bb2b2e2289c6630d9ab11b063d47c35a7

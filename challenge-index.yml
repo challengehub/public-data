@@ -591,6 +591,16 @@ ba2a7b3b-0b51-4aae-beec-9c24a51a5f4e:
   title_id: characteristic-equation-complex-roots-with-non-zero-b-ii
   topics: []
   translations: {}
+bad21262-8553-45d2-91db-e18ecfa80229:
+  hexsha:
+    private: 7b88081e115ca3136c35bb9029bf96d54ccab496
+    public: 937f7497f4385b6a4e468d983aa670a82e22e93d
+  language: en
+  modified: '2018-12-27T05:50:17.162882Z'
+  title: 'Using convolution to solve an ODE: y'''' - 10y'' + 26y = cos(t)'
+  title_id: using-convolution-to-solve-an-ode-y-10y-26y-cost
+  topics: []
+  translations: {}
 c7132fd6-fb16-4db4-8118-b1bc5f7ec5e9:
   hexsha:
     private: 58dd5e1bb2b2e2289c6630d9ab11b063d47c35a7

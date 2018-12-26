@@ -349,6 +349,16 @@
   title_id: introduction-to-convolution-t-cost
   topics: []
   translations: {}
+80713277-e5fb-4674-852e-89ac898a7b45:
+  hexsha:
+    private: c85dba5b3252bac2d556c9aac389a47e5ce162fa
+    public: 8e9783bb476443631fac5e2bca22e7d72888ca44
+  language: en
+  modified: '2018-12-27T05:13:29.404307Z'
+  title: 'Using convolution to solve an ODE: y'''' - 4 y = sin(t)'
+  title_id: using-convolution-to-solve-an-ode-y-4-y-sint
+  topics: []
+  translations: {}
 80c1cc16-4ece-4177-9759-8674981e2933:
   hexsha:
     private: afa17b53bc4b6fb60062b02f57c418ba0a85657d

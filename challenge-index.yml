@@ -170,6 +170,16 @@
   title_id: characteristic-equation-real-negative-roots
   topics: []
   translations: {}
+36cf7182-6f94-45d8-8e21-4fe8f47411ce:
+  hexsha:
+    private: 27063c824e12a27e273bd3e26ce8b25b3eb51743
+    public: 60891fd52181eba71e8a59649c49fb085d144044
+  language: en
+  modified: '2019-01-10T07:16:28.604882Z'
+  title: Imaginary eigenvector equivalence
+  title_id: imaginary-eigenvector-equivalence
+  topics: []
+  translations: {}
 36e77427-f07a-4790-a1b6-0bf9c151774f:
   hexsha:
     private: 37c113d524f98bd90243246b476f56167f9d5412

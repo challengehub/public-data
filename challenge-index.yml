@@ -81,10 +81,10 @@
   translations: {}
 21c3a132-4610-4d79-a476-68eded2ddef8:
   hexsha:
-    private: 349445b86e53e638727a2054097d05c2be85fc1d
-    public: 268ac7c5837c5961d8d2448536dd45fba9c814f2
+    private: edc9ec23886805bcf7292e87b735e68d4469b9a8
+    public: eddaa58c52278a1c4d74081b83b645f172e0756c
   language: en
-  modified: '2019-01-10T02:37:59.37982Z'
+  modified: '2019-01-10T03:58:37.858166Z'
   title: '2D Matrices review: Determinent'
   title_id: 2d-matrices-review-determinent
   topics: []

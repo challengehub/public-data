@@ -320,6 +320,16 @@
   title_id: "laplace-transform-of-step-functions-lu\u03C0tcost\u03C0"
   topics: []
   translations: {}
+6097039e-a3a9-4542-9c67-72cc94f63f0c:
+  hexsha:
+    private: 68fc3701d200ff0d6ff1bde4be5d2fd509c1aeac
+    public: ecf3a056903761856ceefb16b6663a6537b3f348
+  language: en
+  modified: '2019-01-10T06:27:56.303041Z'
+  title: '2D Matrices review: Eigenvectors and eigenvalues'
+  title_id: 2d-matrices-review-eigenvectors-and-eigenvalues
+  topics: []
+  translations: {}
 65cc3492-2545-4f68-9d25-9758a04fe9a7:
   hexsha:
     private: 0602f4a00b5b2e9ffa2d0dbfb1f379b2390b82e3

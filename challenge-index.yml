@@ -632,6 +632,16 @@ ad274394-954f-4710-8970-5458b94afa4e:
   title_id: characteristic-equation-exersizes-3
   topics: []
   translations: {}
+b359a87e-8e04-4679-b540-3c345ac6eb20:
+  hexsha:
+    private: 03e7843a47b6307253c9606a3717dabf372eb9c1
+    public: b5aabb6e06d7432639a7af7847edd1ce30082780
+  language: en
+  modified: '2019-01-10T07:56:17.118795Z'
+  title: 'Solving systems of ODE''s: ((8,1),(-4,4))'
+  title_id: solving-systems-of-odes-81-44
+  topics: []
+  translations: {}
 b4a29e3d-b428-46eb-add6-e1c73b17286a:
   hexsha:
     private: af091152a87f1157a262d35e72b943932bafa936

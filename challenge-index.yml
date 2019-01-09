@@ -392,10 +392,10 @@
   translations: {}
 7f485add-468f-4db6-a3cc-23fe0e18a5aa:
   hexsha:
-    private: 39cbaaff2518ddf39ac057760cd4bd49e9d1d8b8
-    public: a8e6617e56f0a5c37b176ae69bb4ee2d72c8cb40
+    private: c78a26b4902c2c512726c10ae031039d53082b33
+    public: 75400a5b7ca6873df2b6f29eb8f491ae4b45b098
   language: en
-  modified: '2019-01-10T02:33:37.512467Z'
+  modified: '2019-01-10T06:57:40.289172Z'
   title: '2D Matrices review: Multiplication'
   title_id: 2d-matrices-review-multiplication
   topics: []

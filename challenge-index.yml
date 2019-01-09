@@ -79,6 +79,16 @@
   title_id: damping-and-2nd-order-differential-equations
   topics: []
   translations: {}
+21c3a132-4610-4d79-a476-68eded2ddef8:
+  hexsha:
+    private: 349445b86e53e638727a2054097d05c2be85fc1d
+    public: 268ac7c5837c5961d8d2448536dd45fba9c814f2
+  language: en
+  modified: '2019-01-10T02:37:59.37982Z'
+  title: '2D Matrices review: Determinent'
+  title_id: 2d-matrices-review-determinent
+  topics: []
+  translations: {}
 24d3e9ea-6c49-455f-b0fc-2cca2a6f5f2c:
   hexsha:
     private: 2b83fda7658e0cc8018479216eb4dc779227ec3a

@@ -182,10 +182,10 @@
   translations: {}
 37f4ea0e-1c28-46e3-8863-e97ac8ae2715:
   hexsha:
-    private: 5ddb153783015650a5bcf1b042116866f3dc7b5b
-    public: b96b8f31fef20d6a36c599c255eee80bdc6e269e
+    private: 1573c2bac6a8d74cc0c3fe0f2edbaa93467d110f
+    public: 31b0ae03d350a382ef359c419ec2289efc118a07
   language: en
-  modified: '2019-01-10T03:55:54.994807Z'
+  modified: '2019-01-10T06:23:00.300688Z'
   title: '2D Matrices review: Inverse'
   title_id: 2d-matrices-review-inverse
   topics: []

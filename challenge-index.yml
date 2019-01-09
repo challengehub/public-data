@@ -864,6 +864,16 @@ f1ac917c-551c-4196-b5ba-82eb64b91a8d:
   title_id: laplace-transform-of-1
   topics: []
   translations: {}
+f265cffd-1302-4873-965a-2cb973f00fc9:
+  hexsha:
+    private: 1a73a3d4d70d3f1254f491b0ae0afe3b9b8f4196
+    public: c4f17e1f3fd09742f6f2ef65c7716550d475a8ca
+  language: en
+  modified: '2019-01-10T08:14:58.261806Z'
+  title: 'Solving systems of ODE''s with conditions: ((1,2),(4,3))'
+  title_id: solving-systems-of-odes-with-conditions-1243
+  topics: []
+  translations: {}
 f3df34b5-743f-4d00-a9ed-c792db6d1673:
   hexsha:
     private: a795ad6bb251e9f55711960f05b3b78a288cd773

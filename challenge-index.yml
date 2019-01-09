@@ -683,6 +683,16 @@ c9dfbc7a-e714-4974-a776-57b82b3ff51d:
   title_id: solving-an-ode-with-exponential-forcing-using-the-laplace-transform-method
   topics: []
   translations: {}
+ca96add1-6dc2-42c9-b994-2b3d150cd645:
+  hexsha:
+    private: 575c1f92eed0cfe5b3e02fee7def34bfe2d73ea5
+    public: 02c8ce7d6eda62c25664952bfe3eb51ed4af9541
+  language: en
+  modified: '2019-01-10T06:33:36.856532Z'
+  title: '2D Matrices review: Eigenvalues and Eigenvectors: ((2,-2)(0,-1))'
+  title_id: 2d-matrices-review-eigenvalues-and-eigenvectors-2-20-1
+  topics: []
+  translations: {}
 cb151613-d7d4-40b0-8c0a-5f848645b490:
   hexsha:
     private: b093a24bdd2d362bae5b99fb6e759c0b752c6cc1

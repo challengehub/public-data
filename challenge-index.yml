@@ -886,10 +886,10 @@ f5c97038-c150-4774-925e-04a803deb5a6:
   translations: {}
 fd4f0190-c05e-4980-bc5b-8c0531ba2221:
   hexsha:
-    private: 6595ff1d99aec4c31954103b60a9f7dd67761689
-    public: f455fa501f2598992adb96d308f0a3766c2ab8ba
+    private: 52e1ef7da9cbedd0094174a486e396e93c172238
+    public: a4583e7a763e6aab4176ee9a3e512cdbc7e2a391
   language: en
-  modified: '2019-01-10T08:07:31.155163Z'
+  modified: '2019-01-10T08:08:21.866866Z'
   title: 'Solving systems of ODE''s with initial conditions: ((-1,1),(-1,-1))'
   title_id: solving-systems-of-odes-with-initial-conditions-11-1-1
   topics: []

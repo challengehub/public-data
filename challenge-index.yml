@@ -655,12 +655,12 @@ cb151613-d7d4-40b0-8c0a-5f848645b490:
   translations: {}
 d09b6da5-636f-44c4-b001-8a31cd92f76d:
   hexsha:
-    private: 75dad433a9d06af149d0d16fcb1be9ed91214248
-    public: f7dabc1582b6245738765c014ca36788520b6a88
+    private: 00e8654af9951e037040d389cc3bc7690a510c11
+    public: 7b94d35123ba042b1f3dbe9407ec7383354e6c00
   language: en
-  modified: '2019-01-10T02:17:13.401368Z'
-  title: 2D Matrices review
-  title_id: 2d-matrices-review
+  modified: '2019-01-10T02:20:21.981851Z'
+  title: '2D Matrices review: Addition'
+  title_id: 2d-matrices-review-addition
   topics: []
   translations: {}
 d09bbeae-78f8-48ee-bab7-923df8d14481:

@@ -69,6 +69,16 @@
   title_id: introduction-to-convolution-sintcost
   topics: []
   translations: {}
+1b532910-196a-488b-84bb-338bba19348a:
+  hexsha:
+    private: c2f0a02c567cb539439ab606af0f1437b233788a
+    public: c804bc398a6458fedb4a396e4f8eab5fd581caf2
+  language: en
+  modified: '2019-01-10T07:47:29.459299Z'
+  title: 'Solving systems of ODE''s: ((2,-5),(7,-10))'
+  title_id: solving-systems-of-odes-2-57-10
+  topics: []
+  translations: {}
 1d51e481-8d91-4ed5-82e5-3f44d044837e:
   hexsha:
     private: 3e290d1abd7e9e5d8930121b7c467aa3032195a6

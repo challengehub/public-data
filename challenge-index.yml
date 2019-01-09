@@ -180,6 +180,16 @@
   title_id: method-of-undetermined-coefficients-ii-part-1
   topics: []
   translations: {}
+37f4ea0e-1c28-46e3-8863-e97ac8ae2715:
+  hexsha:
+    private: 5ddb153783015650a5bcf1b042116866f3dc7b5b
+    public: b96b8f31fef20d6a36c599c255eee80bdc6e269e
+  language: en
+  modified: '2019-01-10T03:55:54.994807Z'
+  title: '2D Matrices review: Inverse'
+  title_id: 2d-matrices-review-inverse
+  topics: []
+  translations: {}
 383d28d9-1c6c-45b2-baa3-fed5d3fe8071:
   hexsha:
     private: b3ff83c724a69cbf5f0e609ea0bfbbaa0932ff4c

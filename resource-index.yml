@@ -109,3 +109,13 @@ c4e5505b-b367-4efa-97db-fbe89ce06cb3:
   topics: []
   upload_time: '2019-01-10T02:32:42Z'
   uploader_id: github.NanoScaleDesign
+
+547cb1c8-3412-403e-939d-a9a48c87c95d:
+  content_type: application/pdf
+  hexsha: 55eff147116f0aaa40d1b123ecb4054837de5ea0
+  original_name: matrices.pdf
+  title: matrices
+  title_id: matrices-55eff14
+  topics: []
+  upload_time: '2019-01-10T02:35:41Z'
+  uploader_id: github.NanoScaleDesign

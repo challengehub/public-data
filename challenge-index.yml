@@ -702,6 +702,16 @@ bad21262-8553-45d2-91db-e18ecfa80229:
   title_id: using-convolution-to-solve-an-ode-y-10y-26y-cost
   topics: []
   translations: {}
+bafb0068-db14-47b2-b454-76570cb5fd82:
+  hexsha:
+    private: a042fe6a84f18fd1ad57814568ee81648602d9f6
+    public: 888d74192ada787645887af14a4a06cd3671af46
+  language: en
+  modified: '2019-01-11T03:17:05.808439Z'
+  title: Phase-space of pendulum motion
+  title_id: phase-space-of-pendulum-motion
+  topics: []
+  translations: {}
 be22bd55-b482-4a18-820c-28b5aae191a0:
   hexsha:
     private: 9669a5804877d86e68144f4c86403b15b18bab0d

@@ -149,3 +149,13 @@ b57fc242-11a7-4099-aa02-d55eec5ff938:
   topics: []
   upload_time: '2019-01-11T03:03:51Z'
   uploader_id: github.NanoScaleDesign
+
+cda7b705-9677-4410-9bcb-bde27ea76e39:
+  content_type: image/jpeg
+  hexsha: fb74ff00b06bc81727c0d7217eef5cee848c9acc
+  original_name: pendulum_gentle.jpg
+  title: Gentle pendulum
+  title_id: gentle-pendulum-fb74ff
+  topics: []
+  upload_time: '2019-01-11T03:06:39Z'
+  uploader_id: github.NanoScaleDesign

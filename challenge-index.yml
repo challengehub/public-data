@@ -71,10 +71,10 @@
   translations: {}
 1b532910-196a-488b-84bb-338bba19348a:
   hexsha:
-    private: c2f0a02c567cb539439ab606af0f1437b233788a
-    public: c804bc398a6458fedb4a396e4f8eab5fd581caf2
+    private: bb375fa7bd1670e1b9ce611d8c9027e1fad6c532
+    public: ea9efe4ebbeb6c6ff1ca3ef87f6408d90b0b6024
   language: en
-  modified: '2019-01-10T07:47:29.459299Z'
+  modified: '2019-01-15T00:51:09.587405Z'
   title: 'Solving systems of ODE''s: ((2,-5),(7,-10))'
   title_id: solving-systems-of-odes-2-57-10
   topics: []

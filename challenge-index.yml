@@ -302,10 +302,10 @@
   translations: {}
 4cb10d4a-2324-4b90-8897-dbda94dd4463:
   hexsha:
-    private: acbccb51e7bdb9945fdbee6f897d1e373b43919b
-    public: 4057e1f246f485f852d2ec7ba2a027ce7081f48b
+    private: 834745713010e54f81a40784c49e6ad41ceb593e
+    public: fb038a04028add321c6dbacb94d34d4f54cf0ec6
   language: en
-  modified: '2019-01-10T07:51:02.038326Z'
+  modified: '2019-01-15T00:51:47.890222Z'
   title: 'Solving systems of ODE''s: ((-3,-3),(6,3))'
   title_id: solving-systems-of-odes-3-363
   topics: []

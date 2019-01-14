@@ -573,10 +573,10 @@ a3de3205-4018-4432-b8bd-a450390d67bb:
   translations: {}
 a43db494-2821-461b-8765-3cc2a0fc7859:
   hexsha:
-    private: 31cdd249a4dbb5ac924a0d04e207368d15c56b12
-    public: 292d1dafe50401e1fde0a84e65ce35015384e45e
+    private: 361f4fce654f7df4279129d9f02c9ae59dee6144
+    public: a29816a0e358a8bff236da657d66c381bff8f721
   language: en
-  modified: '2019-01-15T02:58:09.951287Z'
+  modified: '2019-01-15T02:58:45.486414Z'
   title: 'Using convolution to solve an ODE: y'''''' - 3a y'''' + 3a^2 y'' - a^3 y
     = 2 t'
   title_id: using-convolution-to-solve-an-ode-y-3a-y-3a2-y-a3-y-2-t

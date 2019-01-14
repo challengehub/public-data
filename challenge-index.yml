@@ -644,10 +644,10 @@ aebd34f7-e4df-4eb5-95f8-e58ca739bf80:
   translations: {}
 b359a87e-8e04-4679-b540-3c345ac6eb20:
   hexsha:
-    private: 03e7843a47b6307253c9606a3717dabf372eb9c1
-    public: b5aabb6e06d7432639a7af7847edd1ce30082780
+    private: e18a8d88b2212eba546d81892156ca3e5efdf7ec
+    public: d014f719c1c914be1ac90de219fffa5fd44998b3
   language: en
-  modified: '2019-01-10T07:56:17.118795Z'
+  modified: '2019-01-15T00:52:29.690345Z'
   title: 'Solving systems of ODE''s: ((8,1),(-4,4))'
   title_id: solving-systems-of-odes-81-44
   topics: []

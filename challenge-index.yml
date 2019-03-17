@@ -652,6 +652,16 @@ aebd34f7-e4df-4eb5-95f8-e58ca739bf80:
   title_id: solving-systems-of-odes-with-conditions-400-4
   topics: []
   translations: {}
+af8ca8a3-de68-4202-a908-2e9564377fc1:
+  hexsha:
+    private: 57b4189029a550a73d418fa684165ff185b16c99
+    public: 1ea12b54424d1925bde9418802730c3390c2f131
+  language: en
+  modified: '2019-03-18T02:09:16.120813Z'
+  title: Test challenge 18/3
+  title_id: test-challenge-183
+  topics: []
+  translations: {}
 b359a87e-8e04-4679-b540-3c345ac6eb20:
   hexsha:
     private: e18a8d88b2212eba546d81892156ca3e5efdf7ec

@@ -219,3 +219,13 @@ f95c10c6-227c-4c72-8c9f-85acb20bf8d7:
   topics: []
   upload_time: '2019-01-11T03:33:07Z'
   uploader_id: github.NanoScaleDesign
+
+3f9c0b1d-04d4-4bfb-bb2c-6039c0397ec6:
+  content_type: image/jpeg
+  hexsha: e1fd9796d0ffe220abc00e93b70c157abd493e30
+  original_name: eqn001.jpg
+  title: Test equation as an image
+  title_id: test-equation-as-an-image-e1fd97
+  topics: []
+  upload_time: '2019-03-18T00:15:12Z'
+  uploader_id: github.NanoScaleDesign

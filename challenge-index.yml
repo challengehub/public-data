@@ -312,10 +312,10 @@
   translations: {}
 4abd0d4b-837c-4c93-990a-acd69042c9f7:
   hexsha:
-    private: 580689ef493597a2150c71ef18617a00fe001ee1
-    public: 8e0ca52e8ab8ccab6c9abd551a1fc91870e6d1ee
+    private: 3d643defd6e6c33760ddcdfa2f8157d893c54125
+    public: 5fc3b389e9e66ad49714a0c03115a84a3186a28a
   language: en
-  modified: '2019-03-20T04:42:13.449841Z'
+  modified: '2019-03-20T04:48:59.31214Z'
   title: Motion of a pendulum in phase-space
   title_id: motion-of-a-pendulum-in-phase-space
   topics: []

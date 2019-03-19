@@ -310,6 +310,16 @@
   title_id: laplace-transform-of-step-functions-uc
   topics: []
   translations: {}
+4abd0d4b-837c-4c93-990a-acd69042c9f7:
+  hexsha:
+    private: 580689ef493597a2150c71ef18617a00fe001ee1
+    public: 8e0ca52e8ab8ccab6c9abd551a1fc91870e6d1ee
+  language: en
+  modified: '2019-03-20T04:42:13.449841Z'
+  title: Motion of a pendulum in phase-space
+  title_id: motion-of-a-pendulum-in-phase-space
+  topics: []
+  translations: {}
 4cb10d4a-2324-4b90-8897-dbda94dd4463:
   hexsha:
     private: 834745713010e54f81a40784c49e6ad41ceb593e

@@ -581,6 +581,16 @@
   title_id: the-dirac-delta-function-and-its-laplace-transform-deltat-2-cos4t
   topics: []
   translations: {}
+9ed63a08-5291-4350-8e5e-a681811bb6f7:
+  hexsha:
+    private: 79f885db6770ba49f51db802ae1b6a8ba45ca42b
+    public: c9b0dc0853aca3545e11e883ef04c7ecdd3c2673
+  language: en
+  modified: '2019-03-20T04:45:02.89996Z'
+  title: New challenge todays
+  title_id: new-challenge-todays
+  topics: []
+  translations: {}
 a3de3205-4018-4432-b8bd-a450390d67bb:
   hexsha:
     private: bd98666684d86d6de4b639bb1e4e843b2ca1a451

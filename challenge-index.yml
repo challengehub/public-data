@@ -71,12 +71,12 @@
   translations: {}
 16563811-f0a3-49ee-86d6-753c217b79de:
   hexsha:
-    private: e64d7551662df55c72133107bb0c52d7ca5c4219
-    public: d2de88fd8f354df1ee388c7057b3da97d3cc7367
+    private: 51317b7d1dd046015628e90d1bb26fbd75e25cbf
+    public: 54d628c5b1172e767e711cbedc4046dd31cf863b
   language: en
-  modified: '2019-03-26T05:36:45.089908Z'
-  title: Kinetic energy of a system of 3 particles
-  title_id: kinetic-energy-of-a-system-of-3-particles
+  modified: '2019-03-26T05:48:41.667449Z'
+  title: Kinetic energy of a system of 3 free particles
+  title_id: kinetic-energy-of-a-system-of-3-free-particles
   topics: []
   translations: {}
 17986c2c-49ef-4d45-bfd5-3dcf94aed393:

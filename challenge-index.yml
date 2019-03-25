@@ -613,12 +613,12 @@
   translations: {}
 a0ed605d-5922-4f03-a6ac-979f3e7a8b88:
   hexsha:
-    private: 1ed6ef449ad27bbc5905f33f9da1065c93ae2309
-    public: bb513ea3d97d9d86abc96012ffa28e6f2fd0d165
+    private: fd0905b15efcf2e7f7d254f8f70b41fdda301cad
+    public: aacbd69cbece7fad3a11e88fc1224f6f4c8acabf
   language: en
-  modified: '2019-03-26T03:06:27.822237Z'
-  title: Centre-of-mass of 3 particles
-  title_id: centre-of-mass-of-3-particles
+  modified: '2019-03-26T03:27:58.794493Z'
+  title: Centre-of-mass position of 3 particles
+  title_id: centre-of-mass-position-of-3-particles
   topics: []
   translations: {}
 a3de3205-4018-4432-b8bd-a450390d67bb:

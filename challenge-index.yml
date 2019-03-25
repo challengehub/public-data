@@ -69,6 +69,16 @@
   title_id: comparing-solutions-of-odes-with-and-without-exponential-forcing
   topics: []
   translations: {}
+16563811-f0a3-49ee-86d6-753c217b79de:
+  hexsha:
+    private: cf5d3d8cadd9edf4b880d3d5337724c7543b6498
+    public: 145636231c266456d263b3794cd37f057d0a0292
+  language: en
+  modified: '2019-03-26T05:32:51.883834Z'
+  title: Kinetic energy of a system of 3 particles
+  title_id: kinetic-energy-of-a-system-of-3-particles
+  topics: []
+  translations: {}
 17986c2c-49ef-4d45-bfd5-3dcf94aed393:
   hexsha:
     private: 493eed3d0551df6ab6f6d900b7feeee19313719f

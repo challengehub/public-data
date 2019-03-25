@@ -440,6 +440,16 @@
   title_id: test-006
   topics: []
   translations: {}
+746a78ce-f826-4855-9d66-62009f3f4442:
+  hexsha:
+    private: cc72775bfa0a50067d571a122167a94250ac56c7
+    public: 56f60c2718e47fbc27146b41fbe3927adf00f492
+  language: en
+  modified: '2019-03-26T05:35:27.080532Z'
+  title: Kinetic and potential energy of 3 particles connected by a rigid rod
+  title_id: kinetic-and-potential-energy-of-3-particles-connected-by-a-rigid-rod
+  topics: []
+  translations: {}
 765d76b3-b013-481e-96c9-d642b3f3ceff:
   hexsha:
     private: abe1dcaa920faffaefda42c26a875c6a51dedfa0

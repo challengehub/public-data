@@ -986,10 +986,10 @@ f265cffd-1302-4873-965a-2cb973f00fc9:
   translations: {}
 f3613f95-d6f4-47de-9b85-9c181ba7d6ad:
   hexsha:
-    private: b2d282dc76ef4a3b17713f1f4722dd0c51c75ded
-    public: 3b5e761fdaa4d537ea4029ee53586421d8c90dff
+    private: e59df1e458b590bc036f4511e67f2d14c7f55a6c
+    public: 34cd70e529e0748ff40aa4b98a3d31d87adabf64
   language: en
-  modified: '2019-03-26T04:18:50.888277Z'
+  modified: '2019-03-26T04:19:36.291102Z'
   title: Magnitude of acceleration of a system of 3 particles
   title_id: magnitude-of-acceleration-of-a-system-of-3-particles
   topics: []

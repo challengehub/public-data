@@ -380,6 +380,16 @@
   title_id: 2d-matrices-review-eigenvectors-and-eigenvalues-57-13
   topics: []
   translations: {}
+62c2a3e2-cc5c-4031-bf1d-85bb5adaa7db:
+  hexsha:
+    private: 5b3e6b8af92c841ebe6293c99421552a3009d839
+    public: 031f18b138b68b17034d895617f0a85cd38fde07
+  language: en
+  modified: '2019-03-26T03:07:46.507336Z'
+  title: Centre-of-mass velocity of 3 particles
+  title_id: centre-of-mass-velocity-of-3-particles
+  topics: []
+  translations: {}
 65cc3492-2545-4f68-9d25-9758a04fe9a7:
   hexsha:
     private: 0602f4a00b5b2e9ffa2d0dbfb1f379b2390b82e3

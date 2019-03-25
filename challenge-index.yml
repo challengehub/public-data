@@ -904,6 +904,16 @@ d8d5e07f-816d-4adb-92df-19e10e8be4b9:
   title_id: reverse-laplace-transform-1s2-1s
   topics: []
   translations: {}
+ddccff02-8932-4545-88f0-fca842a2554b:
+  hexsha:
+    private: 16d700c1a5a2ca7d7c428d16591d86c907755f74
+    public: e5c8298445df31e3bf0dc0fb19e33891bca13a44
+  language: en
+  modified: '2019-03-26T03:17:34.035717Z'
+  title: Centre-of-mass acceleration of 3 particles
+  title_id: centre-of-mass-acceleration-of-3-particles
+  topics: []
+  translations: {}
 e4e87237-eb2b-4a14-ac1f-ad115eeb0e7d:
   hexsha:
     private: d3612a0f7ee5fc2e1431202b7ae90d21facd2f9d

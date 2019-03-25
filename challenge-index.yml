@@ -300,6 +300,16 @@
   title_id: beating-equation
   topics: []
   translations: {}
+429373ee-dd8d-4db4-a3b6-a467c0c3a30a:
+  hexsha:
+    private: 879d754463ed8c8d4f81769907b4c06bf0db76cb
+    public: 4e8665f683b0c20916c4d201fadd71119c7b9e45
+  language: en
+  modified: '2019-03-26T04:30:23.189885Z'
+  title: Magnitude of acceleration of 3 connected bars
+  title_id: magnitude-of-acceleration-of-3-connected-bars
+  topics: []
+  translations: {}
 487a8cac-bcff-4a5e-8286-efcc86e33fb2:
   hexsha:
     private: 4ff0132cb81a3913bb91878fcd891bb0532d5f57

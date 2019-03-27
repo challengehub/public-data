@@ -9,3 +9,13 @@
   title_id: algebra-of-complex-numbers-basic
   topics: []
   translations: {}
+55ccf76c-cb48-4566-b60f-efc880e39d69:
+  hexsha:
+    private: b4f9c0b7b83a74a734e5b825f2128ce1c99d5e42
+    public: 5ee42ee438a1acd72eedd56ca302259c0631156c
+  language: en
+  modified: '2019-03-28T01:45:01.044795Z'
+  title: Algebra of complex numbers (advanced)
+  title_id: algebra-of-complex-numbers-advanced
+  topics: []
+  translations: {}

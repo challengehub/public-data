@@ -944,6 +944,16 @@ d8d5e07f-816d-4adb-92df-19e10e8be4b9:
   title_id: reverse-laplace-transform-1s2-1s
   topics: []
   translations: {}
+da7f72e5-e9f0-40ec-a10f-df648bd9aa64:
+  hexsha:
+    private: 137d7f5a1b653a28e74b5fad97348a976fd7c15a
+    public: 08fed301e144e7f8f0ccfb35665ef99d70eb85d5
+  language: en
+  modified: '2019-03-28T05:39:10.557662Z'
+  title: Translation of an object and the position of the applied force
+  title_id: translation-of-an-object-and-the-position-of-the-applied-force
+  topics: []
+  translations: {}
 ddccff02-8932-4545-88f0-fca842a2554b:
   hexsha:
     private: 16d700c1a5a2ca7d7c428d16591d86c907755f74

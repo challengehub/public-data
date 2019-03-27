@@ -19,3 +19,13 @@
   title_id: algebra-of-complex-numbers-advanced
   topics: []
   translations: {}
+5f46fe37-fbfd-4e7a-8727-d16bbd137d8c:
+  hexsha:
+    private: 4fa934c076c6d2238f91900c98f65eb236f59849
+    public: d7f0adb40bf2e33019cff7d05db726d913f9a272
+  language: en
+  modified: '2019-03-28T07:03:22.199315Z'
+  title: 'Complex plane '
+  title_id: complex-plane
+  topics: []
+  translations: {}

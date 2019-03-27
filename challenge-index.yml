@@ -29,3 +29,13 @@
   title_id: complex-plane
   topics: []
   translations: {}
+dae88784-3825-4735-b25d-94ef821ffc17:
+  hexsha:
+    private: 43a887edb1d86564d0bcf7a67ee51994ac6735bb
+    public: 9891c2f8648f65d95780ecf5f65e54c01e61dada
+  language: en
+  modified: '2019-03-28T07:38:57.890774Z'
+  title: Polar form of complex numbers
+  title_id: polar-form-of-complex-numbers
+  topics: []
+  translations: {}

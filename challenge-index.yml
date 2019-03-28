@@ -39,6 +39,16 @@
   title_id: complex-plane
   topics: []
   translations: {}
+a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
+  hexsha:
+    private: 57f14e736c26a57a6a2967a84a3cb353fc566c4f
+    public: cabeea55b1ded37843b11732d5d96c1f6087d4fd
+  language: en
+  modified: '2019-03-29T02:34:10.983172Z'
+  title: Powers and Roots (advanced)
+  title_id: powers-and-roots-advanced
+  topics: []
+  translations: {}
 dae88784-3825-4735-b25d-94ef821ffc17:
   hexsha:
     private: 65ad565af9e8ff32d0006ce9fdfa021f34089652

@@ -41,10 +41,10 @@
   translations: {}
 a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
   hexsha:
-    private: 57f14e736c26a57a6a2967a84a3cb353fc566c4f
-    public: cabeea55b1ded37843b11732d5d96c1f6087d4fd
+    private: 3510028c9ce586761e18a3288122e4fd462b1b8e
+    public: f4198806bebdc235d5dc30c3ea018e4c51d1d2ef
   language: en
-  modified: '2019-03-29T02:34:10.983172Z'
+  modified: '2019-03-29T05:30:17.412725Z'
   title: Powers and Roots (advanced)
   title_id: powers-and-roots-advanced
   topics: []

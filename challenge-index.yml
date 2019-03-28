@@ -974,6 +974,16 @@ e4e87237-eb2b-4a14-ac1f-ad115eeb0e7d:
   title_id: systems-of-odes-homogeneous-vs-non-homogeneous
   topics: []
   translations: {}
+e553d345-730d-459d-aea1-3d7a828ef541:
+  hexsha:
+    private: 29012e26349a2e6fc8cb3b09269c7be0515ef5d1
+    public: c29f17c5b71649f26ea1cb147750af249682a39b
+  language: en
+  modified: '2019-03-29T05:13:31.012899Z'
+  title: New challenge todays again
+  title_id: new-challenge-todays-again
+  topics: []
+  translations: {}
 ea1da35f-98a6-41b3-83a7-14df85a62212:
   hexsha:
     private: fdc772197c864e6bb38dba68686f064ec4410e81

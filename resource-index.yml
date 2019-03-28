@@ -239,3 +239,13 @@ f95c10c6-227c-4c72-8c9f-85acb20bf8d7:
   topics: []
   upload_time: '2019-03-18T01:38:35Z'
   uploader_id: github.NanoScaleDesign
+
+4cca9bdf-d65a-42e2-a1ce-9f9610a783c1:
+  content_type: image/png
+  hexsha: 74588d52a8bbf76289eef068c02e85424f105b94
+  original_name: force_at_end_of_rod.png
+  title: Rod with a perpendicular force applied at one end
+  title_id: rod-with-a-perpendicular-force-applied-at-one-end-74588d
+  topics: []
+  upload_time: '2019-03-28T05:36:50Z'
+  uploader_id: github.NanoScaleDesign

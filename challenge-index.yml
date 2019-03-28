@@ -21,10 +21,10 @@
   translations: {}
 5f46fe37-fbfd-4e7a-8727-d16bbd137d8c:
   hexsha:
-    private: 88cf1af0510231afe226cbcc2c804a0a5302ffd2
-    public: ab54c3d47b7774cc78a758151373e05b3f77023d
+    private: ec7fd157917152d9612aa480cf3e519759935367
+    public: f6df6b5592c60ac65615e1ebcd7abee10b3c1221
   language: en
-  modified: '2019-03-28T07:27:40.713691Z'
+  modified: '2019-03-29T01:52:04.770864Z'
   title: 'Complex plane '
   title_id: complex-plane
   topics: []

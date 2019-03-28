@@ -31,10 +31,10 @@
   translations: {}
 dae88784-3825-4735-b25d-94ef821ffc17:
   hexsha:
-    private: 43a887edb1d86564d0bcf7a67ee51994ac6735bb
-    public: 9891c2f8648f65d95780ecf5f65e54c01e61dada
+    private: caf3d21fcca4b43ac312c760f3ee26d0d8d494e0
+    public: 395d120442f9b2977c874b2c4c87f45c72f170e9
   language: en
-  modified: '2019-03-28T07:38:57.890774Z'
+  modified: '2019-03-29T02:02:58.000954Z'
   title: Polar form of complex numbers
   title_id: polar-form-of-complex-numbers
   topics: []

@@ -21,10 +21,10 @@
   translations: {}
 55ccf76c-cb48-4566-b60f-efc880e39d69:
   hexsha:
-    private: fb29a77ba66c8658bac46be444d59b6534aece10
-    public: b51b5de075ae6f3f49b01958bd6b1746a7ebfbeb
+    private: 6a5efdf24ea36799f5540bdb49f4e42d1e64dff5
+    public: 8adcb31c7cd4aaac7d6d54f5960ceae89e219e36
   language: en
-  modified: '2019-03-29T01:31:13.497663Z'
+  modified: '2019-03-29T02:22:55.087315Z'
   title: Algebra of complex numbers (advanced)
   title_id: algebra-of-complex-numbers-advanced
   topics: []

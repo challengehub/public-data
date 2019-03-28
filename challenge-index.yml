@@ -1,10 +1,10 @@
 # ChallengeHub Challenge Index
 10e49381-bda6-4d1c-95c2-d4281953a39f:
   hexsha:
-    private: 62d096b316852df82d95628583f207f0f881530a
-    public: 6ac778ede3d10743d2179a67a63f40edad17fec9
+    private: fc20dd6f222022faaa55b5b025c0526d83ef73a7
+    public: bc794d257ecde6e1d7c044e8f293a3bd73945287
   language: en
-  modified: '2019-03-28T08:03:06.354628Z'
+  modified: '2019-03-29T01:24:36.199301Z'
   title: Algebra of complex numbers (basic)
   title_id: algebra-of-complex-numbers-basic
   topics: []

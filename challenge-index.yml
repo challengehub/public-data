@@ -39,6 +39,16 @@
   title_id: complex-plane
   topics: []
   translations: {}
+9afe8a01-58d3-44c9-a644-d240514a3bca:
+  hexsha:
+    private: 0ee4efd5dbb85d0eadf396f789b5ea18cf81e239
+    public: 86d6d7bb7dbde2ce8f84549753cdff4e6dbd7634
+  language: en
+  modified: '2019-03-29T05:52:20.655064Z'
+  title: Sets of Points in the Complex Plane (basic)
+  title_id: sets-of-points-in-the-complex-plane-basic
+  topics: []
+  translations: {}
 a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
   hexsha:
     private: 3510028c9ce586761e18a3288122e4fd462b1b8e

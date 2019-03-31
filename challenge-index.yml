@@ -895,6 +895,16 @@ cb151613-d7d4-40b0-8c0a-5f848645b490:
   title_id: shifting-laplace-transforms-identifying-ft
   topics: []
   translations: {}
+cf4144a5-5a0f-48aa-9d8a-fe89c64551fc:
+  hexsha:
+    private: 2e479a7cc55ae8e408cedb9ea370153a56edaa82
+    public: 776fa90f50a8bb87f356d88afd9cf9c5ab1cebb3
+  language: en
+  modified: '2019-04-01T05:24:25.474998Z'
+  title: Increase in angular velocity of 3 particles after application of a couple
+  title_id: increase-in-angular-velocity-of-3-particles-after-application-of-a-couple
+  topics: []
+  translations: {}
 d09b6da5-636f-44c4-b001-8a31cd92f76d:
   hexsha:
     private: ae2ba1e6eae889ddb74df8e714a9476985b720f9

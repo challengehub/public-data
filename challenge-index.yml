@@ -996,6 +996,16 @@ d7cf3ecc-0a2b-48f0-82f5-f3afc7c40425:
   title_id: systems-of-odes-basis-for-creating-a-system-of-equations-from-a-single-homogeneous-ode-2y-4y-6y-0
   topics: []
   translations: {}
+d8a27632-bc34-4b99-a633-b3f7c00f92bc:
+  hexsha:
+    private: e2c606363352673e1407b97f6718d9c385995a27
+    public: 6001cda40216bf08448c79e72a8a233bdc4eeac6
+  language: en
+  modified: '2019-04-01T08:35:34.155684Z'
+  title: Determining the angular acceleration of particles relative to the centre-of-mass
+  title_id: determining-the-angular-acceleration-of-particles-relative-to-the-centre-of-mass
+  topics: []
+  translations: {}
 d8d5e07f-816d-4adb-92df-19e10e8be4b9:
   hexsha:
     private: b0cebaeb19f4b137b060f12926095631e9b4b5d8

@@ -441,6 +441,17 @@
   title_id: centre-of-mass-velocity-of-3-particles
   topics: []
   translations: {}
+639e1675-f3d9-40a7-a095-03e653f034d6:
+  hexsha:
+    private: e718e7503f866979a29259d29edfba23fc981e5f
+    public: 260ac07c3f7fa8145f66fac6f7e6813c9658bdc7
+  language: en
+  modified: '2019-04-01T05:01:30.391984Z'
+  title: Determining the angular momentum and rate of change of angular momentum of
+    particles relative to the origin
+  title_id: determining-the-angular-momentum-and-rate-of-change-of-angular-momentum-of-particles-relative-to-the-origin
+  topics: []
+  translations: {}
 65cc3492-2545-4f68-9d25-9758a04fe9a7:
   hexsha:
     private: 0602f4a00b5b2e9ffa2d0dbfb1f379b2390b82e3

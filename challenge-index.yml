@@ -413,10 +413,10 @@
   translations: {}
 52f54f10-ab1a-4aa7-909c-822e28c52ff3:
   hexsha:
-    private: 226f425d3de951d19b96e4ba7481d96ddaec78a5
-    public: 79b75b87a47e5579188077c900a3e757cc1f3f12
+    private: 05252eafcb90c9d49969e23aa643522a7a2bef67
+    public: 7251aae578232a9b8a3f4441a8a6cd4373c2eeb5
   language: en
-  modified: '2019-04-01T06:39:06.374563Z'
+  modified: '2019-04-01T06:39:59.899924Z'
   title: Determining the angular momentum of particles relative to the centre-of-mass
   title_id: determining-the-angular-momentum-of-particles-relative-to-the-centre-of-mass
   topics: []

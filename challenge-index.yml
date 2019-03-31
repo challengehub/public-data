@@ -411,6 +411,16 @@
   title_id: characteristic-equation-mixed-real-roots
   topics: []
   translations: {}
+52f54f10-ab1a-4aa7-909c-822e28c52ff3:
+  hexsha:
+    private: 226f425d3de951d19b96e4ba7481d96ddaec78a5
+    public: 79b75b87a47e5579188077c900a3e757cc1f3f12
+  language: en
+  modified: '2019-04-01T06:39:06.374563Z'
+  title: Determining the angular momentum of particles relative to the centre-of-mass
+  title_id: determining-the-angular-momentum-of-particles-relative-to-the-centre-of-mass
+  topics: []
+  translations: {}
 5ef934f8-0c6c-4559-99b1-6c6ac8c81e4e:
   hexsha:
     private: 5020c9694e1ad976b88542fa9af4c78a83f0e29b

@@ -99,6 +99,17 @@
   title_id: introduction-to-convolution-sintcost
   topics: []
   translations: {}
+197ba1e8-960a-477a-abac-881bca15494a:
+  hexsha:
+    private: 742c44aa0a9b94497f204eae5526c812e86a8b66
+    public: 8ce33035a7918bc996c7ee742dd40f28bdbd2468
+  language: en
+  modified: '2019-04-01T04:35:52.748019Z'
+  title: Calculation of cross-product of 2 vectors, without using the angle between
+    them
+  title_id: calculation-of-cross-product-of-2-vectors-without-using-the-angle-between-them
+  topics: []
+  translations: {}
 1b532910-196a-488b-84bb-338bba19348a:
   hexsha:
     private: bb375fa7bd1670e1b9ce611d8c9027e1fad6c532

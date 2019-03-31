@@ -524,12 +524,12 @@
   translations: {}
 7f1880ea-7fe1-4fd5-9c04-9ecd0804cd5e:
   hexsha:
-    private: 1738dc1d0a01fa089a92ce24bae69e694f948f97
-    public: cef936e6012d49b8faebd5218f2264abecd78b10
+    private: 4471c7d51edd87b6e53e87f9087c7848703056ac
+    public: 18402da8cd8aa8ccbbd078785fde52553c0b311b
   language: en
-  modified: '2019-04-01T05:42:10.832869Z'
-  title: Time taken to reverse angular velocity of 4 particles about the origin
-  title_id: time-taken-to-reverse-angular-velocity-of-4-particles-about-the-origin
+  modified: '2019-04-01T05:43:16.470454Z'
+  title: Time required to reverse angular velocity of 4 particles about the origin
+  title_id: time-required-to-reverse-angular-velocity-of-4-particles-about-the-origin
   topics: []
   translations: {}
 7f485add-468f-4db6-a3cc-23fe0e18a5aa:

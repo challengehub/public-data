@@ -522,6 +522,16 @@
   title_id: introduction-to-convolution-t-cost
   topics: []
   translations: {}
+7f1880ea-7fe1-4fd5-9c04-9ecd0804cd5e:
+  hexsha:
+    private: 1738dc1d0a01fa089a92ce24bae69e694f948f97
+    public: cef936e6012d49b8faebd5218f2264abecd78b10
+  language: en
+  modified: '2019-04-01T05:42:10.832869Z'
+  title: Time taken to reverse angular velocity of 4 particles about the origin
+  title_id: time-taken-to-reverse-angular-velocity-of-4-particles-about-the-origin
+  topics: []
+  translations: {}
 7f485add-468f-4db6-a3cc-23fe0e18a5aa:
   hexsha:
     private: c78a26b4902c2c512726c10ae031039d53082b33

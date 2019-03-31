@@ -159,6 +159,16 @@
   title_id: laplace-transform-of-a-unit-step-function-u0
   topics: []
   translations: {}
+2aa3defc-10ab-447b-8ab6-d62f2a631c1f:
+  hexsha:
+    private: ca442aee0e4a2c32382fb9fa7a0f2dc22491d350
+    public: e8509e6555b19290a8044eec04be173c0328bd77
+  language: en
+  modified: '2019-04-01T04:19:18.963959Z'
+  title: Calculation of cross-product of 2 vectors, using the angle between them
+  title_id: calculation-of-cross-product-of-2-vectors-using-the-angle-between-them
+  topics: []
+  translations: {}
 2e8d8182-aaf8-4ae1-99a3-6510723306ea:
   hexsha:
     private: 6b9fc3c8ab5bd46398d932a140c3685693d135b3

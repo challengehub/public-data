@@ -51,10 +51,10 @@
   translations: {}
 72487f46-63b5-4b74-a511-b228350aaf15:
   hexsha:
-    private: d6bcda4e7adf8f927833d8dcc6a7c46542e238cd
-    public: 41a2c723298b0501915918e3468206565bb8237a
+    private: 89261cc740662ba5c13225717184a760bf06d0a9
+    public: 69a3a832e1ecb68eb3d82f16698f852cd7027d9e
   language: en
-  modified: '2019-04-02T04:57:43.558232Z'
+  modified: '2019-04-02T05:22:48.401913Z'
   title: 'Complex functions '
   title_id: complex-functions
   topics: []

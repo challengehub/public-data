@@ -71,10 +71,10 @@
   translations: {}
 a32b120a-3300-4c98-9a3d-9935bb0a300d:
   hexsha:
-    private: 3130d9f53ecea97a19fc839e30762d739767bebb
-    public: 562d32022a57857a4e3ff6d8cbf1b8f3d23b3810
+    private: 481260a44ac5ff5f4e87df19855f935f31481425
+    public: fd30253c2149375b32640b29ad11f2a81d749ea0
   language: en
-  modified: '2019-04-02T05:09:21.547116Z'
+  modified: '2019-04-02T05:23:22.917015Z'
   title: Complex functions as mappings
   title_id: complex-functions-as-mappings
   topics: []

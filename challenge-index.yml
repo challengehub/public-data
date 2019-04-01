@@ -11,10 +11,10 @@
   translations: {}
 3173c7df-f880-4026-8b4a-acfac543d675:
   hexsha:
-    private: ac341f542c170312e0a3072792372f6e3e7964b4
-    public: 779a4bd3e02db1ddc799e47af216d0932f377639
+    private: 00504a84494c83777741503498b2c943956b300c
+    public: e602c4f01c5db74166e590628c462f98114c4a59
   language: en
-  modified: '2019-03-29T02:28:21.480467Z'
+  modified: '2019-04-02T02:26:42.6966Z'
   title: Polar form of complex numbers (advanced)
   title_id: polar-form-of-complex-numbers-advanced
   topics: []

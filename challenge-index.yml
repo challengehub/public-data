@@ -69,6 +69,16 @@
   title_id: sets-of-points-in-the-complex-plane-basic
   topics: []
   translations: {}
+a32b120a-3300-4c98-9a3d-9935bb0a300d:
+  hexsha:
+    private: 3130d9f53ecea97a19fc839e30762d739767bebb
+    public: 562d32022a57857a4e3ff6d8cbf1b8f3d23b3810
+  language: en
+  modified: '2019-04-02T05:09:21.547116Z'
+  title: Complex functions as mappings
+  title_id: complex-functions-as-mappings
+  topics: []
+  translations: {}
 a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
   hexsha:
     private: 8ac40997ef3c732d608e1812821731bdd4c54917

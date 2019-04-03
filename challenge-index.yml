@@ -1036,6 +1036,16 @@ ddccff02-8932-4545-88f0-fca842a2554b:
   title_id: centre-of-mass-acceleration-of-3-particles
   topics: []
   translations: {}
+deac25c3-00ee-417c-8ebc-1cc83297a62a:
+  hexsha:
+    private: 33b0017156f86b01f48cd9e563816eed4c790c24
+    public: 6612a1a831b4eee57de6306099c0cbb4e161a570
+  language: en
+  modified: '2019-04-04T00:24:12.488833Z'
+  title: Velocity after collision of a projectile and a cord with two masses (4/28)
+  title_id: velocity-after-collision-of-a-projectile-and-a-cord-with-two-masses-428
+  topics: []
+  translations: {}
 e4e87237-eb2b-4a14-ac1f-ad115eeb0e7d:
   hexsha:
     private: d3612a0f7ee5fc2e1431202b7ae90d21facd2f9d

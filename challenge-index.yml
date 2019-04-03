@@ -1038,10 +1038,10 @@ ddccff02-8932-4545-88f0-fca842a2554b:
   translations: {}
 deac25c3-00ee-417c-8ebc-1cc83297a62a:
   hexsha:
-    private: 33b0017156f86b01f48cd9e563816eed4c790c24
-    public: 6612a1a831b4eee57de6306099c0cbb4e161a570
+    private: 640d3b069b48d658ca7a071ccd5e47c0f1880ead
+    public: e3b115738ff4568eb62528334bea0b9aa3a5c324
   language: en
-  modified: '2019-04-04T00:24:12.488833Z'
+  modified: '2019-04-04T00:26:45.940357Z'
   title: Velocity after collision of a projectile and a cord with two masses (4/28)
   title_id: velocity-after-collision-of-a-projectile-and-a-cord-with-two-masses-428
   topics: []

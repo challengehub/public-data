@@ -51,10 +51,10 @@
   translations: {}
 15dae042-098e-4860-9642-35c7232dc59b:
   hexsha:
-    private: 15e8946514bfab536d45ac25078bad80bc3dfd09
-    public: d194d25195737469404514e9d7acd18f0344c4e9
+    private: 65737c3d265910a6957be8a2e70e04e06e7c4f71
+    public: e3fde6b520c93d400180a4e2d8f435dd45f879da
   language: en
-  modified: '2019-03-26T03:24:41.923814Z'
+  modified: '2019-04-08T04:35:09.979137Z'
   title: 'Tension: 3 monkeys climbing a rope'
   title_id: tension-3-monkeys-climbing-a-rope
   topics: []

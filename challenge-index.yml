@@ -39,3 +39,13 @@
   title_id: challenge-4-from-3
   topics: []
   translations: {}
+c9ea708f-37a2-4dd6-8607-546fea6c3ff9:
+  hexsha:
+    private: 59be67d37a29db81f697003ac877503c08c4c34c
+    public: 599b2c56d0a8ffd712941e928379f55c96267f69
+  language: en
+  modified: '2019-04-09T18:07:04.448921Z'
+  title: Challenge 3 - copy from list of challenges
+  title_id: challenge-3-copy-from-list-of-challenges
+  topics: []
+  translations: {}

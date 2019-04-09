@@ -91,10 +91,10 @@ a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
   translations: {}
 dae88784-3825-4735-b25d-94ef821ffc17:
   hexsha:
-    private: 02ffb6e1940f870bb884b29c8800a03583f67ee5
-    public: 48751bf72677d9ec7dde62d7369a2be80435df35
+    private: 9585315280952e04d2675a488f2f3c865607167c
+    public: 00dee3741fb2f4e4dd0567b1d3fd1f5ff8474125
   language: en
-  modified: '2019-04-02T02:20:52.853379Z'
+  modified: '2019-04-09T14:10:46.450716Z'
   title: Polar form of complex numbers (basic)
   title_id: polar-form-of-complex-numbers-basic
   topics: []

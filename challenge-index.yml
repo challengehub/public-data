@@ -29,3 +29,13 @@
   title_id: challenge-1-2
   topics: []
   translations: {}
+8dcdd0bc-0e30-441b-af24-17337fa3868b:
+  hexsha:
+    private: 912a34907d775f8bb10cbe489874c6b63a517e2a
+    public: e66b4350aede70dfba154aae2ed3575dbc5deb15
+  language: en
+  modified: '2019-04-09T17:53:30.50514Z'
+  title: Challenge 4 from 3
+  title_id: challenge-4-from-3
+  topics: []
+  translations: {}

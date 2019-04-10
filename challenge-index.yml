@@ -451,6 +451,16 @@
   title_id: 2d-matrices-review-eigenvectors-and-eigenvalues-57-13
   topics: []
   translations: {}
+60a8248b-464a-43fd-9bea-3aaf9fa3df59:
+  hexsha:
+    private: 041ad458ecba61389421479d2e5460e12656dc9b
+    public: d880c2f02928d287bf439b8145ec6f1227862233
+  language: en
+  modified: '2019-04-11T07:02:59.145892Z'
+  title: Rocket sample problem
+  title_id: rocket-sample-problem
+  topics: []
+  translations: {}
 62c2a3e2-cc5c-4031-bf1d-85bb5adaa7db:
   hexsha:
     private: 5b3e6b8af92c841ebe6293c99421552a3009d839

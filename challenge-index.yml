@@ -110,6 +110,16 @@
   title_id: calculation-of-cross-product-of-2-vectors-without-using-the-angle-between-them
   topics: []
   translations: {}
+1a72dc61-d422-4073-94b2-6828b0763c83:
+  hexsha:
+    private: e9f9254c0c4d6cd27885506a28adfa10f7e04d32
+    public: 0a2abceea9b0cf8464357aca4e046399407378fe
+  language: en
+  modified: '2019-04-11T06:12:54.22542Z'
+  title: Mass flow rate of a rocket
+  title_id: mass-flow-rate-of-a-rocket
+  topics: []
+  translations: {}
 1b532910-196a-488b-84bb-338bba19348a:
   hexsha:
     private: bb375fa7bd1670e1b9ce611d8c9027e1fad6c532

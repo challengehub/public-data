@@ -210,6 +210,16 @@
   title_id: test007
   topics: []
   translations: {}
+319b5364-1969-40c2-b292-cdfcb667cc77:
+  hexsha:
+    private: ab771ede4d66dc23a317b019667bd866b848d6f2
+    public: 0666e6bb34a5353982cc695340a3148a59923cb8
+  language: en
+  modified: '2019-04-12T01:17:07.277177Z'
+  title: Calculating the mass of a rocket and its fuel at launch
+  title_id: calculating-the-mass-of-a-rocket-and-its-fuel-at-launch
+  topics: []
+  translations: {}
 32a02bad-bcf3-4c8f-b263-b4608c963a3c:
   hexsha:
     private: 4a565facf4f8749d34bb950b789029b3f17cafb6

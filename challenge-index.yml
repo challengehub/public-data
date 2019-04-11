@@ -311,6 +311,16 @@
   title_id: the-dirac-delta-function-and-its-laplace-transform-deltat-c
   topics: []
   translations: {}
+3ca28800-bbba-442a-a9cc-f68dd304b355:
+  hexsha:
+    private: eda9ab4a2dd547f70076f246cb82e478b4ada108
+    public: 04817124422dfa203aab816d58732a64a9352eba
+  language: en
+  modified: '2019-04-12T06:37:57.278286Z'
+  title: Acceleration while gaining mass
+  title_id: acceleration-while-gaining-mass
+  topics: []
+  translations: {}
 3e0f96e1-d3aa-4c49-bbec-5da3b64951c7:
   hexsha:
     private: 24ae3e7bebdc28cff466ba1a709d769edfe37e09

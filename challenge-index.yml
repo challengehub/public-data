@@ -431,6 +431,16 @@
   title_id: characteristic-equation-mixed-real-roots
   topics: []
   translations: {}
+4ff09d7b-e049-4d9a-aeb0-3062ee846e4a:
+  hexsha:
+    private: ca02d6c377a1b46a9991f4723d1c2fa5153c5738
+    public: 7e547ff92843f7dbef8569a69ec43f493fd467c4
+  language: en
+  modified: '2019-04-12T03:24:00.3466Z'
+  title: Maximum velocity of a rocket on an incline
+  title_id: maximum-velocity-of-a-rocket-on-an-incline
+  topics: []
+  translations: {}
 52f54f10-ab1a-4aa7-909c-822e28c52ff3:
   hexsha:
     private: 05252eafcb90c9d49969e23aa643522a7a2bef67

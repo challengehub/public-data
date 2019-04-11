@@ -713,6 +713,16 @@
   title_id: at-roughly-what-mole-fraction-does-water-water-interaction-experience-the-greatest-drop-in-its-contribution-to-thermal-conductivity
   topics: []
   translations: {}
+978f3e18-effe-4c0e-9c44-49ecbcdf086e:
+  hexsha:
+    private: c25a1ccf266b12caa5db3e5d380f1b7358742161
+    public: b164752a95beb94eee97d0b1969e1770cf5f3c41
+  language: en
+  modified: '2019-04-12T05:52:59.037623Z'
+  title: Mass intake and power
+  title_id: mass-intake-and-power
+  topics: []
+  translations: {}
 9a933582-fd69-45ff-88fc-c33954f1caf3:
   hexsha:
     private: d51790c003ac3f93624ca49c5f76a79639870223

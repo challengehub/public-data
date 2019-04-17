@@ -373,10 +373,10 @@
   translations: {}
 46c6645c-e972-4c6f-9044-5efb418e1b41:
   hexsha:
-    private: 80a6fc3d48432d1e383bad8af1a59d2c67d13c50
-    public: 65ee816d563befc87268426a78e0ce0a547d04a3
+    private: 9f9dabd0a7b4611a4dc2ac18c943656276e08ffe
+    public: 8cd70c9d9b1657abd4aa9f0565a14419b3c4502b
   language: en
-  modified: '2019-04-18T00:47:16.130024Z'
+  modified: '2019-04-18T00:48:20.341267Z'
   title: The difference between the Chain and Rope style problems
   title_id: the-difference-between-the-chain-and-rope-style-problems
   topics: []

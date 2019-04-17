@@ -491,6 +491,16 @@
   title_id: rocket-sample-problem
   topics: []
   translations: {}
+6275022c-f0db-4aac-a459-78be02d27dfb:
+  hexsha:
+    private: 8d5759a3a3e0d24d9ee59b78b71279a82a6531c9
+    public: 47be9dd5d07b35dd556758f0a3855318784e908b
+  language: en
+  modified: '2019-04-18T00:23:17.484363Z'
+  title: Rope style sample problem (SP 4/10)
+  title_id: rope-style-sample-problem-sp-410
+  topics: []
+  translations: {}
 62c2a3e2-cc5c-4031-bf1d-85bb5adaa7db:
   hexsha:
     private: 5b3e6b8af92c841ebe6293c99421552a3009d839

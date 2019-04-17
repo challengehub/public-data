@@ -371,6 +371,16 @@
   title_id: magnitude-of-acceleration-of-3-connected-bars
   topics: []
   translations: {}
+46c6645c-e972-4c6f-9044-5efb418e1b41:
+  hexsha:
+    private: 80a6fc3d48432d1e383bad8af1a59d2c67d13c50
+    public: 65ee816d563befc87268426a78e0ce0a547d04a3
+  language: en
+  modified: '2019-04-18T00:47:16.130024Z'
+  title: The difference between the Chain and Rope style problems
+  title_id: the-difference-between-the-chain-and-rope-style-problems
+  topics: []
+  translations: {}
 487a8cac-bcff-4a5e-8286-efcc86e33fb2:
   hexsha:
     private: 4ff0132cb81a3913bb91878fcd891bb0532d5f57

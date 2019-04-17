@@ -542,6 +542,16 @@
   title_id: determining-the-angular-momentum-and-rate-of-change-of-angular-momentum-of-particles-relative-to-the-origin
   topics: []
   translations: {}
+65717e7d-d8ac-469e-8bb9-bc3e19751bff:
+  hexsha:
+    private: b3358ccdb0d0eb6314ea5e7044ffce287dc0b32a
+    public: dada76cefa318f3714b6a1a4d3af30f92d591d05
+  language: en
+  modified: '2019-04-18T03:53:52.151465Z'
+  title: Acceleration of a chain placed around the edge of a block
+  title_id: acceleration-of-a-chain-placed-around-the-edge-of-a-block
+  topics: []
+  translations: {}
 65cc3492-2545-4f68-9d25-9758a04fe9a7:
   hexsha:
     private: 0602f4a00b5b2e9ffa2d0dbfb1f379b2390b82e3

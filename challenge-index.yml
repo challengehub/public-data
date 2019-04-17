@@ -763,6 +763,16 @@
   title_id: new-challenge-todays
   topics: []
   translations: {}
+9fd492fa-1c4d-42a2-9f02-25b1c749c8ed:
+  hexsha:
+    private: 2a0dbb7d078174039396c5809b83d1c34bea046f
+    public: 068addd20b6f2ca6b56abc9274aaf914c90a05a8
+  language: en
+  modified: '2019-04-18T00:45:04.811272Z'
+  title: Considering constrained and unconstrained rope-style problems
+  title_id: considering-constrained-and-unconstrained-rope-style-problems
+  topics: []
+  translations: {}
 a0ed605d-5922-4f03-a6ac-979f3e7a8b88:
   hexsha:
     private: fd0905b15efcf2e7f7d254f8f70b41fdda301cad

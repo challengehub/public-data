@@ -1217,6 +1217,16 @@ f3df34b5-743f-4d00-a9ed-c792db6d1673:
   title_id: test-6
   topics: []
   translations: {}
+f4f78e8e-eda1-4789-8028-8283b38c07c9:
+  hexsha:
+    private: 3895226738faf6355c7d56a2e8ff505aa5f659b9
+    public: 49006862e5bdb3d91a2147a6d8030df7eea9c43a
+  language: en
+  modified: '2019-04-18T00:08:02.355001Z'
+  title: Chain style sample problem (SP 4/9)
+  title_id: chain-style-sample-problem-sp-49
+  topics: []
+  translations: {}
 f5748ada-0a79-4ae1-8f96-388d6133f7ca:
   hexsha:
     private: 6de6597784544cf370954150b296c16008449767

@@ -471,6 +471,16 @@
   title_id: determining-the-angular-momentum-of-particles-relative-to-the-centre-of-mass
   topics: []
   translations: {}
+5de80663-f19b-4e4d-b56a-00125c968615:
+  hexsha:
+    private: 156885d8c9929035bdb8b36e1ea4439974a57ac5
+    public: df492a68b00779eed9a0a005562a52826ecb707a
+  language: en
+  modified: '2019-04-18T01:37:33.444135Z'
+  title: Lifting a chain
+  title_id: lifting-a-chain
+  topics: []
+  translations: {}
 5ef934f8-0c6c-4559-99b1-6c6ac8c81e4e:
   hexsha:
     private: 5020c9694e1ad976b88542fa9af4c78a83f0e29b

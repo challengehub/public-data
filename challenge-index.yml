@@ -79,6 +79,16 @@ a32b120a-3300-4c98-9a3d-9935bb0a300d:
   title_id: complex-functions-as-mappings
   topics: []
   translations: {}
+a4a73db7-0035-4f6f-8920-b4ccb876f04b:
+  hexsha:
+    private: bf36b0163e4152990ffbc34f59fef64db8e23359
+    public: 7fa7d6cfd8d77030c6c4c0adbf47e1e29193299d
+  language: en
+  modified: '2019-04-19T01:52:41.51485Z'
+  title: Course introduction
+  title_id: course-introduction
+  topics: []
+  translations: {}
 a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
   hexsha:
     private: 8ac40997ef3c732d608e1812821731bdd4c54917

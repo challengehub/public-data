@@ -81,10 +81,10 @@ a32b120a-3300-4c98-9a3d-9935bb0a300d:
   translations: {}
 a4a73db7-0035-4f6f-8920-b4ccb876f04b:
   hexsha:
-    private: bf36b0163e4152990ffbc34f59fef64db8e23359
-    public: 7fa7d6cfd8d77030c6c4c0adbf47e1e29193299d
+    private: a7b8ce6761e3a9ea56a8ee0a529a7fd942ae3e98
+    public: 052e4649d6412c8b25918b96afffb00dee10cc60
   language: en
-  modified: '2019-04-19T01:52:41.51485Z'
+  modified: '2019-04-19T01:53:26.337907Z'
   title: Course introduction
   title_id: course-introduction
   topics: []

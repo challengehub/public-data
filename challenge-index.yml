@@ -111,10 +111,10 @@ dae88784-3825-4735-b25d-94ef821ffc17:
   translations: {}
 e3e5bcf8-36d9-45d5-87e2-18e4d3e0cc8a:
   hexsha:
-    private: 3f3d2b3d339530b2fedd26d23957cb68382dcfba
-    public: ee0db51ba113afce9114687a520fb4396ddc9243
+    private: ff3e2814057df2770d41537717f49bd15ada1f83
+    public: 3a028ee1d2eb942a3c6bcf157567ff4428d3e110
   language: en
-  modified: '2019-04-17T04:51:15.290331Z'
+  modified: '2019-04-22T05:53:18.410401Z'
   title: 'Applications of complex numbers '
   title_id: applications-of-complex-numbers
   topics: []

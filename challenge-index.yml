@@ -1129,12 +1129,12 @@ d828d071-d594-45c6-89ce-9669be9291cb:
   translations: {}
 d8a27632-bc34-4b99-a633-b3f7c00f92bc:
   hexsha:
-    private: e2c606363352673e1407b97f6718d9c385995a27
-    public: 6001cda40216bf08448c79e72a8a233bdc4eeac6
+    private: be30c48dbd7d89392165134c157f07a84f7b53ab
+    public: 242e2e5149d4ea78a151a84c31f5079daede335d
   language: en
-  modified: '2019-04-01T08:35:34.155684Z'
-  title: Determining the angular acceleration of particles relative to the centre-of-mass
-  title_id: determining-the-angular-acceleration-of-particles-relative-to-the-centre-of-mass
+  modified: '2019-04-22T04:41:32.62202Z'
+  title: Determining the torque of particles relative to the centre-of-mass
+  title_id: determining-the-torque-of-particles-relative-to-the-centre-of-mass
   topics: []
   translations: {}
 d8d5e07f-816d-4adb-92df-19e10e8be4b9:

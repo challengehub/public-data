@@ -91,10 +91,10 @@ a4a73db7-0035-4f6f-8920-b4ccb876f04b:
   translations: {}
 a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
   hexsha:
-    private: d2fb5d2a78c4a677c028e781a68c9f72fc31cd3d
-    public: 524f9714d0e8dce9c4ceb54ccc909601aab4de5a
+    private: 4656804146ccbc76c6b429d620856a204c6772dc
+    public: db21edbb5da504df59203022525a3fbe14d7f926
   language: en
-  modified: '2019-04-22T01:52:08.316867Z'
+  modified: '2019-04-22T01:53:13.12012Z'
   title: Powers and roots (advanced)
   title_id: powers-and-roots-advanced
   topics: []

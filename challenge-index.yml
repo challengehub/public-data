@@ -1,4 +1,14 @@
 # ChallengeHub Challenge Index
+0067ab4b-f668-4b39-b0bb-71ee50f0c221:
+  hexsha:
+    private: deeaa3fa19ff355da8c3318462aeef78e63ae781
+    public: a7d6b6941be599a11b68d17ac9a63a46c6b21d60
+  language: en
+  modified: '2019-05-07T07:17:04.706075Z'
+  title: Radial velocity of a rotating rod with no angular acceleration
+  title_id: radial-velocity-of-a-rotating-rod-with-no-angular-acceleration
+  topics: []
+  translations: {}
 00cfeb1f-f257-41a3-aa75-e69506520180:
   hexsha:
     private: 9a8b2ebbc1af07baa4845576c58a4d9368206142

@@ -764,10 +764,10 @@
   translations: {}
 8faa60f3-a7b1-464c-a22d-2b8cf3c39966:
   hexsha:
-    private: c398f4e1953608521582ea5535495700f8d890fe
-    public: 206044bef72d04129bd824e1e5e061e9d78e07d4
+    private: abb2e5f2c318bd1bbd5e5261ba2264f854e384e6
+    public: 2c951cbf19fca907913dbbefc2624736ee8f8ec5
   language: en
-  modified: '2019-05-07T07:52:46.474841Z'
+  modified: '2019-05-07T07:57:04.947465Z'
   title: Radial acceleration towards the axis of rotation of a point with no angular
     acceleration
   title_id: radial-acceleration-towards-the-axis-of-rotation-of-a-point-with-no-angular-acceleration

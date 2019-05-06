@@ -7,7 +7,7 @@ editor_id: github.cbal-brezina
 extra_resources: {}
 id: 7754dc09-71ec-4ccb-8c9c-cbed13cd42ba
 language: en
-modified: '2019-05-05T01:54:12.254424Z'
+modified: '2019-05-07T05:53:47.37779Z'
 title: Linear mappings
 title_id: linear-mappings
 topics: []
@@ -28,9 +28,7 @@ version: '1.0'
 
 ## Comments
 
-Linear functions are the easiest type of functions to visualize in complex plane. On the other hand,
-they play a crucial role in the concept of limit and differentiation. We will be working with
-them a lot and hence a good understanding of them is a must. 
+Linear functions are the easiest type of functions to visualize in complex plane. On the other hand, they play a crucial role in the concept of limit and differentiation. We will be working with them a lot and hence a good understanding of them is a must. 
 
 
 ## Challenge

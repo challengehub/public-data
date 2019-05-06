@@ -752,6 +752,17 @@
   title_id: method-of-undetermined-coefficients-ii-part-3
   topics: []
   translations: {}
+8faa60f3-a7b1-464c-a22d-2b8cf3c39966:
+  hexsha:
+    private: 6c003b5f3b1d1b2f4793b1c05a9b51e76b35b91d
+    public: 9bc23b3e4f5f1b12221999a6b9452a4c83ccaffb
+  language: en
+  modified: '2019-05-07T07:49:25.605432Z'
+  title: Radial acceleration towards the axis of rotation of a point with no angular
+    acceleration
+  title_id: radial-acceleration-towards-the-axis-of-rotation-of-a-point-with-no-angular-acceleration
+  topics: []
+  translations: {}
 91ce0b79-300c-4536-ae8b-f5a4921153d1:
   hexsha:
     private: e2bb0fbce8a9a2624b260569558760ec9c8cf73c

@@ -111,10 +111,10 @@
   translations: {}
 18c8d9e8-09b6-4894-956e-16d5141ffdf5:
   hexsha:
-    private: 492d7aa6ac6afbe805ac19a1e2b2b7441a7b63ce
-    public: 627e2f8d8a39a6b5eb95fc2a909d9fc0c7a9207b
+    private: 01dafa8791bf09ecb0a5e6965d6089ce4153cece
+    public: ce513ae23ab4606d98e24599e15e2858d5b9e08d
   language: en
-  modified: '2019-05-07T07:51:10.706468Z'
+  modified: '2019-05-07T07:57:29.874175Z'
   title: Tangential radial acceleration of a point with no angular acceleration
   title_id: tangential-radial-acceleration-of-a-point-with-no-angular-acceleration
   topics: []

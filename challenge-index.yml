@@ -1,10 +1,10 @@
 # ChallengeHub Challenge Index
 0067ab4b-f668-4b39-b0bb-71ee50f0c221:
   hexsha:
-    private: f288efa4872b82c843cf6f8a962d34dc6120fed2
-    public: 4f454af718779797c919a3a5870472fc80c5321e
+    private: 0c4158078f94c03b8cb048159e62e45dc16a399d
+    public: 77a4bb690541029455dfd1fab3da378b530bbce9
   language: en
-  modified: '2019-05-07T07:51:54.085596Z'
+  modified: '2019-05-07T07:56:40.184122Z'
   title: Radial velocity of a point with no angular acceleration
   title_id: radial-velocity-of-a-point-with-no-angular-acceleration
   topics: []

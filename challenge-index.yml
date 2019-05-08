@@ -210,6 +210,16 @@
   title_id: calculation-of-cross-product-of-2-vectors-using-the-angle-between-them
   topics: []
   translations: {}
+2d665ad7-18f9-4f65-b335-871cedf1e07f:
+  hexsha:
+    private: b84c1a23d24c78fa6d9e1343fa6d35d74071e7d6
+    public: 6e45cc29a255242c1ccd990d6a4040ead97e7d2b
+  language: en
+  modified: '2019-05-09T08:12:49.554304Z'
+  title: Magnitude of acceleration of a tip during 3D rotation (7/4)
+  title_id: magnitude-of-acceleration-of-a-tip-during-3d-rotation-74
+  topics: []
+  translations: {}
 2e8d8182-aaf8-4ae1-99a3-6510723306ea:
   hexsha:
     private: 6b9fc3c8ab5bd46398d932a140c3685693d135b3

@@ -321,6 +321,16 @@
   title_id: convolution-and-the-laplace-transform-122-2s
   topics: []
   translations: {}
+39841efc-79de-4517-a8f0-5e3f79063d89:
+  hexsha:
+    private: 8621b140d602142c73f10800ee81b20cbf35c989
+    public: ade0d77f3caef2744d2c1b98f645fcdbebd7bbd0
+  language: en
+  modified: '2019-05-09T07:50:58.46436Z'
+  title: Definitions of space cones and body cones
+  title_id: definitions-of-space-cones-and-body-cones
+  topics: []
+  translations: {}
 3bdb5c87-a8c0-43e0-8178-c1b7b5558c7c:
   hexsha:
     private: a02e239971ed45674f31dae7f110e089c48a1b45

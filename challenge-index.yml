@@ -19,6 +19,17 @@
   title_id: characteristic-equation-identification-equal-roots
   topics: []
   translations: {}
+0404233f-e37f-4d36-9629-eda764d570f5:
+  hexsha:
+    private: 67c881feb25cdbe6c7b192bd1cd398835f3807e6
+    public: 9aa74bb821f6c7fdaeb12453ce4a2def8860d8c2
+  language: en
+  modified: '2019-05-10T00:02:19.638802Z'
+  title: A worked example of calculations of two simultanious rotations on different
+    axes
+  title_id: a-worked-example-of-calculations-of-two-simultanious-rotations-on-different-axes
+  topics: []
+  translations: {}
 068df312-4c2a-495c-8378-5f7aaf9ee690:
   hexsha:
     private: 99422e488ebc16e9c171efeb17cf6c00cd0867a0

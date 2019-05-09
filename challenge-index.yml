@@ -1239,6 +1239,17 @@ deac25c3-00ee-417c-8ebc-1cc83297a62a:
   title_id: velocity-after-collision-of-a-projectile-and-a-cord-with-two-masses-428
   topics: []
   translations: {}
+e4019de6-0585-4b7f-b282-6ff9c5cba0ac:
+  hexsha:
+    private: 8f11d32b55644ea8a33d76f8ff87022d7fc74b5d
+    public: 0390f0ced4a5e50987e930dfada1e9f325a900b9
+  language: en
+  modified: '2019-05-10T00:11:36.652715Z'
+  title: Two simultaneous rotations on different axes, solved with fixed and with
+    rotating reference axes
+  title_id: two-simultaneous-rotations-on-different-axes-solved-with-fixed-and-with-rotating-reference-axes
+  topics: []
+  translations: {}
 e4e87237-eb2b-4a14-ac1f-ad115eeb0e7d:
   hexsha:
     private: d3612a0f7ee5fc2e1431202b7ae90d21facd2f9d

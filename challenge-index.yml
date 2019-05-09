@@ -1199,6 +1199,16 @@ d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:
   title_id: characteristic-equation-identification-complex-roots
   topics: []
   translations: {}
+d7c688fc-38b9-430f-a10f-d2db3c653955:
+  hexsha:
+    private: 94b6ef16244091749cd8bdf9f32f7782761b44eb
+    public: 7d4d0ce65f0ad1e3d6fded69d1958da8df42a9a0
+  language: en
+  modified: '2019-05-10T08:23:29.252192Z'
+  title: Answering student question(s) (particles)
+  title_id: answering-student-questions-particles
+  topics: []
+  translations: {}
 d7cf3ecc-0a2b-48f0-82f5-f3afc7c40425:
   hexsha:
     private: c05d3b543a2fd6ab869a0fb677fda25a8e6f7402

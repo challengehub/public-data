@@ -804,6 +804,17 @@
   title_id: radial-acceleration-towards-the-axis-of-rotation-of-a-point-with-no-angular-acceleration
   topics: []
   translations: {}
+912c8b57-66fa-4e86-a358-e77308299dbf:
+  hexsha:
+    private: 7d8b8178a7eb46d7259691950e3299142b417e49
+    public: d25ef40118b8c2d088862a405869b9533fc41f5b
+  language: en
+  modified: '2019-05-10T00:13:16.95181Z'
+  title: A worked example of calculations of two simultaneous rotations on different
+    axes
+  title_id: a-worked-example-of-calculations-of-two-simultaneous-rotations-on-different-axes
+  topics: []
+  translations: {}
 91ce0b79-300c-4536-ae8b-f5a4921153d1:
   hexsha:
     private: e2bb0fbce8a9a2624b260569558760ec9c8cf73c

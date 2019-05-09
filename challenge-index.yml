@@ -753,6 +753,17 @@
   title_id: method-of-undetermined-coefficients-ii-part-4
   topics: []
   translations: {}
+878c507d-bd32-4aa3-8f9c-846ade54a46f:
+  hexsha:
+    private: 6ad71ae0e524162dcadc77fb5149b75b3f5fa3be
+    public: 2ebbb827ab40db366c0dc50a86d949e9d05db6bb
+  language: en
+  modified: '2019-05-10T07:34:53.218405Z'
+  title: A worked example of calculations of two simultanious rotations on different
+    axes (SP 7/1)
+  title_id: a-worked-example-of-calculations-of-two-simultanious-rotations-on-different-axes-sp-71
+  topics: []
+  translations: {}
 890cd2f7-9843-41b1-a937-bca1077dbb85:
   hexsha:
     private: f317b20f2059611a7f095b1bf43540cd53e2e76b

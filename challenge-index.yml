@@ -21,11 +21,11 @@
   translations: {}
 8e7e4257-f031-4b58-8f52-a965d591fcb4:
   hexsha:
-    private: c1ebe3b006067722e30b2998181f0a4d8791343c
-    public: e983bd13e4548e7905e18875d3b00d57c614f74c
+    private: 01f71271c971a805afe0c874c356d8c2a910d4e8
+    public: e110732e7dfc06c524ea524d3aae3726971232e6
   language: en
-  modified: '2019-05-13T00:13:40.06258Z'
-  title: Super Simple Division
-  title_id: super-simple-division
+  modified: '2019-05-13T00:15:22.974909Z'
+  title: Super Simple Division again
+  title_id: super-simple-division-again
   topics: []
   translations: {}

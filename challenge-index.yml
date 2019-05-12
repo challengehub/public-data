@@ -755,13 +755,13 @@
   translations: {}
 878c507d-bd32-4aa3-8f9c-846ade54a46f:
   hexsha:
-    private: 317caf6a1322830bf7e7442361387f603762f4bb
-    public: 473608f590f610396ab12bfabd6d30b74cd0877b
+    private: b8b965f682328dd7f272957ea7b86df1b8ef1f87
+    public: 96e3604107360e20ee3ea0e66c56aa3d79217236
   language: en
-  modified: '2019-05-13T06:52:19.424705Z'
+  modified: '2019-05-13T06:53:29.043266Z'
   title: A worked example of calculations of two simultanious rotations on different
-    axes
-  title_id: a-worked-example-of-calculations-of-two-simultanious-rotations-on-different-axes
+    axes (7/1)
+  title_id: a-worked-example-of-calculations-of-two-simultanious-rotations-on-different-axes-71
   topics: []
   translations: {}
 890cd2f7-9843-41b1-a937-bca1077dbb85:

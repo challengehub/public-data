@@ -72,12 +72,12 @@
   translations: {}
 15dae042-098e-4860-9642-35c7232dc59b:
   hexsha:
-    private: ece70963d6c2999886e8940fd65a03236e5933ee
-    public: 983177c9714f9225546fcb8ffa67edf084176e9b
+    private: ee3fec7be86a42ddd6c1c716cca7c2c6b1d2bc96
+    public: b61e30fd7e1fae8fe64560f9a54038f514e27787
   language: en
-  modified: '2019-04-11T04:17:28.264508Z'
-  title: 'Tension: 3 monkeys climbing a rope'
-  title_id: tension-3-monkeys-climbing-a-rope
+  modified: '2019-05-13T06:49:59.785976Z'
+  title: 'Tension: Three monkeys climbing a rope'
+  title_id: tension-three-monkeys-climbing-a-rope
   topics: []
   translations: {}
 162d9156-8356-4137-a2f9-5748ecdc43c0:

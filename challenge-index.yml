@@ -857,6 +857,16 @@
   title_id: mass-intake-and-power
   topics: []
   translations: {}
+980ef17b-31a2-41e5-a993-4eae68d3e540:
+  hexsha:
+    private: 7169cf8799c680f7fd00c5685693a5cb7e154a30
+    public: 79cf703b46ee396649a1472595c0bf31c049cc82
+  language: en
+  modified: '2019-05-13T01:27:39.460866Z'
+  title: Thought process for solving a challenge
+  title_id: thought-process-for-solving-a-challenge
+  topics: []
+  translations: {}
 9a933582-fd69-45ff-88fc-c33954f1caf3:
   hexsha:
     private: d51790c003ac3f93624ca49c5f76a79639870223

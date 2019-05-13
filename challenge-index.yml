@@ -9,6 +9,16 @@
   title_id: algebra-of-complex-numbers-basic
   topics: []
   translations: {}
+2551c6a1-7cd7-4e14-8fab-f30d9f9ef06f:
+  hexsha:
+    private: 476870acde6bd264c91ad2a109a0c4d8a262bf35
+    public: 25319a6df4f697d9db2a97267f79aef28e8d7452
+  language: en
+  modified: '2019-05-14T01:21:20.847987Z'
+  title: Special Power Functions
+  title_id: special-power-functions
+  topics: []
+  translations: {}
 3173c7df-f880-4026-8b4a-acfac543d675:
   hexsha:
     private: 6a5a3af8e1fe49d19a613cec668a8e470b4cd67e

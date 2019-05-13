@@ -211,6 +211,16 @@
   title_id: laplace-transform-of-a-unit-step-function-u0
   topics: []
   translations: {}
+2a57d650-2c00-4147-9113-ea0096d60ca3:
+  hexsha:
+    private: d9b81bbb5f5f7d2f4e5bb090a14f49213c756e89
+    public: e803a02f08eb9982b27df9bb6a39f194d1dcf51a
+  language: en
+  modified: '2019-05-14T06:38:23.101663Z'
+  title: Simultaneous rotations on two axes - acceleration
+  title_id: simultaneous-rotations-on-two-axes-acceleration
+  topics: []
+  translations: {}
 2aa3defc-10ab-447b-8ab6-d62f2a631c1f:
   hexsha:
     private: ca442aee0e4a2c32382fb9fa7a0f2dc22491d350

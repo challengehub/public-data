@@ -29,6 +29,16 @@
   title_id: polar-form-of-complex-numbers-advanced
   topics: []
   translations: {}
+4b372d33-399f-4506-90dd-89db1cb990ae:
+  hexsha:
+    private: 8385e99a158089e4d83b8755c019af8eeb104826
+    public: a8ff9c3055a87e14efb81c2785ded686fd243643
+  language: en
+  modified: '2019-05-14T04:13:32.54558Z'
+  title: 'Limits '
+  title_id: limits
+  topics: []
+  translations: {}
 55ccf76c-cb48-4566-b60f-efc880e39d69:
   hexsha:
     private: 57fec5d1d01c954c15cec86e5073a559dad5ad32

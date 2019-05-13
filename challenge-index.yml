@@ -784,6 +784,16 @@
   title_id: shifting-laplace-transforms-e3t-cosh5t
   topics: []
   translations: {}
+8e101498-7e71-4b05-84df-2910b170d474:
+  hexsha:
+    private: 331665cfc8a79c6b0b680fa1906264f619a95cf8
+    public: 26a0e7ece9fc384a38f9444ad115cb3a3514c40d
+  language: en
+  modified: '2019-05-14T06:33:51.895405Z'
+  title: Simultaneous rotations on two axes - velocity
+  title_id: simultaneous-rotations-on-two-axes-velocity
+  topics: []
+  translations: {}
 8f0d9748-048f-4e0b-90da-8dd113cbcda9:
   hexsha:
     private: 6d8b96231572cccc85facc9b9e98bd4b9d1c485a

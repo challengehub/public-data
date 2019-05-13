@@ -1293,13 +1293,13 @@ deac25c3-00ee-417c-8ebc-1cc83297a62a:
   translations: {}
 e4019de6-0585-4b7f-b282-6ff9c5cba0ac:
   hexsha:
-    private: 4d5d15c953d6f136c8cf8626bdbd25233529e7a8
-    public: 3cff2d9bcb83e065ff7126043be7b681a671a498
+    private: 353797adf53796207961550eddf894c838c245b8
+    public: bade49f532776ebbe294e422c04bd8c2059a2a6b
   language: en
-  modified: '2019-05-13T06:50:42.076813Z'
-  title: 2 simultaneous rotations on different axes, solved with fixed and with rotating
-    reference axes
-  title_id: 2-simultaneous-rotations-on-different-axes-solved-with-fixed-and-with-rotating-reference-axes
+  modified: '2019-05-14T04:34:44.740595Z'
+  title: Two simultaneous rotations on different axes, solved with fixed and with
+    rotating reference axes
+  title_id: two-simultaneous-rotations-on-different-axes-solved-with-fixed-and-with-rotating-reference-axes
   topics: []
   translations: {}
 e4e87237-eb2b-4a14-ac1f-ad115eeb0e7d:

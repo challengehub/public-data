@@ -11,10 +11,10 @@
   translations: {}
 2551c6a1-7cd7-4e14-8fab-f30d9f9ef06f:
   hexsha:
-    private: f810af7f75d9eaee37ad80d466ca7897edf94ee2
-    public: 57a7831bad967cf17caa214430af06436c7e1eda
+    private: ee3d5b37f5701aee418ab5a702c9e9f8a437ac17
+    public: 8ff24b3dc8dfe47be00b1791b3f5b299f6853c92
   language: en
-  modified: '2019-05-14T01:23:28.574792Z'
+  modified: '2019-05-15T02:50:05.570917Z'
   title: Special Power Functions
   title_id: special-power-functions
   topics: []

@@ -542,6 +542,16 @@
   title_id: determining-the-angular-momentum-of-particles-relative-to-the-centre-of-mass
   topics: []
   translations: {}
+5854fe63-949b-4516-b973-1c5d2010a94a:
+  hexsha:
+    private: 050889fa13b0784a5753712685ab75ce2b01c1c8
+    public: 73de6ab4aab6a263a59deb094efbb2e83030cea9
+  language: en
+  modified: '2019-05-16T00:06:00.351706Z'
+  title: Triple cross-product
+  title_id: triple-cross-product
+  topics: []
+  translations: {}
 5de80663-f19b-4e4d-b56a-00125c968615:
   hexsha:
     private: 156885d8c9929035bdb8b36e1ea4439974a57ac5

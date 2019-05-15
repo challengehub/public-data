@@ -432,6 +432,16 @@
   title_id: magnitude-of-acceleration-of-3-connected-bars
   topics: []
   translations: {}
+4333e8c8-9dd0-4161-8be6-8d838801b47e:
+  hexsha:
+    private: 93de11a45e15a686d4a770d44bf6002455e67350
+    public: eec7ba46b9a918da6bbf7cdcfddfcedbad4180d7
+  language: en
+  modified: '2019-05-15T23:59:56.746513Z'
+  title: Crank-style problem (SP7/3)
+  title_id: crank-style-problem-sp73
+  topics: []
+  translations: {}
 46c6645c-e972-4c6f-9044-5efb418e1b41:
   hexsha:
     private: 9f9dabd0a7b4611a4dc2ac18c943656276e08ffe

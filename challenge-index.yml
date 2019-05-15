@@ -866,6 +866,17 @@
   title_id: reverse-laplace-transform-5-5ss2
   topics: []
   translations: {}
+93060e2e-176f-4811-95e3-8b2df617ccf7:
+  hexsha:
+    private: 7b61ba1ee2f0ce674c870b4e289ef3cb4b938a06
+    public: 907fa5e97583bb0958d20a9c3c818e6f38d7a252
+  language: en
+  modified: '2019-05-16T00:03:07.717514Z'
+  title: Crank-style problem - Perpendicularity of position, velocity and rotation
+    vectors
+  title_id: crank-style-problem-perpendicularity-of-position-velocity-and-rotation-vectors
+  topics: []
+  translations: {}
 96bb567c-ff20-4a99-839d-4f690e85d070:
   hexsha:
     private: 0054717a910688149a82c052a499f83194604a05

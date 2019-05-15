@@ -1190,6 +1190,16 @@ cb151613-d7d4-40b0-8c0a-5f848645b490:
   title_id: shifting-laplace-transforms-identifying-ft
   topics: []
   translations: {}
+ccca6e05-5da4-4bd8-b7d0-3a042ab6e7d3:
+  hexsha:
+    private: 25659ba8285b046a60a9690b4fd39858bfd88e1c
+    public: 2d6e902f1e586041ae868915c49976dc5165772b
+  language: en
+  modified: '2019-05-16T00:45:49.656837Z'
+  title: 3D linear acceleration of two points on a crank
+  title_id: 3d-linear-acceleration-of-two-points-on-a-crank
+  topics: []
+  translations: {}
 cf4144a5-5a0f-48aa-9d8a-fe89c64551fc:
   hexsha:
     private: 2e479a7cc55ae8e408cedb9ea370153a56edaa82

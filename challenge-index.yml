@@ -625,10 +625,10 @@
   translations: {}
 65717e7d-d8ac-469e-8bb9-bc3e19751bff:
   hexsha:
-    private: b3358ccdb0d0eb6314ea5e7044ffce287dc0b32a
-    public: dada76cefa318f3714b6a1a4d3af30f92d591d05
+    private: b1c989f924737706442246535fb47a6f843a5cc7
+    public: ed1bdc61b875829e801ce854a02ef076745f49f8
   language: en
-  modified: '2019-04-18T03:53:52.151465Z'
+  modified: '2019-05-17T07:51:41.879176Z'
   title: Acceleration of a chain placed around the edge of a block
   title_id: acceleration-of-a-chain-placed-around-the-edge-of-a-block
   topics: []

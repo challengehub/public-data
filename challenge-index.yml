@@ -59,6 +59,16 @@
   title_id: algebra-of-complex-numbers-advanced
   topics: []
   translations: {}
+5cec5cbb-2820-47c0-b6ac-a8e38e39af34:
+  hexsha:
+    private: 72ca4d8ee8c360d8c8dbe1050405c4b4fcde8e8d
+    public: 1daff73725682c2b94f747d2bddd3f2b5235be88
+  language: en
+  modified: '2019-05-19T06:55:02.955266Z'
+  title: Continuity
+  title_id: continuity
+  topics: []
+  translations: {}
 5f46fe37-fbfd-4e7a-8727-d16bbd137d8c:
   hexsha:
     private: a980098aceb7f5d6a4ac5f0b5977380fc7cdf66d

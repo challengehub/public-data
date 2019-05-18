@@ -29,6 +29,16 @@
   title_id: polar-form-of-complex-numbers-advanced
   topics: []
   translations: {}
+342f4e99-aee6-4f34-bd0c-931a238dee8e:
+  hexsha:
+    private: 254946269e5e6398f1e200040c8f382894ece156
+    public: f59ffc5e52a96277d85001a72b1a26096d3c2501
+  language: en
+  modified: '2019-05-19T05:35:29.507068Z'
+  title: Analytic functions (basic)
+  title_id: analytic-functions-basic
+  topics: []
+  translations: {}
 4b372d33-399f-4506-90dd-89db1cb990ae:
   hexsha:
     private: 99454c6a5914db79c85140a8a607b13118cd53a4

@@ -31,10 +31,10 @@
   translations: {}
 342f4e99-aee6-4f34-bd0c-931a238dee8e:
   hexsha:
-    private: a28bdf047da9fe3d95d1f82db4abfe8bf3b7febf
-    public: 22b7ee27b61281ce7cb55e24ab8caf1c33a00e5f
+    private: d3889cdf4dadee97f78d954bb9d562173cf3954c
+    public: 91d39996fcfcb48b51e5da8520b591fedb9043cb
   language: en
-  modified: '2019-05-19T05:41:38.803534Z'
+  modified: '2019-05-19T05:51:32.185011Z'
   title: Analytic functions (basic)
   title_id: analytic-functions-basic
   topics: []

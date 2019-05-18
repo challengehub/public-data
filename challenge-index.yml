@@ -69,6 +69,16 @@
   title_id: complex-plane
   topics: []
   translations: {}
+634f98f8-a451-42ad-970d-f3d0355d939a:
+  hexsha:
+    private: 8406d30138f3b4d1dc912b4c94dacc28c379a0c5
+    public: 4888a096f65641b1615e092fc41cd516b0a1d992
+  language: en
+  modified: '2019-05-19T06:33:54.292653Z'
+  title: Harmonic functions
+  title_id: harmonic-functions
+  topics: []
+  translations: {}
 68222b65-7828-427a-a6f5-80a2f71a61ac:
   hexsha:
     private: 432a6bf8581a96d14a4fb8f20444a8392e2e8292

@@ -139,6 +139,16 @@ a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
   title_id: powers-and-roots-advanced
   topics: []
   translations: {}
+c15d059d-206e-459d-877b-c6be54bf3a34:
+  hexsha:
+    private: a8d49894b57599552fd5fa63878fedb94372fbb0
+    public: 52c2d0706035c01fd1e6048d8355e8ea24a3b418
+  language: en
+  modified: '2019-05-19T06:13:42.364803Z'
+  title: Analytic functions (advanced)
+  title_id: analytic-functions-advanced
+  topics: []
+  translations: {}
 dae88784-3825-4735-b25d-94ef821ffc17:
   hexsha:
     private: 864d222635623635fd7c5569b81364de47becceb

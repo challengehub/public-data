@@ -663,6 +663,16 @@
   title_id: test-006
   topics: []
   translations: {}
+69b745ca-5197-444a-b135-2f8d7121a32d:
+  hexsha:
+    private: 66ba8cb500b5868eb0c81c04c52039b19787a796
+    public: 4c4af3496e780a40ef8faf1807fdb9e608aa65d9
+  language: en
+  modified: '2019-05-21T07:21:02.734549Z'
+  title: Calculating mass-fraction from partial pressure
+  title_id: calculating-mass-fraction-from-partial-pressure
+  topics: []
+  translations: {}
 746a78ce-f826-4855-9d66-62009f3f4442:
   hexsha:
     private: 4391ee9554657d3ddcfc512c113a68092c73cefa

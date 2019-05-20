@@ -211,6 +211,16 @@
   title_id: laplace-transform-of-a-unit-step-function-u0
   topics: []
   translations: {}
+275ae2fa-de80-423c-ba20-3f14f6fe8599:
+  hexsha:
+    private: 31706509536df19ed5d42c8b8fe2968f87d98072
+    public: 9cb2457bc4b97137ff5995770752d1d5746acf94
+  language: en
+  modified: '2019-05-21T07:00:53.943339Z'
+  title: Diffusion in the long time limit
+  title_id: diffusion-in-the-long-time-limit
+  topics: []
+  translations: {}
 2a57d650-2c00-4147-9113-ea0096d60ca3:
   hexsha:
     private: d9b81bbb5f5f7d2f4e5bb090a14f49213c756e89

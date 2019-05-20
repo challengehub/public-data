@@ -422,6 +422,16 @@
   title_id: resonance
   topics: []
   translations: {}
+411df674-c171-4f68-8f1c-0609bc8a1798:
+  hexsha:
+    private: 1f4232475ffcf5ca8af76594b8ede1edd2d3f39f
+    public: 8a7304729e8d44f6ef568431d85866543c7bbfdb
+  language: en
+  modified: '2019-05-21T07:45:17.223816Z'
+  title: Partial-pressure definition
+  title_id: partial-pressure-definition
+  topics: []
+  translations: {}
 4148748f-d8fe-4f62-84a6-ce43ba3c96bd:
   hexsha:
     private: 14abe53b39f03d8f113ec1a59113eff404586841

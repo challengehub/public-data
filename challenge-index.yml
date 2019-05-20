@@ -887,6 +887,16 @@
   title_id: crank-style-problem-perpendicularity-of-position-velocity-and-rotation-vectors
   topics: []
   translations: {}
+93534aef-72f1-4233-a8ff-6ee7ef60f535:
+  hexsha:
+    private: f6c033c0797b32acf84353892f3917c815629b59
+    public: df2cb11feeca0a9e383a12f4a218290832533cfd
+  language: en
+  modified: '2019-05-21T06:54:33.820728Z'
+  title: Definition of mass transfer in this course
+  title_id: definition-of-mass-transfer-in-this-course
+  topics: []
+  translations: {}
 96bb567c-ff20-4a99-839d-4f690e85d070:
   hexsha:
     private: 0054717a910688149a82c052a499f83194604a05

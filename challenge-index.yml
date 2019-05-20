@@ -1240,6 +1240,16 @@ cb151613-d7d4-40b0-8c0a-5f848645b490:
   title_id: shifting-laplace-transforms-identifying-ft
   topics: []
   translations: {}
+cb8bf493-4808-4c6e-944d-67e8439a6b59:
+  hexsha:
+    private: 6f77c3600f933924e1b7889b9b1bc835f3b0b7bf
+    public: 4207dfaac4218d90be4a9bd7565c32533d69d4af
+  language: en
+  modified: '2019-05-21T08:07:18.599945Z'
+  title: Ideal gas mixtures and density
+  title_id: ideal-gas-mixtures-and-density
+  topics: []
+  translations: {}
 ccca6e05-5da4-4bd8-b7d0-3a042ab6e7d3:
   hexsha:
     private: 25659ba8285b046a60a9690b4fd39858bfd88e1c

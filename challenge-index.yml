@@ -1172,10 +1172,10 @@ be22bd55-b482-4a18-820c-28b5aae191a0:
   translations: {}
 c3f21ef7-8f93-4954-b4c6-771f9be31c26:
   hexsha:
-    private: 52d2a8d09ffd3b2010ff7981a9c10da35c4a10ea
-    public: 13d0492a6bea8fbdfd6e27be1bc59719cad51c52
+    private: 2ea43da8873dad4426b928c89ecd723722959a8b
+    public: 8c94d25dd80b9b0ddeaa4b61c43391581b362d31
   language: en
-  modified: '2019-05-21T07:34:08.02982Z'
+  modified: '2019-05-21T07:42:17.777056Z'
   title: Individual gas constant definition
   title_id: individual-gas-constant-definition
   topics: []

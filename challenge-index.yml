@@ -50,6 +50,16 @@
   title_id: lng-mol-fraction-of-ethane
   topics: []
   translations: {}
+0969a174-5cc3-4ee6-8bbe-36217a691f63:
+  hexsha:
+    private: f191bbe1c053168f2a028b24ff569ed0c7eeb343
+    public: d90dcc85db50eb125f6151d303ca0262da67c65e
+  language: en
+  modified: '2019-05-23T06:40:05.292981Z'
+  title: 'LNG: Average molecular mass of the mixture'
+  title_id: lng-average-molecular-mass-of-the-mixture
+  topics: []
+  translations: {}
 09aedea8-24dd-444c-a67f-b59993e6d0f8:
   hexsha:
     private: ebb624e5192cf6252e4da98ffec126bf383ace24

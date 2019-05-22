@@ -793,6 +793,16 @@
   title_id: method-of-undetermined-coefficients-determining-the-ode-ii
   topics: []
   translations: {}
+83146463-2a06-43be-8aa2-030b04f3b82d:
+  hexsha:
+    private: d29610ad78de53a2c7190abf28c7f5c935fbaa02
+    public: 91017d6e2d06155ef41e966a3d6685d59105b74e
+  language: en
+  modified: '2019-05-23T06:33:29.252655Z'
+  title: 'LNG: mass-fraction of ethane'
+  title_id: lng-mass-fraction-of-ethane
+  topics: []
+  translations: {}
 84e5e67a-7b46-45a4-9706-f2e5295eb2b6:
   hexsha:
     private: b1f48aceb946a4919512ec609e1b72415c0fcdeb

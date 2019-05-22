@@ -1159,6 +1159,16 @@ b4a29e3d-b428-46eb-add6-e1c73b17286a:
   title_id: non-homogeneous-equations-method-of-undetermined-coefficients-4
   topics: []
   translations: {}
+b7532194-5047-49bd-937f-7ac9689dddf9:
+  hexsha:
+    private: b448242dd251a7796a55fe8095b3a6501a7a7914
+    public: 7744b8f565919a9747923e8f85e1fb8a9191f49d
+  language: en
+  modified: '2019-05-23T06:47:31.33966Z'
+  title: 'LNG: Partial pressure of methane'
+  title_id: lng-partial-pressure-of-methane
+  topics: []
+  translations: {}
 b969ef61-49fc-4e97-bf55-6a393489a4e5:
   hexsha:
     private: 2846f198f928480ffd4ae6f600da0edd85de5a2e

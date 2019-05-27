@@ -544,10 +544,10 @@
   translations: {}
 4d9d9856-6516-4590-bf64-7334e89803b0:
   hexsha:
-    private: d8ea5b3449fe1136dfdc91e85a6bb09f2412c71c
-    public: 5141bfb2a8f8e83f41c893c8a61de8b84ef74ec7
+    private: 83ca2a7ad4c75fb7c4031e06a2b9c7d9190804de
+    public: 8da3be5a96aa7f89a0531e393a8dbc0dc7bbfd6a
   language: en
-  modified: '2019-05-28T01:54:54.814372Z'
+  modified: '2019-05-28T01:58:04.770592Z'
   title: Estimating mass diffusivity of Ammonia at a different temperature
   title_id: estimating-mass-diffusivity-of-ammonia-at-a-different-temperature
   topics: []

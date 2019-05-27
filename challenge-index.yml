@@ -542,6 +542,16 @@
   title_id: non-homogeneous-equations-method-of-undetermined-coefficients-2
   topics: []
   translations: {}
+4d9d9856-6516-4590-bf64-7334e89803b0:
+  hexsha:
+    private: d8ea5b3449fe1136dfdc91e85a6bb09f2412c71c
+    public: 5141bfb2a8f8e83f41c893c8a61de8b84ef74ec7
+  language: en
+  modified: '2019-05-28T01:54:54.814372Z'
+  title: Estimating mass diffusivity of Ammonia at a different temperature
+  title_id: estimating-mass-diffusivity-of-ammonia-at-a-different-temperature
+  topics: []
+  translations: {}
 4de3d1f8-1421-4935-b8c1-544ed5a625c7:
   hexsha:
     private: e3a418362dc9e8029d33bfb82245defdc958b6fe

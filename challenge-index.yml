@@ -522,6 +522,16 @@
   title_id: motion-of-a-pendulum-in-phase-space
   topics: []
   translations: {}
+4bb04a41-b344-4119-a7e8-6139e543edfb:
+  hexsha:
+    private: 90030daf7ca46648e6934102d0f2981d4bd5b731
+    public: e876938432f1c8b6abee3877049a9d05ae1175e1
+  language: en
+  modified: '2019-05-28T02:24:44.543827Z'
+  title: Diffusion coefficient equivalency
+  title_id: diffusion-coefficient-equivalency
+  topics: []
+  translations: {}
 4cb10d4a-2324-4b90-8897-dbda94dd4463:
   hexsha:
     private: 834745713010e54f81a40784c49e6ad41ceb593e

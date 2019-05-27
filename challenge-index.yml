@@ -181,6 +181,16 @@
   title_id: solving-systems-of-odes-2-57-10
   topics: []
   translations: {}
+1bd952e0-1f9a-4627-b120-93104f7bb389:
+  hexsha:
+    private: 0c2d2c5a749fc0f6e79ea4703968624232fabe20
+    public: 881b3503993ccd772829ab2ec9e29e8b90134560
+  language: en
+  modified: '2019-05-28T06:12:59.84918Z'
+  title: Relations between humidity, saturated density and mole-fraction
+  title_id: relations-between-humidity-saturated-density-and-mole-fraction
+  topics: []
+  translations: {}
 1d51e481-8d91-4ed5-82e5-3f44d044837e:
   hexsha:
     private: 3e290d1abd7e9e5d8930121b7c467aa3032195a6

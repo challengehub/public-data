@@ -81,10 +81,10 @@
   translations: {}
 634f98f8-a451-42ad-970d-f3d0355d939a:
   hexsha:
-    private: 8406d30138f3b4d1dc912b4c94dacc28c379a0c5
-    public: 4888a096f65641b1615e092fc41cd516b0a1d992
+    private: 32a3dbdc4ab3ce3c9dae9ffb372655df589add91
+    public: 1da67402dbadaadbc79916132b2a8ebb0aa55ae3
   language: en
-  modified: '2019-05-19T06:33:54.292653Z'
+  modified: '2019-05-28T03:58:26.332827Z'
   title: Harmonic functions
   title_id: harmonic-functions
   topics: []

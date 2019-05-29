@@ -201,6 +201,17 @@
   title_id: damping-and-2nd-order-differential-equations
   topics: []
   translations: {}
+1e7d063d-d0fa-403a-9b30-dfb8d9ddcd30:
+  hexsha:
+    private: 26f54418640a50c8d5f92019df22e67969818b58
+    public: a874837347c42c993da0453d5bca8d7cccb92b18
+  language: en
+  modified: '2019-05-30T08:04:50.262698Z'
+  title: Velocity and acceleration of a disk that is undergoing rotation on 2 axes,
+    using a reference frame rotating in 2 dimensions
+  title_id: velocity-and-acceleration-of-a-disk-that-is-undergoing-rotation-on-2-axes-using-a-reference-frame-rotating-in-2-dimensions
+  topics: []
+  translations: {}
 21c3a132-4610-4d79-a476-68eded2ddef8:
   hexsha:
     private: 63ed6077de088f674d8b84fe9b0386174686e03f

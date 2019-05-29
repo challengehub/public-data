@@ -995,6 +995,16 @@
   title_id: radial-acceleration-towards-the-axis-of-rotation-of-a-point-with-no-angular-acceleration
   topics: []
   translations: {}
+9021759c-ab08-49b2-941b-5fec81293cb7:
+  hexsha:
+    private: 256c42bf9077f45594f1eb012c335bf413bf2c38
+    public: 62b2cb09009e4899533466b3be04d02a8f241138
+  language: en
+  modified: '2019-05-30T01:18:32.471174Z'
+  title: Velocity of a point at the end of an arm with two rotating joints
+  title_id: velocity-of-a-point-at-the-end-of-an-arm-with-two-rotating-joints
+  topics: []
+  translations: {}
 90e882c1-748a-4b09-a04d-0fe6efe8ea07:
   hexsha:
     private: dda5078491a75849c88545491390f1c7840f3040

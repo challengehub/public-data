@@ -612,6 +612,16 @@
   title_id: maximum-velocity-of-a-rocket-on-an-incline
   topics: []
   translations: {}
+526f79d3-07c1-48e1-954f-bde59de813bb:
+  hexsha:
+    private: fcb82414394ad880f9662d2c48f8a91f208b81f3
+    public: 0d178fecb77f43d8b57be1a5ca900f451d775ad5
+  language: en
+  modified: '2019-05-30T00:47:13.542969Z'
+  title: 'Sample problem: Angular acceleration of a crank'
+  title_id: sample-problem-angular-acceleration-of-a-crank
+  topics: []
+  translations: {}
 52f54f10-ab1a-4aa7-909c-822e28c52ff3:
   hexsha:
     private: 7ce8811332e2fa8e584ee0b21bade0d458f68869

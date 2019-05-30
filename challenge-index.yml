@@ -201,10 +201,10 @@ e3e5bcf8-36d9-45d5-87e2-18e4d3e0cc8a:
   translations: {}
 e56a7d65-dc35-48eb-9159-09a59cb53d31:
   hexsha:
-    private: c074615ad7d41db531e218e18b296dc1bc3aa762
-    public: a9c094d4550bd406e086cd971092681e2a096a93
+    private: 5d8e732d4fc9abfc542250299b3606e3da85c205
+    public: 2d47b9897947eecd35bd40504a39b502080a4e26
   language: en
-  modified: '2019-05-31T04:15:09.890353Z'
+  modified: '2019-05-31T04:30:36.780039Z'
   title: Elementary functions (basic)
   title_id: elementary-functions-basic
   topics: []

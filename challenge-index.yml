@@ -1330,6 +1330,16 @@ bafb0068-db14-47b2-b454-76570cb5fd82:
   title_id: phase-space-of-pendulum-motion
   topics: []
   translations: {}
+bcc14a44-15e8-431a-9e65-f2574a7d2676:
+  hexsha:
+    private: 03adb143abb03a699d53c7be25d4d8fb27b6af83
+    public: bc814608f2ec3065bb79de63ecdb01534a549734
+  language: en
+  modified: '2019-05-31T00:24:07.225862Z'
+  title: Angular momentum of a rigid link
+  title_id: angular-momentum-of-a-rigid-link
+  topics: []
+  translations: {}
 be22bd55-b482-4a18-820c-28b5aae191a0:
   hexsha:
     private: 9669a5804877d86e68144f4c86403b15b18bab0d

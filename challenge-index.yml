@@ -169,6 +169,16 @@ c15d059d-206e-459d-877b-c6be54bf3a34:
   title_id: analytic-functions-advanced
   topics: []
   translations: {}
+c5f2ea95-a354-4e55-9069-08342073bc29:
+  hexsha:
+    private: a0df2fec656762889ad8f8f36b56b5c3fa145457
+    public: c3671240fa8dfb26d9c212dc2ff645479912a597
+  language: en
+  modified: '2019-05-31T04:18:58.934093Z'
+  title: Elementary functions (advanced)
+  title_id: elementary-functions-advanced
+  topics: []
+  translations: {}
 dae88784-3825-4735-b25d-94ef821ffc17:
   hexsha:
     private: 864d222635623635fd7c5569b81364de47becceb

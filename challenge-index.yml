@@ -965,6 +965,16 @@
   title_id: lng-mass-density-of-the-gas
   topics: []
   translations: {}
+8da3d669-1ac4-40b3-8b4f-4c1b74779d22:
+  hexsha:
+    private: 1f05bff36cf6013752d25851a2f17c13ec0e9442
+    public: 397b884b19998bd0f8c16385a73944a7e94846f4
+  language: en
+  modified: '2019-06-03T00:32:46.205585Z'
+  title: Mid-term review points
+  title_id: mid-term-review-points
+  topics: []
+  translations: {}
 8e101498-7e71-4b05-84df-2910b170d474:
   hexsha:
     private: 6fbb9b0f90f35a2b378a1c6cecf84b0624088ee4

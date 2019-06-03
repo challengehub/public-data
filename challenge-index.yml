@@ -322,6 +322,16 @@
   title_id: test007
   topics: []
   translations: {}
+2ef1adc3-15b6-4738-84e6-79fe0c7126b6:
+  hexsha:
+    private: ab4c72b8dc6fc1b06ae2cb67da747a671dbff5a8
+    public: 0c9891546fdbd0180286bee6c25a35f79d7f1847
+  language: en
+  modified: '2019-06-04T08:20:59.543373Z'
+  title: The definition and derivation of the moment of inertia
+  title_id: the-definition-and-derivation-of-the-moment-of-inertia
+  topics: []
+  translations: {}
 319b5364-1969-40c2-b292-cdfcb667cc77:
   hexsha:
     private: ab771ede4d66dc23a317b019667bd866b848d6f2

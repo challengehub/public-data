@@ -289,3 +289,13 @@ da07a4b2-9ac4-42a2-90a8-713c96edc381:
   topics: []
   upload_time: '2019-05-17T07:50:51Z'
   uploader_id: github.NanoScaleDesign
+
+6edb18f1-49b6-42e1-8cdd-118d2dac09d9:
+  content_type: image/png
+  hexsha: a45e4154a0d24e8f8c8910b07a788b062fde8857
+  original_name: figure.png
+  title: simrot_vel
+  title_id: simrotvel-a45e41
+  topics: []
+  upload_time: '2019-06-03T00:48:31Z'
+  uploader_id: github.NanoScaleDesign

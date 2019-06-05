@@ -213,10 +213,10 @@
   translations: {}
 1e1043e3-4368-40df-8217-f54fced23e58:
   hexsha:
-    private: 6ef62bb85bac10bc3edcf9760d4e0b7b6bb11827
-    public: 71a7dd0e89b7214f2f63742ff394eb63123eca76
+    private: 10e7aea6db16d29a4f64c806a910598abeef6bfa
+    public: 1e1424dfbb8a40401d19245f206bcdf1c475c61c
   language: en
-  modified: '2019-06-06T03:58:21.815582Z'
+  modified: '2019-06-06T03:59:23.764632Z'
   title: 'Inertia: A simple sphere (sample problem)'
   title_id: inertia-a-simple-sphere-sample-problem
   topics: []

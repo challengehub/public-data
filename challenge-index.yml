@@ -211,6 +211,16 @@
   title_id: damping-and-2nd-order-differential-equations
   topics: []
   translations: {}
+1e1043e3-4368-40df-8217-f54fced23e58:
+  hexsha:
+    private: 6ef62bb85bac10bc3edcf9760d4e0b7b6bb11827
+    public: 71a7dd0e89b7214f2f63742ff394eb63123eca76
+  language: en
+  modified: '2019-06-06T03:58:21.815582Z'
+  title: 'Inertia: A simple sphere (sample problem)'
+  title_id: inertia-a-simple-sphere-sample-problem
+  topics: []
+  translations: {}
 1e7d063d-d0fa-403a-9b30-dfb8d9ddcd30:
   hexsha:
     private: 26f54418640a50c8d5f92019df22e67969818b58

@@ -90,6 +90,16 @@
   title_id: characteristic-equation-exersizes-1
   topics: []
   translations: {}
+1199a50f-f776-48d1-be62-afbb61581f16:
+  hexsha:
+    private: 6614f7976a01e20b460fc158a3be5c8ae2ae328a
+    public: d298eeadc74445f040ed866ba89ea25e883d40d4
+  language: en
+  modified: '2019-06-06T01:56:52.339264Z'
+  title: 'Inertia: A simple cylinder (sample problem)'
+  title_id: inertia-a-simple-cylinder-sample-problem
+  topics: []
+  translations: {}
 15dae042-098e-4860-9642-35c7232dc59b:
   hexsha:
     private: ee3fec7be86a42ddd6c1c716cca7c2c6b1d2bc96

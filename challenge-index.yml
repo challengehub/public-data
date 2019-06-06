@@ -19,6 +19,16 @@
   title_id: characteristic-equation-identification-equal-roots
   topics: []
   translations: {}
+0375f5b3-d26e-47ba-b726-f44e0b1a04e1:
+  hexsha:
+    private: 147c2ca05596b411a552cb2cb8d3d4350a11dae2
+    public: 4a00c45c601f7f5c055faaf3d3e161efb6fc22ab
+  language: en
+  modified: '2019-06-07T08:38:05.237392Z'
+  title: 'Inertia: A simple parallelepiped (sample problem)'
+  title_id: inertia-a-simple-parallelepiped-sample-problem
+  topics: []
+  translations: {}
 0404233f-e37f-4d36-9629-eda764d570f5:
   hexsha:
     private: dbfa8319b05466e314e5832eb57bdc3722766eb7

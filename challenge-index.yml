@@ -814,6 +814,16 @@
   title_id: calculating-mass-fraction-from-partial-pressure
   topics: []
   translations: {}
+742ab5e4-5f2b-427b-82bd-a98ac753bc61:
+  hexsha:
+    private: 9a1a875d4301b58f6030f572d02abad9a67cfcff
+    public: a70b3086ae74fb687eb502e950d3326340695f38
+  language: en
+  modified: '2019-06-07T05:30:58.592346Z'
+  title: 'Inertia: A 2D rectangle'
+  title_id: inertia-a-2d-rectangle
+  topics: []
+  translations: {}
 746a78ce-f826-4855-9d66-62009f3f4442:
   hexsha:
     private: 4391ee9554657d3ddcfc512c113a68092c73cefa

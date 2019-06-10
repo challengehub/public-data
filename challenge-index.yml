@@ -11,10 +11,10 @@
   translations: {}
 1ab0ca4c-a465-4f04-955f-505d350f480b:
   hexsha:
-    private: 3768c95e14a72ff69bb852c75a5cd96523918f8a
-    public: 530aadfc47c8077d3f5b5ad3b12040076dcc678f
+    private: 6e0e1a030f4d9896ab0e12b7315cd789eef46290
+    public: 90ec16254a4a5bd094e88ef5988eb2ffd03e170f
   language: en
-  modified: '2019-06-11T05:01:06.45624Z'
+  modified: '2019-06-11T05:02:47.559529Z'
   title: Complex integrals
   title_id: complex-integrals
   topics: []

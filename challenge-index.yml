@@ -219,3 +219,13 @@ e9aed444-84ff-4c82-a407-2874f1c71a7a:
   title_id: powers-and-roots-basic
   topics: []
   translations: {}
+fb731dcc-d152-4e91-acd0-aee60540464c:
+  hexsha:
+    private: a17ebadc4a4b4466c446fec1a7cbd5e856036e2a
+    public: 4333313eed4aa96920ac5ebc01de579c10aba246
+  language: en
+  modified: '2019-06-11T04:30:42.170564Z'
+  title: Real integrals
+  title_id: real-integrals
+  topics: []
+  translations: {}

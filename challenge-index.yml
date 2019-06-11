@@ -1076,6 +1076,16 @@
   title_id: radial-acceleration-towards-the-axis-of-rotation-of-a-point-with-no-angular-acceleration
   topics: []
   translations: {}
+8faeb8f2-8965-49f3-9467-366f4464d586:
+  hexsha:
+    private: 58eca238d65549234bb934d8b6681e1473407b0a
+    public: 4c459fb358f8cf20c427e6d753cb81d11819b3b0
+  language: en
+  modified: '2019-06-12T05:43:40.653781Z'
+  title: 'Inertia: A cone'
+  title_id: inertia-a-cone
+  topics: []
+  translations: {}
 9021759c-ab08-49b2-941b-5fec81293cb7:
   hexsha:
     private: 256c42bf9077f45594f1eb012c335bf413bf2c38

@@ -1633,6 +1633,16 @@ d8d5e07f-816d-4adb-92df-19e10e8be4b9:
   title_id: reverse-laplace-transform-1s2-1s
   topics: []
   translations: {}
+d9c95807-fedc-44ab-bcaf-97558c83fd86:
+  hexsha:
+    private: fe7f85397b72e7367596e86f72ba9d5cd9d790b8
+    public: 9155457e9337953747fe7364e63065ba4fbf5a7a
+  language: en
+  modified: '2019-06-12T05:47:04.033997Z'
+  title: 'Inertia: A rod'
+  title_id: inertia-a-rod
+  topics: []
+  translations: {}
 da7f72e5-e9f0-40ec-a10f-df648bd9aa64:
   hexsha:
     private: 137d7f5a1b653a28e74b5fad97348a976fd7c15a

@@ -1005,6 +1005,16 @@
   title_id: shifting-laplace-transforms-e3t-cosh5t
   topics: []
   translations: {}
+8bce66f2-8871-4c2c-af8d-9d588920326f:
+  hexsha:
+    private: 32a2534ced3d3969535dcc7c3cac17359f29bb62
+    public: b1a00b23bd74b01d4125d74c63378d89e8c4a14a
+  language: en
+  modified: '2019-06-12T08:30:47.898206Z'
+  title: Example of calculation of evaporation through a pore
+  title_id: example-of-calculation-of-evaporation-through-a-pore
+  topics: []
+  translations: {}
 8d3ed50c-ef36-4f2a-96b9-3dabf12c9290:
   hexsha:
     private: 323e81a82a8ff7dfe6fbc50061cd26409bfbb31f

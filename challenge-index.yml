@@ -1835,6 +1835,16 @@ f5c97038-c150-4774-925e-04a803deb5a6:
   title_id: derivation-of-a-periodically-forced-system
   topics: []
   translations: {}
+fb01b540-65d4-4374-be2f-69b6fbbecc8a:
+  hexsha:
+    private: 8afc87b3bbdbd4a8c34485507288661e5fdf6426
+    public: 6b1aa1ce46b74c0b06acec7ffc067f9c584a10ca
+  language: en
+  modified: '2019-06-12T06:01:53.549043Z'
+  title: Calculating the inertia of a bent rod
+  title_id: calculating-the-inertia-of-a-bent-rod
+  topics: []
+  translations: {}
 fd4f0190-c05e-4980-bc5b-8c0531ba2221:
   hexsha:
     private: 52e1ef7da9cbedd0094174a486e396e93c172238

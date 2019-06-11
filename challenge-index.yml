@@ -1473,12 +1473,13 @@ ca96add1-6dc2-42c9-b994-2b3d150cd645:
   translations: {}
 cab4e678-660c-44a5-9b65-3c7b5f7e263d:
   hexsha:
-    private: 73feac91923397b1f5a21f029d0643b6eba3c49f
-    public: 1850dd89688349965691b723196efef0d514593b
+    private: b884a51b636a7856b06d4b75c197748faacfe663
+    public: 61f2023f633fbb7862cc1cb84496d36d1289be0d
   language: en
-  modified: '2019-06-12T05:53:25.698694Z'
-  title: 'Inertia: A rod and a disk'
-  title_id: inertia-a-rod-and-a-disk
+  modified: '2019-06-12T05:54:31.910382Z'
+  title: Calculating the length of a rod in a rod-disk system so that moments of inertia
+    are equal on two axes
+  title_id: calculating-the-length-of-a-rod-in-a-rod-disk-system-so-that-moments-of-inertia-are-equal-on-two-axes
   topics: []
   translations: {}
 cb151613-d7d4-40b0-8c0a-5f848645b490:

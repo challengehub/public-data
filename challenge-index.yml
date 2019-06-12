@@ -576,10 +576,10 @@
   translations: {}
 479961a6-d5bb-489d-9b0d-083198d5c138:
   hexsha:
-    private: 90bfa6393e944b9d6c8179b53a12350e082fe3ae
-    public: 014bb0246cc83b445f117d49d1702907fc515f0b
+    private: 4c6024babeeb18a31bd12cb243f27a55f4a71fb5
+    public: 0db67aa79b8d31e798261b4f738f19070c264f02
   language: en
-  modified: '2019-06-13T01:16:57.475718Z'
+  modified: '2019-06-13T01:20:16.345461Z'
   title: Initial evaporation rate from an evaporation pan, assuming only diffusive
     mass transport
   title_id: initial-evaporation-rate-from-an-evaporation-pan-assuming-only-diffusive-mass-transport

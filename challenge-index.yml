@@ -847,6 +847,16 @@
   title_id: test-006
   topics: []
   translations: {}
+6917e372-92c4-439d-a372-059b66afa45a:
+  hexsha:
+    private: d0a858f5ece71fc21e1d783cffc04b2ff0fec615
+    public: 92d2679f80c4f1440e34f45f8087a660fd294759
+  language: en
+  modified: '2019-06-13T01:38:57.183484Z'
+  title: Calculating the molar velocity of a component in a stationary medium
+  title_id: calculating-the-molar-velocity-of-a-component-in-a-stationary-medium
+  topics: []
+  translations: {}
 69b745ca-5197-444a-b135-2f8d7121a32d:
   hexsha:
     private: 7649e3f540919c263f1c620fe26481b964b0f5f7

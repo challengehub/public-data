@@ -1432,6 +1432,16 @@ bafb0068-db14-47b2-b454-76570cb5fd82:
   title_id: phase-space-of-pendulum-motion
   topics: []
   translations: {}
+bb48f56e-66ca-4bce-8d45-6036667f7730:
+  hexsha:
+    private: a58c6ac4eeb98cd19ad91f46fa098092170e9cca
+    public: c2823f626912b0435430dcf6cb1bc836bfa36496
+  language: en
+  modified: '2019-06-13T01:23:52.960089Z'
+  title: Definition of a stationary medium
+  title_id: definition-of-a-stationary-medium
+  topics: []
+  translations: {}
 bcc14a44-15e8-431a-9e65-f2574a7d2676:
   hexsha:
     private: 03adb143abb03a699d53c7be25d4d8fb27b6af83

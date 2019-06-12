@@ -563,6 +563,17 @@
   title_id: the-difference-between-the-chain-and-rope-style-problems
   topics: []
   translations: {}
+479961a6-d5bb-489d-9b0d-083198d5c138:
+  hexsha:
+    private: 90bfa6393e944b9d6c8179b53a12350e082fe3ae
+    public: 014bb0246cc83b445f117d49d1702907fc515f0b
+  language: en
+  modified: '2019-06-13T01:16:57.475718Z'
+  title: Initial evaporation rate from an evaporation pan, assuming only diffusive
+    mass transport
+  title_id: initial-evaporation-rate-from-an-evaporation-pan-assuming-only-diffusive-mass-transport
+  topics: []
+  translations: {}
 487a8cac-bcff-4a5e-8286-efcc86e33fb2:
   hexsha:
     private: 4ff0132cb81a3913bb91878fcd891bb0532d5f57

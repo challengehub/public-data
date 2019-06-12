@@ -302,6 +302,17 @@
   title_id: diffusion-in-the-long-time-limit
   topics: []
   translations: {}
+29669082-6d57-4c9f-8f76-74e9f2f2664f:
+  hexsha:
+    private: f5cefa75426d05159ccd8bbf410e5e9d800e2a0c
+    public: e4c0a2cdd1bd66d80d9ff29ff8a2fe5b53db850f
+  language: en
+  modified: '2019-06-13T01:19:04.898469Z'
+  title: Initial evaporation rate from an evaporation pan, including the effects of
+    advection
+  title_id: initial-evaporation-rate-from-an-evaporation-pan-including-the-effects-of-advection
+  topics: []
+  translations: {}
 2a57d650-2c00-4147-9113-ea0096d60ca3:
   hexsha:
     private: c743542955b19aba6866e51e25c075899386b70a

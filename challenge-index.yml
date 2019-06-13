@@ -405,6 +405,16 @@
   title_id: systems-of-odes-basis-for-creating-a-system-of-equations-from-a-single-homogeneous-ode-y-4y-5y-0
   topics: []
   translations: {}
+33349010-5584-431d-9474-2c7564c557aa:
+  hexsha:
+    private: fe71ba356896d647c11080eb7b3cf29cfb4b72a4
+    public: 6640861b65bc153c7f1da9ee47d46c68869c7157
+  language: en
+  modified: '2019-06-14T04:31:01.975757Z'
+  title: Steady-state planer diffusion of helium through a plastic membrane in kg/s/m^2
+  title_id: steady-state-planer-diffusion-of-helium-through-a-plastic-membrane-in-kgsm2
+  topics: []
+  translations: {}
 33dbaf42-ce23-4085-97e8-36400ed58b14:
   hexsha:
     private: 37408893ef776e483e3e8dc5bbb640c3e9800e1c

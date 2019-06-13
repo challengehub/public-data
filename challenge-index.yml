@@ -917,6 +917,17 @@
   title_id: characteristic-equation-exersizes-2
   topics: []
   translations: {}
+78d42eda-df98-43b2-8379-4b311e12e9fd:
+  hexsha:
+    private: 6951732fac77ed0e9e4b957a6b0b9ca5889f9663
+    public: 008bb93d65e4baca3c57efb9641bd57a1adcbd3d
+  language: en
+  modified: '2019-06-14T04:03:40.706477Z'
+  title: 'Steady-state diffusion planer example with specified surface concentrations:
+    minimal flat plane'
+  title_id: steady-state-diffusion-planer-example-with-specified-surface-concentrations-minimal-flat-plane
+  topics: []
+  translations: {}
 7a35b671-15ff-46d4-a778-3a8bdc2a9c4b:
   hexsha:
     private: 0ba5249deb965a68b2331cd2f5eb9ede18559a9e

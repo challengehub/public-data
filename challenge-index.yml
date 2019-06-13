@@ -1767,6 +1767,16 @@ deac25c3-00ee-417c-8ebc-1cc83297a62a:
   title_id: velocity-after-collision-of-a-projectile-and-a-cord-with-two-masses-428
   topics: []
   translations: {}
+e0c75c63-d56d-46e1-83ec-9947d54a6372:
+  hexsha:
+    private: 5db08e8bfb68a8f27d93281df205633da98d22e3
+    public: 20904ea31ac4ed012a03da38d71d0c31205298ab
+  language: en
+  modified: '2019-06-14T03:46:04.739578Z'
+  title: Definition of a steady-state condition in diffusive mass transfer
+  title_id: definition-of-a-steady-state-condition-in-diffusive-mass-transfer
+  topics: []
+  translations: {}
 e4019de6-0585-4b7f-b282-6ff9c5cba0ac:
   hexsha:
     private: 353797adf53796207961550eddf894c838c245b8

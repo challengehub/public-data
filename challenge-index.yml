@@ -425,6 +425,16 @@
   title_id: characteristic-equation-real-negative-roots
   topics: []
   translations: {}
+35cd73f7-8f5a-4b15-8a75-f753936531f7:
+  hexsha:
+    private: bc241bdc4b1c7d2bc0bb9016a5a1e396e835a2aa
+    public: 53076a78361ff24e1cbe276e971a4c215cd9e856
+  language: en
+  modified: '2019-06-14T03:40:53.412006Z'
+  title: Definition of a stationary medium approximation
+  title_id: definition-of-a-stationary-medium-approximation
+  topics: []
+  translations: {}
 36cf7182-6f94-45d8-8e21-4fe8f47411ce:
   hexsha:
     private: 27063c824e12a27e273bd3e26ce8b25b3eb51743

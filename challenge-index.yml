@@ -879,13 +879,12 @@
   translations: {}
 73dcdc66-dfd0-483f-97cb-35b8557021d6:
   hexsha:
-    private: f44605886693f965bc4c04b6cd61fc646e225e55
-    public: 3b9318c40f68a710e96a5eef29d8eb95bd097f9c
+    private: 34c3c53161d7a3f3c44cfbc75a2679e55d7c338e
+    public: 8bbeb448330afa937f5b20fad42951bc0b8481dd
   language: en
-  modified: '2019-06-14T04:06:53.169798Z'
-  title: 'Steady-state diffusion planer example with specified surface concentrations:
-    blister package example'
-  title_id: steady-state-diffusion-planer-example-with-specified-surface-concentrations-blister-package-example
+  modified: '2019-06-14T04:29:42.946521Z'
+  title: Steady-state planer diffusion of helium through a plastic membrane in kmol/s/m^2
+  title_id: steady-state-planer-diffusion-of-helium-through-a-plastic-membrane-in-kmolsm2
   topics: []
   translations: {}
 742ab5e4-5f2b-427b-82bd-a98ac753bc61:

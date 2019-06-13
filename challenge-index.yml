@@ -877,6 +877,17 @@
   title_id: calculating-mass-fraction-from-partial-pressure
   topics: []
   translations: {}
+73dcdc66-dfd0-483f-97cb-35b8557021d6:
+  hexsha:
+    private: f44605886693f965bc4c04b6cd61fc646e225e55
+    public: 3b9318c40f68a710e96a5eef29d8eb95bd097f9c
+  language: en
+  modified: '2019-06-14T04:06:53.169798Z'
+  title: 'Steady-state diffusion planer example with specified surface concentrations:
+    blister package example'
+  title_id: steady-state-diffusion-planer-example-with-specified-surface-concentrations-blister-package-example
+  topics: []
+  translations: {}
 742ab5e4-5f2b-427b-82bd-a98ac753bc61:
   hexsha:
     private: 9a1a875d4301b58f6030f572d02abad9a67cfcff

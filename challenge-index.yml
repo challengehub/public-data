@@ -746,6 +746,17 @@
   title_id: triple-cross-product
   topics: []
   translations: {}
+586b9694-7787-46b9-a173-e9456dee6ad2:
+  hexsha:
+    private: f1ef354fc1bb673f1a4ff30cda3390fc98baac98
+    public: 543c14845df577ddb66ee8174b7f0bda865d0714
+  language: en
+  modified: '2019-06-14T21:28:04.004547Z'
+  title: Proving that the off-diagonal values of inertia of a centred homogeneous
+    cube are zero
+  title_id: proving-that-the-off-diagonal-values-of-inertia-of-a-centred-homogeneous-cube-are-zero
+  topics: []
+  translations: {}
 5a8e2ea6-45c9-4622-b265-aad041440b64:
   hexsha:
     private: dabe64abca1c3b875bc4b5ff3e116b9a7c87dc2e

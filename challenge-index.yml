@@ -336,10 +336,10 @@
   translations: {}
 2a57d650-2c00-4147-9113-ea0096d60ca3:
   hexsha:
-    private: c743542955b19aba6866e51e25c075899386b70a
-    public: a900f7b8b177f87406fd9b12f73bd1c703d91be1
+    private: e60c8bfeff8d5414220d85711f653d5dbb6da4a5
+    public: 025e6eee3377e0321c2930a7c502addc70538471
   language: en
-  modified: '2019-06-12T05:07:27.594816Z'
+  modified: '2019-06-16T20:12:55.064905Z'
   title: Simultaneous rotations on two axes - acceleration
   title_id: simultaneous-rotations-on-two-axes-acceleration
   topics: []

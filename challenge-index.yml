@@ -239,6 +239,16 @@ e9aed444-84ff-4c82-a407-2874f1c71a7a:
   title_id: powers-and-roots-basic
   topics: []
   translations: {}
+fa7d3c8f-9063-4ce7-b665-6fa42b00339f:
+  hexsha:
+    private: 1ecfc2ec12e5ab1cb20b74009b4caa09ce631fec
+    public: 44fb743a0b86cd932a8ad8378f31cc96607c0ee4
+  language: en
+  modified: '2019-06-18T08:31:42.560994Z'
+  title: Independence of Path
+  title_id: independence-of-path
+  topics: []
+  translations: {}
 fb731dcc-d152-4e91-acd0-aee60540464c:
   hexsha:
     private: a17ebadc4a4b4466c446fec1a7cbd5e856036e2a

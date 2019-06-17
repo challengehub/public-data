@@ -49,6 +49,16 @@
   title_id: analytic-functions-basic
   topics: []
   translations: {}
+3475d0aa-b223-44fd-b84f-3af887b12ead:
+  hexsha:
+    private: 769b83ee98314217157c65befee818ce18ba4c91
+    public: d4c989ce5ff77a0cc9e31ede008bef1572e1649b
+  language: en
+  modified: '2019-06-18T08:20:59.816692Z'
+  title: Cauchy-Goursat Theorem
+  title_id: cauchy-goursat-theorem
+  topics: []
+  translations: {}
 4b372d33-399f-4506-90dd-89db1cb990ae:
   hexsha:
     private: 99454c6a5914db79c85140a8a607b13118cd53a4

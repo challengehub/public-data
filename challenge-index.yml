@@ -241,10 +241,10 @@ e9aed444-84ff-4c82-a407-2874f1c71a7a:
   translations: {}
 fa7d3c8f-9063-4ce7-b665-6fa42b00339f:
   hexsha:
-    private: 8bdb6674cdb96175610dac8fc45f7b8513c4d2de
-    public: f1a4b4778cad40c1f776c7b2ac525ed8af527952
+    private: 2db3cd49c6caf3589f91c7ca02e0a58821876ee1
+    public: 99c2120a546c2a053a2fba3a2b6021d5d88790b6
   language: en
-  modified: '2019-06-18T12:47:00.566012Z'
+  modified: '2019-06-18T13:22:00.343331Z'
   title: Independence of Path
   title_id: independence-of-path
   topics: []

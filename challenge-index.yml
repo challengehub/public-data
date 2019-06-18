@@ -1871,6 +1871,16 @@ e4e87237-eb2b-4a14-ac1f-ad115eeb0e7d:
   title_id: systems-of-odes-homogeneous-vs-non-homogeneous
   topics: []
   translations: {}
+e507aca1-6afc-4a48-bcb5-73c162c245f5:
+  hexsha:
+    private: fad3d133da17e5a7284daa18d30365cb5dff8dfe
+    public: 3ab8242570d1d86b9e6750cda4d9ca1407c00712
+  language: en
+  modified: '2019-06-19T06:30:08.949966Z'
+  title: Angular momentum and kinetic energy of a cone rotating on 2 axes
+  title_id: angular-momentum-and-kinetic-energy-of-a-cone-rotating-on-2-axes
+  topics: []
+  translations: {}
 e553d345-730d-459d-aea1-3d7a828ef541:
   hexsha:
     private: 29012e26349a2e6fc8cb3b09269c7be0515ef5d1

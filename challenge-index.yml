@@ -626,6 +626,16 @@
   title_id: crank-style-problem-sp73
   topics: []
   translations: {}
+4483fde2-1551-466e-b2fa-f1fe9ee2e8ca:
+  hexsha:
+    private: 736b0a3f435079a6006a3af0a00f8c93012c7073
+    public: d579a9840a9dcc3fdc72f0b7d0e44e8b6fde959d
+  language: en
+  modified: '2019-06-20T04:40:40.300683Z'
+  title: Derivation of Euler's equations for 3D rotation
+  title_id: derivation-of-eulers-equations-for-3d-rotation
+  topics: []
+  translations: {}
 46c6645c-e972-4c6f-9044-5efb418e1b41:
   hexsha:
     private: 9f9dabd0a7b4611a4dc2ac18c943656276e08ffe

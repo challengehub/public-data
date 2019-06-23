@@ -1194,10 +1194,10 @@
   translations: {}
 8e101498-7e71-4b05-84df-2910b170d474:
   hexsha:
-    private: 5847eb6a79f81096a842ae338d5407265deef095
-    public: 91073ef36708d0d50ca67850663f6cf878e74696
+    private: f517c862120773b4e421983f3fc0e337752618f0
+    public: 5af95954558b6c0c3d39d534d725b2a5d4467fe5
   language: en
-  modified: '2019-06-24T05:03:09.156106Z'
+  modified: '2019-06-24T05:04:22.010947Z'
   title: Simultaneous rotations on two axes - velocity
   title_id: simultaneous-rotations-on-two-axes-velocity
   topics: []

@@ -59,6 +59,16 @@
   title_id: cauchy-goursat-theorem
   topics: []
   translations: {}
+37659fdb-9ab0-403c-9477-465ec6af4b03:
+  hexsha:
+    private: 88069ddc77ca7132804e72fd9377d28a42d60e4d
+    public: ef80ae56c1552c804f3329075d9d108d73ed3c26
+  language: en
+  modified: '2019-06-24T07:17:59.400425Z'
+  title: Cauchy's Two Integral Formulas
+  title_id: cauchys-two-integral-formulas
+  topics: []
+  translations: {}
 4b372d33-399f-4506-90dd-89db1cb990ae:
   hexsha:
     private: 99454c6a5914db79c85140a8a607b13118cd53a4

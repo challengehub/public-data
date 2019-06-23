@@ -51,10 +51,10 @@
   translations: {}
 3475d0aa-b223-44fd-b84f-3af887b12ead:
   hexsha:
-    private: 769b83ee98314217157c65befee818ce18ba4c91
-    public: d4c989ce5ff77a0cc9e31ede008bef1572e1649b
+    private: df5f6ac8a707293ac6e56abfad3733d7d7ac2bcf
+    public: daff600dd53d121ea0ed068b954666c88498d28a
   language: en
-  modified: '2019-06-18T08:20:59.816692Z'
+  modified: '2019-06-24T05:39:15.598913Z'
   title: Cauchy-Goursat Theorem
   title_id: cauchy-goursat-theorem
   topics: []

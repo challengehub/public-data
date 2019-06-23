@@ -1255,10 +1255,10 @@
   translations: {}
 9021759c-ab08-49b2-941b-5fec81293cb7:
   hexsha:
-    private: 256c42bf9077f45594f1eb012c335bf413bf2c38
-    public: 62b2cb09009e4899533466b3be04d02a8f241138
+    private: 7c55c348b0143d8f355df571fbc002d6c5c7db97
+    public: a8296d787d599ad70e04eff419d5c79e3dd2195d
   language: en
-  modified: '2019-05-30T01:18:32.471174Z'
+  modified: '2019-06-24T00:10:28.550058Z'
   title: Velocity of a point at the end of an arm with two rotating joints
   title_id: velocity-of-a-point-at-the-end-of-an-arm-with-two-rotating-joints
   topics: []

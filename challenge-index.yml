@@ -61,10 +61,10 @@
   translations: {}
 37659fdb-9ab0-403c-9477-465ec6af4b03:
   hexsha:
-    private: dec2ff0078a7644c1904f76d2a2d0f0b64901ea5
-    public: 025909038d1ab89dc24f10a2373a26998e85cbe1
+    private: 9f5538abb2d9c18927cfe62932261ff229577ccf
+    public: 922429ee63d833d5f54d5809b175a3fad238a72d
   language: en
-  modified: '2019-06-25T04:21:29.597267Z'
+  modified: '2019-06-25T04:33:04.299046Z'
   title: Cauchy's Two Integral Formulas
   title_id: cauchys-two-integral-formulas
   topics: []

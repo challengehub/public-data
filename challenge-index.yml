@@ -191,10 +191,10 @@ a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
   translations: {}
 ab12a1a4-c04d-4af3-b48d-0338388a0722:
   hexsha:
-    private: 7f3f8a35792096e44a3d19234baa981f1e20c6f0
-    public: 062a5f76c47ae5e0b01a83fbe650b63766ba5dab
+    private: 2b61cb8a45e0550f01cd4b948fe228c7fd4afa9c
+    public: d687a14a28d9a27e5daf6d3851633c718513c22b
   language: en
-  modified: '2019-06-24T07:18:37.19009Z'
+  modified: '2019-06-25T05:12:41.762398Z'
   title: Some Consequences of the Integral Formulas
   title_id: some-consequences-of-the-integral-formulas
   topics: []

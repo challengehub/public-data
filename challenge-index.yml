@@ -346,10 +346,10 @@
   translations: {}
 29669082-6d57-4c9f-8f76-74e9f2f2664f:
   hexsha:
-    private: f5cefa75426d05159ccd8bbf410e5e9d800e2a0c
-    public: e4c0a2cdd1bd66d80d9ff29ff8a2fe5b53db850f
+    private: 7819ddbb26fa29c5a4f7638e5153abc106e96e6e
+    public: 282780b496054c7a30c15a0795ae3f0f03c0576b
   language: en
-  modified: '2019-06-13T01:19:04.898469Z'
+  modified: '2019-06-28T07:32:32.287798Z'
   title: Initial evaporation rate from an evaporation pan, including the effects of
     advection
   title_id: initial-evaporation-rate-from-an-evaporation-pan-including-the-effects-of-advection

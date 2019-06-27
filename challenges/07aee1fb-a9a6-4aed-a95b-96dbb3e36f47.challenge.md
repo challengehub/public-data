@@ -7,9 +7,9 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: 07aee1fb-a9a6-4aed-a95b-96dbb3e36f47
 language: en
-modified: '2019-06-12T04:58:51.265712Z'
-title: 'LNG: mol-fraction of ethane'
-title_id: lng-mol-fraction-of-ethane
+modified: '2019-06-28T08:20:36.445023Z'
+title: 'LNG: mole-fraction of ethane'
+title_id: lng-mole-fraction-of-ethane
 topics: []
 translations: {}
 version: '1.0'

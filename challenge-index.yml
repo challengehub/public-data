@@ -73,12 +73,12 @@
   translations: {}
 07aee1fb-a9a6-4aed-a95b-96dbb3e36f47:
   hexsha:
-    private: 06e18e4623d68c5be22529d1792007dd95c54a19
-    public: 3ce83d2850756eabff91f5d612ae59236d22f88e
+    private: 12b16e5a499d036fc3137814c9795e12cb1b269a
+    public: 25c92e673f435d983124233373d5a2c7bdfd7ca8
   language: en
-  modified: '2019-06-12T04:58:51.265712Z'
-  title: 'LNG: mol-fraction of ethane'
-  title_id: lng-mol-fraction-of-ethane
+  modified: '2019-06-28T08:20:36.445023Z'
+  title: 'LNG: mole-fraction of ethane'
+  title_id: lng-mole-fraction-of-ethane
   topics: []
   translations: {}
 0969a174-5cc3-4ee6-8bbe-36217a691f63:

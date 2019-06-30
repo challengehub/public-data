@@ -259,6 +259,16 @@ e56a7d65-dc35-48eb-9159-09a59cb53d31:
   title_id: elementary-functions-basic
   topics: []
   translations: {}
+e8773e51-8de7-42fe-ad00-51a54499114a:
+  hexsha:
+    private: b2effddbb466c7e0c04a3ef38a3a78cf266b1ae7
+    public: f302257b22181550e0aa3aa1387a044971446cc6
+  language: en
+  modified: '2019-07-01T08:19:59.083591Z'
+  title: Taylor Series
+  title_id: taylor-series
+  topics: []
+  translations: {}
 e9aed444-84ff-4c82-a407-2874f1c71a7a:
   hexsha:
     private: 832d14be2d2c8d6914fdd360b141c0e322fcabb3

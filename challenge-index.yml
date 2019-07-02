@@ -261,10 +261,10 @@ e56a7d65-dc35-48eb-9159-09a59cb53d31:
   translations: {}
 e8773e51-8de7-42fe-ad00-51a54499114a:
   hexsha:
-    private: 1fb8172bac9221aa2a97ba642979338803fdf080
-    public: bd72e729ad954c6cd04dac13f14cb0bbc1a25ecb
+    private: 87e95003882424b55ba74dacd6e755c43d40b6a2
+    public: b981c416be1ba9af8f956d445e17ff934a5fff28
   language: en
-  modified: '2019-07-02T07:27:00.0936Z'
+  modified: '2019-07-02T13:15:00.817616Z'
   title: Taylor Series
   title_id: taylor-series
   topics: []

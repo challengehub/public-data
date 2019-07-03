@@ -279,6 +279,16 @@ e9aed444-84ff-4c82-a407-2874f1c71a7a:
   title_id: powers-and-roots-basic
   topics: []
   translations: {}
+f0edc43e-0dd9-4e76-acdb-4d41dbbd3344:
+  hexsha:
+    private: 69a04882cf85d07abaad9a1296cb1cc6672caec5
+    public: 8e376fa5f6b6addc03a9a09c8ae9b669f2fe79b4
+  language: en
+  modified: '2019-07-04T05:40:20.891964Z'
+  title: Laurent Series
+  title_id: laurent-series
+  topics: []
+  translations: {}
 fa7d3c8f-9063-4ce7-b665-6fa42b00339f:
   hexsha:
     private: 5867b7c909f44c8da826690a08c7a5e5a8d625ef

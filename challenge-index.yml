@@ -214,10 +214,10 @@
   translations: {}
 1a54e37b-0d7f-452d-87bf-ce32f61535de:
   hexsha:
-    private: 78658e0155a34a4aec4a67218af573d8d799221d
-    public: 0f0825bd436897b92e0c3dcd2d484e94da526436
+    private: 3bb476b9c58708bc2e6ad33c31438dcdeaf799e7
+    public: 99c5e12ffa33c354bcb144abcf8ec4d79dc5c887
   language: en
-  modified: '2019-06-13T02:18:02.746946Z'
+  modified: '2019-07-04T05:12:14.987624Z'
   title: Calculating flux of a 3rd component given fluxes of 2 other components in
     a stationary medium
   title_id: calculating-flux-of-a-3rd-component-given-fluxes-of-2-other-components-in-a-stationary-medium

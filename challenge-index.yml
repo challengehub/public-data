@@ -1914,6 +1914,17 @@ ddccff02-8932-4545-88f0-fca842a2554b:
   title_id: centre-of-mass-acceleration-of-3-particles
   topics: []
   translations: {}
+dea97d08-19c4-4940-a89f-e29f4faf38ec:
+  hexsha:
+    private: cca828114b93c455cffd2f3a62b001268573c379
+    public: 858d8f02457cb9937066840a7777001ea9d9ee98
+  language: en
+  modified: '2019-07-04T06:30:32.686622Z'
+  title: 'Raoult''s law: Mass fraction of water on the liquid-side of a water-air
+    interface'
+  title_id: raoults-law-mass-fraction-of-water-on-the-liquid-side-of-a-water-air-interface
+  topics: []
+  translations: {}
 deac25c3-00ee-417c-8ebc-1cc83297a62a:
   hexsha:
     private: 640d3b069b48d658ca7a071ccd5e47c0f1880ead

@@ -79,6 +79,16 @@
   title_id: cauchys-two-integral-formulas
   topics: []
   translations: {}
+3885ac38-15fd-4390-a6cf-bd6712ef0af6:
+  hexsha:
+    private: 72b395930c689af6f8c721bac9730fea94bdc57b
+    public: a3277ee6a56a585e39ae3b2f3eb0e37686ab5178
+  language: en
+  modified: '2019-07-04T07:44:42.092365Z'
+  title: Zeros and Poles
+  title_id: zeros-and-poles
+  topics: []
+  translations: {}
 4b372d33-399f-4506-90dd-89db1cb990ae:
   hexsha:
     private: 99454c6a5914db79c85140a8a607b13118cd53a4

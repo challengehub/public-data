@@ -1479,6 +1479,16 @@ a9b599cb-c6e7-4d2d-bab3-f4542b390649:
   title_id: introduction-to-convolution-1-cost
   topics: []
   translations: {}
+aacf2783-8a47-482a-9e1e-9ba0f7e980ce:
+  hexsha:
+    private: 50ce375dc913d4b05139b458f7a2f03f4f01126e
+    public: 675ec22a7f09494fbaf2c6537c77887a5ef83245
+  language: en
+  modified: '2019-07-04T06:37:12.324133Z'
+  title: Definition of two principle boundary conditions for mass transfer
+  title_id: definition-of-two-principle-boundary-conditions-for-mass-transfer
+  topics: []
+  translations: {}
 acb900a9-e5f1-423a-b72f-ba825b16c4e9:
   hexsha:
     private: 8abc0df87ced39b8490be29f51c453dd1bc8a7d3

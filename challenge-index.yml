@@ -291,10 +291,10 @@ e9aed444-84ff-4c82-a407-2874f1c71a7a:
   translations: {}
 f0edc43e-0dd9-4e76-acdb-4d41dbbd3344:
   hexsha:
-    private: 69a04882cf85d07abaad9a1296cb1cc6672caec5
-    public: 8e376fa5f6b6addc03a9a09c8ae9b669f2fe79b4
+    private: 980a578ae42d08c47df69d4d7cb7fdc14fd63650
+    public: bbb4e264f8ebe74bb97029c34e1a2054b31fb644
   language: en
-  modified: '2019-07-04T05:40:20.891964Z'
+  modified: '2019-07-04T07:48:33.224445Z'
   title: Laurent Series
   title_id: laurent-series
   topics: []

@@ -10,7 +10,7 @@ extra_resources:
     description: infinity
 id: f0edc43e-0dd9-4e76-acdb-4d41dbbd3344
 language: en
-modified: '2019-07-04T05:40:20.891964Z'
+modified: '2019-07-04T07:48:33.224445Z'
 title: Laurent Series
 title_id: laurent-series
 topics: []
@@ -72,8 +72,9 @@ Expansion into Laurent series needs a good knowledge of geometric series and  ex
 
 - Check textbook
 
-- [Explanation by Michael Barrus](https://youtu.be/xZ0S8Ywwc9o)
+- [Theory explanation by Michael Barrus](https://youtu.be/xZ0S8Ywwc9o)
 
+- [Calculation explanation by Michael Barrus](https://youtu.be/GPqVd30eHrg)
 
 - Explore the Internet
 

@@ -1253,6 +1253,17 @@
   title_id: method-of-undetermined-coefficients-ii-part-3
   topics: []
   translations: {}
+8f5792d1-f319-4fab-9783-8efa2b75360e:
+  hexsha:
+    private: 15d341f0fe7bfa3556134c459908e89259e7655b
+    public: b33aa17e34ca7c5d99ca8d6c80c4ef639a9591b1
+  language: en
+  modified: '2019-07-04T06:29:36.841632Z'
+  title: 'Raoult''s law: Mole fraction of water on the liquid-side of a water-air
+    interface'
+  title_id: raoults-law-mole-fraction-of-water-on-the-liquid-side-of-a-water-air-interface
+  topics: []
+  translations: {}
 8faa60f3-a7b1-464c-a22d-2b8cf3c39966:
   hexsha:
     private: abb2e5f2c318bd1bbd5e5261ba2264f854e384e6

@@ -538,13 +538,13 @@
   translations: {}
 3920c269-7a87-4866-bf0d-9e5a42157ef4:
   hexsha:
-    private: a1a7ecd4a0030083cf988a1cea04c8cbb1df6a53
-    public: 7e08a85ec61c65f1483bac29f0fe6b76f1c9a3b9
+    private: 96f9248f1500383d5ab45a134d5a9a36a626270a
+    public: 3e8836166406d6ab31050a67b3b6db436c631111
   language: en
-  modified: '2019-07-04T06:25:20.17627Z'
-  title: 'Raoult''s law: Molar fraction of water vapour on the air-side of a water-air
+  modified: '2019-07-04T06:27:45.48405Z'
+  title: 'Raoult''s law: Mole fraction of water vapour on the air-side of a water-air
     interface'
-  title_id: raoults-law-molar-fraction-of-water-vapour-on-the-air-side-of-a-water-air-interface
+  title_id: raoults-law-mole-fraction-of-water-vapour-on-the-air-side-of-a-water-air-interface
   topics: []
   translations: {}
 39841efc-79de-4517-a8f0-5e3f79063d89:

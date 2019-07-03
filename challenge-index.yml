@@ -536,6 +536,17 @@
   title_id: convolution-and-the-laplace-transform-122-2s
   topics: []
   translations: {}
+3920c269-7a87-4866-bf0d-9e5a42157ef4:
+  hexsha:
+    private: 8e0c6765c1171a84da1e1acdbc92851d22944721
+    public: 4142ddf53c19534aa143f62a428b034f6a5a989e
+  language: en
+  modified: '2019-07-04T06:24:17.228349Z'
+  title: 'Raoult''s law: Molar fraction of water vapour on the air-side of a water-air
+    interface'
+  title_id: raoults-law-molar-fraction-of-water-vapour-on-the-air-side-of-a-water-air-interface
+  topics: []
+  translations: {}
 39841efc-79de-4517-a8f0-5e3f79063d89:
   hexsha:
     private: 8621b140d602142c73f10800ee81b20cbf35c989

@@ -314,6 +314,17 @@
   title_id: characteristic-equation-identification-real-distinct-roots
   topics: []
   translations: {}
+2634f805-ff27-4830-94f7-740635a458e2:
+  hexsha:
+    private: 110f3d063bf5da16f4819c5a7ae15ea77f1d33d3
+    public: f48eedfdae33c2ff913c1f7d9574d56fa2b07a84
+  language: en
+  modified: '2019-07-05T01:19:02.310424Z'
+  title: Calculation of the volume of a soluble species in the gas-phase at STP given
+    its volume in the solid phase at an interface
+  title_id: calculation-of-the-volume-of-a-soluble-species-in-the-gas-phase-at-stp-given-its-volume-in-the-solid-phase-at-an-interface
+  topics: []
+  translations: {}
 268c48bb-bc53-4248-b110-a29a22382daf:
   hexsha:
     private: 8f23c8b03fcd991e50d08d9536f7e26b6b13b227

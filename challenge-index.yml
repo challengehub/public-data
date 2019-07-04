@@ -1996,6 +1996,16 @@ e553d345-730d-459d-aea1-3d7a828ef541:
   title_id: new-challenge-todays-again
   topics: []
   translations: {}
+e9f7b949-488a-419e-9693-4131817850be:
+  hexsha:
+    private: 1edcbe61e29b2379bfc2f12eee995cd124dd8dd4
+    public: aeeb4c9619a357ea7c2e3843964398fbec558cb8
+  language: en
+  modified: '2019-07-05T01:02:36.892123Z'
+  title: The applicability of Henry's law and calculation of Henry's constant
+  title_id: the-applicability-of-henrys-law-and-calculation-of-henrys-constant
+  topics: []
+  translations: {}
 ea1da35f-98a6-41b3-83a7-14df85a62212:
   hexsha:
     private: fdc772197c864e6bb38dba68686f064ec4410e81

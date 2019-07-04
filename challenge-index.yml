@@ -1062,6 +1062,16 @@
   title_id: introduction-to-convolution-t-cost
   topics: []
   translations: {}
+7cf06c02-002b-4b92-bdb3-fbab41b9c84c:
+  hexsha:
+    private: 062270e37842913901973673885e81323599df77
+    public: 81c298aa6fe875e2897ad2ad4d43853832534a53
+  language: en
+  modified: '2019-07-05T01:13:48.735733Z'
+  title: Calculation of solubility of a gas in a solid given density and partial pressure
+  title_id: calculation-of-solubility-of-a-gas-in-a-solid-given-density-and-partial-pressure
+  topics: []
+  translations: {}
 7f1880ea-7fe1-4fd5-9c04-9ecd0804cd5e:
   hexsha:
     private: 4471c7d51edd87b6e53e87f9087c7848703056ac

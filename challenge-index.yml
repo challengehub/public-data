@@ -1999,10 +1999,10 @@ e4e87237-eb2b-4a14-ac1f-ad115eeb0e7d:
   translations: {}
 e507aca1-6afc-4a48-bcb5-73c162c245f5:
   hexsha:
-    private: fad3d133da17e5a7284daa18d30365cb5dff8dfe
-    public: 3ab8242570d1d86b9e6750cda4d9ca1407c00712
+    private: 1921009a05ddbc46a4a459d76febd3ac3099c676
+    public: c9d1373dcabd3b1ba34806fe4f88409b11bf72bc
   language: en
-  modified: '2019-06-19T06:30:08.949966Z'
+  modified: '2019-07-07T20:01:32.431898Z'
   title: Angular momentum and kinetic energy of a cone rotating on 2 axes
   title_id: angular-momentum-and-kinetic-energy-of-a-cone-rotating-on-2-axes
   topics: []

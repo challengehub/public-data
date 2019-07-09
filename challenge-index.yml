@@ -1581,6 +1581,16 @@ b359a87e-8e04-4679-b540-3c345ac6eb20:
   title_id: solving-systems-of-odes-81-44
   topics: []
   translations: {}
+b4a27bb7-480b-4c00-924b-0e3714b270a6:
+  hexsha:
+    private: d7fe5f1cd00379b6bc3835807f3e75e1364055d3
+    public: 18b470433d097f7b25e8b83b12a159d355214a72
+  language: en
+  modified: '2019-07-10T04:26:55.394646Z'
+  title: Calculation of flux through a spherical membrane
+  title_id: calculation-of-flux-through-a-spherical-membrane
+  topics: []
+  translations: {}
 b4a29e3d-b428-46eb-add6-e1c73b17286a:
   hexsha:
     private: af091152a87f1157a262d35e72b943932bafa936

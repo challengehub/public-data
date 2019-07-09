@@ -1793,6 +1793,16 @@ ccca6e05-5da4-4bd8-b7d0-3a042ab6e7d3:
   title_id: 3d-linear-acceleration-of-two-points-on-a-crank
   topics: []
   translations: {}
+cf121668-42e8-4fca-a169-c7f8f253c1fa:
+  hexsha:
+    private: 98eabbab8a4b624ec9d4cc9c172d914ac650b4fd
+    public: a27bb267b2d40f2101a25f3c34a1bdae1b6851c9
+  language: en
+  modified: '2019-07-10T04:35:55.353076Z'
+  title: Location of heterogeneious and Homogeneous reactions
+  title_id: location-of-heterogeneious-and-homogeneous-reactions
+  topics: []
+  translations: {}
 cf4144a5-5a0f-48aa-9d8a-fe89c64551fc:
   hexsha:
     private: 2e479a7cc55ae8e408cedb9ea370153a56edaa82

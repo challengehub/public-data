@@ -700,6 +700,16 @@
   title_id: initial-evaporation-rate-from-an-evaporation-pan-assuming-only-diffusive-mass-transport
   topics: []
   translations: {}
+4857b6e9-41ef-44cf-b6a9-9228869723ec:
+  hexsha:
+    private: 409f44cd8eecc9cf3a588cf15a7ee650bb0051be
+    public: 30739072f041df398a30236d04bb1e505c63965c
+  language: en
+  modified: '2019-07-10T05:35:26.23412Z'
+  title: Flux under a diffusion-limited condition
+  title_id: flux-under-a-diffusion-limited-condition
+  topics: []
+  translations: {}
 487a8cac-bcff-4a5e-8286-efcc86e33fb2:
   hexsha:
     private: 4ff0132cb81a3913bb91878fcd891bb0532d5f57

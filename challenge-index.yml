@@ -1795,11 +1795,11 @@ ccca6e05-5da4-4bd8-b7d0-3a042ab6e7d3:
   translations: {}
 cf121668-42e8-4fca-a169-c7f8f253c1fa:
   hexsha:
-    private: 1b4b559db29a48b4343eb4f8b103dea71851bf26
-    public: d3016731ebb152abbcfa90ef19a47ca8cc795f9a
+    private: 816a98ddd61a465148b9d81a887c2671486faa9e
+    public: 2de39ce518ebd93e1693ffb4370ad2554f1c3e17
   language: en
-  modified: '2019-07-10T05:05:52.031263Z'
-  title: Location of heterogeneous and Homogeneous reactions
+  modified: '2019-07-10T05:07:15.691292Z'
+  title: Location of heterogeneous and homogeneous reactions
   title_id: location-of-heterogeneous-and-homogeneous-reactions
   topics: []
   translations: {}

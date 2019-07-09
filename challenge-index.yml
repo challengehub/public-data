@@ -2029,12 +2029,12 @@ e4019de6-0585-4b7f-b282-6ff9c5cba0ac:
   translations: {}
 e454c9e2-1497-4e48-b360-060092086158:
   hexsha:
-    private: 0dc96d37e0affed4dffbb595404811f64970a27e
-    public: ff0a791f634320befddeb719640286799f2aadb8
+    private: 7049c6b67c3dc439c613f0a88684ac52d03d886d
+    public: ec3d6e305156938949d36bf7f0315237ce89769f
   language: en
-  modified: '2019-07-10T05:29:33.628348Z'
-  title: Concentration in a reaction-limited situation
-  title_id: concentration-in-a-reaction-limited-situation
+  modified: '2019-07-10T05:30:34.03928Z'
+  title: Concentration under a reaction-limited condition
+  title_id: concentration-under-a-reaction-limited-condition
   topics: []
   translations: {}
 e4e87237-eb2b-4a14-ac1f-ad115eeb0e7d:

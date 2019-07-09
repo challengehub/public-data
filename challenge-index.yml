@@ -1224,6 +1224,16 @@
   title_id: example-of-calculation-of-evaporation-through-a-pore
   topics: []
   translations: {}
+8ca5db06-78f3-483c-b74e-3a73b128e13e:
+  hexsha:
+    private: 07e6d50cc88f61157d77d89158e7bbe69331b349
+    public: 9544632183068bb39aeb0953a48597dacc2912d1
+  language: en
+  modified: '2019-07-10T05:10:25.363249Z'
+  title: Definitions of zeroth-order and first-order reactions
+  title_id: definitions-of-zeroth-order-and-first-order-reactions
+  topics: []
+  translations: {}
 8d3ed50c-ef36-4f2a-96b9-3dabf12c9290:
   hexsha:
     private: 323e81a82a8ff7dfe6fbc50061cd26409bfbb31f

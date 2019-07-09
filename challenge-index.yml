@@ -103,10 +103,10 @@
   translations: {}
 0a1c7c00-5310-4f85-ba77-5f41a7710802:
   hexsha:
-    private: 0eaf8c793e3bf385f7b36e0540a406be263229bc
-    public: b32504bce1615e0cb916e561fd4211d37ed22ea0
+    private: bb8c9710b95ef29af9681c3f339e9aeb39f79e15
+    public: 80d70214f27997231aeac29cddf8f45410f7507a
   language: en
-  modified: '2019-07-10T07:57:00.317891Z'
+  modified: '2019-07-10T07:57:36.703223Z'
   title: Test challenge (7/10/2019, 4:56:18 PM)
   title_id: test-challenge-7102019-45618-pm
   topics: []

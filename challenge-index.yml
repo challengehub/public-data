@@ -800,6 +800,16 @@
   title_id: maximum-velocity-of-a-rocket-on-an-incline
   topics: []
   translations: {}
+51f1bdcf-0695-498b-9c19-9b1289ec86e6:
+  hexsha:
+    private: 937601bbcbf3b6a6bac2e9c7d0fe29541a6d0082
+    public: d5675c7f132f840661e15d7f8b1650185186f92a
+  language: en
+  modified: '2019-07-10T04:06:27.811256Z'
+  title: Worked example of diffusion through a plane wall
+  title_id: worked-example-of-diffusion-through-a-plane-wall
+  topics: []
+  translations: {}
 526f79d3-07c1-48e1-954f-bde59de813bb:
   hexsha:
     private: fcb82414394ad880f9662d2c48f8a91f208b81f3

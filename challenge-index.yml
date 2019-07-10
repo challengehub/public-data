@@ -1782,6 +1782,17 @@ c9dfbc7a-e714-4974-a776-57b82b3ff51d:
   title_id: solving-an-ode-with-exponential-forcing-using-the-laplace-transform-method
   topics: []
   translations: {}
+ca276a0b-311c-4b9b-8141-77fa3e027bb9:
+  hexsha:
+    private: ccd8477f94c2980347a00cfdcd8ed874600becde
+    public: 7696991d4fd539f2fd0d333b2988c3f716a77582
+  language: en
+  modified: '2019-07-11T08:10:00.826904Z'
+  title: The physical meaning behind a the "bending moment" acting on a rod on a rotating
+    disk
+  title_id: the-physical-meaning-behind-a-the-bending-moment-acting-on-a-rod-on-a-rotating-disk
+  topics: []
+  translations: {}
 ca96add1-6dc2-42c9-b994-2b3d150cd645:
   hexsha:
     private: 575c1f92eed0cfe5b3e02fee7def34bfe2d73ea5

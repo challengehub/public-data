@@ -1744,10 +1744,10 @@ c3f21ef7-8f93-4954-b4c6-771f9be31c26:
   translations: {}
 c562d8c6-9141-4b55-9b84-1c224d78bff2:
   hexsha:
-    private: 8def31718ba54b149b37a112cf4ed333cb4504a0
-    public: a9d5acf6787cba757f5d0f0ae3f9b116d5647036
+    private: e1a5a53c5caf379b92a1b3c3daaa2636313509cf
+    public: 21e79f173054285f4644c79179ca9c98bc21a023
   language: en
-  modified: '2019-07-07T20:26:22.181843Z'
+  modified: '2019-07-11T02:21:58.53159Z'
   title: Angular momentum and kinetic energy of a rolling disk
   title_id: angular-momentum-and-kinetic-energy-of-a-rolling-disk
   topics: []

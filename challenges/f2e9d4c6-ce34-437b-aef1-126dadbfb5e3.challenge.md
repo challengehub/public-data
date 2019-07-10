@@ -7,7 +7,7 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: f2e9d4c6-ce34-437b-aef1-126dadbfb5e3
 language: en
-modified: '2019-07-11T08:04:10.805771Z'
+modified: '2019-07-11T08:14:15.572235Z'
 title: Bending moment acting on a rod on a rotating disk
 title_id: bending-moment-acting-on-a-rod-on-a-rotating-disk
 topics: []
@@ -24,5 +24,5 @@ Answer question 7/73 in the book.
 
 ## Solution form
 The solution is given in the book.
-To indicate that you have completed the challenge, just rate the difficulty.
+To indicate that you have completed the challenge, please rate the difficulty.
 Please discuss anything you are unsure about in class.

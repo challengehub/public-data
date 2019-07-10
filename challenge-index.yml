@@ -2180,10 +2180,10 @@ f265cffd-1302-4873-965a-2cb973f00fc9:
   translations: {}
 f2e9d4c6-ce34-437b-aef1-126dadbfb5e3:
   hexsha:
-    private: d3617446dedd534bdcf2a98f5012d3652db696e6
-    public: 6ae80ab12f047627f81abad71951f0614b26ab56
+    private: d7f23715bb2d15fc962ee661876bfd501e691d70
+    public: 1ddbf0d62d0ee31fc202fa34afe641d34cf95c9e
   language: en
-  modified: '2019-07-11T08:04:10.805771Z'
+  modified: '2019-07-11T08:14:15.572235Z'
   title: Bending moment acting on a rod on a rotating disk
   title_id: bending-moment-acting-on-a-rod-on-a-rotating-disk
   topics: []

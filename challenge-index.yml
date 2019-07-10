@@ -2167,6 +2167,16 @@ f265cffd-1302-4873-965a-2cb973f00fc9:
   title_id: solving-systems-of-odes-with-conditions-1243
   topics: []
   translations: {}
+f2e9d4c6-ce34-437b-aef1-126dadbfb5e3:
+  hexsha:
+    private: c37a4cc2cb9a2aadc800400f5a7ce7a4eedc876a
+    public: e11f5a3bb11d91678743f028827d34e5e096be3b
+  language: en
+  modified: '2019-07-11T08:03:44.498702Z'
+  title: Bending moment M acting on a rod on a rotating disk
+  title_id: bending-moment-m-acting-on-a-rod-on-a-rotating-disk
+  topics: []
+  translations: {}
 f3613f95-d6f4-47de-9b85-9c181ba7d6ad:
   hexsha:
     private: e59df1e458b590bc036f4511e67f2d14c7f55a6c

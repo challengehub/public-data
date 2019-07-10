@@ -7,9 +7,9 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: f2e9d4c6-ce34-437b-aef1-126dadbfb5e3
 language: en
-modified: '2019-07-11T08:03:44.498702Z'
-title: Bending moment M acting on a rod on a rotating disk
-title_id: bending-moment-m-acting-on-a-rod-on-a-rotating-disk
+modified: '2019-07-11T08:04:10.805771Z'
+title: Bending moment acting on a rod on a rotating disk
+title_id: bending-moment-acting-on-a-rod-on-a-rotating-disk
 topics: []
 translations: {}
 version: '1.0'

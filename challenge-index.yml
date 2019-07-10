@@ -2169,12 +2169,12 @@ f265cffd-1302-4873-965a-2cb973f00fc9:
   translations: {}
 f2e9d4c6-ce34-437b-aef1-126dadbfb5e3:
   hexsha:
-    private: c37a4cc2cb9a2aadc800400f5a7ce7a4eedc876a
-    public: e11f5a3bb11d91678743f028827d34e5e096be3b
+    private: d3617446dedd534bdcf2a98f5012d3652db696e6
+    public: 6ae80ab12f047627f81abad71951f0614b26ab56
   language: en
-  modified: '2019-07-11T08:03:44.498702Z'
-  title: Bending moment M acting on a rod on a rotating disk
-  title_id: bending-moment-m-acting-on-a-rod-on-a-rotating-disk
+  modified: '2019-07-11T08:04:10.805771Z'
+  title: Bending moment acting on a rod on a rotating disk
+  title_id: bending-moment-acting-on-a-rod-on-a-rotating-disk
   topics: []
   translations: {}
 f3613f95-d6f4-47de-9b85-9c181ba7d6ad:

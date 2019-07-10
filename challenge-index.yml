@@ -19,6 +19,16 @@
   title_id: algebra-of-complex-numbers-basic
   topics: []
   translations: {}
+17c7b776-fb05-4802-b3b5-a53454106884:
+  hexsha:
+    private: 3943628f4ec5355b952fcc262272cf20453a6002
+    public: 8083528e05b5fefad6f2851ead0cf1b6ba3b3461
+  language: en
+  modified: '2019-07-11T06:22:48.604704Z'
+  title: Residues and Residue Theorem
+  title_id: residues-and-residue-theorem
+  topics: []
+  translations: {}
 1ab0ca4c-a465-4f04-955f-505d350f480b:
   hexsha:
     private: ec00aefebfe1c3dd6f3d2282d8991bf3ef6d55e8

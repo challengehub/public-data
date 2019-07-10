@@ -2217,6 +2217,16 @@ f5c97038-c150-4774-925e-04a803deb5a6:
   title_id: derivation-of-a-periodically-forced-system
   topics: []
   translations: {}
+f7e2a6f2-0f9d-431c-a3c6-2a0e014e9b90:
+  hexsha:
+    private: cd4714409edd0f70f1ef0c59e2854493af4e4a8d
+    public: 9eb07ef58f17f03dc190f970d773713cab468d45
+  language: en
+  modified: '2019-07-11T08:00:11.90988Z'
+  title: Inertia I_{xz} of two vertical rods on a rotating disk
+  title_id: inertia-ixz-of-two-vertical-rods-on-a-rotating-disk
+  topics: []
+  translations: {}
 fb01b540-65d4-4374-be2f-69b6fbbecc8a:
   hexsha:
     private: 8afc87b3bbdbd4a8c34485507288661e5fdf6426

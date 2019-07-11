@@ -1784,10 +1784,10 @@ c9dfbc7a-e714-4974-a776-57b82b3ff51d:
   translations: {}
 ca276a0b-311c-4b9b-8141-77fa3e027bb9:
   hexsha:
-    private: ccd8477f94c2980347a00cfdcd8ed874600becde
-    public: 7696991d4fd539f2fd0d333b2988c3f716a77582
+    private: b6848efc4b93e872757d7a6579b247d9cce57852
+    public: 3770b37eb2fa808b308ed0b44e485b95f145094c
   language: en
-  modified: '2019-07-11T08:10:00.826904Z'
+  modified: '1858-11-17T00:00:00Z'
   title: The physical meaning behind a the "bending moment" acting on a rod on a rotating
     disk
   title_id: the-physical-meaning-behind-a-the-bending-moment-acting-on-a-rod-on-a-rotating-disk

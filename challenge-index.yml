@@ -2168,6 +2168,17 @@ eecde493-188e-41d8-ab86-93a76c5ae887:
   title_id: force-pulling-a-chain-around-a-pully
   topics: []
   translations: {}
+ef789560-0442-42b4-9dcd-050b807dc0ed:
+  hexsha:
+    private: a109e8aa660e04517f1dbf24949865a12758e58e
+    public: 4c48d91fee1fb960204760057780030f67497deb
+  language: en
+  modified: '2019-07-12T05:24:49.785749Z'
+  title: Understanding of the angle of maximum bending moment of a misaligned spinning
+    rod
+  title_id: understanding-of-the-angle-of-maximum-bending-moment-of-a-misaligned-spinning-rod
+  topics: []
+  translations: {}
 f1ac917c-551c-4196-b5ba-82eb64b91a8d:
   hexsha:
     private: 2e84992b872bf959e3f56072e663f8c7c24f88ff

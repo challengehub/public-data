@@ -1742,6 +1742,16 @@ c3f21ef7-8f93-4954-b4c6-771f9be31c26:
   title_id: individual-gas-constant-definition
   topics: []
   translations: {}
+c4a9da17-c0be-418e-b04e-33779aab9e5a:
+  hexsha:
+    private: 344513599361c55c443429849b55cc5d101330dc
+    public: 82b58e8ae7e35e0783aba69da1b07040f36caf48
+  language: en
+  modified: '2019-07-12T05:07:18.478726Z'
+  title: Bending moment of a misaligned spinning rod
+  title_id: bending-moment-of-a-misaligned-spinning-rod
+  topics: []
+  translations: {}
 c562d8c6-9141-4b55-9b84-1c224d78bff2:
   hexsha:
     private: e1a5a53c5caf379b92a1b3c3daaa2636313509cf

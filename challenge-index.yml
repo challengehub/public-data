@@ -21,10 +21,10 @@
   translations: {}
 17c7b776-fb05-4802-b3b5-a53454106884:
   hexsha:
-    private: 7b98a82aa09c032eac89aeec77eba8dec69543a7
-    public: 6a8dcf6ee8462f3008fcfbcbb704712725d52ca1
+    private: 528efae8783b8b841e15f990930aa192095eef55
+    public: 1edb2d91be445c63a2addfe70420c03226a702d0
   language: en
-  modified: '2019-07-12T07:20:47.773159Z'
+  modified: '1858-11-17T00:00:00Z'
   title: Residues and Residue Theorem
   title_id: residues-and-residue-theorem
   topics: []

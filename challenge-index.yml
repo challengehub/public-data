@@ -1510,6 +1510,16 @@ a43db494-2821-461b-8765-3cc2a0fc7859:
   title_id: using-convolution-to-solve-an-ode-y-3a-y-3a2-y-a3-y-2-t
   topics: []
   translations: {}
+a63253bd-e97a-4231-9dfe-ccaa0b53a19e:
+  hexsha:
+    private: 04a3a4977a3574dd00f2042d867ad97d8f412b92
+    public: 156d29473daee692705f52289bbf4f3659a9e69b
+  language: en
+  modified: '2019-07-14T07:11:13.898746Z'
+  title: Off-diagonal inertia for a mass point
+  title_id: off-diagonal-inertia-for-a-mass-point
+  topics: []
+  translations: {}
 a767ccfa-0821-47fb-a7bf-002272fcc65a:
   hexsha:
     private: 7fe1b3d64010f318a2caac6d37eef36223a0fe65

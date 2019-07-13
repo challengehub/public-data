@@ -1224,6 +1224,16 @@
   title_id: a-worked-example-of-calculations-of-two-simultanious-rotations-on-different-axes-sp-71
   topics: []
   translations: {}
+88c6d8cc-c2c7-4664-b1f3-a36b4cbeec8e:
+  hexsha:
+    private: 7e7b09607f987bfc71b81d417b2d8a8aadb3eaeb
+    public: 8cb472731b27c980390092b104cda844d8f231e7
+  language: en
+  modified: '2019-07-14T07:27:49.193982Z'
+  title: Restoring force with two rotating point masses
+  title_id: restoring-force-with-two-rotating-point-masses
+  topics: []
+  translations: {}
 890cd2f7-9843-41b1-a937-bca1077dbb85:
   hexsha:
     private: f317b20f2059611a7f095b1bf43540cd53e2e76b

@@ -261,10 +261,10 @@ dae88784-3825-4735-b25d-94ef821ffc17:
   translations: {}
 e1c257c4-1faa-4295-9701-7e7d0e3fb702:
   hexsha:
-    private: d9b2f16c98c6659f1a75633383d673b4880d448a
-    public: 240e1307bbf3a7987ffad5690011ed11cc5374f1
+    private: 7ac2febfe9700deb2c90004d880fb51cc0d29ddd
+    public: 5c1e3e96296df8f7fe954491495946dae08a0243
   language: en
-  modified: '2019-07-16T06:37:49.712496Z'
+  modified: '2019-07-16T06:40:46.893951Z'
   title: Some Consequences of the Residue Theorem
   title_id: some-consequences-of-the-residue-theorem
   topics: []

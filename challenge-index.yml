@@ -2281,10 +2281,10 @@ f5c97038-c150-4774-925e-04a803deb5a6:
   translations: {}
 f7e2a6f2-0f9d-431c-a3c6-2a0e014e9b90:
   hexsha:
-    private: 14a0f034134ba6a89285b4ee2955a8cf5128ff95
-    public: 124e0e468c0659aa3f5430cdb53c0fa63269e25b
+    private: 1616c63af65fe45fb0998f884ef0a2bf3785762f
+    public: 195dc206b591205f2405096881fa9a84450e3e0c
   language: en
-  modified: '2019-07-12T05:07:48.923638Z'
+  modified: '2019-07-16T04:37:48.198236Z'
   title: Inertia I_{xz} of two vertical rods on a rotating disk
   title_id: inertia-ixz-of-two-vertical-rods-on-a-rotating-disk
   topics: []

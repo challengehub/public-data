@@ -7,7 +7,7 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: f2e9d4c6-ce34-437b-aef1-126dadbfb5e3
 language: en
-modified: '2019-07-11T08:14:15.572235Z'
+modified: '2019-07-15T12:55:42.934499Z'
 title: Bending moment acting on a rod on a rotating disk
 title_id: bending-moment-acting-on-a-rod-on-a-rotating-disk
 topics: []
@@ -19,7 +19,7 @@ version: '1.0'
 Answer question 7/73 in the book.
 
 ## Resources
-- Secion **7/9** of *Engineering Mechanics Dynamics* by Meriam and Kraig, 6th Edition
+- Section **7/9** of *Engineering Mechanics Dynamics* by Meriam and Kraig, 6th Edition
 
 
 ## Solution form

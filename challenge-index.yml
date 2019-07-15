@@ -862,10 +862,10 @@
   translations: {}
 586b9694-7787-46b9-a173-e9456dee6ad2:
   hexsha:
-    private: 642d719388acf09c77d019e1915489ded1a5d08c
-    public: 127ce40addc1e7934e9c789d21b0f0292897766b
+    private: b7d6b4295eb5cb78e1ee9dfb65d85dcd71157c6c
+    public: 8fd4b167cd546b7a74f7a9ba55f8192d95055b4e
   language: en
-  modified: '2019-06-18T08:47:33.554653Z'
+  modified: '2019-07-16T04:24:26.497084Z'
   title: Proving that the off-diagonal values of inertia of a centred homogeneous
     cube are zero
   title_id: proving-that-the-off-diagonal-values-of-inertia-of-a-centred-homogeneous-cube-are-zero

@@ -1643,10 +1643,10 @@ b359a87e-8e04-4679-b540-3c345ac6eb20:
   translations: {}
 b4a27bb7-480b-4c00-924b-0e3714b270a6:
   hexsha:
-    private: b6b504b5d74b9e2a27048bb738b5294aa1089c20
-    public: 6e560d4b23fc414f418cdcd2abdd08a9a633e418
+    private: c73383afc12c740769ab596f3ae912c8667d7d0e
+    public: 7c4bca33fb87f55515a0c8731ef9ab2c64a43cbb
   language: en
-  modified: '2019-07-16T02:34:25.017146Z'
+  modified: '2019-07-16T03:50:38.593851Z'
   title: Calculation of flux through a spherical membrane
   title_id: calculation-of-flux-through-a-spherical-membrane
   topics: []

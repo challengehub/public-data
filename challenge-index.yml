@@ -580,10 +580,10 @@
   translations: {}
 3a442166-414f-48d6-9e0d-669400de4367:
   hexsha:
-    private: ab1eaa5c27e3fa6dd89bc59b4d90d9a88f436591
-    public: 69cbd32b29f704b09f3d44bb56ab791bfffdba27
+    private: 3c9a486f0473f05d1128a640bd4a8d859aea7a77
+    public: 1e39331c2a1528458a1ef8e4a798f2c20dbcac9d
   language: en
-  modified: '2019-06-19T05:53:20.022312Z'
+  modified: '2019-07-16T04:24:02.283987Z'
   title: 'Sample problem: Angular momentum and kinetic energy of two perpendicular
     plates'
   title_id: sample-problem-angular-momentum-and-kinetic-energy-of-two-perpendicular-plates

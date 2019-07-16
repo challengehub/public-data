@@ -9,6 +9,16 @@
   title_id: effect-of-temperature-on-cell-voltage
   topics: []
   translations: {}
+b3c926cf-095b-46b4-aa3b-a99de97e6547:
+  hexsha:
+    private: 95aecad96bfd4a0dcfcedbe11e0547889b6dd058
+    public: d25b7a4964beeab4208100c21d0a90976fd7ca8c
+  language: en
+  modified: '2019-07-17T05:35:14.774524Z'
+  title: Anode Reaction in a PEFC
+  title_id: anode-reaction-in-a-pefc
+  topics: []
+  translations: {}
 c8200bf1-189c-4919-a973-33d3a1ffd4f6:
   hexsha:
     private: e354a5c45692095fa91f953e20c1f5c9ab0d697f

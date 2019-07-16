@@ -1,4 +1,14 @@
 # ChallengeHub Challenge Index
+749164b6-53bf-4dd4-b421-2dfdcb97dd8b:
+  hexsha:
+    private: 98853961ac417bd0152d722bfa320fa5a79051bc
+    public: 1275dec21cb064e79941b958ce432f51cd49f9b0
+  language: en
+  modified: '2019-07-17T05:10:53.824965Z'
+  title: Effect of Temperature on Cell Voltage
+  title_id: effect-of-temperature-on-cell-voltage
+  topics: []
+  translations: {}
 c8200bf1-189c-4919-a973-33d3a1ffd4f6:
   hexsha:
     private: e354a5c45692095fa91f953e20c1f5c9ab0d697f

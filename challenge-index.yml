@@ -326,10 +326,10 @@
   translations: {}
 2634f805-ff27-4830-94f7-740635a458e2:
   hexsha:
-    private: 110f3d063bf5da16f4819c5a7ae15ea77f1d33d3
-    public: f48eedfdae33c2ff913c1f7d9574d56fa2b07a84
+    private: 5c27596894d6fe739fe0e66d033b7cabfa066f5f
+    public: de14c43f77395fda65c0037f6f7453f1f92cbaf5
   language: en
-  modified: '2019-07-05T01:19:02.310424Z'
+  modified: '2019-07-18T06:36:09.446563Z'
   title: Calculation of the volume of a soluble species in the gas-phase at STP given
     its volume in the solid phase at an interface
   title_id: calculation-of-the-volume-of-a-soluble-species-in-the-gas-phase-at-stp-given-its-volume-in-the-solid-phase-at-an-interface

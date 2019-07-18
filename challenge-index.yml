@@ -1522,10 +1522,10 @@ a43db494-2821-461b-8765-3cc2a0fc7859:
   translations: {}
 a63253bd-e97a-4231-9dfe-ccaa0b53a19e:
   hexsha:
-    private: 04a3a4977a3574dd00f2042d867ad97d8f412b92
-    public: 156d29473daee692705f52289bbf4f3659a9e69b
+    private: 6a9d7301f28f71465104f0b9342d1ca094ef0ded
+    public: c9bb8137b6dd5422d29782e7858eb20e530ceabb
   language: en
-  modified: '2019-07-14T07:11:13.898746Z'
+  modified: '2019-07-19T05:51:41.103842Z'
   title: Off-diagonal inertia for a mass point
   title_id: off-diagonal-inertia-for-a-mass-point
   topics: []

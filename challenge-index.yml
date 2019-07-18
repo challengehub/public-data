@@ -1123,6 +1123,16 @@
   title_id: calculation-of-solubility-of-a-gas-in-a-solid-given-density-and-partial-pressure
   topics: []
   translations: {}
+7d094fc8-9712-4bbe-8675-bc9d1e047ab3:
+  hexsha:
+    private: ee7c7be09095f6a39c9b4d2266a2fa44afd13790
+    public: 38d443a27cf87c3a1858895ed3bc473d7f9c2bf3
+  language: en
+  modified: '2019-07-19T06:29:36.934278Z'
+  title: Mass Transfer 2019 end-of-course survey
+  title_id: mass-transfer-2019-end-of-course-survey
+  topics: []
+  translations: {}
 7f1880ea-7fe1-4fd5-9c04-9ecd0804cd5e:
   hexsha:
     private: 4471c7d51edd87b6e53e87f9087c7848703056ac

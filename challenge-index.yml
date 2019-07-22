@@ -231,10 +231,10 @@ ab12a1a4-c04d-4af3-b48d-0338388a0722:
   translations: {}
 c15d059d-206e-459d-877b-c6be54bf3a34:
   hexsha:
-    private: 5f06ccb6b26c49b00ea90cdaf5ba32ffaad0373b
-    public: 4a1330f16d99cb9cd0e42e252cb6ba708aa6ccc1
+    private: f687dc509cc78f1ab10eb116e9c8d40e845a9012
+    public: 3ff355a921dd0b77f7b10eac43d9a35ac01be968
   language: en
-  modified: '2019-05-24T02:01:53.737634Z'
+  modified: '2019-07-23T02:27:27.23468Z'
   title: Analytic functions (advanced)
   title_id: analytic-functions-advanced
   topics: []

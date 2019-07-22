@@ -51,10 +51,10 @@
   translations: {}
 3173c7df-f880-4026-8b4a-acfac543d675:
   hexsha:
-    private: 6a5a3af8e1fe49d19a613cec668a8e470b4cd67e
-    public: 31363f04f3f9bb2cd39efa87b4780146e4ac3a52
+    private: 0ffea3a36f09da7a5425683b50d4c1353a299c2e
+    public: 1bea5bd65ca8cf1829eae36097ac24fa974f2232
   language: en
-  modified: '2019-04-16T13:30:39.787291Z'
+  modified: '2019-07-23T02:25:05.33236Z'
   title: Polar form of complex numbers (advanced)
   title_id: polar-form-of-complex-numbers-advanced
   topics: []

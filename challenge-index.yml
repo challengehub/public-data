@@ -241,10 +241,10 @@ c15d059d-206e-459d-877b-c6be54bf3a34:
   translations: {}
 c5f2ea95-a354-4e55-9069-08342073bc29:
   hexsha:
-    private: 48b7025c090f7a583261d067c65640142c437431
-    public: db42cdb4514a926ce6a5f5bb5aa5dbd10a6f0310
+    private: 4e11fb924abab8aa7add537ff522055b3315d516
+    public: 10a018aae00425acbffa64d978c498572e75547d
   language: en
-  modified: '2019-06-04T05:00:53.758918Z'
+  modified: '2019-07-23T02:24:11.849288Z'
   title: Elementary functions (advanced)
   title_id: elementary-functions-advanced
   topics: []

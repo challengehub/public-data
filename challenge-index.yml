@@ -171,10 +171,10 @@
   translations: {}
 7754dc09-71ec-4ccb-8c9c-cbed13cd42ba:
   hexsha:
-    private: 27ca5fa78f03d5d6e9e795ae80886fec8ddbc8b7
-    public: 40a22964ceada7ee3c734cdfa5eae4ac2fbbc7d8
+    private: 0d05e873c6c6d0233b5fde99884618c28bd25626
+    public: 68b9be7628f964c3c2839616a81484273d9a684e
   language: en
-  modified: '2019-05-07T05:53:47.37779Z'
+  modified: '2019-07-23T02:26:30.306484Z'
   title: Linear mappings
   title_id: linear-mappings
   topics: []

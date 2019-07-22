@@ -7,7 +7,7 @@ editor_id: github.cbal-brezina
 extra_resources: {}
 id: 7754dc09-71ec-4ccb-8c9c-cbed13cd42ba
 language: en
-modified: '2019-05-07T05:53:47.37779Z'
+modified: '2019-07-23T02:26:30.306484Z'
 title: Linear mappings
 title_id: linear-mappings
 topics: []
@@ -57,7 +57,7 @@ Linear functions are the easiest type of functions to visualize in complex plane
 
 4. Express the  composition of magnification by `$2$`, translation by `$\sqrt2$` and roattion through `$\frac \pi4$` as a linear mapping `$f(z) = az + b$`.  
 
-5. a) Prove that the composition of two translations `$T_1(z) = z + b_1$`, `$b_1 = \not  0$` and `$T_2 (z) = z + b_2$`, `$b_2 = \not  0$` is a translation. Does the order of composition matter?
+5. a) Prove that the composition of two translations `$T_1(z) = z + b_1$`, `$b_1 \neq  0$` and `$T_2 (z) = z + b_2$`, `$b_2 \neq  0$` is a translation. Does the order of composition matter?
 
  b) Prove that the composition of two rotations `$R_1(z) = a_1z $`, `$|a_1| = 1$` and `$R_2 (z) = a_2z$`, `$|a_2| = 1$` is a rotation. Does the order of composition matter? 
 

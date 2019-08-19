@@ -99,6 +99,16 @@
   title_id: zeros-and-poles
   topics: []
   translations: {}
+405114c1-7fbb-4e1a-a342-eb5039b691af:
+  hexsha:
+    private: e43899f9b3b128a689729ccc97d9018748fb9d21
+    public: ae6a99aafd98095f3041980a7fc6d884e685be95
+  language: en
+  modified: '2019-08-20T02:47:18.207664Z'
+  title: LAF - Introduction to Eigenvalues and Eigenvectors
+  title_id: laf-introduction-to-eigenvalues-and-eigenvectors
+  topics: []
+  translations: {}
 4b372d33-399f-4506-90dd-89db1cb990ae:
   hexsha:
     private: 99454c6a5914db79c85140a8a607b13118cd53a4

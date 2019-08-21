@@ -269,6 +269,16 @@ dae88784-3825-4735-b25d-94ef821ffc17:
   title_id: polar-form-of-complex-numbers-basic
   topics: []
   translations: {}
+db1f61ad-f14a-4884-9033-1de48bc77aee:
+  hexsha:
+    private: 8395f351a9c01dcc2e1b4785a808d6c94b59c46c
+    public: ef9dc1e370a2bc020df6846cd81a68a0578d8b3d
+  language: en
+  modified: '2019-08-22T02:34:31.239505Z'
+  title: LAF - Determinants
+  title_id: laf-determinants
+  topics: []
+  translations: {}
 e1c257c4-1faa-4295-9701-7e7d0e3fb702:
   hexsha:
     private: 0d9ab19d982c9d4497b19932542bf643bbc792b8

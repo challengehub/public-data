@@ -271,10 +271,10 @@ dae88784-3825-4735-b25d-94ef821ffc17:
   translations: {}
 db1f61ad-f14a-4884-9033-1de48bc77aee:
   hexsha:
-    private: 8395f351a9c01dcc2e1b4785a808d6c94b59c46c
-    public: ef9dc1e370a2bc020df6846cd81a68a0578d8b3d
+    private: caee149a7ab81b1dd71fed217c780cd39e25a52c
+    public: a6587588ef547055e45213db1586feb5cafb6f65
   language: en
-  modified: '2019-08-22T02:34:31.239505Z'
+  modified: '2019-08-26T01:40:34.519902Z'
   title: LAF - Determinants
   title_id: laf-determinants
   topics: []

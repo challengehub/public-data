@@ -1683,10 +1683,10 @@ b7532194-5047-49bd-937f-7ac9689dddf9:
   translations: {}
 b8b8495e-5fca-4114-a5f3-a70ecc3793c4:
   hexsha:
-    private: c52535cc593cfe3589ce5b2b30fedb3f736764c5
-    public: 79d5a7823efaabdc86e30f4ca3394a7381764895
+    private: d0eec8f267597e9d6315c54be12175ac2497be30
+    public: 38315f3dc81b6c538c2052da5a82bf647c6bdcbb
   language: en
-  modified: '2019-08-27T05:14:49.068027Z'
+  modified: '2019-08-27T05:15:27.194021Z'
   title: Test challenge
   title_id: test-challenge
   topics: []

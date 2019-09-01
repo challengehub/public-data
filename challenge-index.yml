@@ -99,6 +99,16 @@
   title_id: zeros-and-poles
   topics: []
   translations: {}
+3cc3434e-ee6c-4164-bfdd-9571079555d3:
+  hexsha:
+    private: 6c89590554890d4015d9c6967a9657c4e5f5dddd
+    public: e2a9a24c5499f4e5a16be692628b359ddf2c8477
+  language: en
+  modified: '2019-09-02T04:39:14.688404Z'
+  title: LAF - Introduction to determinants
+  title_id: laf-introduction-to-determinants
+  topics: []
+  translations: {}
 405114c1-7fbb-4e1a-a342-eb5039b691af:
   hexsha:
     private: 1e63ee8f96f9b38306d5f365ffa34c494a3c2b3f

@@ -281,12 +281,12 @@ dae88784-3825-4735-b25d-94ef821ffc17:
   translations: {}
 db1f61ad-f14a-4884-9033-1de48bc77aee:
   hexsha:
-    private: caee149a7ab81b1dd71fed217c780cd39e25a52c
-    public: a6587588ef547055e45213db1586feb5cafb6f65
+    private: cad2adad4374c86efd6069efcdb65b78185f32ec
+    public: 0cce0062a1a4d2e6048b79c1426fe6ebf9a03203
   language: en
-  modified: '2019-08-26T01:40:34.519902Z'
-  title: LAF - Determinants
-  title_id: laf-determinants
+  modified: '2019-09-02T05:15:08.85901Z'
+  title: LAF - Applications of Determinants
+  title_id: laf-applications-of-determinants
   topics: []
   translations: {}
 e1c257c4-1faa-4295-9701-7e7d0e3fb702:

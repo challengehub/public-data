@@ -101,11 +101,11 @@
   translations: {}
 3cc3434e-ee6c-4164-bfdd-9571079555d3:
   hexsha:
-    private: 6c89590554890d4015d9c6967a9657c4e5f5dddd
-    public: e2a9a24c5499f4e5a16be692628b359ddf2c8477
+    private: d767addf20b20b5c167c0a09fe4ef532ca759ec7
+    public: 3c9115ecfacbe3ff8ce565255ed868a2a9884f50
   language: en
-  modified: '2019-09-02T04:39:14.688404Z'
-  title: LAF - Introduction to determinants
+  modified: '2019-09-02T05:02:08.986961Z'
+  title: LAF - Introduction to Determinants
   title_id: laf-introduction-to-determinants
   topics: []
   translations: {}

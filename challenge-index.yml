@@ -111,10 +111,10 @@
   translations: {}
 405114c1-7fbb-4e1a-a342-eb5039b691af:
   hexsha:
-    private: 1e63ee8f96f9b38306d5f365ffa34c494a3c2b3f
-    public: 9ac5725edc39d35f940be4afd498e35ccd4ef1bc
+    private: 4f1cf883b6d4652c6a9609a7e19102a42faf07a3
+    public: 8cb8faa19462ccac97905993331edd59e84a58bd
   language: en
-  modified: '2019-08-26T01:37:47.642926Z'
+  modified: '2019-09-02T06:25:25.81087Z'
   title: LAF - Introduction to Eigenvalues and Eigenvectors
   title_id: laf-introduction-to-eigenvalues-and-eigenvectors
   topics: []

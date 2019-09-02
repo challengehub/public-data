@@ -79,6 +79,16 @@
   title_id: cauchy-goursat-theorem
   topics: []
   translations: {}
+364fa6c9-230c-4af6-b48c-b550562cb796:
+  hexsha:
+    private: dcce36565f368dae2a8dde6e5aea810add54879d
+    public: cd608ee1cfa6164922b8b7869c7b2d1eb330d709
+  language: en
+  modified: '2019-09-03T03:11:49.913431Z'
+  title: LAF - Eigenvalues and Eigenvectors of square matrices
+  title_id: laf-eigenvalues-and-eigenvectors-of-square-matrices
+  topics: []
+  translations: {}
 37659fdb-9ab0-403c-9477-465ec6af4b03:
   hexsha:
     private: 7472e31d0b6b83f2846eb71102d7910c4de4352c

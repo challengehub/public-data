@@ -59,6 +59,16 @@
   title_id: special-power-functions
   topics: []
   translations: {}
+29397571-923d-4fd7-95d0-08002379e886:
+  hexsha:
+    private: ecac16d2094aed7bf4dc4209fbb189299f83c4d9
+    public: 1c6af6f5411debf5461faa88ecc2f13e3096811d
+  language: en
+  modified: '2019-09-12T04:31:29.692617Z'
+  title: LAF - Change of basis
+  title_id: laf-change-of-basis
+  topics: []
+  translations: {}
 3173c7df-f880-4026-8b4a-acfac543d675:
   hexsha:
     private: 0ffea3a36f09da7a5425683b50d4c1353a299c2e

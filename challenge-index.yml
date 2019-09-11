@@ -9,6 +9,16 @@
   title_id: sequences-and-series
   topics: []
   translations: {}
+0dc52920-bd80-4383-ba6f-324ceb448dfb:
+  hexsha:
+    private: 4f6d9a4362e3b756c0caf536a8cca56c6f1f3560
+    public: 4ed5afa4bd03fc384a730c636f1d07c57b354eec
+  language: en
+  modified: '2019-09-12T04:02:57.055261Z'
+  title: LAF - Change of basis, Change of the matrix of linear transformation
+  title_id: laf-change-of-basis-change-of-the-matrix-of-linear-transformation
+  topics: []
+  translations: {}
 10e49381-bda6-4d1c-95c2-d4281953a39f:
   hexsha:
     private: f41c112d723de30f272c347662e0bc475b139ea4

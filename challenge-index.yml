@@ -299,6 +299,16 @@ c5f2ea95-a354-4e55-9069-08342073bc29:
   title_id: elementary-functions-advanced
   topics: []
   translations: {}
+cef71730-3afc-4637-9460-039802ccbe67:
+  hexsha:
+    private: c9c747d8e5547c331fdf88a61766eab1e275f78b
+    public: fd6bcfdfa35c8f2ca322bb6557361a47e0062669
+  language: en
+  modified: '2019-09-13T06:42:39.458221Z'
+  title: LAF - Similarity and diagonalization
+  title_id: laf-similarity-and-diagonalization
+  topics: []
+  translations: {}
 dae88784-3825-4735-b25d-94ef821ffc17:
   hexsha:
     private: 864d222635623635fd7c5569b81364de47becceb

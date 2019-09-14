@@ -279,6 +279,16 @@ ab12a1a4-c04d-4af3-b48d-0338388a0722:
   title_id: some-consequences-of-the-integral-formulas
   topics: []
   translations: {}
+bc0668a3-87d8-4413-bf64-c999ba1518a0:
+  hexsha:
+    private: 14dce2c3feca0a1f5219243a793aa0dbe48ed50c
+    public: a6b0cb96ec78b2b87513c3092a3ea392cdd7fe56
+  language: en
+  modified: '2019-09-15T04:48:36.454032Z'
+  title: LAF - Orthogonality
+  title_id: laf-orthogonality
+  topics: []
+  translations: {}
 c15d059d-206e-459d-877b-c6be54bf3a34:
   hexsha:
     private: f687dc509cc78f1ab10eb116e9c8d40e845a9012

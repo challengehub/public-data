@@ -2349,6 +2349,16 @@ f3df34b5-743f-4d00-a9ed-c792db6d1673:
   title_id: test-6
   topics: []
   translations: {}
+f47ba08c-32a1-4864-a9c4-4ca9a82140a0:
+  hexsha:
+    private: 495bddc92139f2816fd695346c26b35b5ef20742
+    public: bae368e24c535656bc73545378cd354b048538b6
+  language: en
+  modified: '2019-09-19T06:17:33.912616Z'
+  title: Amplitude of four sine graphs
+  title_id: amplitude-of-four-sine-graphs
+  topics: []
+  translations: {}
 f4f78e8e-eda1-4789-8028-8283b38c07c9:
   hexsha:
     private: 3895226738faf6355c7d56a2e8ff505aa5f659b9

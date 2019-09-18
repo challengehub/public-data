@@ -961,6 +961,16 @@
   title_id: rocket-sample-problem
   topics: []
   translations: {}
+61d7b89d-c152-4d20-bd8f-173c7eeb8834:
+  hexsha:
+    private: b65fb24c661b35e05aa5a450d90c07111fa7604d
+    public: d1af729a917be5d9297dd6a7c16917c44745a865
+  language: en
+  modified: '2019-09-19T06:34:00.206495Z'
+  title: Making non-periodic signals from periodic signals
+  title_id: making-non-periodic-signals-from-periodic-signals
+  topics: []
+  translations: {}
 6275022c-f0db-4aac-a459-78be02d27dfb:
   hexsha:
     private: 8d5759a3a3e0d24d9ee59b78b71279a82a6531c9

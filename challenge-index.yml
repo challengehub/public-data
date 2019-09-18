@@ -993,12 +993,12 @@
   translations: {}
 63168873-0817-40df-8098-40615f44906e:
   hexsha:
-    private: 4767fd5e328514c27108eb8c59b0562c37e10bb5
-    public: ad3e18acc2f043ad0a5ec86c1781d73f213a24d8
+    private: b60004d86e239f802d242e4430966aa8001e390f
+    public: 5f15a9a95c676ff4206ecde73c204f3c531b1fd0
   language: en
-  modified: '2019-09-19T05:59:38.204702Z'
-  title: Phase of four sine curves with the same frequency
-  title_id: phase-of-four-sine-curves-with-the-same-frequency
+  modified: '2019-09-19T06:21:06.034152Z'
+  title: Phase of four sine graphs with the same frequency
+  title_id: phase-of-four-sine-graphs-with-the-same-frequency
   topics: []
   translations: {}
 639e1675-f3d9-40a7-a095-03e653f034d6:

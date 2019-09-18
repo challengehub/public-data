@@ -649,6 +649,16 @@
   title_id: resonance
   topics: []
   translations: {}
+3f3b15ee-ee69-411b-8aa9-78732e2b120f:
+  hexsha:
+    private: b6edb35c2088769066ed44c2a8c9e86732db2ca8
+    public: 3a7de549ac0fc4414688c1025b0f67a6314087e4
+  language: en
+  modified: '2019-09-19T04:58:15.844336Z'
+  title: The meaning of k
+  title_id: the-meaning-of-k
+  topics: []
+  translations: {}
 411df674-c171-4f68-8f1c-0609bc8a1798:
   hexsha:
     private: 1f4232475ffcf5ca8af76594b8ede1edd2d3f39f

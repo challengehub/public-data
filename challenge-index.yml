@@ -123,10 +123,10 @@
   translations: {}
 0f089984-8398-4960-92bc-f7dbc2945882:
   hexsha:
-    private: 81caa99f288cc71b1bb04a3108240eb29b5f6fa9
-    public: 4d189641b3ee304dc31ac3297b4b6a03cdb94a3d
+    private: c25cc65b2877e582393331754c2381154ae10c97
+    public: efc3337b710fe2ae6ee44ecf4d761cb3b0cf37f8
   language: en
-  modified: '2019-09-19T05:38:32.358593Z'
+  modified: '2019-09-19T05:43:14.756563Z'
   title: Smallest period with k=1
   title_id: smallest-period-with-k1
   topics: []

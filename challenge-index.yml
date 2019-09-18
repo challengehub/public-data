@@ -253,6 +253,16 @@
   title_id: solving-systems-of-odes-2-57-10
   topics: []
   translations: {}
+1b8a379b-8af1-4acc-94dd-312c7ef472d8:
+  hexsha:
+    private: 822634a5e1ba45a1ca4cafba8614132c7c30bc40
+    public: 47ce98110a9b19d036c9d23e5e288122d4a3d7da
+  language: en
+  modified: '2019-09-19T04:55:13.644586Z'
+  title: Frequency with k=2
+  title_id: frequency-with-k2
+  topics: []
+  translations: {}
 1bd952e0-1f9a-4627-b120-93104f7bb389:
   hexsha:
     private: a7d1489d366e87c4399bff3ccc909f89a44ed78e

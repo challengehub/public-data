@@ -2014,6 +2014,16 @@ d1d8b7b9-6a76-41a1-aab9-b7e3d677d39f:
   title_id: characteristic-equation-with-equal-roots
   topics: []
   translations: {}
+d35c7de4-5c63-4bb7-9e34-86cefa2c1504:
+  hexsha:
+    private: 98c189c619dd0d02174ea74d0e684000d36f5628
+    public: 27b990221c92f1b4f9dc2d89ebc4946f1e91f8f0
+  language: en
+  modified: '2019-09-19T06:30:37.706776Z'
+  title: Identifying periodic and non-periodic signals
+  title_id: identifying-periodic-and-non-periodic-signals
+  topics: []
+  translations: {}
 d4dab8d9-3463-4ed1-ae67-87e11b0b04a9:
   hexsha:
     private: a8b68d1b7d86f9f8a6814e9932ac7e144e69566d

@@ -991,6 +991,16 @@
   title_id: centre-of-mass-velocity-of-3-particles
   topics: []
   translations: {}
+63168873-0817-40df-8098-40615f44906e:
+  hexsha:
+    private: 4767fd5e328514c27108eb8c59b0562c37e10bb5
+    public: ad3e18acc2f043ad0a5ec86c1781d73f213a24d8
+  language: en
+  modified: '2019-09-19T05:59:38.204702Z'
+  title: Phase of four sine curves with the same frequency
+  title_id: phase-of-four-sine-curves-with-the-same-frequency
+  topics: []
+  translations: {}
 639e1675-f3d9-40a7-a095-03e653f034d6:
   hexsha:
     private: e718e7503f866979a29259d29edfba23fc981e5f

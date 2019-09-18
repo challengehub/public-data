@@ -1233,6 +1233,16 @@
   title_id: method-of-undetermined-coefficients-ii-part-4
   topics: []
   translations: {}
+861c31cf-75b7-4286-b06e-540573cc8526:
+  hexsha:
+    private: 11fe2bd8e3d60e03b4cabc969c1fad5840a39c3e
+    public: f9c825bb69b46aa0464c38ad6c1478920c5bbbc6
+  language: en
+  modified: '2019-09-19T04:52:55.400586Z'
+  title: Frequency with k=1
+  title_id: frequency-with-k1
+  topics: []
+  translations: {}
 878c507d-bd32-4aa3-8f9c-846ade54a46f:
   hexsha:
     private: ab94b68e74d164bf69cfe535f03e218babd94159

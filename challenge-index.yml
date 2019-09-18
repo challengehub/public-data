@@ -1082,6 +1082,16 @@
   title_id: characteristic-equation-exersizes-2
   topics: []
   translations: {}
+7731a9c7-7a5d-4779-8a6e-7e83d9f880d7:
+  hexsha:
+    private: be928cff8462cf912663e6c03f6d0b12cf546e27
+    public: 42e5b7c5d06af36d89ad8f582b94462929e1addc
+  language: en
+  modified: '2019-09-19T04:48:34.79011Z'
+  title: Period at 50 THz
+  title_id: period-at-50-thz
+  topics: []
+  translations: {}
 78d42eda-df98-43b2-8379-4b311e12e9fd:
   hexsha:
     private: 76bbffa3467273c4c8704e7746db0522f3dc06e4

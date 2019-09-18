@@ -1822,6 +1822,16 @@ be22bd55-b482-4a18-820c-28b5aae191a0:
   title_id: systems-of-equations-from-a-non-homogeneous-ode-y-5-y-9-y-t-cos2t
   topics: []
   translations: {}
+be59c8b1-8ac4-4d2a-a4bd-89b38578f852:
+  hexsha:
+    private: 089b65245957f207defc377f8e6cb8793358faf2
+    public: 5dde84c19668430af867d522d5ea31903984a9d7
+  language: en
+  modified: '2019-09-19T05:42:07.780146Z'
+  title: Smallest period with k=2
+  title_id: smallest-period-with-k2
+  topics: []
+  translations: {}
 c3f21ef7-8f93-4954-b4c6-771f9be31c26:
   hexsha:
     private: 2ea43da8873dad4426b928c89ecd723722959a8b

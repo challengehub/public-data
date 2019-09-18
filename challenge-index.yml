@@ -121,6 +121,16 @@
   title_id: laplace-transform-of-step-functions-u0
   topics: []
   translations: {}
+0f089984-8398-4960-92bc-f7dbc2945882:
+  hexsha:
+    private: 81caa99f288cc71b1bb04a3108240eb29b5f6fa9
+    public: 4d189641b3ee304dc31ac3297b4b6a03cdb94a3d
+  language: en
+  modified: '2019-09-19T05:38:32.358593Z'
+  title: Smallest period with k=1
+  title_id: smallest-period-with-k1
+  topics: []
+  translations: {}
 101dc2db-3300-4fa8-ad2a-3cdfcbe5ccde:
   hexsha:
     private: 39518c191b8ad0a2e5436b8ad77a5bbc111fb6f6

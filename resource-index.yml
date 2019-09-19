@@ -339,3 +339,13 @@ eef76893-f0bd-4427-83fa-391380bb9c95:
   topics: []
   upload_time: '2019-08-27T05:14:36Z'
   uploader_id: github.NanoScaleDesign
+
+81044ea6-2460-43b8-8e74-7b1e34f1b496:
+  content_type: image/jpeg
+  hexsha: 42a1f04ccf5ba770b1389a4e373ae3b57b3deb9c
+  original_name: amplitude.jpg
+  title: Amplitude
+  title_id: amplitude-42a1f0
+  topics: []
+  upload_time: '2019-09-19T06:16:47Z'
+  uploader_id: github.NanoScaleDesign

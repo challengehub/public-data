@@ -1731,6 +1731,16 @@ af8ca8a3-de68-4202-a908-2e9564377fc1:
   title_id: test-challenge-183
   topics: []
   translations: {}
+b0e8bcb5-2120-4c31-899b-1baf0d88a4eb:
+  hexsha:
+    private: b56687b1845b0dfd3382c7cc3c7a4fff6aa31f78
+    public: 2af2f21ee404d9ab22887e1268c1c7e9043a058e
+  language: en
+  modified: '2019-09-25T06:07:37.650666Z'
+  title: Valid solutions of ODE's
+  title_id: valid-solutions-of-odes
+  topics: []
+  translations: {}
 b359a87e-8e04-4679-b540-3c345ac6eb20:
   hexsha:
     private: e18a8d88b2212eba546d81892156ca3e5efdf7ec

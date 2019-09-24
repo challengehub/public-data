@@ -1892,6 +1892,16 @@ c4a9da17-c0be-418e-b04e-33779aab9e5a:
   title_id: bending-moment-of-a-misaligned-spinning-rod
   topics: []
   translations: {}
+c545e64a-a64e-439d-a0a3-4f6fdb2d022c:
+  hexsha:
+    private: 06b353888419aeb2fcfec25ee4a38df235ed1bb0
+    public: 913d8ab7249c9da4746b6c46c59dba32c9e9f4a0
+  language: en
+  modified: '2019-09-25T05:58:11.002537Z'
+  title: Identifying linear and non-linear ordinary differential equations
+  title_id: identifying-linear-and-non-linear-ordinary-differential-equations
+  topics: []
+  translations: {}
 c562d8c6-9141-4b55-9b84-1c224d78bff2:
   hexsha:
     private: e1a5a53c5caf379b92a1b3c3daaa2636313509cf

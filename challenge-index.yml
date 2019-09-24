@@ -121,6 +121,16 @@
   title_id: laplace-transform-of-step-functions-u0
   topics: []
   translations: {}
+0ee92a47-c25f-4fe0-8ffd-2402b915aa65:
+  hexsha:
+    private: efb079ad8ef342a9e921b4f19e431b46b59020e2
+    public: 04370883b286674c2e81dd21699c7f57cc783d69
+  language: en
+  modified: '2019-09-25T02:16:08.745621Z'
+  title: Determining the order of an ordinary differential equation
+  title_id: determining-the-order-of-an-ordinary-differential-equation
+  topics: []
+  translations: {}
 0f089984-8398-4960-92bc-f7dbc2945882:
   hexsha:
     private: c25cc65b2877e582393331754c2381154ae10c97

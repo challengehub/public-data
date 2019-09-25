@@ -476,6 +476,16 @@
   title_id: the-definition-and-derivation-of-the-moment-of-inertia
   topics: []
   translations: {}
+303d425e-40fa-4e92-b780-7af2c4c8cdf1:
+  hexsha:
+    private: afabe7cedc59918f4843f14af1f876645a97d443
+    public: 3a7fab3b1fe00dd48f03d5fa9199aef68d074ffa
+  language: en
+  modified: '2019-09-26T06:13:09.664086Z'
+  title: Rate of decay (ODE in-class challenge)
+  title_id: rate-of-decay-ode-in-class-challenge
+  topics: []
+  translations: {}
 319b5364-1969-40c2-b292-cdfcb667cc77:
   hexsha:
     private: ab771ede4d66dc23a317b019667bd866b848d6f2

@@ -319,6 +319,16 @@ cef71730-3afc-4637-9460-039802ccbe67:
   title_id: laf-similarity-and-diagonalization
   topics: []
   translations: {}
+d352b88b-27bf-4836-87d1-aaf00384d208:
+  hexsha:
+    private: 8ae00a27fb16499949c2c8dbad89e8ec3ac319c3
+    public: de90350aab51507c33f0e886730481523a7ed844
+  language: en
+  modified: '2019-09-26T00:01:57.634689Z'
+  title: LAF - Course info and solutions to tests
+  title_id: laf-course-info-and-solutions-to-tests
+  topics: []
+  translations: {}
 dae88784-3825-4735-b25d-94ef821ffc17:
   hexsha:
     private: 864d222635623635fd7c5569b81364de47becceb

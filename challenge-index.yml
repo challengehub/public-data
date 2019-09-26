@@ -1931,6 +1931,16 @@ bcc14a44-15e8-431a-9e65-f2574a7d2676:
   title_id: angular-momentum-of-a-rigid-link
   topics: []
   translations: {}
+be08eb2e-2b9d-448d-b133-c2cb2aebec8d:
+  hexsha:
+    private: d596dba113f46b61946df4a3c35ecc75f19243f7
+    public: 91ca2b2c19d292185d5ec66bf455ab7b94147891
+  language: en
+  modified: '2019-09-27T08:00:36.662808Z'
+  title: Understanding signalling in technical writing
+  title_id: understanding-signalling-in-technical-writing
+  topics: []
+  translations: {}
 be22bd55-b482-4a18-820c-28b5aae191a0:
   hexsha:
     private: 9669a5804877d86e68144f4c86403b15b18bab0d

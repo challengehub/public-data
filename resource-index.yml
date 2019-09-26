@@ -129,3 +129,13 @@ c36d240b-07ae-49ee-a467-4f9f11b0b954:
   topics: []
   upload_time: '2019-09-26T00:51:15Z'
   uploader_id: github.cbal-brezina
+
+7a13177e-07f0-42d8-9a80-b5e556293cdf:
+  content_type: application/pdf
+  hexsha: d741336f145c1d861829f723745b4a300b46189b
+  original_name: Course Info.pdf
+  title: Basic Information About the Course
+  title_id: basic-information-about-the-course-d74133
+  topics: []
+  upload_time: '2019-09-26T01:03:16Z'
+  uploader_id: github.cbal-brezina

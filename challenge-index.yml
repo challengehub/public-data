@@ -2378,6 +2378,16 @@ e78aa02f-4775-47af-8c86-8e5992a4b0de:
   title_id: mechanics-2019-end-of-course-survey
   topics: []
   translations: {}
+e99656c0-3e37-4816-bb00-40b5a8b7fa2d:
+  hexsha:
+    private: 7c92ed8a316af3641169519e6b95abb5d461694f
+    public: cbffa171f5a609f98395e7cdce8b555891bf8b59
+  language: en
+  modified: '2019-09-27T06:42:44.731866Z'
+  title: Past simple vs present perfect
+  title_id: past-simple-vs-present-perfect
+  topics: []
+  translations: {}
 e9f7b949-488a-419e-9693-4131817850be:
   hexsha:
     private: 1edcbe61e29b2379bfc2f12eee995cd124dd8dd4

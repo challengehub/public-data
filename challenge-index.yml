@@ -1922,6 +1922,16 @@ c3f21ef7-8f93-4954-b4c6-771f9be31c26:
   title_id: individual-gas-constant-definition
   topics: []
   translations: {}
+c4a66aac-7788-4788-ac55-94f57f60e031:
+  hexsha:
+    private: 3ebc9e23a0f25390b52913833b45ddb0fbc30023
+    public: 706ed8ad4ad528af6ee57856c0c386edb5283738
+  language: en
+  modified: '2019-09-27T01:59:42.487327Z'
+  title: Drawing the direction field for y'=x
+  title_id: drawing-the-direction-field-for-yx
+  topics: []
+  translations: {}
 c4a9da17-c0be-418e-b04e-33779aab9e5a:
   hexsha:
     private: 344513599361c55c443429849b55cc5d101330dc

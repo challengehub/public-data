@@ -699,6 +699,16 @@
   title_id: the-meaning-of-k
   topics: []
   translations: {}
+3f8ef06c-5f7b-46db-9f16-caf60945d873:
+  hexsha:
+    private: 76c39222ba6333ca11434744ee794beba4e0a43a
+    public: 5096e5b8a6147a47c3ac1b690adb5864e67b007d
+  language: en
+  modified: '2019-09-27T01:46:38.654258Z'
+  title: Determining a simple ODE from a description - Newton's law of cooling
+  title_id: determining-a-simple-ode-from-a-description-newtons-law-of-cooling
+  topics: []
+  translations: {}
 411df674-c171-4f68-8f1c-0609bc8a1798:
   hexsha:
     private: 1f4232475ffcf5ca8af76594b8ede1edd2d3f39f

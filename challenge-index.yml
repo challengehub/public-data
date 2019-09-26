@@ -679,6 +679,16 @@
   title_id: characteristic-equation-complex-roots-with-non-zero-b-i
   topics: []
   translations: {}
+3eef92cd-f762-46a9-953e-4a8c6bb481ff:
+  hexsha:
+    private: 6dd04f4d9b74d04971194d15db2f60c6a8fba7d6
+    public: 94358574d54e356f102d33dfb760c24c92257751
+  language: en
+  modified: '2019-09-27T02:01:08.870434Z'
+  title: Drawing the direction field for y'=0.2y
+  title_id: drawing-the-direction-field-for-y02y
+  topics: []
+  translations: {}
 3f1577f0-4485-4627-abe5-a9fe45b0e338:
   hexsha:
     private: 0ef81cdb52938423f55956b290b2b4ac8f2070fe

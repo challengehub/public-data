@@ -769,6 +769,16 @@
   title_id: crank-style-problem-sp73
   topics: []
   translations: {}
+4397d7c5-3f4d-41e3-9c10-7a5f62b88004:
+  hexsha:
+    private: 39af2b09638403c077352344be0d5489b17d4661
+    public: 36fa71aecfad8b4619a696013770a6c81852baaa
+  language: en
+  modified: '2019-09-27T07:41:00.399705Z'
+  title: What is scientific writing?
+  title_id: what-is-scientific-writing
+  topics: []
+  translations: {}
 4483fde2-1551-466e-b2fa-f1fe9ee2e8ca:
   hexsha:
     private: 736b0a3f435079a6006a3af0a00f8c93012c7073

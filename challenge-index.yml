@@ -111,6 +111,16 @@
   title_id: test-challenge-7102019-45618-pm
   topics: []
   translations: {}
+0b532686-b33d-4b06-90ee-33ebd25c188c:
+  hexsha:
+    private: d9009ab63fd703e79b8b4df8d3b6f250c2ef10b3
+    public: a30c32afde5f97bac3b829ba7fa24e211f58daeb
+  language: en
+  modified: '2019-09-27T02:02:53.697784Z'
+  title: Drawing the direction field for y'=0.2y(1-y/6)
+  title_id: drawing-the-direction-field-for-y02y1-y6
+  topics: []
+  translations: {}
 0d915f52-08f0-4147-b067-05a0437e9f36:
   hexsha:
     private: 8f8f9fa6fc9c02b41746fa41bf2a7d63c99ea338

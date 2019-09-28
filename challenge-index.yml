@@ -416,6 +416,16 @@
   title_id: initial-evaporation-rate-from-an-evaporation-pan-including-the-effects-of-advection
   topics: []
   translations: {}
+2973505a-bc20-45e5-9a36-b1f35eb57435:
+  hexsha:
+    private: d23527ec31a9221d7c943ab3da13689243d412e9
+    public: c66765324d2c0a353c0e89dcc52fab3e3a1f2292
+  language: en
+  modified: '2019-09-28T22:59:44.325915Z'
+  title: Identifying even and odd functions
+  title_id: identifying-even-and-odd-functions
+  topics: []
+  translations: {}
 2a57d650-2c00-4147-9113-ea0096d60ca3:
   hexsha:
     private: d27ac035c3676cf01b051896f98c01db62dd92b7

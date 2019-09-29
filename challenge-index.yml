@@ -1222,6 +1222,16 @@
   title_id: calculating-mass-fraction-from-partial-pressure
   topics: []
   translations: {}
+6d95069e-cc0a-4f39-acf8-6881d98674fe:
+  hexsha:
+    private: 182e68948c4c850d51617c6aa234d5c40904b559
+    public: 6c81b81dfbd7924e5a79de655bf148f959ac238d
+  language: en
+  modified: '2019-09-30T03:06:46.346959Z'
+  title: 'Solving separable ODE''s: y''=y'
+  title_id: solving-separable-odes-yy
+  topics: []
+  translations: {}
 73dcdc66-dfd0-483f-97cb-35b8557021d6:
   hexsha:
     private: 34c3c53161d7a3f3c44cfbc75a2679e55d7c338e

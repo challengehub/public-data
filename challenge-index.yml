@@ -2284,6 +2284,16 @@ d35c7de4-5c63-4bb7-9e34-86cefa2c1504:
   title_id: identifying-periodic-and-non-periodic-signals
   topics: []
   translations: {}
+d40d5f57-b9ee-4ac4-be11-96ab3c73f2f6:
+  hexsha:
+    private: f0f08b84c18ef4928cb3890f2246c5329545ab28
+    public: f34f20e775f601a5468140cc8c06c9a996e40fe0
+  language: en
+  modified: '2019-09-30T03:37:03.214622Z'
+  title: The logistic equation
+  title_id: the-logistic-equation
+  topics: []
+  translations: {}
 d4dab8d9-3463-4ed1-ae67-87e11b0b04a9:
   hexsha:
     private: a8b68d1b7d86f9f8a6814e9932ac7e144e69566d

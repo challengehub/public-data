@@ -1262,6 +1262,16 @@
   title_id: hookes-law
   topics: []
   translations: {}
+7669fb99-02b5-450d-8aa5-054c4e31e81e:
+  hexsha:
+    private: 1210b6736bafd770277534d1210ed89d5c54a55a
+    public: c7059125e208211b496df466dd08dfc26a18d12b
+  language: en
+  modified: '2019-09-30T00:50:23.187526Z'
+  title: The Fourier coefficient b_k (optional challenge)
+  title_id: the-fourier-coefficient-bk-optional-challenge
+  topics: []
+  translations: {}
 76da5697-3251-4d5e-8382-e35857ed724a:
   hexsha:
     private: 54d9b78112f2683edf8600d6a9a50b673d686f47

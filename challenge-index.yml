@@ -334,6 +334,16 @@
   title_id: velocity-and-acceleration-of-a-disk-that-is-undergoing-rotation-on-2-axes-using-a-reference-frame-rotating-in-2-dimensions
   topics: []
   translations: {}
+2052ddc3-9737-47d0-884a-1346cb5279f3:
+  hexsha:
+    private: 06df8fdc7983e36c777f851bccd843ee3db66cdd
+    public: 8bab54662b12a24f5e9abaaff9af28b7788d4a2a
+  language: en
+  modified: '2019-09-30T03:29:08.644677Z'
+  title: Rate of unrestricted growth
+  title_id: rate-of-unrestricted-growth
+  topics: []
+  translations: {}
 2083cca7-eddc-4139-af2b-0d626d215f01:
   hexsha:
     private: d5488590c134569d03e224745ccb628e903ff8a1

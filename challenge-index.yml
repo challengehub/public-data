@@ -2376,6 +2376,16 @@ d9c95807-fedc-44ab-bcaf-97558c83fd86:
   title_id: inertia-a-rod
   topics: []
   translations: {}
+da15d5d5-2b2e-4e8d-abc4-bb220aa80d4a:
+  hexsha:
+    private: 6dd050798764c30f10a910b34ef9d1314831f445
+    public: e0ed86b4a69f84e7de2262ab93dbb2761801669f
+  language: en
+  modified: '2019-09-30T03:18:13.032597Z'
+  title: Understanding the exponential
+  title_id: understanding-the-exponential
+  topics: []
+  translations: {}
 da7f72e5-e9f0-40ec-a10f-df648bd9aa64:
   hexsha:
     private: 137d7f5a1b653a28e74b5fad97348a976fd7c15a

@@ -369,3 +369,13 @@ eef76893-f0bd-4427-83fa-391380bb9c95:
   topics: []
   upload_time: '2019-09-28T22:58:29Z'
   uploader_id: github.NanoScaleDesign
+
+9f5e63c5-fd4c-4fce-8835-95176ae3e000:
+  content_type: image/jpeg
+  hexsha: 11faf78abb2034d74dfcc2940692ab77d9b99850
+  original_name: signal_buildup.jpg
+  title: Signal buildup
+  title_id: signal-buildup-11faf7
+  topics: []
+  upload_time: '2019-09-29T20:46:38Z'
+  uploader_id: github.NanoScaleDesign

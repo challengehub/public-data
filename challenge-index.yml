@@ -2336,10 +2336,10 @@ d5fa7dc8-e1d6-4c6b-b740-ba35ee70785f:
   translations: {}
 d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:
   hexsha:
-    private: 2ab3d654d0a233eaa1b7878fb8bb496b63f47e6f
-    public: 8c373913e772c47bfb046607ed2a99610f668ec1
+    private: 0d39ad5913b38a2496a2da8cdaf8ebd36e04a7ef
+    public: f8bb8bf289df40806b8e399fb12161e38a6b67a0
   language: en
-  modified: '2018-10-21T07:46:22.110754Z'
+  modified: '2019-09-30T06:59:50.930542Z'
   title: 'Characteristic equation identification: Complex roots'
   title_id: characteristic-equation-identification-complex-roots
   topics: []

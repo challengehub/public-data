@@ -506,6 +506,16 @@
   title_id: rate-of-decay-ode-in-class-challenge
   topics: []
   translations: {}
+3198fd1c-d946-4490-809d-539ae5c33c68:
+  hexsha:
+    private: 52e219b47cc3cfe2f214973917778a0f03de2d09
+    public: 7b01882ecc4e6eff3f7d4ef7abc0548409a6151c
+  language: en
+  modified: '2019-09-29T20:58:02.395685Z'
+  title: Introduction to sine and cosine Fourier coefficients
+  title_id: introduction-to-sine-and-cosine-fourier-coefficients
+  topics: []
+  translations: {}
 319b5364-1969-40c2-b292-cdfcb667cc77:
   hexsha:
     private: ab771ede4d66dc23a317b019667bd866b848d6f2

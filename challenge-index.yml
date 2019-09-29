@@ -567,6 +567,16 @@
   title_id: laplace-transform-and-odes-a-sudden-impulse
   topics: []
   translations: {}
+34619ddf-1257-43e6-82bc-945d549795c0:
+  hexsha:
+    private: f0d7929c8fc0e83de77523396c95c74c88068ae0
+    public: 0ccb561a4243539d875d90cbb49c180e42c0b254
+  language: en
+  modified: '2019-09-30T00:42:57.016937Z'
+  title: Understanding the first term in a trigonometric Fourier series
+  title_id: understanding-the-first-term-in-a-trigonometric-fourier-series
+  topics: []
+  translations: {}
 3473bf8c-fe46-4221-a1c8-cbf49b2254ef:
   hexsha:
     private: d657eae1bc6e6035c16549186e2f8891c0d0899e

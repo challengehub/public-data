@@ -589,10 +589,10 @@
   translations: {}
 3473bf8c-fe46-4221-a1c8-cbf49b2254ef:
   hexsha:
-    private: d657eae1bc6e6035c16549186e2f8891c0d0899e
-    public: 1e54ea0e84783e4fe17e2cf357791e7d28aded15
+    private: f56e77c53425dbcd4a414d0f6fb87715631dda0d
+    public: 001139c14d7739cc68341a0bcb58d478dc573e2c
   language: en
-  modified: '2018-10-21T10:34:17.404436Z'
+  modified: '2019-09-30T07:23:09.562292Z'
   title: 'Characteristic equation: real negative roots'
   title_id: characteristic-equation-real-negative-roots
   topics: []

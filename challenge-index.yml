@@ -799,6 +799,16 @@
   title_id: beating-equation
   topics: []
   translations: {}
+41b1cbfc-aec2-47b2-a089-b7f618e98897:
+  hexsha:
+    private: b5ff1e2a026a0c83cc6ea12db7070820270d50a0
+    public: 82d8cce4b8b9cac99d83ec9837d2fd1a4b10aacf
+  language: en
+  modified: '2019-09-30T01:17:20.969481Z'
+  title: Calculating the trigonometric Fourier series of another square wave
+  title_id: calculating-the-trigonometric-fourier-series-of-another-square-wave
+  topics: []
+  translations: {}
 429373ee-dd8d-4db4-a3b6-a467c0c3a30a:
   hexsha:
     private: 879d754463ed8c8d4f81769907b4c06bf0db76cb

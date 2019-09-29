@@ -2052,6 +2052,16 @@ be59c8b1-8ac4-4d2a-a4bd-89b38578f852:
   title_id: smallest-period-with-k2
   topics: []
   translations: {}
+c0a6c531-8f72-4132-9f58-4a6b8a26cf25:
+  hexsha:
+    private: e59a66ed1dcad0399230a33bc64b1988fc16e5fd
+    public: 6f8f9f2506542b8d35249483079a3e5676fd1d6d
+  language: en
+  modified: '2019-09-30T02:18:26.242893Z'
+  title: Identifying direction fields
+  title_id: identifying-direction-fields
+  topics: []
+  translations: {}
 c3f21ef7-8f93-4954-b4c6-771f9be31c26:
   hexsha:
     private: 2ea43da8873dad4426b928c89ecd723722959a8b

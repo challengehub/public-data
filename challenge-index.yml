@@ -334,6 +334,16 @@
   title_id: velocity-and-acceleration-of-a-disk-that-is-undergoing-rotation-on-2-axes-using-a-reference-frame-rotating-in-2-dimensions
   topics: []
   translations: {}
+2083cca7-eddc-4139-af2b-0d626d215f01:
+  hexsha:
+    private: d5488590c134569d03e224745ccb628e903ff8a1
+    public: 04e5840f742caa3d4c61a81995a3d02d2c0d167c
+  language: en
+  modified: '2019-09-29T21:20:06.352945Z'
+  title: Integral of sine signals over a whole interval
+  title_id: integral-of-sine-signals-over-a-whole-interval
+  topics: []
+  translations: {}
 21c3a132-4610-4d79-a476-68eded2ddef8:
   hexsha:
     private: 63ed6077de088f674d8b84fe9b0386174686e03f

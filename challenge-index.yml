@@ -1303,6 +1303,16 @@
   title_id: mass-transfer-2019-end-of-course-survey
   topics: []
   translations: {}
+7eff131c-5671-4ef4-96ab-18a386096aee:
+  hexsha:
+    private: a7bebdf3bfc4d095f3ae0a0c6c87a3cfad14e32d
+    public: 456ab79fe26fe86a98afb7a5a0865013932b4459
+  language: en
+  modified: '2019-09-29T21:03:31.761582Z'
+  title: Understanding the significance of the Fourier coefficients
+  title_id: understanding-the-significance-of-the-fourier-coefficients
+  topics: []
+  translations: {}
 7f1880ea-7fe1-4fd5-9c04-9ecd0804cd5e:
   hexsha:
     private: 4471c7d51edd87b6e53e87f9087c7848703056ac

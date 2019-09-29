@@ -1721,10 +1721,10 @@
   translations: {}
 9d1c521e-9313-42e7-b0ac-a9b612dc7d96:
   hexsha:
-    private: ce7f7856f457ee57fc5d98f6f4106e045e0bbf88
-    public: 2aa7ff7774796c38c2a5cafaa3450f09ae3e79a2
+    private: d8af4fc1feb382fad5fb57d072e93c7c9f697937
+    public: b932ca6088bd8b8fb5c5647496d70e6872910190
   language: en
-  modified: '2019-09-30T01:10:51.782149Z'
+  modified: '2019-09-30T01:20:05.13045Z'
   title: Calculating the trigonometric Fourier series of a square wave
   title_id: calculating-the-trigonometric-fourier-series-of-a-square-wave
   topics: []

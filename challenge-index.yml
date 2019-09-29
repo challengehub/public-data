@@ -2488,6 +2488,16 @@ edc5f416-4593-418a-80b4-33cd029de35f:
   title_id: relating-systems-of-equations-to-graphs
   topics: []
   translations: {}
+ee8cbf6a-d1ae-4a0b-8b66-84e0254b587b:
+  hexsha:
+    private: 60b93a312298398b080eaf1479d83f86a9668182
+    public: 703e2d367e221a1f3bc4fc43124bb04dbb55f396
+  language: en
+  modified: '2019-09-30T00:36:11.045302Z'
+  title: Integral of product of two sines and two cosines
+  title_id: integral-of-product-of-two-sines-and-two-cosines
+  topics: []
+  translations: {}
 eecde493-188e-41d8-ab86-93a76c5ae887:
   hexsha:
     private: 7de1acd5bbe2f3416ec890cf62e78236b3d4d68a

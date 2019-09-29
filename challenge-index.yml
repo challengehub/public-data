@@ -980,6 +980,16 @@
   title_id: characteristic-equation-mixed-real-roots
   topics: []
   translations: {}
+4f5b05c1-779f-4427-8c06-4eec5b47dfcc:
+  hexsha:
+    private: bb0e726889e18236023f738a32865a12b7a5fdd7
+    public: c563bf5f9b69e9045242f91b04188cf18a02a247
+  language: en
+  modified: '2019-09-30T04:29:30.744866Z'
+  title: 'The stability of solutions: y''=(y^2-16)(y+3)^2'
+  title_id: the-stability-of-solutions-yy2-16y32
+  topics: []
+  translations: {}
 4ff09d7b-e049-4d9a-aeb0-3062ee846e4a:
   hexsha:
     private: ca02d6c377a1b46a9991f4723d1c2fa5153c5738

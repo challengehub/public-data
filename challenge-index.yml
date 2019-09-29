@@ -2548,6 +2548,16 @@ e78aa02f-4775-47af-8c86-8e5992a4b0de:
   title_id: mechanics-2019-end-of-course-survey
   topics: []
   translations: {}
+e8e5a20b-fe61-4c5e-bd43-1d9ae999169a:
+  hexsha:
+    private: e717bbab57c832098bc9022c49ed90338f205d50
+    public: 43b94205fccd72add259aa2e4fe58043139db24d
+  language: en
+  modified: '2019-09-30T04:26:34.753424Z'
+  title: 'The stability of solutions: N''=0.2(N-1)(1-N/6)'
+  title_id: the-stability-of-solutions-n02n-11-n6
+  topics: []
+  translations: {}
 e99656c0-3e37-4816-bb00-40b5a8b7fa2d:
   hexsha:
     private: 7c92ed8a316af3641169519e6b95abb5d461694f

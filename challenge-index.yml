@@ -1709,6 +1709,16 @@
   title_id: the-dirac-delta-function-and-its-laplace-transform-deltat-2-cos4t
   topics: []
   translations: {}
+9d1c521e-9313-42e7-b0ac-a9b612dc7d96:
+  hexsha:
+    private: ce7f7856f457ee57fc5d98f6f4106e045e0bbf88
+    public: 2aa7ff7774796c38c2a5cafaa3450f09ae3e79a2
+  language: en
+  modified: '2019-09-30T01:10:51.782149Z'
+  title: Calculating the trigonometric Fourier series of a square wave
+  title_id: calculating-the-trigonometric-fourier-series-of-a-square-wave
+  topics: []
+  translations: {}
 9ed63a08-5291-4350-8e5e-a681811bb6f7:
   hexsha:
     private: 79f885db6770ba49f51db802ae1b6a8ba45ca42b

@@ -399,3 +399,13 @@ bb09b127-4e4d-4e56-983f-9597e92d737f:
   topics: []
   upload_time: '2019-09-30T01:16:03Z'
   uploader_id: github.NanoScaleDesign
+
+6b007d1e-7408-42cf-9c07-7885dcb0eb64:
+  content_type: image/png
+  hexsha: da83367921df93de774e5261cbb176371ce8a939
+  original_name: direction_fields_A.png
+  title: Direction field A
+  title_id: direction-field-a-da8336
+  topics: []
+  upload_time: '2019-09-30T02:13:45Z'
+  uploader_id: github.NanoScaleDesign

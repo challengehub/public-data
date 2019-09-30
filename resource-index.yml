@@ -389,3 +389,13 @@ bb09b127-4e4d-4e56-983f-9597e92d737f:
   topics: []
   upload_time: '2019-09-30T01:08:46Z'
   uploader_id: github.NanoScaleDesign
+
+92ed4d17-5f2b-48aa-a9fb-d55482651346:
+  content_type: image/jpeg
+  hexsha: fe3eab4dac4e66821bb2e514db126d583f057c2f
+  original_name: fourier_cosine_series.jpg
+  title: Fourier cosine series
+  title_id: fourier-cosine-series-fe3eab
+  topics: []
+  upload_time: '2019-09-30T01:16:03Z'
+  uploader_id: github.NanoScaleDesign

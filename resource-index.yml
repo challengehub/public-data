@@ -379,3 +379,13 @@ eef76893-f0bd-4427-83fa-391380bb9c95:
   topics: []
   upload_time: '2019-09-29T20:46:38Z'
   uploader_id: github.NanoScaleDesign
+
+bb09b127-4e4d-4e56-983f-9597e92d737f:
+  content_type: image/jpeg
+  hexsha: ab1ea1a284441f306c3889d721441a8ea8f3b009
+  original_name: fourier_sine_series.jpg
+  title: Fourier sine series
+  title_id: fourier-sine-series-ab1ea1
+  topics: []
+  upload_time: '2019-09-30T01:08:46Z'
+  uploader_id: github.NanoScaleDesign

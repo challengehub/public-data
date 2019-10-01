@@ -2092,6 +2092,16 @@ c0a6c531-8f72-4132-9f58-4a6b8a26cf25:
   title_id: identifying-direction-fields
   topics: []
   translations: {}
+c0f52539-21a9-48a9-9943-ccb2dfdc9d9d:
+  hexsha:
+    private: 68063c57aaf4a65dab245c71533abd81ffd47321
+    public: c1b3ef0eb713b45db3bf178ffd9498b785774d06
+  language: en
+  modified: '2019-10-01T19:14:01.888162Z'
+  title: Test challenge 2
+  title_id: test-challenge-2
+  topics: []
+  translations: {}
 c3f21ef7-8f93-4954-b4c6-771f9be31c26:
   hexsha:
     private: 2ea43da8873dad4426b928c89ecd723722959a8b

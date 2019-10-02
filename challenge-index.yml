@@ -128,6 +128,16 @@
     \u30F3\u306E\u6CD5\u5247"
   topics: []
   translations: {}
+57428fc7-68e2-4af9-80ea-801ccc054bc8:
+  hexsha:
+    private: 7af4e46123a973eed0cc878f8066a298c2e4027f
+    public: c546ec269db7d3bd0821a66b8fc15e7c6c5355ec
+  language: ja
+  modified: '2019-10-03T01:44:05.307778Z'
+  title: "\u6761\u4EF6A\uFF1A1\uFF0Ch_Ri"
+  title_id: "\u6761\u4EF6a1hri"
+  topics: []
+  translations: {}
 617e35d3-3ef7-44a6-9a26-dde49cd6a6ea:
   hexsha:
     private: 22887ad44d0d0cd81f646e15fce97e91cd76f694

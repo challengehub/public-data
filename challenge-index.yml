@@ -1111,6 +1111,16 @@
   title_id: "laplace-transform-of-step-functions-lu\u03C0tcost\u03C0"
   topics: []
   translations: {}
+5f4be524-2a5c-4ee4-a612-9328a37c837f:
+  hexsha:
+    private: 4d5c9ae9997d7ab1b0ece4f3ba26657ff3b9bc31
+    public: 09d372525d724804931859019dfeafdab7253f08
+  language: en
+  modified: '2019-10-04T05:34:34.854622Z'
+  title: Calculating the complex Fourier series of a square wave
+  title_id: calculating-the-complex-fourier-series-of-a-square-wave
+  topics: []
+  translations: {}
 603d5421-59d8-4094-93a6-dd19a1797722:
   hexsha:
     private: 9d3fea7cd53150b4fd8a6f6f9ee034023447049f

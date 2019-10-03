@@ -1544,6 +1544,16 @@
   title_id: a-worked-example-of-calculations-of-two-simultanious-rotations-on-different-axes-sp-71
   topics: []
   translations: {}
+889faba7-7b83-4b38-917d-18a66d47bb33:
+  hexsha:
+    private: a5d8595ff24532de9bbd2ec46cb5507a405c455f
+    public: fe380f8671b8c3ed1d9bf5119597dc825efabfbe
+  language: en
+  modified: '2019-10-04T05:37:57.095159Z'
+  title: Calculating the complex Fourier series of a square wave
+  title_id: calculating-the-complex-fourier-series-of-a-square-wave
+  topics: []
+  translations: {}
 88c6d8cc-c2c7-4664-b1f3-a36b4cbeec8e:
   hexsha:
     private: 7e7b09607f987bfc71b81d417b2d8a8aadb3eaeb

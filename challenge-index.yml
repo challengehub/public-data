@@ -1363,6 +1363,16 @@
   title_id: introduction-to-convolution-t-cost
   topics: []
   translations: {}
+7bf78270-ee73-4849-9e61-eb4ab15bc5dd:
+  hexsha:
+    private: c5ef761be06b2f2849d12b379717b0e40f1936ec
+    public: 6c66c80229e769f2a62dd34b562ed62eb6a7b58d
+  language: en
+  modified: '2019-10-04T03:32:10.536702Z'
+  title: Identifying Fourier sine and cosine series
+  title_id: identifying-fourier-sine-and-cosine-series
+  topics: []
+  translations: {}
 7cf06c02-002b-4b92-bdb3-fbab41b9c84c:
   hexsha:
     private: 062270e37842913901973673885e81323599df77

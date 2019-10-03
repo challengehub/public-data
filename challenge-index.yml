@@ -1697,6 +1697,16 @@
   title_id: a-worked-example-of-calculations-of-two-simultaneous-rotations-on-different-axes
   topics: []
   translations: {}
+91b11535-7abe-486e-a274-19ffe5d9a444:
+  hexsha:
+    private: f3873b85278b1a42548f1b86482a1ec6346ffe53
+    public: 884f8aabcc40528034f874494f5a8bc77f637e8f
+  language: en
+  modified: '2019-10-04T04:53:57.78548Z'
+  title: Fourier series coefficient requirements for completely real signals
+  title_id: fourier-series-coefficient-requirements-for-completely-real-signals
+  topics: []
+  translations: {}
 91ce0b79-300c-4536-ae8b-f5a4921153d1:
   hexsha:
     private: e2bb0fbce8a9a2624b260569558760ec9c8cf73c

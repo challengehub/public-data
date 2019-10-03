@@ -1113,10 +1113,10 @@
   translations: {}
 5f4be524-2a5c-4ee4-a612-9328a37c837f:
   hexsha:
-    private: c2fea8784a1f541271fb6672e7e7b66d82211c5c
-    public: bece20fe047670bdd3395013f855252d5ada352d
+    private: ae83d3f750a55fb9431dac6287df61f1e05b0fd4
+    public: fab0a304b7bb792eb45c2996b48f1aa92db17b5a
   language: en
-  modified: '2019-10-04T05:35:10.282628Z'
+  modified: '2019-10-04T05:40:03.467864Z'
   title: Calculating the complex Fourier coefficients of a square wave
   title_id: calculating-the-complex-fourier-coefficients-of-a-square-wave
   topics: []

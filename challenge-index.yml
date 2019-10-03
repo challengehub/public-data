@@ -2517,6 +2517,16 @@ deac25c3-00ee-417c-8ebc-1cc83297a62a:
   title_id: velocity-after-collision-of-a-projectile-and-a-cord-with-two-masses-428
   topics: []
   translations: {}
+e04f7340-4ded-4224-974b-2d4ce15b68e7:
+  hexsha:
+    private: 56b27826f091206c3a413bf2e134483f72fc5752
+    public: 70b56a4bf814e81a4b5eab8a5ee24734a4645e03
+  language: en
+  modified: '2019-10-04T04:01:03.444781Z'
+  title: Writing the complex form of sine and cosine
+  title_id: writing-the-complex-form-of-sine-and-cosine
+  topics: []
+  translations: {}
 e0c75c63-d56d-46e1-83ec-9947d54a6372:
   hexsha:
     private: 5db08e8bfb68a8f27d93281df205633da98d22e3

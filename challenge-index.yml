@@ -1789,6 +1789,16 @@
   title_id: calculating-the-trigonometric-fourier-series-of-a-square-wave
   topics: []
   translations: {}
+9e37ed35-9a8d-4b1e-82c8-e201664be0ad:
+  hexsha:
+    private: e40f02d9c85bc5ef8f729a8039164a70dbb842bb
+    public: 7f10f48a506a9e955b7c5a05c1a50b8d1be148a9
+  language: en
+  modified: '2019-10-04T05:00:46.64731Z'
+  title: The meaning of the complex Fourier coefficients
+  title_id: the-meaning-of-the-complex-fourier-coefficients
+  topics: []
+  translations: {}
 9ed63a08-5291-4350-8e5e-a681811bb6f7:
   hexsha:
     private: 79f885db6770ba49f51db802ae1b6a8ba45ca42b

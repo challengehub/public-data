@@ -1991,6 +1991,16 @@ b359a87e-8e04-4679-b540-3c345ac6eb20:
   title_id: solving-systems-of-odes-81-44
   topics: []
   translations: {}
+b40fbdb5-a0df-48c5-8d54-d0a2bb43a200:
+  hexsha:
+    private: 8f67f5e59bbdab876f5a41ec1a8e535a8e83c07a
+    public: 3ca7a2b9440d717c0f21404f6c5b1b88118644e8
+  language: en
+  modified: '2019-10-04T05:23:20.520863Z'
+  title: Derivation of the complex Fourier coefficients
+  title_id: derivation-of-the-complex-fourier-coefficients
+  topics: []
+  translations: {}
 b4a27bb7-480b-4c00-924b-0e3714b270a6:
   hexsha:
     private: c73383afc12c740769ab596f3ae912c8667d7d0e

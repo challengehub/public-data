@@ -1353,6 +1353,16 @@
   title_id: steady-state-diffusion-planer-example-with-specified-surface-concentrations-minimal-flat-plane
   topics: []
   translations: {}
+79afae77-838c-455d-b1fd-613bfca29a1f:
+  hexsha:
+    private: 5d3546c84a52c8e5237f995d36134c1a33fa9e55
+    public: 8de3c95906c170fa293e14483730de930e9ac07e
+  language: en
+  modified: '2019-10-04T05:17:01.692103Z'
+  title: The meaning of the complex Fourier coefficient c0
+  title_id: the-meaning-of-the-complex-fourier-coefficient-c0
+  topics: []
+  translations: {}
 7a35b671-15ff-46d4-a778-3a8bdc2a9c4b:
   hexsha:
     private: 0ba5249deb965a68b2331cd2f5eb9ede18559a9e

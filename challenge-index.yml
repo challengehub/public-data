@@ -567,6 +567,16 @@
   title_id: steady-state-planer-diffusion-of-helium-through-a-plastic-membrane-in-kgsm2
   topics: []
   translations: {}
+3393acd3-f1dd-4ec8-b5e5-8b3487336b74:
+  hexsha:
+    private: e53a33b956c3eafbd9d874594f893ebbd97fe5bc
+    public: 5583ffc8a5752d642c695a8d77a052ca02756a4c
+  language: en
+  modified: '2019-10-04T03:57:02.798066Z'
+  title: A review of complex numbers
+  title_id: a-review-of-complex-numbers
+  topics: []
+  translations: {}
 33dbaf42-ce23-4085-97e8-36400ed58b14:
   hexsha:
     private: 37408893ef776e483e3e8dc5bbb640c3e9800e1c

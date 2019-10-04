@@ -499,3 +499,13 @@ ffd72a31-53a2-46a4-b7f1-810ce30844ae:
   topics: []
   upload_time: '2019-10-04T03:30:04Z'
   uploader_id: github.NanoScaleDesign
+
+ef4b4d42-1be0-4437-b73d-8ee054fbd359:
+  content_type: image/jpeg
+  hexsha: eeebfd32a53a9dd3efe1fde5b42b4248b697533e
+  original_name: fs_exp_squarewave.jpg
+  title: Square wave
+  title_id: square-wave-eeebfd
+  topics: []
+  upload_time: '2019-10-04T05:32:21Z'
+  uploader_id: github.NanoScaleDesign

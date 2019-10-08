@@ -2801,10 +2801,10 @@ f3df34b5-743f-4d00-a9ed-c792db6d1673:
   translations: {}
 f47ba08c-32a1-4864-a9c4-4ca9a82140a0:
   hexsha:
-    private: 495bddc92139f2816fd695346c26b35b5ef20742
-    public: bae368e24c535656bc73545378cd354b048538b6
+    private: 5de4f7a3c95853e23b35fcd48ae97ecec24d6587
+    public: 921aff0f100994f21c2edf5249847cfc2e680288
   language: en
-  modified: '2019-09-19T06:17:33.912616Z'
+  modified: '2019-10-08T19:33:48.91856Z'
   title: Amplitude of four sine graphs
   title_id: amplitude-of-four-sine-graphs
   topics: []

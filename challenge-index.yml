@@ -346,10 +346,10 @@
   translations: {}
 2083cca7-eddc-4139-af2b-0d626d215f01:
   hexsha:
-    private: d5488590c134569d03e224745ccb628e903ff8a1
-    public: 04e5840f742caa3d4c61a81995a3d02d2c0d167c
+    private: 1f0583cc4685f2e363320c165676354c93e7f14d
+    public: 4eddf0d279f096128a302c27920328114f0cf85b
   language: en
-  modified: '2019-09-29T21:20:06.352945Z'
+  modified: '2019-10-09T02:08:13.538828Z'
   title: Integral of sine signals over a whole interval
   title_id: integral-of-sine-signals-over-a-whole-interval
   topics: []

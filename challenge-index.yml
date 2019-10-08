@@ -528,10 +528,10 @@
   translations: {}
 3198fd1c-d946-4490-809d-539ae5c33c68:
   hexsha:
-    private: 52e219b47cc3cfe2f214973917778a0f03de2d09
-    public: 7b01882ecc4e6eff3f7d4ef7abc0548409a6151c
+    private: 401f1f726a4ab0b4643cf239b4daf64ac1dd02d8
+    public: ea3cbdfe732c47a116036dab91c63de6903710d7
   language: en
-  modified: '2019-09-29T20:58:02.395685Z'
+  modified: '2019-10-09T02:39:00.971392Z'
   title: Introduction to sine and cosine Fourier coefficients
   title_id: introduction-to-sine-and-cosine-fourier-coefficients
   topics: []

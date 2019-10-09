@@ -1334,12 +1334,12 @@
   translations: {}
 76da5697-3251-4d5e-8382-e35857ed724a:
   hexsha:
-    private: 9751e2d0aeb47b57f50f42f4caebd5d3cba090e4
-    public: 61ce95db012dfe42ad739b5524d58fc79cff76e1
+    private: 905993b2d3e6b913b734591fb0dfb62998b0850b
+    public: c0201a88445acf5a79c94054e184521efb4637d3
   language: en
-  modified: '2019-10-10T06:09:35.936549Z'
-  title: 'Characteristic equation: exersizes (2)'
-  title_id: characteristic-equation-exersizes-2
+  modified: '2019-10-10T06:10:25.322798Z'
+  title: 'Characteristic equation exersize: 2y'''' + 4y'' + 2y = 0'
+  title_id: characteristic-equation-exersize-2y-4y-2y-0
   topics: []
   translations: {}
 7731a9c7-7a5d-4779-8a6e-7e83d9f880d7:

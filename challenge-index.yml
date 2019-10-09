@@ -1963,12 +1963,12 @@ aceaf9ac-cb3e-4bee-ab01-764112cd80d2:
   translations: {}
 ad274394-954f-4710-8970-5458b94afa4e:
   hexsha:
-    private: a4ec2e829413c5c0a79400871c55c10248d45765
-    public: 72b34b73adb2f8f16bbba6935b5d18f6ffa453cd
+    private: dd571d3767cc6c34e33449967f9aad5073c4e8fa
+    public: e39023823486beb1a375bed76e51fff2e0260434
   language: en
-  modified: '2018-10-26T03:25:45.788807Z'
-  title: 'Characteristic equation: exersizes (3)'
-  title_id: characteristic-equation-exersizes-3
+  modified: '2019-10-10T06:13:14.881022Z'
+  title: 'Characteristic equation exersize: 4y'''' + 3y'' + y = 0'
+  title_id: characteristic-equation-exersize-4y-3y-y-0
   topics: []
   translations: {}
 aebd34f7-e4df-4eb5-95f8-e58ca739bf80:

@@ -478,10 +478,10 @@
   translations: {}
 2e8d8182-aaf8-4ae1-99a3-6510723306ea:
   hexsha:
-    private: 6b9fc3c8ab5bd46398d932a140c3685693d135b3
-    public: 72093144b9e4ab03012b671cbdd76444e20fd3a4
+    private: b8e164803c8bf614f4f1ee67e6c386aa13dff603
+    public: 04a43dca342e6b10f74c90a4e46d50308945ee23
   language: en
-  modified: '2018-10-21T09:01:48.341163Z'
+  modified: '2019-10-10T05:47:02.188586Z'
   title: Damping
   title_id: damping
   topics: []

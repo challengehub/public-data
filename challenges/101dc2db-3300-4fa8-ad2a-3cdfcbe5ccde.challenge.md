@@ -7,14 +7,22 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: 101dc2db-3300-4fa8-ad2a-3cdfcbe5ccde
 language: en
-modified: '2018-10-26T03:22:09.215154Z'
-title: 'Characteristic equation: exersizes (1)'
-title_id: characteristic-equation-exersizes-1
+modified: '2019-10-10T06:07:40.143178Z'
+title: 'Characteristic equation exersize: 2y'''' + 8y'' + y = 0'
+title_id: characteristic-equation-exersize-2y-8y-y-0
 topics: []
 translations: {}
 version: '1.0'
 ---
 
+## Comment
+For this challenge, note that if you encounter a square-root during your calculations such as `$\sqrt{7}$`, it is best to work with `$\sqrt{7}$` rather than `$2.65$` in order to maintain accuracy until the final step where you need to evaluate it. If the equation becomes too messy (eg `$e^{(\sqrt{7}-1)/\sqrt{3}}$`) you can always substitute `$m=(\sqrt{7}-1)/\sqrt{3}$`, etc, to make things clearer.
+
+
 ## Challenge
 
-PDF challenge 4.14 part 1.
+Determine `$y(1)$` for the equation
+
+`$$ 2y'' + 8y' + y = 0 $$`
+
+given the initial conditions `$y(0)=4$` and `$y'(0)=3$`.

@@ -153,12 +153,12 @@
   translations: {}
 101dc2db-3300-4fa8-ad2a-3cdfcbe5ccde:
   hexsha:
-    private: 39518c191b8ad0a2e5436b8ad77a5bbc111fb6f6
-    public: 8865ccd1d34fa8624e94fcb9b3e93db6a8efc2cd
+    private: 49934df523f5749c9bc81c8ecad0cdc93638a63a
+    public: 429a2a99cc37be5aca2f8117703be509e3d5d117
   language: en
-  modified: '2018-10-26T03:22:09.215154Z'
-  title: 'Characteristic equation: exersizes (1)'
-  title_id: characteristic-equation-exersizes-1
+  modified: '2019-10-10T06:07:40.143178Z'
+  title: 'Characteristic equation exersize: 2y'''' + 8y'' + y = 0'
+  title_id: characteristic-equation-exersize-2y-8y-y-0
   topics: []
   translations: {}
 1199a50f-f776-48d1-be62-afbb61581f16:

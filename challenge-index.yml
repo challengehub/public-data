@@ -2396,10 +2396,10 @@ d35c7de4-5c63-4bb7-9e34-86cefa2c1504:
   translations: {}
 d40d5f57-b9ee-4ac4-be11-96ab3c73f2f6:
   hexsha:
-    private: f0f08b84c18ef4928cb3890f2246c5329545ab28
-    public: f34f20e775f601a5468140cc8c06c9a996e40fe0
+    private: 5d5808b36b34fb26904586f0914f15ee8f3a1559
+    public: d1b2eabbdc4f53d74b0db4a05b3ce9edea38cdc3
   language: en
-  modified: '2019-09-30T03:37:03.214622Z'
+  modified: '2019-10-10T05:16:49.888269Z'
   title: The logistic equation
   title_id: the-logistic-equation
   topics: []

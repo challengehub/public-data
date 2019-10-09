@@ -305,10 +305,10 @@
   translations: {}
 1d51e481-8d91-4ed5-82e5-3f44d044837e:
   hexsha:
-    private: 3e290d1abd7e9e5d8930121b7c467aa3032195a6
-    public: 8ee6eafdf851f83cc3bea36c730c249c7cb678bf
+    private: b47178bd52936c3ea257309aa5a25b0df1ca4be9
+    public: 75a39c99dda97809202b215a7fbe1f8e377db910
   language: en
-  modified: '2018-10-26T03:16:29.332812Z'
+  modified: '2019-10-10T06:03:51.764852Z'
   title: Damping and 2nd-order differential equations
   title_id: damping-and-2nd-order-differential-equations
   topics: []

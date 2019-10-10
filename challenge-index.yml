@@ -1505,12 +1505,12 @@
   translations: {}
 855c7fdc-61bc-4ae8-8ced-ddbf3516a4db:
   hexsha:
-    private: ece65436eb45cf87f78e758d4a943a8d6646c730
-    public: 19e40e72a3c5f9a837ef02afd4683910cd79446d
+    private: 3a14ec1a3023154fc0027179b9d4688f1448377e
+    public: 8b5536888fdd4e41d0b00fd8eb495ab04eed14fc
   language: en
-  modified: '2018-10-26T03:28:48.932739Z'
-  title: 'Non-homogeneous equations: Method of undetermined coefficients (1)'
-  title_id: non-homogeneous-equations-method-of-undetermined-coefficients-1
+  modified: '2019-10-10T09:19:02.040291Z'
+  title: Solving non-homogeneous ODE's
+  title_id: solving-non-homogeneous-odes
   topics: []
   translations: {}
 858c648c-95fc-449c-a09f-33dfa0ce06b1:

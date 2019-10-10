@@ -519,3 +519,13 @@ c85d46d9-195a-4a96-a522-8137308b12ba:
   topics: []
   upload_time: '2019-10-10T05:46:30Z'
   uploader_id: github.NanoScaleDesign
+
+d73270b1-2954-4bad-90df-52a691166b0d:
+  content_type: image/jpeg
+  hexsha: c3efdc2c375baca26825566837fbf6bc2d1c16de
+  original_name: damping.jpg
+  title: Functions with and without dDamping
+  title_id: functions-with-and-without-ddamping-c3efdc
+  topics: []
+  upload_time: '2019-10-10T06:02:08Z'
+  uploader_id: github.NanoScaleDesign

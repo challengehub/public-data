@@ -121,6 +121,16 @@
   title_id: drawing-the-direction-field-for-y02y1-y6
   topics: []
   translations: {}
+0ba3e51e-f4cc-4367-850a-8c74e07b31bd:
+  hexsha:
+    private: 13b320ffa2b8eeb7a34a880dc6b0632b16b8ee08
+    public: 64844c356e5544e480228b25fe64de90f11a9d09
+  language: en
+  modified: '2019-10-15T00:52:10.799025Z'
+  title: Calculating the Fourier Series of a sawwave with non-unit period
+  title_id: calculating-the-fourier-series-of-a-sawwave-with-non-unit-period
+  topics: []
+  translations: {}
 0d915f52-08f0-4147-b067-05a0437e9f36:
   hexsha:
     private: 8f8f9fa6fc9c02b41746fa41bf2a7d63c99ea338

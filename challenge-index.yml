@@ -2911,10 +2911,10 @@ fb01b540-65d4-4374-be2f-69b6fbbecc8a:
   translations: {}
 fb2bb6af-363b-41f5-8b04-73f7739f9790:
   hexsha:
-    private: 998941344246d8429519902a6093a39012aca754
-    public: 2ce847d60743cd3b2917ca7aa267d6deeccceb09
+    private: bc52ccf9a7549ed7b7ab2d2665e4186e37e98bb9
+    public: a8325cb15db7e9b88f6006f4d0544a411f30bd06
   language: en
-  modified: '2019-10-15T01:33:55.723003Z'
+  modified: '2019-10-15T01:56:29.959644Z'
   title: 'Heat equation on a ring: Understanding periodicity'
   title_id: heat-equation-on-a-ring-understanding-periodicity
   topics: []

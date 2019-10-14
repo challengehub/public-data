@@ -435,6 +435,16 @@
   title_id: diffusion-in-the-long-time-limit
   topics: []
   translations: {}
+291b8eaf-ba07-49e7-82c7-319d918c1241:
+  hexsha:
+    private: 3db9bfa67a0cd944bb645b5f5b0c8fead5829254
+    public: b822e2f6b62350686b07d24d8cf903459438aa86
+  language: en
+  modified: '2019-10-15T01:15:01.192591Z'
+  title: Determining the Fourier Series coefficients of sin(x)
+  title_id: determining-the-fourier-series-coefficients-of-sinx
+  topics: []
+  translations: {}
 29669082-6d57-4c9f-8f76-74e9f2f2664f:
   hexsha:
     private: 7819ddbb26fa29c5a4f7638e5153abc106e96e6e

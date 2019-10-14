@@ -940,6 +940,16 @@
   title_id: motion-of-a-pendulum-in-phase-space
   topics: []
   translations: {}
+4ba35c95-2f3c-408e-8e4b-633439f92268:
+  hexsha:
+    private: ae046aa8f345d978c88336c431f212f3c10638a1
+    public: da1d4d3f538e9871e4ccb95aa4e671033b210618
+  language: en
+  modified: '2019-10-15T01:00:29.627564Z'
+  title: Understanding Gibb's phenomenon
+  title_id: understanding-gibbs-phenomenon
+  topics: []
+  translations: {}
 4bb04a41-b344-4119-a7e8-6139e543edfb:
   hexsha:
     private: 90030daf7ca46648e6934102d0f2981d4bd5b731

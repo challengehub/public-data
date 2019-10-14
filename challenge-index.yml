@@ -2909,6 +2909,16 @@ fb01b540-65d4-4374-be2f-69b6fbbecc8a:
   title_id: calculating-the-inertia-of-a-bent-rod
   topics: []
   translations: {}
+fb2bb6af-363b-41f5-8b04-73f7739f9790:
+  hexsha:
+    private: 998941344246d8429519902a6093a39012aca754
+    public: 2ce847d60743cd3b2917ca7aa267d6deeccceb09
+  language: en
+  modified: '2019-10-15T01:33:55.723003Z'
+  title: 'Heat equation on a ring: Understanding periodicity'
+  title_id: heat-equation-on-a-ring-understanding-periodicity
+  topics: []
+  translations: {}
 fd4f0190-c05e-4980-bc5b-8c0531ba2221:
   hexsha:
     private: 52e1ef7da9cbedd0094174a486e396e93c172238

@@ -1736,6 +1736,16 @@
   title_id: velocity-of-a-point-at-the-end-of-an-arm-with-two-rotating-joints
   topics: []
   translations: {}
+907213aa-04a3-47fc-b0a5-3473379d8abe:
+  hexsha:
+    private: 5dba7c17a571f25cf5ac7c292280b68b0d7f26fa
+    public: cde18fb60a1b9125290b54ffdf23b682b9983270
+  language: en
+  modified: '2019-10-15T01:24:56.954104Z'
+  title: Partial derivatives practise
+  title_id: partial-derivatives-practise
+  topics: []
+  translations: {}
 90e882c1-748a-4b09-a04d-0fe6efe8ea07:
   hexsha:
     private: dda5078491a75849c88545491390f1c7840f3040

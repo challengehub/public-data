@@ -849,6 +849,16 @@
   title_id: calculating-the-trigonometric-fourier-series-of-another-square-wave
   topics: []
   translations: {}
+41ec89ed-5275-4096-a4ab-c35fc8b12cc3:
+  hexsha:
+    private: 16ceda75e296168b8333a6177c069424f62e932f
+    public: 92b882e6e91a665c432dbbd065580c080de76c13
+  language: en
+  modified: '2019-10-15T02:03:05.823601Z'
+  title: 'Heat equation on a ring: derivation using Fourier series'
+  title_id: heat-equation-on-a-ring-derivation-using-fourier-series
+  topics: []
+  translations: {}
 429373ee-dd8d-4db4-a3b6-a467c0c3a30a:
   hexsha:
     private: 879d754463ed8c8d4f81769907b4c06bf0db76cb

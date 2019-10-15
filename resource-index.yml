@@ -529,3 +529,13 @@ d73270b1-2954-4bad-90df-52a691166b0d:
   topics: []
   upload_time: '2019-10-10T06:02:08Z'
   uploader_id: github.NanoScaleDesign
+
+9713b47f-3c40-45d2-a44b-714a5836be9b:
+  content_type: image/jpeg
+  hexsha: cc9629b639cbe9b503507890d508565101d2e2cc
+  original_name: sawwave.jpg
+  title: Saw wave
+  title_id: saw-wave-cc9629
+  topics: []
+  upload_time: '2019-10-15T00:43:33Z'
+  uploader_id: github.NanoScaleDesign

@@ -2264,10 +2264,10 @@ c4a9da17-c0be-418e-b04e-33779aab9e5a:
   translations: {}
 c545e64a-a64e-439d-a0a3-4f6fdb2d022c:
   hexsha:
-    private: 06b353888419aeb2fcfec25ee4a38df235ed1bb0
-    public: 913d8ab7249c9da4746b6c46c59dba32c9e9f4a0
+    private: d476dd925db0705a01d00da573091031d18bce06
+    public: ba1534818789000f2a925575e5b69f6fdadc1d40
   language: en
-  modified: '2019-09-25T05:58:11.002537Z'
+  modified: '2019-10-15T19:20:16.727594Z'
   title: Identifying linear and non-linear ordinary differential equations
   title_id: identifying-linear-and-non-linear-ordinary-differential-equations
   topics: []

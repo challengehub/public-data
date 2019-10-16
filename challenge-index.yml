@@ -649,12 +649,12 @@
   translations: {}
 36e77427-f07a-4790-a1b6-0bf9c151774f:
   hexsha:
-    private: 37c113d524f98bd90243246b476f56167f9d5412
-    public: fe61d0af37fbd5ea4bc95737efe260b3042dc5e7
+    private: 1470d53c9d1833d91353e26fc08975eb9e718d84
+    public: 017d387d79c8b62831b0b1c0c39a5ee588c19870
   language: en
-  modified: '2018-11-08T00:10:14.607239Z'
-  title: Method of undetermined coefficients II - part 1
-  title_id: method-of-undetermined-coefficients-ii-part-1
+  modified: '2019-10-17T05:20:40.699725Z'
+  title: 'Method of undetermined coefficients: y'''' + 4y = 8 cos(2t)'
+  title_id: method-of-undetermined-coefficients-y-4y-8-cos2t
   topics: []
   translations: {}
 37f4ea0e-1c28-46e3-8863-e97ac8ae2715:

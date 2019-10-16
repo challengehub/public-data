@@ -1577,12 +1577,12 @@
   translations: {}
 84e5e67a-7b46-45a4-9706-f2e5295eb2b6:
   hexsha:
-    private: b1f48aceb946a4919512ec609e1b72415c0fcdeb
-    public: c75dce30b1aa626dffe14380b81228dc964027bb
+    private: a766a1c9eca3660237a56a200fff8af280085bf8
+    public: 08aa59b33e6d3b0745f8037213e13f90db3deb59
   language: en
-  modified: '2018-11-08T07:52:28.566676Z'
-  title: Phase-shift
-  title_id: phase-shift
+  modified: '2019-10-17T05:53:08.478575Z'
+  title: Understanding phase-shift from sine to cosine
+  title_id: understanding-phase-shift-from-sine-to-cosine
   topics: []
   translations: {}
 855c7fdc-61bc-4ae8-8ced-ddbf3516a4db:

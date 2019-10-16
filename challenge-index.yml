@@ -1736,12 +1736,12 @@
   translations: {}
 8f29022d-ebf7-4d81-bf58-2159a627ed01:
   hexsha:
-    private: 34424ed42e31963556cdcab9fc245e5c47bf498d
-    public: 2df3d52ae7e97195e5fe02d7956ba9870cbed175
+    private: 386cb7f1679abe06d01fa43d46a6302d368b6a51
+    public: 519b65daaa1da77fdabc5876a8df8715401fe40d
   language: en
-  modified: '2019-10-17T05:27:34.763183Z'
-  title: Method of undetermined coefficients II - part 3
-  title_id: method-of-undetermined-coefficients-ii-part-3
+  modified: '2019-10-17T05:28:24.991568Z'
+  title: 'Method of undetermined coefficients: y'''' + 2y'' = 6 e^(-2t)'
+  title_id: method-of-undetermined-coefficients-y-2y-6-e-2t
   topics: []
   translations: {}
 8f5792d1-f319-4fab-9783-8efa2b75360e:

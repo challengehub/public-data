@@ -1982,12 +1982,13 @@ a63253bd-e97a-4231-9dfe-ccaa0b53a19e:
   translations: {}
 a767ccfa-0821-47fb-a7bf-002272fcc65a:
   hexsha:
-    private: 7fe1b3d64010f318a2caac6d37eef36223a0fe65
-    public: 984d41ed15b1b290c8be44857a04fad212571c3b
+    private: 62862e35c2480c1491dece078a3f8acbe1e08239
+    public: c9cae085c9bfe48fc89ffe59b2a29bb468c854e0
   language: en
-  modified: '2018-11-07T23:55:43.209675Z'
-  title: Method of undetermined coefficients II - part 6
-  title_id: method-of-undetermined-coefficients-ii-part-6
+  modified: '2019-10-17T05:35:06.520915Z'
+  title: 'Method of undetermined coefficients: y'''' - 6y'' - 7y = 8e^(-t) - 7t -
+    6'
+  title_id: method-of-undetermined-coefficients-y-6y-7y-8e-t-7t-6
   topics: []
   translations: {}
 a8d7908b-debc-45f3-b759-585fa86261d1:

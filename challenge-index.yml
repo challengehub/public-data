@@ -831,12 +831,12 @@
   translations: {}
 4148748f-d8fe-4f62-84a6-ce43ba3c96bd:
   hexsha:
-    private: 14abe53b39f03d8f113ec1a59113eff404586841
-    public: 21789aed3e7f3deff0a96f418cc4994902e836c2
+    private: 756e43b83642289a49cbacb92bdb80fbb0f9ad6c
+    public: 411f9dd997e0006e7d4484024b5918a773fb983c
   language: en
-  modified: '2018-11-12T00:16:31.420939Z'
-  title: Beating equation
-  title_id: beating-equation
+  modified: '2019-10-17T05:55:55.581792Z'
+  title: Beating equation derivation
+  title_id: beating-equation-derivation
   topics: []
   translations: {}
 41b1cbfc-aec2-47b2-a089-b7f618e98897:

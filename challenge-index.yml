@@ -2043,12 +2043,12 @@ acb900a9-e5f1-423a-b72f-ba825b16c4e9:
   translations: {}
 aceaf9ac-cb3e-4bee-ab01-764112cd80d2:
   hexsha:
-    private: 5f820c22c19cdda7e934a8fde65917a379757a95
-    public: 3e6ac7f6f3382cc8dcc0497b5828be1e7346c1bc
+    private: b934602db9cb574273fa680a918408b8242047d2
+    public: 28ece3006f94c6d0448d4a4bb8ec355869327035
   language: en
-  modified: '2018-11-08T00:08:10.194612Z'
-  title: Method of undetermined coefficients II - part 2
-  title_id: method-of-undetermined-coefficients-ii-part-2
+  modified: '2019-10-17T05:26:23.701894Z'
+  title: 'Method of undetermined coefficients: y'''' + 2y'' = 2 te^(-t)'
+  title_id: method-of-undetermined-coefficients-y-2y-2-te-t
   topics: []
   translations: {}
 ad274394-954f-4710-8970-5458b94afa4e:

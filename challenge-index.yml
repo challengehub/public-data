@@ -2446,12 +2446,13 @@ d09b6da5-636f-44c4-b001-8a31cd92f76d:
   translations: {}
 d09bbeae-78f8-48ee-bab7-923df8d14481:
   hexsha:
-    private: 449db90f88187fab704839967a145a260f24085b
-    public: c109085f2eb74501a017d59a9955ff2691c1abbb
+    private: 4d2f3f9803d39ff177009f4210dabbcbb498a34e
+    public: 88ced4cf5295754088d97ed897fbfbbe43cee14b
   language: en
-  modified: '2018-11-07T23:50:54.191375Z'
-  title: Method of undetermined coefficients II - part 5
-  title_id: method-of-undetermined-coefficients-ii-part-5
+  modified: '2019-10-17T05:30:47.314196Z'
+  title: 'Method of undetermined coefficients: y'''' - 6y'' - 7y = 13 cos(2t) + 34
+    sin(2t)'
+  title_id: method-of-undetermined-coefficients-y-6y-7y-13-cos2t-34-sin2t
   topics: []
   translations: {}
 d178eeca-e586-40de-854e-365f93b0d365:

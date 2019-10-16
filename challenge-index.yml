@@ -1304,12 +1304,13 @@
   translations: {}
 65cc3492-2545-4f68-9d25-9758a04fe9a7:
   hexsha:
-    private: 0602f4a00b5b2e9ffa2d0dbfb1f379b2390b82e3
-    public: 1ac45ccaadadf309e8fafc6e9adc9791187b7825
+    private: adaabbb818b123342f9ec2c9fc47c10ea7015318
+    public: f6f6ec4effbe8eab2ae430a3c93f37a0e3461205
   language: en
-  modified: '2018-11-07T23:43:04.214146Z'
-  title: 'Method of undetermined coefficients: Determining the ODE I'
-  title_id: method-of-undetermined-coefficients-determining-the-ode-i
+  modified: '2019-10-17T05:45:31.885362Z'
+  title: 'Method of undetermined coefficients: Determining the ODE: y = C_1 cos(4t)
+    + C_2 sin(4t) - e^t sin (2t)'
+  title_id: method-of-undetermined-coefficients-determining-the-ode-y-c1-cos4t-c2-sin4t-et-sin-2t
   topics: []
   translations: {}
 679d28b6-b316-4e4b-9c1a-840d0f1b8905:

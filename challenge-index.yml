@@ -2447,10 +2447,10 @@ d09b6da5-636f-44c4-b001-8a31cd92f76d:
   translations: {}
 d09bbeae-78f8-48ee-bab7-923df8d14481:
   hexsha:
-    private: 4d2f3f9803d39ff177009f4210dabbcbb498a34e
-    public: 88ced4cf5295754088d97ed897fbfbbe43cee14b
+    private: ea5167857860ee26060629e49c54b96e69041efa
+    public: ea780f40e258b93b43134aec09d38cc2b150744a
   language: en
-  modified: '2019-10-17T05:30:47.314196Z'
+  modified: '2019-10-17T05:37:40.318139Z'
   title: 'Method of undetermined coefficients: y'''' - 6y'' - 7y = 13 cos(2t) + 34
     sin(2t)'
   title_id: method-of-undetermined-coefficients-y-6y-7y-13-cos2t-34-sin2t

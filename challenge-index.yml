@@ -101,10 +101,10 @@
   translations: {}
 364fa6c9-230c-4af6-b48c-b550562cb796:
   hexsha:
-    private: dcce36565f368dae2a8dde6e5aea810add54879d
-    public: cd608ee1cfa6164922b8b7869c7b2d1eb330d709
+    private: fd8d65f5ae212458288d43271d689da06fa6db40
+    public: e31070ff222c0015f8c5b9758b868d5e891ce9dc
   language: en
-  modified: '2019-09-03T03:11:49.913431Z'
+  modified: '2019-10-17T02:14:43.97262Z'
   title: LAF - Eigenvalues and Eigenvectors of square matrices
   title_id: laf-eigenvalues-and-eigenvectors-of-square-matrices
   topics: []

@@ -1261,6 +1261,16 @@
   title_id: centre-of-mass-velocity-of-3-particles
   topics: []
   translations: {}
+630c31c4-1cb9-454d-8913-2bf7f62b1646:
+  hexsha:
+    private: 24723898279266b32e0289aedeb2093d09be8d2c
+    public: b36d54e4050b9f24e0c394f443cb90d004416152
+  language: en
+  modified: '2019-10-17T03:34:54.70278Z'
+  title: Calculating the Fourier transform of a window function between -1/2 and 1/2
+  title_id: calculating-the-fourier-transform-of-a-window-function-between-12-and-12
+  topics: []
+  translations: {}
 63168873-0817-40df-8098-40615f44906e:
   hexsha:
     private: b60004d86e239f802d242e4430966aa8001e390f

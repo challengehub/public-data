@@ -899,6 +899,16 @@
   title_id: derivation-of-eulers-equations-for-3d-rotation
   topics: []
   translations: {}
+469898ff-38c0-4ac6-af56-e09f0b9ef1c2:
+  hexsha:
+    private: c6fafd71a4a0cc4b3f8d01b9b1aabb7b828a06f8
+    public: 7ea03e8554975d732bbab7b9ba149fdcb6e4ac8d
+  language: en
+  modified: '2019-10-17T03:21:17.424455Z'
+  title: "L'H\xF4pital's rule with sin(x)/x"
+  title_id: "lh\xF4pitals-rule-with-sinxx"
+  topics: []
+  translations: {}
 46c6645c-e972-4c6f-9044-5efb418e1b41:
   hexsha:
     private: 9f9dabd0a7b4611a4dc2ac18c943656276e08ffe

@@ -1556,12 +1556,13 @@
   translations: {}
 82587093-0f57-4142-a64c-bf81f73434fc:
   hexsha:
-    private: 383f6f7e3725e3143aced82404165749d83c91d7
-    public: 2c958273251bf81c86e54cd540e879ca8232fe3a
+    private: c0f46413a001999b2f6a53df69b5cdad60429a7d
+    public: 1779c51c08103cf410f3e743c2ca92e84bf9c9be
   language: en
-  modified: '2018-11-07T23:38:19.240031Z'
-  title: 'Method of undetermined coefficients: Determining the ODE II'
-  title_id: method-of-undetermined-coefficients-determining-the-ode-ii
+  modified: '2019-10-17T05:47:30.042439Z'
+  title: 'Method of undetermined coefficients: Determining the ODE: C_1 e^(-2t) +
+    C_2 t e^(-2t) + t^3 - 3t'
+  title_id: method-of-undetermined-coefficients-determining-the-ode-c1-e-2t-c2-t-e-2t-t3-3t
   topics: []
   translations: {}
 83146463-2a06-43be-8aa2-030b04f3b82d:

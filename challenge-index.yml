@@ -1133,10 +1133,10 @@
   translations: {}
 5d72257b-8d6f-4942-adb1-4f9621f13c2c:
   hexsha:
-    private: 6b748637df930e6ab75b3fc52960a502a1f114d4
-    public: 91cfca206ffdd20e2c350b5a523568319fbb014d
+    private: a218f220e99e26c7308db56b9189df980b20fa46
+    public: dcc17aad7698195dcafeefa20e863ce902591315
   language: en
-  modified: '2019-10-17T01:10:54.166831Z'
+  modified: '2019-10-17T01:12:16.444558Z'
   title: The limit of sin(x/T) as T goes to infinity
   title_id: the-limit-of-sinxt-as-t-goes-to-infinity
   topics: []

@@ -7,7 +7,7 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: aceaf9ac-cb3e-4bee-ab01-764112cd80d2
 language: en
-modified: '2019-10-17T05:26:23.701894Z'
+modified: '2019-10-17T05:36:22.769702Z'
 title: 'Method of undetermined coefficients: y'''' + 2y'' = 2 te^(-t)'
 title_id: method-of-undetermined-coefficients-y-2y-2-te-t
 topics: []
@@ -19,7 +19,7 @@ version: '1.0'
 The PDF in the resources goes into more detail than the videos on Khan academy, considering a greater range of cases. You may note that the particular solution is denoted by `$Y$` in the PDF while Sal Khan denotes it as `$y_p$` in his videos.
 
 ## Challenge
-Using the method of undetermined coefficients, calculate
+Using the method of undetermined coefficients, calculate the general solution to the ODE:
 `$$y'' + 2y' = 2 te^{-t}$$`
 
 ## Resources

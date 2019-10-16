@@ -1131,6 +1131,16 @@
   title_id: column-evaporation-derivation
   topics: []
   translations: {}
+5d72257b-8d6f-4942-adb1-4f9621f13c2c:
+  hexsha:
+    private: 6b748637df930e6ab75b3fc52960a502a1f114d4
+    public: 91cfca206ffdd20e2c350b5a523568319fbb014d
+  language: en
+  modified: '2019-10-17T01:10:54.166831Z'
+  title: The limit of sin(x/T) as T goes to infinity
+  title_id: the-limit-of-sinxt-as-t-goes-to-infinity
+  topics: []
+  translations: {}
 5de80663-f19b-4e4d-b56a-00125c968615:
   hexsha:
     private: 156885d8c9929035bdb8b36e1ea4439974a57ac5

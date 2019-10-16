@@ -920,6 +920,16 @@
   title_id: initial-evaporation-rate-from-an-evaporation-pan-assuming-only-diffusive-mass-transport
   topics: []
   translations: {}
+47f951ed-c516-4d34-80bb-9fcd807db3ca:
+  hexsha:
+    private: ddf79f6ec78f31b7df61fd4b4b5c4ff2a156a853
+    public: 67257f3240420290ac5560b09068dc3d2d8e76ce
+  language: en
+  modified: '2019-10-17T01:13:12.922088Z'
+  title: The limit of (T sin(x/T)) as T goes to infinity
+  title_id: the-limit-of-t-sinxt-as-t-goes-to-infinity
+  topics: []
+  translations: {}
 4857b6e9-41ef-44cf-b6a9-9228869723ec:
   hexsha:
     private: 409f44cd8eecc9cf3a588cf15a7ee650bb0051be

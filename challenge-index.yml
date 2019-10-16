@@ -1595,10 +1595,10 @@
   translations: {}
 858c648c-95fc-449c-a09f-33dfa0ce06b1:
   hexsha:
-    private: 0fafc7c944f8d2943c107646457a53f4f3de945f
-    public: 6598c936c9529cd05970c5a98e8838c216e83a06
+    private: 0ec43b4fc2a95c9dc1e91d532279b19394d11c72
+    public: 2eea2498342f091c196dd0b3035987922db9e36e
   language: en
-  modified: '2019-10-17T05:29:17.491356Z'
+  modified: '2019-10-17T05:37:18.04278Z'
   title: 'Method of undetermined coefficients: y'''' + 2y'' = 12 t^2'
   title_id: method-of-undetermined-coefficients-y-2y-12-t2
   topics: []

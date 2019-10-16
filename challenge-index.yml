@@ -2738,6 +2738,16 @@ e8e5a20b-fe61-4c5e-bd43-1d9ae999169a:
   title_id: the-stability-of-solutions-n02n-11-n6
   topics: []
   translations: {}
+e8ef7b2f-ffab-4373-a507-0ab0d03d7fa0:
+  hexsha:
+    private: a0a2380121e5b95dd094f15100bedd217842c8d0
+    public: 97afa02de442fa213ecbea7ce0151ff42f5a6b53
+  language: en
+  modified: '2019-10-17T01:20:00.225012Z'
+  title: The transition from Fourier Series to the Fourier Transform
+  title_id: the-transition-from-fourier-series-to-the-fourier-transform
+  topics: []
+  translations: {}
 e99656c0-3e37-4816-bb00-40b5a8b7fa2d:
   hexsha:
     private: 7c92ed8a316af3641169519e6b95abb5d461694f

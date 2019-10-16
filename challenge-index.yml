@@ -2935,10 +2935,10 @@ f5748ada-0a79-4ae1-8f96-388d6133f7ca:
   translations: {}
 f5c97038-c150-4774-925e-04a803deb5a6:
   hexsha:
-    private: 6a9169a39a33abeee4b8301b714e0b8f51891d0f
-    public: 6e53e52f3056bbc2b7152c01df3c5e929ba7f830
+    private: a162a90b6123e918b3dff87e659bbc17539782dd
+    public: a4255d8d0d91f155ce99b98d2a88012471a800c8
   language: en
-  modified: '2018-11-08T07:55:31.670267Z'
+  modified: '2019-10-17T05:54:07.993783Z'
   title: Derivation of a periodically-forced system
   title_id: derivation-of-a-periodically-forced-system
   topics: []

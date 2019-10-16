@@ -791,12 +791,12 @@
   translations: {}
 3f1577f0-4485-4627-abe5-a9fe45b0e338:
   hexsha:
-    private: 0ef81cdb52938423f55956b290b2b4ac8f2070fe
-    public: cf5a24e19889d2f75f7d01618758e0a72381488f
+    private: 520bee602a634af08eb235082bd1d958d29b47e1
+    public: 1661a5dfd03ca94bf100f09eab6589bfb594a49f
   language: en
-  modified: '2018-11-26T00:08:41.041283Z'
-  title: Resonance
-  title_id: resonance
+  modified: '2019-10-17T06:00:17.244755Z'
+  title: Resonance derivation for a system undergoing harmonic oscillation
+  title_id: resonance-derivation-for-a-system-undergoing-harmonic-oscillation
   topics: []
   translations: {}
 3f3b15ee-ee69-411b-8aa9-78732e2b120f:

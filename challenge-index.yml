@@ -1736,10 +1736,10 @@
   translations: {}
 8f29022d-ebf7-4d81-bf58-2159a627ed01:
   hexsha:
-    private: a2b666073043da9a01850c93dd2e01724b52a75b
-    public: 96b508f20927b32e66ae8a2c1877e11834798478
+    private: 34424ed42e31963556cdcab9fc245e5c47bf498d
+    public: 2df3d52ae7e97195e5fe02d7956ba9870cbed175
   language: en
-  modified: '2018-11-08T00:01:20.770518Z'
+  modified: '2019-10-17T05:27:34.763183Z'
   title: Method of undetermined coefficients II - part 3
   title_id: method-of-undetermined-coefficients-ii-part-3
   topics: []

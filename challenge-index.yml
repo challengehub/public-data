@@ -649,10 +649,10 @@
   translations: {}
 36e77427-f07a-4790-a1b6-0bf9c151774f:
   hexsha:
-    private: 241610b77605ddcb4bab9c7e06a5f74c2fe7c619
-    public: d5cbe9d6a2b44ade87e6294090abe4a92e9d0f96
+    private: d92ddd9c42345df3c7e669e699aef72b2d20c7f8
+    public: 65c5c11ce34bd0832dac29c1bf04594a7f521c8f
   language: en
-  modified: '2019-10-17T05:23:47.384617Z'
+  modified: '2019-10-17T05:35:41.513894Z'
   title: 'Method of undetermined coefficients: y'''' + 4y = 8 cos(2t)'
   title_id: method-of-undetermined-coefficients-y-4y-8-cos2t
   topics: []

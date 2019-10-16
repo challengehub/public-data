@@ -2995,11 +2995,11 @@ fd4f0190-c05e-4980-bc5b-8c0531ba2221:
   translations: {}
 fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
   hexsha:
-    private: 629a3ad511d4456454d3613bf3e809159ad5572a
-    public: a2f408807a7af9c69b3df429c4bf15e5139561fb
+    private: 461d4bac76e2a6a28a5a5bc9cf56bb5890b2c359
+    public: 7a2fc3ddacd72a71bfd96b95940ae145abcd5dde
   language: en
-  modified: '2019-10-17T05:51:31.351077Z'
-  title: Free vibration of a spring (review)
-  title_id: free-vibration-of-a-spring-review
+  modified: '2019-10-17T06:08:09.234677Z'
+  title: Free vibration of a harmonic spring
+  title_id: free-vibration-of-a-harmonic-spring
   topics: []
   translations: {}

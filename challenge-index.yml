@@ -321,10 +321,10 @@ cef71730-3afc-4637-9460-039802ccbe67:
   translations: {}
 d352b88b-27bf-4836-87d1-aaf00384d208:
   hexsha:
-    private: 402647cf9657315700de341e5934ff04fe66d561
-    public: f89d40c8b961b384de17d6aa5db9d90956c74f6d
+    private: d59a0373c60781862da1865a5094e2604b72d3fa
+    public: 2733327e3af5d26aeeba47d495b716a7e4be2d75
   language: en
-  modified: '2019-10-03T02:12:32.389364Z'
+  modified: '2019-10-17T06:41:50.54613Z'
   title: LAF - Course Info and Solutions to Tests
   title_id: laf-course-info-and-solutions-to-tests
   topics: []

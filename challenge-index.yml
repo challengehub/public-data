@@ -2925,12 +2925,12 @@ f4f78e8e-eda1-4789-8028-8283b38c07c9:
   translations: {}
 f5748ada-0a79-4ae1-8f96-388d6133f7ca:
   hexsha:
-    private: 6de6597784544cf370954150b296c16008449767
-    public: 86d15126c9399d2f2fd096ff1cf6c9b277dcb617
+    private: c7216e7c58d81ca2d22e3d10e8178b7c8bacfb02
+    public: 54f287205f89baac92c85a4ef34c1880fab00af2
   language: en
-  modified: '2018-11-18T23:22:32.902619Z'
-  title: Beating explanation
-  title_id: beating-explanation
+  modified: '2019-10-17T05:57:35.402864Z'
+  title: Explanation of beating occuring in forced vibration
+  title_id: explanation-of-beating-occuring-in-forced-vibration
   topics: []
   translations: {}
 f5c97038-c150-4774-925e-04a803deb5a6:

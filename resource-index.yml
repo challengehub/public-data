@@ -539,3 +539,13 @@ d73270b1-2954-4bad-90df-52a691166b0d:
   topics: []
   upload_time: '2019-10-15T00:43:33Z'
   uploader_id: github.NanoScaleDesign
+
+d5f8cb98-dfd6-4f94-a759-f615addf8ed4:
+  content_type: image/jpeg
+  hexsha: 325fb2ace91dac8e44bfeb4a8639f9ab0464e7f6
+  original_name: window_function.jpg
+  title: Window function
+  title_id: window-function-325fb2
+  topics: []
+  upload_time: '2019-10-17T03:33:39Z'
+  uploader_id: github.NanoScaleDesign

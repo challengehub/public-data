@@ -1931,6 +1931,16 @@
   title_id: calculating-the-trigonometric-fourier-series-of-a-square-wave
   topics: []
   translations: {}
+9d1fcaca-1cfd-4822-90b8-a16dbf3f54b3:
+  hexsha:
+    private: 249f53f87094df88b28e33bdfd5f9f252c29ab8d
+    public: 5cb46c41431f6f87e73b0bc7ecde2b26029f5ec6
+  language: en
+  modified: '2019-10-21T08:27:19.068139Z'
+  title: Calculating the half-base-width of a triangle function
+  title_id: calculating-the-half-base-width-of-a-triangle-function
+  topics: []
+  translations: {}
 9e37ed35-9a8d-4b1e-82c8-e201664be0ad:
   hexsha:
     private: e40f02d9c85bc5ef8f729a8039164a70dbb842bb

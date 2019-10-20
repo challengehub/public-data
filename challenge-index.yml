@@ -2754,10 +2754,10 @@ e78aa02f-4775-47af-8c86-8e5992a4b0de:
   translations: {}
 e8e5a20b-fe61-4c5e-bd43-1d9ae999169a:
   hexsha:
-    private: e717bbab57c832098bc9022c49ed90338f205d50
-    public: 43b94205fccd72add259aa2e4fe58043139db24d
+    private: 510400718b983aa13ead5f1f591bd540fed19ea9
+    public: 7b27910b4f297a245bdaa18884cd2c7ce06b7960
   language: en
-  modified: '2019-09-30T04:26:34.753424Z'
+  modified: '2019-10-20T18:37:31.25829Z'
   title: 'The stability of solutions: N''=0.2(N-1)(1-N/6)'
   title_id: the-stability-of-solutions-n02n-11-n6
   topics: []

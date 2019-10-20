@@ -1993,6 +1993,16 @@ a767ccfa-0821-47fb-a7bf-002272fcc65a:
   title_id: method-of-undetermined-coefficients-y-6y-7y-8e-t-7t-6
   topics: []
   translations: {}
+a806f89e-bfa5-4c75-8563-fb8aa4acb446:
+  hexsha:
+    private: 63bf7ec2adf225cadaf7ab30d47b9ec77136b3ac
+    public: 65d22799b88a0e2bdad146197420f9a59c160493
+  language: en
+  modified: '2019-10-21T01:14:47.17691Z'
+  title: Understanding the Fourier transform of a triangle function
+  title_id: understanding-the-fourier-transform-of-a-triangle-function
+  topics: []
+  translations: {}
 a8d7908b-debc-45f3-b759-585fa86261d1:
   hexsha:
     private: 55031e15b1d1e3445fdd7e5f406eb75fca332813

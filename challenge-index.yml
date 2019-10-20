@@ -11,10 +11,10 @@
   translations: {}
 00cfeb1f-f257-41a3-aa75-e69506520180:
   hexsha:
-    private: ad6e2bf4201919d44fb83705486a09782258cf51
-    public: 7df0f17b7841dfb666075b18ff999905cc741da5
+    private: 398d553374ae1dc274f30314ba139934d42b96cf
+    public: 180ea7a2d42ea3b83542ed1b6902ef9e7bade262
   language: en
-  modified: '2019-09-30T07:02:21.422171Z'
+  modified: '2019-10-20T19:57:36.842152Z'
   title: 'Characteristic equation identification: Equal roots'
   title_id: characteristic-equation-identification-equal-roots
   topics: []

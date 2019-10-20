@@ -2224,6 +2224,16 @@ bafb0068-db14-47b2-b454-76570cb5fd82:
   title_id: phase-space-of-pendulum-motion
   topics: []
   translations: {}
+bb12c06b-293a-452d-ab4f-091f552b76f5:
+  hexsha:
+    private: 103dab679b74d8a48c89dcde45e229751364549e
+    public: 630bf6ae7da7d3744bc9a3f32f828b761efc8774
+  language: en
+  modified: '2019-10-21T05:12:22.84029Z'
+  title: Calculating the Fourier transform of a rocket function
+  title_id: calculating-the-fourier-transform-of-a-rocket-function
+  topics: []
+  translations: {}
 bb48f56e-66ca-4bce-8d45-6036667f7730:
   hexsha:
     private: a58c6ac4eeb98cd19ad91f46fa098092170e9cca

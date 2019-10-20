@@ -1808,6 +1808,16 @@
   title_id: relation-between-pressure-humidity-and-mole-fraction
   topics: []
   translations: {}
+912bda4b-f2c5-4fd4-a43d-ec4d5df651c6:
+  hexsha:
+    private: b12c4f97ce40dc4e0850869855c0675ea092e6a2
+    public: 480a959d6616487aad05fba9344d4e737bf524da
+  language: en
+  modified: '2019-10-21T05:04:13.386758Z'
+  title: Deriving the Fourier transform of a Gaussian
+  title_id: deriving-the-fourier-transform-of-a-gaussian
+  topics: []
+  translations: {}
 912c8b57-66fa-4e86-a358-e77308299dbf:
   hexsha:
     private: 7d8b8178a7eb46d7259691950e3299142b417e49

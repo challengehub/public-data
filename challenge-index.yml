@@ -2842,6 +2842,16 @@ eecde493-188e-41d8-ab86-93a76c5ae887:
   title_id: force-pulling-a-chain-around-a-pully
   topics: []
   translations: {}
+ef385aaa-dba5-4a00-a79a-e9c7b427ad74:
+  hexsha:
+    private: f17b37acd6bc685abdee7970ba9b93314bdcd9fc
+    public: b7bbfed301deb47888bc3a6eceafc903cd09f3fb
+  language: en
+  modified: '2019-10-21T00:45:37.83854Z'
+  title: Fourier transform of sine and cosine
+  title_id: fourier-transform-of-sine-and-cosine
+  topics: []
+  translations: {}
 ef789560-0442-42b4-9dcd-050b807dc0ed:
   hexsha:
     private: a7f645d648b570530e6ac0c9753c1df519f16bd7

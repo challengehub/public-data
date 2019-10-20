@@ -386,10 +386,10 @@
   translations: {}
 252e4f0b-2972-48ac-8729-5e2e2ccfe2ac:
   hexsha:
-    private: c1976af2afd1879e94f6937d8d6c5d95de16bee5
-    public: d293f9021c8faded80d8be2f8b08955b5964fb49
+    private: 76e86933840a0b9024d0e001fa57e2bdbb0c428f
+    public: b869777acf75bd2fedd80ecfcc87391a79ce8ee2
   language: en
-  modified: '2019-09-30T06:57:19.990084Z'
+  modified: '2019-10-20T19:56:33.827866Z'
   title: 'Characteristic equation identification: Real, distinct roots'
   title_id: characteristic-equation-identification-real-distinct-roots
   topics: []

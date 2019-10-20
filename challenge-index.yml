@@ -364,6 +364,16 @@
   title_id: integral-of-sine-signals-over-a-whole-interval
   topics: []
   translations: {}
+2154533e-bb04-4f17-a6db-dc0bcc854fae:
+  hexsha:
+    private: 5f271076fa687f24c0402ef32bc643bc74f8f837
+    public: 60bc5c07b78302738b18fcefd8b3fc67798785db
+  language: en
+  modified: '2019-10-21T08:10:34.920306Z'
+  title: Calculating the Fourier transform of a shifted window function
+  title_id: calculating-the-fourier-transform-of-a-shifted-window-function
+  topics: []
+  translations: {}
 21c3a132-4610-4d79-a476-68eded2ddef8:
   hexsha:
     private: 63ed6077de088f674d8b84fe9b0386174686e03f

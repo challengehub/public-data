@@ -1052,10 +1052,10 @@
   translations: {}
 4f5b05c1-779f-4427-8c06-4eec5b47dfcc:
   hexsha:
-    private: bb0e726889e18236023f738a32865a12b7a5fdd7
-    public: c563bf5f9b69e9045242f91b04188cf18a02a247
+    private: 9400a25bcd2d8ca0f2aa45757c471e2801e406f4
+    public: aa5984fedb2ad005a732d6a04c6d3a9641af23b0
   language: en
-  modified: '2019-09-30T04:29:30.744866Z'
+  modified: '2019-10-20T18:39:39.88107Z'
   title: 'The stability of solutions: y''=(y^2-16)(y+3)^2'
   title_id: the-stability-of-solutions-yy2-16y32
   topics: []

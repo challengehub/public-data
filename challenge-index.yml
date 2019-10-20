@@ -2325,6 +2325,17 @@ c0f52539-21a9-48a9-9943-ccb2dfdc9d9d:
   title_id: test-challenge-2
   topics: []
   translations: {}
+c3b05988-8a42-40b7-aae7-2f069d34e329:
+  hexsha:
+    private: 7203b73b49262e84be8e801d77ef773cfd45de2c
+    public: 581e809600145643328aa4c6fa37a4a77223a253
+  language: en
+  modified: '2019-10-21T08:34:14.628319Z'
+  title: Calculating the Fourier transform a triangle function with arbitrary base
+    width
+  title_id: calculating-the-fourier-transform-a-triangle-function-with-arbitrary-base-width
+  topics: []
+  translations: {}
 c3f21ef7-8f93-4954-b4c6-771f9be31c26:
   hexsha:
     private: 2ea43da8873dad4426b928c89ecd723722959a8b

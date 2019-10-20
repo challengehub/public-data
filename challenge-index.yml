@@ -1042,10 +1042,10 @@
   translations: {}
 4ebe97ab-3a92-4aac-9d05-ad825b07de95:
   hexsha:
-    private: 1437a6743dafd67d51cc421182b1bf9a51c34962
-    public: 0846ef916280f0e936622d880af2ceff8a63eda8
+    private: 891fc7d13bfed6d7d97518cc16109133476b97ee
+    public: 4142b1f217e72305c2f58d096d2be1e7ded3c5be
   language: en
-  modified: '2019-09-30T07:50:19.906408Z'
+  modified: '2019-10-21T00:57:10.248846Z'
   title: 'Characteristic equation: mixed real roots'
   title_id: characteristic-equation-mixed-real-roots
   topics: []

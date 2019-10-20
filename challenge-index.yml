@@ -93,10 +93,10 @@
   translations: {}
 09aedea8-24dd-444c-a67f-b59993e6d0f8:
   hexsha:
-    private: ebb624e5192cf6252e4da98ffec126bf383ace24
-    public: 16aa9e9b2e531711efdfd06258003005370a1103
+    private: cb5a70e7fd1674f30de7322f4140cf5be05a1b5f
+    public: 6db2d974216df44ef9f6d35364c81da7c7712d7b
   language: en
-  modified: '2018-10-28T19:43:41.48311Z'
+  modified: '2019-10-21T01:57:23.758857Z'
   title: Trigonometric functions in exponential form
   title_id: trigonometric-functions-in-exponential-form
   topics: []

@@ -599,3 +599,13 @@ b8e1feff-4297-4b30-9676-a4cfc1b0b6aa:
   topics: []
   upload_time: '2019-10-21T05:01:11Z'
   uploader_id: github.NanoScaleDesign
+
+77f0fcab-93a2-4564-9dc6-0e43b6442477:
+  content_type: image/jpeg
+  hexsha: 5094b867d81ca51ead53ce40c7608b5e4772f920
+  original_name: rocket_function.jpg
+  title: Rocket function
+  title_id: rocket-function-5094b8
+  topics: []
+  upload_time: '2019-10-21T05:08:58Z'
+  uploader_id: github.NanoScaleDesign

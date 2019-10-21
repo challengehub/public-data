@@ -629,3 +629,13 @@ b8e1feff-4297-4b30-9676-a4cfc1b0b6aa:
   topics: []
   upload_time: '2019-10-21T08:05:02Z'
   uploader_id: github.NanoScaleDesign
+
+ba186c05-ddcc-478b-807f-a9db43710782:
+  content_type: image/jpeg
+  hexsha: 620d9d48fa506449c233c40d2db1aa50c16df41f
+  original_name: window_function_delay_ft_real.jpg
+  title: Window function delay Fourier transform (real component)
+  title_id: window-function-delay-fourier-transform-real-component-620d9d
+  topics: []
+  upload_time: '2019-10-21T08:05:32Z'
+  uploader_id: github.NanoScaleDesign

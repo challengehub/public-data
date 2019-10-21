@@ -619,3 +619,13 @@ b8e1feff-4297-4b30-9676-a4cfc1b0b6aa:
   topics: []
   upload_time: '2019-10-21T05:09:25Z'
   uploader_id: github.NanoScaleDesign
+
+4410d479-962f-401f-933a-cfef4292e0ee:
+  content_type: image/jpeg
+  hexsha: fbfaf0914d1087925889747d5ed5c10dbbf61168
+  original_name: window_function_delay.jpg
+  title: Window function delay graph
+  title_id: window-function-delay-graph-fbfaf0
+  topics: []
+  upload_time: '2019-10-21T08:05:02Z'
+  uploader_id: github.NanoScaleDesign

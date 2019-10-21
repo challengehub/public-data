@@ -609,3 +609,13 @@ b8e1feff-4297-4b30-9676-a4cfc1b0b6aa:
   topics: []
   upload_time: '2019-10-21T05:08:58Z'
   uploader_id: github.NanoScaleDesign
+
+23cc3769-f683-4812-8f5a-26e021e33c3f:
+  content_type: image/jpeg
+  hexsha: ba667afe7748df3852ea196f75843d4ddd81797a
+  original_name: rocket_function_ft.jpg
+  title: Rocket function Fourier transform
+  title_id: rocket-function-fourier-transform-ba667a
+  topics: []
+  upload_time: '2019-10-21T05:09:25Z'
+  uploader_id: github.NanoScaleDesign

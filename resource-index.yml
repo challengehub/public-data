@@ -579,3 +579,13 @@ ac15c611-7b7c-47ae-989a-cc4a5089f787:
   topics: []
   upload_time: '2019-10-21T01:13:45Z'
   uploader_id: github.NanoScaleDesign
+
+b8e1feff-4297-4b30-9676-a4cfc1b0b6aa:
+  content_type: image/jpeg
+  hexsha: d0be21760ef58001a64b95c9974b7430b9eb05f3
+  original_name: triangle_function_ft.jpg
+  title: Triangle function Fourier transform
+  title_id: triangle-function-fourier-transform-d0be21
+  topics: []
+  upload_time: '2019-10-21T01:14:10Z'
+  uploader_id: github.NanoScaleDesign

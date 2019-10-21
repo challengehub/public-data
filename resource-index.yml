@@ -639,3 +639,13 @@ ba186c05-ddcc-478b-807f-a9db43710782:
   topics: []
   upload_time: '2019-10-21T08:05:32Z'
   uploader_id: github.NanoScaleDesign
+
+494d8ede-b671-43ff-a8a6-0df184678d85:
+  content_type: image/jpeg
+  hexsha: bfd40aa8244270915cf651062471dbaa173a1f58
+  original_name: window_function_delay_ft_im.jpg
+  title: Window function delay Fourier transform (imaginary component)
+  title_id: window-function-delay-fourier-transform-imaginary-component-bfd40a
+  topics: []
+  upload_time: '2019-10-21T08:06:00Z'
+  uploader_id: github.NanoScaleDesign

@@ -589,3 +589,13 @@ b8e1feff-4297-4b30-9676-a4cfc1b0b6aa:
   topics: []
   upload_time: '2019-10-21T01:14:10Z'
   uploader_id: github.NanoScaleDesign
+
+0c5170b3-9301-4068-954b-2f9b4a46fb20:
+  content_type: image/jpeg
+  hexsha: 5e711ae7f071836e59dc9e95b3adf09ecdf0173e
+  original_name: gaussian.jpg
+  title: Gaussian function
+  title_id: gaussian-function-5e711a
+  topics: []
+  upload_time: '2019-10-21T05:01:11Z'
+  uploader_id: github.NanoScaleDesign

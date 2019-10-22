@@ -1638,10 +1638,10 @@
   translations: {}
 889faba7-7b83-4b38-917d-18a66d47bb33:
   hexsha:
-    private: a5d8595ff24532de9bbd2ec46cb5507a405c455f
-    public: fe380f8671b8c3ed1d9bf5119597dc825efabfbe
+    private: d2b8cc3cf747472cc77944b00950f1bbcdcb980c
+    public: 27694f13e3e954b17777bd57e7f103e748a2c2a2
   language: en
-  modified: '2019-10-04T05:37:57.095159Z'
+  modified: '2019-10-23T02:51:26.344723Z'
   title: Calculating the complex Fourier series of a square wave
   title_id: calculating-the-complex-fourier-series-of-a-square-wave
   topics: []

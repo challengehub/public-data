@@ -2357,10 +2357,10 @@ c0f52539-21a9-48a9-9943-ccb2dfdc9d9d:
   translations: {}
 c3b05988-8a42-40b7-aae7-2f069d34e329:
   hexsha:
-    private: 7203b73b49262e84be8e801d77ef773cfd45de2c
-    public: 581e809600145643328aa4c6fa37a4a77223a253
+    private: 7bd8be37294bf00058b11f5a6b1dca404e08d346
+    public: b9cbffa213674ffb351d16e1e7ba596676d0e977
   language: en
-  modified: '2019-10-21T08:34:14.628319Z'
+  modified: '2019-10-24T05:20:38.774075Z'
   title: Calculating the Fourier transform a triangle function with arbitrary base
     width
   title_id: calculating-the-fourier-transform-a-triangle-function-with-arbitrary-base-width

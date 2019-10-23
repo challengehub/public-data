@@ -1605,6 +1605,16 @@
   title_id: method-of-undetermined-coefficients-determining-the-ode-c1-e-2t-c2-t-e-2t-t3-3t
   topics: []
   translations: {}
+82ef41d7-0d10-4d50-a7c8-402171fbef8f:
+  hexsha:
+    private: f77adce377e7d5f5df7fb9146e8b2914f1294617
+    public: 786f2ef533dc3af0350230c992b1a6a6f6d9a767
+  language: en
+  modified: '2019-10-24T05:58:43.210891Z'
+  title: Convolution of t^2 with a window function
+  title_id: convolution-of-t2-with-a-window-function
+  topics: []
+  translations: {}
 83146463-2a06-43be-8aa2-030b04f3b82d:
   hexsha:
     private: d29610ad78de53a2c7190abf28c7f5c935fbaa02

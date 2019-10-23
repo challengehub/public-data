@@ -1941,6 +1941,16 @@
   title_id: mass-intake-and-power
   topics: []
   translations: {}
+97d2f16d-a7c7-48c7-a255-db12902eb449:
+  hexsha:
+    private: e86167cf8861424701198a0e4518629e083541ad
+    public: 967a744df2a08f8e7f733ef8d5a0e216a501e837
+  language: en
+  modified: '2019-10-24T05:50:33.115706Z'
+  title: Filtering with band-pass filters - example with turbidity
+  title_id: filtering-with-band-pass-filters-example-with-turbidity
+  topics: []
+  translations: {}
 980ef17b-31a2-41e5-a993-4eae68d3e540:
   hexsha:
     private: 7169cf8799c680f7fd00c5685693a5cb7e154a30

@@ -1161,6 +1161,16 @@
   title_id: column-evaporation-derivation
   topics: []
   translations: {}
+5c2f9046-9e8e-41ac-8826-77079d2a32e4:
+  hexsha:
+    private: 7dc30502cc91d6659fbb8da8051884e2edbd8977
+    public: 57a26c52a85e268b9ee8aa5f6e90b5220c491812
+  language: en
+  modified: '2019-10-24T02:41:19.146635Z'
+  title: Derivation of the effect of a shift in the time domain on the Fourier transform
+  title_id: derivation-of-the-effect-of-a-shift-in-the-time-domain-on-the-fourier-transform
+  topics: []
+  translations: {}
 5d72257b-8d6f-4942-adb1-4f9621f13c2c:
   hexsha:
     private: a218f220e99e26c7308db56b9189df980b20fa46

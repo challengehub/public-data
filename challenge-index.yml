@@ -2629,6 +2629,16 @@ d4dab8d9-3463-4ed1-ae67-87e11b0b04a9:
   title_id: new-challenge-today
   topics: []
   translations: {}
+d5364324-e45a-41ae-b2fb-0d32df6feb07:
+  hexsha:
+    private: ba1a8885e9e0d02ee7c900378cfa3f9ed435cf1b
+    public: 191c845e054c3ff7c846d5751c1a02546bb97aa7
+  language: en
+  modified: '2019-10-24T06:36:43.047369Z'
+  title: Convolution with a continuous function
+  title_id: convolution-with-a-continuous-function
+  topics: []
+  translations: {}
 d5fa7dc8-e1d6-4c6b-b740-ba35ee70785f:
   hexsha:
     private: 8e5b7964d1bf39af47da5b03c4271aa330e40b61

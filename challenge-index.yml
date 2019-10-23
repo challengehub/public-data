@@ -909,6 +909,16 @@
   title_id: what-is-scientific-writing
   topics: []
   translations: {}
+44542db4-3109-44d6-ae6b-3ed4da5dbd87:
+  hexsha:
+    private: 2343a6daa266e9b71bb85659617b6cd1b40c1062
+    public: 20c738e51cdbd8f3be6fd671677f1ee4c7853b15
+  language: en
+  modified: '2019-10-24T05:37:56.382634Z'
+  title: The relation of convolution and the Fourier transform
+  title_id: the-relation-of-convolution-and-the-fourier-transform
+  topics: []
+  translations: {}
 4483fde2-1551-466e-b2fa-f1fe9ee2e8ca:
   hexsha:
     private: 736b0a3f435079a6006a3af0a00f8c93012c7073

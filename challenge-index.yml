@@ -1716,6 +1716,16 @@
   title_id: definitions-of-zeroth-order-and-first-order-reactions
   topics: []
   translations: {}
+8cc27349-8100-4520-b3bc-62f89e6b2e35:
+  hexsha:
+    private: 15708de169d297f773c8a59a902b4ef17c4bb8b8
+    public: 1f8489b41d2e7e945d54ef1b476fbc8f6deb5088
+  language: en
+  modified: '2019-10-24T05:12:23.043257Z'
+  title: Understanding Fourier transform notation variations
+  title_id: understanding-fourier-transform-notation-variations
+  topics: []
+  translations: {}
 8d3ed50c-ef36-4f2a-96b9-3dabf12c9290:
   hexsha:
     private: 323e81a82a8ff7dfe6fbc50061cd26409bfbb31f

@@ -313,6 +313,16 @@
   title_id: relations-between-humidity-saturated-density-and-mole-fraction
   topics: []
   translations: {}
+1d0d2b90-d2d5-4005-bd42-25e9ee45862e:
+  hexsha:
+    private: d7b5b41ae589fa42538c83e0d36b2900676b4e20
+    public: 39a3ebc34a206ac29d3ef265b2e746bb4963bfdf
+  language: en
+  modified: '2019-10-24T02:47:13.91895Z'
+  title: Derivation of the effect of a stretch in the time domain on the Fourier transform
+  title_id: derivation-of-the-effect-of-a-stretch-in-the-time-domain-on-the-fourier-transform
+  topics: []
+  translations: {}
 1d51e481-8d91-4ed5-82e5-3f44d044837e:
   hexsha:
     private: b47178bd52936c3ea257309aa5a25b0df1ca4be9

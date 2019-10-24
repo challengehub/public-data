@@ -659,3 +659,13 @@ ba186c05-ddcc-478b-807f-a9db43710782:
   topics: []
   upload_time: '2019-10-24T05:45:43Z'
   uploader_id: github.NanoScaleDesign
+
+560a1849-7363-45e7-9edf-660db15537d3:
+  content_type: application/pdf
+  hexsha: ed7ec6e98089da18edfbe0ac271f231b37aec94d
+  original_name: discrete_1-5.pdf
+  title: Discrete signals introduction
+  title_id: discrete-signals-introduction-ed7ec6
+  topics: []
+  upload_time: '2019-10-24T07:10:14Z'
+  uploader_id: github.NanoScaleDesign

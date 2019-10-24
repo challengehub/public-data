@@ -649,3 +649,13 @@ ba186c05-ddcc-478b-807f-a9db43710782:
   topics: []
   upload_time: '2019-10-21T08:06:00Z'
   uploader_id: github.NanoScaleDesign
+
+9bd1c1a8-961f-4cd4-aa33-077c2038aeb6:
+  content_type: image/jpeg
+  hexsha: 16bb850d28d42883dca5b27d9a869266b58134cf
+  original_name: turbidity.jpg
+  title: Turbidity standards
+  title_id: turbidity-standards-16bb85
+  topics: []
+  upload_time: '2019-10-24T05:45:43Z'
+  uploader_id: github.NanoScaleDesign

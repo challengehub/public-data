@@ -2166,10 +2166,10 @@ aceaf9ac-cb3e-4bee-ab01-764112cd80d2:
   translations: {}
 ad274394-954f-4710-8970-5458b94afa4e:
   hexsha:
-    private: dd571d3767cc6c34e33449967f9aad5073c4e8fa
-    public: e39023823486beb1a375bed76e51fff2e0260434
+    private: dcd37611faf5bc7097d69b2e9f39709c2e0f5fd6
+    public: 8ce188648f8423ed13387ea37f6bf4a9cf13baf5
   language: en
-  modified: '2019-10-10T06:13:14.881022Z'
+  modified: '2019-10-28T05:11:02.593999Z'
   title: 'Characteristic equation exersize: 4y'''' + 3y'' + y = 0'
   title_id: characteristic-equation-exersize-4y-3y-y-0
   topics: []

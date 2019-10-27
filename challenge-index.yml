@@ -1647,10 +1647,10 @@
   translations: {}
 855c7fdc-61bc-4ae8-8ced-ddbf3516a4db:
   hexsha:
-    private: 3a14ec1a3023154fc0027179b9d4688f1448377e
-    public: 8b5536888fdd4e41d0b00fd8eb495ab04eed14fc
+    private: 0187c29f05037de816515abf37ee3a6b97ba43c9
+    public: 8ea35665aa5b00e17e8176513d944aee18f86994
   language: en
-  modified: '2019-10-10T09:19:02.040291Z'
+  modified: '2019-10-27T20:37:47.137367Z'
   title: Solving non-homogeneous ODE's
   title_id: solving-non-homogeneous-odes
   topics: []

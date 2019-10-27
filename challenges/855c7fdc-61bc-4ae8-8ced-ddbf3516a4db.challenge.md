@@ -7,8 +7,8 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: 855c7fdc-61bc-4ae8-8ced-ddbf3516a4db
 language: en
-modified: '2019-10-10T09:19:02.040291Z'
-scrambled_answer: 6330c14399f7a0c4bdbd659f5f0759682b49624d
+modified: '2019-10-27T20:37:47.137367Z'
+scrambled_answer: fb774cd739418c4ce154dc0542f4491a902a5550
 title: Solving non-homogeneous ODE's
 title_id: solving-non-homogeneous-odes
 topics: []
@@ -58,7 +58,10 @@ Obviously, in an exam setting you will need to derive the answer fully, so I rec
 **32 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + 3t^2 + t + 3 $`
 **64 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + 2t^2 + t + 3 $`
 **128 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + 3t^2 - 5t + 3 $`
-**256 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + \cos 3t - \sin 3t $`
-**1024 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + \cos 6t - \sin 6t $`
-**2048 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + 2 $`
-**4096 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + 5 $`
+**256 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + 3 \cos 3t - 3 \sin 3t $`
+**1024 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + \cos 3t - \sin 3t $`
+**2048 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t - \cos 3t + 3 \sin 3t $`
+**4096 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + 3 \cos 3t + 8 \sin 3t $`
+**8192 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + 8 \cos 3t - 3 \sin 3t $`
+**16384 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + 2 $`
+**32768 points**: `$ y = C_1 \cos 2t + C_2 \sin 2t + 5 $`

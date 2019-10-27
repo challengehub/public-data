@@ -223,10 +223,10 @@
   translations: {}
 17986c2c-49ef-4d45-bfd5-3dcf94aed393:
   hexsha:
-    private: 206461c6b464ca65b0051044f82af3398d47a865
-    public: ea8560d9cc4988dc2fa2ec69835e899f3654e3d3
+    private: b4b63ace369aac34c4fcf191166be9d51b72cf5b
+    public: a08a864bda901fff3b766168b862070a2650dd43
   language: en
-  modified: '2019-10-20T19:58:37.952621Z'
+  modified: '2019-10-28T04:58:55.075727Z'
   title: 'Characteristic equation: real positive roots'
   title_id: characteristic-equation-real-positive-roots
   topics: []

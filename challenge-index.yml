@@ -1455,10 +1455,10 @@
   translations: {}
 76da5697-3251-4d5e-8382-e35857ed724a:
   hexsha:
-    private: 905993b2d3e6b913b734591fb0dfb62998b0850b
-    public: c0201a88445acf5a79c94054e184521efb4637d3
+    private: 7d4459d09bb0ae20e9f49aef67768f6ba13eb537
+    public: 833159b16e209cad2efac8106b45a57ef9fa1956
   language: en
-  modified: '2019-10-10T06:10:25.322798Z'
+  modified: '2019-10-28T05:10:17.692154Z'
   title: 'Characteristic equation exersize: 2y'''' + 4y'' + 2y = 0'
   title_id: characteristic-equation-exersize-2y-4y-2y-0
   topics: []

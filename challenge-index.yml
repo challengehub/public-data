@@ -113,10 +113,10 @@
   translations: {}
 0a657100-1ea2-4191-865d-39b68581e08e:
   hexsha:
-    private: 3ec0fb0cd8a9bbd2f1b9a62e589e5357b0f695d2
-    public: 72c1d7819d41ebe78a0239a67dab6c61c8ae9de6
+    private: 4334d80da5d6c8710d2dceb53bd2b4075406b985
+    public: 34552291564760f7f405092c880289869b0bd75e
   language: en
-  modified: '2019-10-30T01:10:53.142427Z'
+  modified: '2019-10-30T05:06:21.742338Z'
   title: Calculating the coefficients of the Discrete Fourier Transform
   title_id: calculating-the-coefficients-of-the-discrete-fourier-transform
   topics: []

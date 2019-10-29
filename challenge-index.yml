@@ -475,6 +475,16 @@
   title_id: determining-the-fourier-series-coefficients-of-sinx
   topics: []
   translations: {}
+291db4fc-84c3-4b6d-a615-2491f83e545a:
+  hexsha:
+    private: 737aeb036073e2d8b3a8aa508a0e4468e572365e
+    public: d7b9ca13bba100ee50e43e559c1f75700f0e93ce
+  language: en
+  modified: '2019-10-30T05:18:44.249711Z'
+  title: Analysis of the coefficients of the Discrete Fourier Transform
+  title_id: analysis-of-the-coefficients-of-the-discrete-fourier-transform
+  topics: []
+  translations: {}
 29669082-6d57-4c9f-8f76-74e9f2f2664f:
   hexsha:
     private: 7819ddbb26fa29c5a4f7638e5153abc106e96e6e

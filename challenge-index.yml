@@ -111,6 +111,16 @@
   title_id: test-challenge-7102019-45618-pm
   topics: []
   translations: {}
+0a657100-1ea2-4191-865d-39b68581e08e:
+  hexsha:
+    private: 324034cb960e75774a28edd5eeb4647ab499fb1f
+    public: 8615be22d1e1094120b16d012167da9e9911f3f9
+  language: en
+  modified: '2019-10-30T01:07:02.950126Z'
+  title: Calculating the coefficients of the Discrete Fourier Transform
+  title_id: calculating-the-coefficients-of-the-discrete-fourier-transform
+  topics: []
+  translations: {}
 0b532686-b33d-4b06-90ee-33ebd25c188c:
   hexsha:
     private: d9009ab63fd703e79b8b4df8d3b6f250c2ef10b3

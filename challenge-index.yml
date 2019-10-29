@@ -2547,6 +2547,16 @@ ca276a0b-311c-4b9b-8141-77fa3e027bb9:
   title_id: the-physical-meaning-behind-a-the-bending-moment-acting-on-a-rod-on-a-rotating-disk
   topics: []
   translations: {}
+ca7ec9c8-53e7-4d6f-8b30-18157509bef1:
+  hexsha:
+    private: 76081dd4b56a6b2d08682895c6096e4a4cb92034
+    public: 777db0fd42ca6d856369e14a0808ebd1d1060e5f
+  language: en
+  modified: '2019-10-30T06:27:41.476233Z'
+  title: Understanding the limits of DFT calculations
+  title_id: understanding-the-limits-of-dft-calculations
+  topics: []
+  translations: {}
 ca96add1-6dc2-42c9-b994-2b3d150cd645:
   hexsha:
     private: 575c1f92eed0cfe5b3e02fee7def34bfe2d73ea5

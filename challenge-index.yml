@@ -3034,6 +3034,16 @@ f1ac917c-551c-4196-b5ba-82eb64b91a8d:
   title_id: laplace-transform-of-1
   topics: []
   translations: {}
+f1ae87ed-c786-4a07-af15-2da838e7f72a:
+  hexsha:
+    private: 337f6c0f3cab1eebe436e8c1e3b87617a9e3ea44
+    public: 20fe0be98a80da480be7900558b8a2a81674198a
+  language: en
+  modified: '2019-10-30T05:39:04.140653Z'
+  title: Calculating the frequencies of a signal made up of two waves
+  title_id: calculating-the-frequencies-of-a-signal-made-up-of-two-waves
+  topics: []
+  translations: {}
 f265cffd-1302-4873-965a-2cb973f00fc9:
   hexsha:
     private: 1a73a3d4d70d3f1254f491b0ae0afe3b9b8f4196

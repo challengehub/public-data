@@ -669,3 +669,13 @@ ba186c05-ddcc-478b-807f-a9db43710782:
   topics: []
   upload_time: '2019-10-24T07:10:14Z'
   uploader_id: github.NanoScaleDesign
+
+6fefb12c-c897-4ffc-9a83-11046ffa2410:
+  content_type: application/pdf
+  hexsha: 1111147484c7b1f6dbb69fc8a215523f2045f8f6
+  original_name: discrete_10-15.pdf
+  title: DFT slides
+  title_id: dft-slides-111114
+  topics: []
+  upload_time: '2019-10-29T08:14:42Z'
+  uploader_id: github.NanoScaleDesign

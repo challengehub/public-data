@@ -1898,6 +1898,16 @@
   title_id: velocity-of-a-point-at-the-end-of-an-arm-with-two-rotating-joints
   topics: []
   translations: {}
+9038265f-e931-469c-99d4-043654e58329:
+  hexsha:
+    private: 407d99fb12c0238e8aba0e8d50e296ddab33b15e
+    public: 6cd65a4b982a0c5501d83d32fa59a1e512c2b1c5
+  language: en
+  modified: '2019-10-30T06:05:51.268492Z'
+  title: Using DFT to analyse a signal made of two waves
+  title_id: using-dft-to-analyse-a-signal-made-of-two-waves
+  topics: []
+  translations: {}
 907213aa-04a3-47fc-b0a5-3473379d8abe:
   hexsha:
     private: 5dba7c17a571f25cf5ac7c292280b68b0d7f26fa

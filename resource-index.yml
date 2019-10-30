@@ -699,3 +699,13 @@ d65b231f-e947-4328-ae6f-1e25866d05c9:
   topics: []
   upload_time: '2019-10-30T05:32:16Z'
   uploader_id: github.NanoScaleDesign
+
+d6a27a07-87be-433b-a613-9244efee084b:
+  content_type: image/jpeg
+  hexsha: e7bf08fc4eb775fb33d9f6d841c283483e787723
+  original_name: dftcossinsamples.jpg
+  title: DFT cos sin sum sampled
+  title_id: dft-cos-sin-sum-sampled-e7bf08
+  topics: []
+  upload_time: '2019-10-30T05:52:28Z'
+  uploader_id: github.NanoScaleDesign

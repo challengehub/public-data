@@ -679,3 +679,13 @@ ba186c05-ddcc-478b-807f-a9db43710782:
   topics: []
   upload_time: '2019-10-29T08:14:42Z'
   uploader_id: github.NanoScaleDesign
+
+cc5ffdd0-830c-48a0-8e58-5e14e1abd7ca:
+  content_type: image/jpeg
+  hexsha: aeb9bded54450c637734574fee1e149bba6f365c
+  original_name: sinedft.jpg
+  title: Sine curve with DFT points
+  title_id: sine-curve-with-dft-points-aeb9bd
+  topics: []
+  upload_time: '2019-10-30T01:09:36Z'
+  uploader_id: github.NanoScaleDesign

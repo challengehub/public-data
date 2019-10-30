@@ -709,3 +709,13 @@ d6a27a07-87be-433b-a613-9244efee084b:
   topics: []
   upload_time: '2019-10-30T05:52:28Z'
   uploader_id: github.NanoScaleDesign
+
+3e87546d-12f5-40ac-8604-84d529db124d:
+  content_type: application/pdf
+  hexsha: 34398e3273502ddda4e440dc560951b193093c46
+  original_name: fft_1-4.pdf
+  title: FFT introduction
+  title_id: fft-introduction-34398e
+  topics: []
+  upload_time: '2019-10-30T06:12:24Z'
+  uploader_id: github.NanoScaleDesign

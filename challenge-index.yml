@@ -1032,10 +1032,10 @@
   translations: {}
 4ba35c95-2f3c-408e-8e4b-633439f92268:
   hexsha:
-    private: c7a87013add68f0a625167b8da73270a3e7ac15a
-    public: 7d68e543e33b2c40cd8b129d8b766bc31000a436
+    private: d3672cf5d776b30730a4cb6991546c6eefa07586
+    public: 0303c29940942f5157dc625b422cb1f341ec0994
   language: en
-  modified: '2019-10-29T20:19:52.529611Z'
+  modified: '2019-11-06T01:24:48.297702Z'
   title: Understanding Gibb's phenomenon
   title_id: understanding-gibbs-phenomenon
   topics: []

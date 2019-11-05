@@ -2965,10 +2965,10 @@ e8e5a20b-fe61-4c5e-bd43-1d9ae999169a:
   translations: {}
 e8ef7b2f-ffab-4373-a507-0ab0d03d7fa0:
   hexsha:
-    private: a0a2380121e5b95dd094f15100bedd217842c8d0
-    public: 97afa02de442fa213ecbea7ce0151ff42f5a6b53
+    private: 1a63039d80be5faa8d9192e2414498de7a960ffe
+    public: fcfc3be537da9344b081ac3008c60fd5cecc7e51
   language: en
-  modified: '2019-10-17T01:20:00.225012Z'
+  modified: '2019-11-05T18:16:33.632039Z'
   title: The transition from Fourier Series to the Fourier Transform
   title_id: the-transition-from-fourier-series-to-the-fourier-transform
   topics: []

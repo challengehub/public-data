@@ -629,10 +629,10 @@
   translations: {}
 3393acd3-f1dd-4ec8-b5e5-8b3487336b74:
   hexsha:
-    private: e53a33b956c3eafbd9d874594f893ebbd97fe5bc
-    public: 5583ffc8a5752d642c695a8d77a052ca02756a4c
+    private: 6eb0c6a955cad1a30f3adbc26edccde0de66b463
+    public: 82717f4b2be40e218a0aa81bc82270caf3ad6834
   language: en
-  modified: '2019-10-04T03:57:02.798066Z'
+  modified: '2019-11-06T02:39:20.168447Z'
   title: A review of complex numbers
   title_id: a-review-of-complex-numbers
   topics: []

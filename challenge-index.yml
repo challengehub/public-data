@@ -2111,6 +2111,16 @@ a0ed605d-5922-4f03-a6ac-979f3e7a8b88:
   title_id: centre-of-mass-position-of-3-particles
   topics: []
   translations: {}
+a1549546-f57b-498b-8a31-07d880e12754:
+  hexsha:
+    private: dfa39239c2df4d1d87e4659cb9c4ffd2257307b5
+    public: 5bca4dfd75aa55e88dbcc8141c66c6f8331dd8af
+  language: en
+  modified: '2019-11-07T06:08:44.086816Z'
+  title: Explaining how a DFT of length N can be split into two DFT's of length N/2
+  title_id: explaining-how-a-dft-of-length-n-can-be-split-into-two-dfts-of-length-n2
+  topics: []
+  translations: {}
 a3de3205-4018-4432-b8bd-a450390d67bb:
   hexsha:
     private: bd98666684d86d6de4b639bb1e4e843b2ca1a451

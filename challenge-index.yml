@@ -1100,6 +1100,16 @@
   title_id: characteristic-equation-mixed-real-roots
   topics: []
   translations: {}
+4f528817-03ae-4423-ab99-b359cb97f5b6:
+  hexsha:
+    private: 91f79ad39bdb421321116aa00bc30fda985e8815
+    public: b6f5223b4f7a376a6c24ad715e5813e2ba176947
+  language: en
+  modified: '2019-11-07T06:17:18.356143Z'
+  title: Repetition of even DFT coefficients
+  title_id: repetition-of-even-dft-coefficients
+  topics: []
+  translations: {}
 4f5b05c1-779f-4427-8c06-4eec5b47dfcc:
   hexsha:
     private: 9400a25bcd2d8ca0f2aa45757c471e2801e406f4

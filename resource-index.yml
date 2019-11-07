@@ -719,3 +719,13 @@ d6a27a07-87be-433b-a613-9244efee084b:
   topics: []
   upload_time: '2019-10-30T06:12:24Z'
   uploader_id: github.NanoScaleDesign
+
+abd7146f-bfd1-4af1-adb9-acbf7917398a:
+  content_type: image/jpeg
+  hexsha: 0b1597a6e9781149bcc190cd994047c5c8ece2b1
+  original_name: twiddle_diagram.jpg
+  title: Twiddle diagram
+  title_id: twiddle-diagram-0b1597
+  topics: []
+  upload_time: '2019-11-07T06:20:43Z'
+  uploader_id: github.NanoScaleDesign

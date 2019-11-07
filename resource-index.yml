@@ -729,3 +729,13 @@ abd7146f-bfd1-4af1-adb9-acbf7917398a:
   topics: []
   upload_time: '2019-11-07T06:20:43Z'
   uploader_id: github.NanoScaleDesign
+
+812c0b62-4706-4e07-8260-f82b4ef29e3d:
+  content_type: image/jpeg
+  hexsha: 81788b794a69724f51b25e7f58a94e300f0f7be6
+  original_name: DFT_radix4.jpg
+  title: DFT radix-4
+  title_id: dft-radix-4-81788b
+  topics: []
+  upload_time: '2019-11-07T12:11:25Z'
+  uploader_id: github.NanoScaleDesign

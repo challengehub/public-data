@@ -3124,6 +3124,16 @@ ef789560-0442-42b4-9dcd-050b807dc0ed:
   title_id: understanding-of-the-angle-of-maximum-bending-moment-of-a-misaligned-spinning-rod
   topics: []
   translations: {}
+f06adee3-8a49-4289-92e9-9f1d535c8e50:
+  hexsha:
+    private: 4dfc1f81104d54b565a6557aea192e9263a76aca
+    public: 21741211a09c296cf2a29dbdf381d1307ecd17c1
+  language: en
+  modified: '2019-11-07T12:30:30.63814Z'
+  title: The origin of the N log N scaling of the FFT
+  title_id: the-origin-of-the-n-log-n-scaling-of-the-fft
+  topics: []
+  translations: {}
 f1ac917c-551c-4196-b5ba-82eb64b91a8d:
   hexsha:
     private: 2e84992b872bf959e3f56072e663f8c7c24f88ff

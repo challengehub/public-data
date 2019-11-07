@@ -801,10 +801,10 @@
   translations: {}
 3e53a62e-b03f-4f16-abac-7db781bfc930:
   hexsha:
-    private: 40535dd9101252e49ec3665bd5e689ade4c41536
-    public: 9e9b56fb82bbdb024d653e70749673f5da9ac5ce
+    private: a0c310af756a2b341b0ecba37efb1ba5fc080daa
+    public: 6b565e7dd5bb644105cf74be3b676b34d41e8a21
   language: en
-  modified: '2019-11-06T03:26:29.752512Z'
+  modified: '1858-11-17T00:00:00Z'
   title: The Fourier coefficient a_k
   title_id: the-fourier-coefficient-ak
   topics: []

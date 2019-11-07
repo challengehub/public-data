@@ -1665,6 +1665,16 @@
   title_id: lng-mass-fraction-of-ethane
   topics: []
   translations: {}
+84af0750-f7f4-43c8-a0af-00ef271dd160:
+  hexsha:
+    private: ee9a1be8f3206d51e881f3ea15735d3dcba84163
+    public: d954ba93907aa639b2a70ff84cf63b2f4247ce0e
+  language: en
+  modified: '2019-11-07T12:14:44.599402Z'
+  title: Drawing a radix-4 butterfly diagram
+  title_id: drawing-a-radix-4-butterfly-diagram
+  topics: []
+  translations: {}
 84e5e67a-7b46-45a4-9706-f2e5295eb2b6:
   hexsha:
     private: a766a1c9eca3660237a56a200fff8af280085bf8

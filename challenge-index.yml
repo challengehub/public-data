@@ -919,6 +919,16 @@
   title_id: crank-style-problem-sp73
   topics: []
   translations: {}
+43933332-bb15-4d7b-9826-b452b90724d6:
+  hexsha:
+    private: 12b2e6a6937502b4cc60e15d4baaf1b95e6db4c3
+    public: e4231fb1baaabba3debba8609123fe24ad77adc7
+  language: en
+  modified: '2019-11-07T12:26:59.408911Z'
+  title: Lack of multiplication in a DFT of length 2
+  title_id: lack-of-multiplication-in-a-dft-of-length-2
+  topics: []
+  translations: {}
 4397d7c5-3f4d-41e3-9c10-7a5f62b88004:
   hexsha:
     private: 39af2b09638403c077352344be0d5489b17d4661

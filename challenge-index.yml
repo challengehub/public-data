@@ -2184,10 +2184,10 @@ a63253bd-e97a-4231-9dfe-ccaa0b53a19e:
   translations: {}
 a767ccfa-0821-47fb-a7bf-002272fcc65a:
   hexsha:
-    private: 62862e35c2480c1491dece078a3f8acbe1e08239
-    public: c9cae085c9bfe48fc89ffe59b2a29bb468c854e0
+    private: ad43e8e53f3050a6fea2328860e0c5f6f23c6ea0
+    public: 913af3261319302ba12f909623fbf0a134a5d0c7
   language: en
-  modified: '2019-10-17T05:35:06.520915Z'
+  modified: '2019-11-11T03:10:57.849599Z'
   title: 'Method of undetermined coefficients: y'''' - 6y'' - 7y = 8e^(-t) - 7t -
     6'
   title_id: method-of-undetermined-coefficients-y-6y-7y-8e-t-7t-6

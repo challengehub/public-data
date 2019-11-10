@@ -538,10 +538,10 @@
   translations: {}
 2e8d8182-aaf8-4ae1-99a3-6510723306ea:
   hexsha:
-    private: c8a0e4f032206b62c6ef068d09944778f512f0c9
-    public: 853a50cb6825a12e6067c8a2d2c6cddf2c662e59
+    private: 82f99310ee48095b3fb10c8ff03491f054c0eb84
+    public: 3469cddb0fb1bd59ee1625c92481f48563feb7f5
   language: en
-  modified: '2019-10-28T01:15:29.64713Z'
+  modified: '2019-11-10T21:13:06.356037Z'
   title: Damping
   title_id: damping
   topics: []

@@ -2256,10 +2256,10 @@ acb900a9-e5f1-423a-b72f-ba825b16c4e9:
   translations: {}
 aceaf9ac-cb3e-4bee-ab01-764112cd80d2:
   hexsha:
-    private: 346be29a97a64e55a54a1f11fe88d99b4ea48d96
-    public: 0ab039f41df1d2dc71c1df452d5e72f738f38062
+    private: 6994ab6c1a11009728c27e907e56745a7a72e101
+    public: a7b092f4ca638ccdbd3913d3476c428de632d80b
   language: en
-  modified: '2019-10-17T05:36:22.769702Z'
+  modified: '2019-11-11T03:03:17.086942Z'
   title: 'Method of undetermined coefficients: y'''' + 2y'' = 2 te^(-t)'
   title_id: method-of-undetermined-coefficients-y-2y-2-te-t
   topics: []

@@ -7,7 +7,7 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: aceaf9ac-cb3e-4bee-ab01-764112cd80d2
 language: en
-modified: '2019-10-17T05:36:22.769702Z'
+modified: '2019-11-11T03:03:17.086942Z'
 title: 'Method of undetermined coefficients: y'''' + 2y'' = 2 te^(-t)'
 title_id: method-of-undetermined-coefficients-y-2y-2-te-t
 topics: []
@@ -27,4 +27,4 @@ Using the method of undetermined coefficients, calculate the general solution to
 
 
 ## Solution
-Assuming that the constants you find in your solution are all equal to 1, check your answer by calculating `$y(t=0.4)$` in each case. To check your answer, please subsume all constants on any term into the constant that you set to 1. For example, instead of `$y(t) = -2 C_1 e^{-t} + e^{-t}$`, write `$y(t) = C_1 e^{-t}$` where the two `$e^{-t}$` terms have been combined and the `$-2$` has been subsumed into the constant `$C_1$`, and then set `$C_1 = 1$` to check the answer.
+To check your answer, please collect all common terms together and then assume the constants for the homogeneous equation's `$C_1$` and `$C_2$` are 1. Then check your answer by calculating `$y(t=0.4)$`.

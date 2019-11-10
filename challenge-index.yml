@@ -1878,10 +1878,10 @@
   translations: {}
 8f29022d-ebf7-4d81-bf58-2159a627ed01:
   hexsha:
-    private: 0b9623fc8415cafa386a81ffb98773a899b44eb5
-    public: 76e8e3cb7abd589ea0a3d3e2ae9b56b084c9a2c0
+    private: a5c3a3b1030ce5bc2078640f0368d2394a24d0c5
+    public: 63830230690db0d42d2fe60145d6c6ab0afc2e50
   language: en
-  modified: '2019-10-17T05:36:49.77704Z'
+  modified: '2019-11-11T03:06:38.29787Z'
   title: 'Method of undetermined coefficients: y'''' + 2y'' = 6 e^(-2t)'
   title_id: method-of-undetermined-coefficients-y-2y-6-e-2t
   topics: []

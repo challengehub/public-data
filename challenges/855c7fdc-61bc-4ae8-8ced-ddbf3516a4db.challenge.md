@@ -7,7 +7,7 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: 855c7fdc-61bc-4ae8-8ced-ddbf3516a4db
 language: en
-modified: '2019-10-27T20:37:47.137367Z'
+modified: '2019-11-10T23:44:08.875095Z'
 scrambled_answer: fb774cd739418c4ce154dc0542f4491a902a5550
 title: Solving non-homogeneous ODE's
 title_id: solving-non-homogeneous-odes
@@ -43,6 +43,9 @@ Find the general solution of the following non-homogeneous differential equation
 2. `$$y'' + 4y = 8t^2 - 20t + 8$$`
 3. `$$y'' + 4y = 5 \sin 3t - 5 \cos 3t$$`
 4. `$$y'' + 4y = 24 e^{-2t}$$`
+
+## Resources
+- All 4 Khan Academy videos starting at https://www.khanacademy.org/math/differential-equations/second-order-differential-equations/undetermined-coefficients/v/undetermined-coefficients-1
 
 
 ## Solution Form

@@ -61,6 +61,16 @@
   title_id: guest-lecture-by-prof-khellil-sefiane-from-edinburgh-university-on-24-june-2019
   topics: []
   translations: {}
+05ed1a2c-b448-45b0-8743-6f4a6ac5d701:
+  hexsha:
+    private: bce94bfff9d064ce0d9cc862ac84296d788947f3
+    public: e22c0270b16e8409d05be3bd7bed3430d554e4b2
+  language: en
+  modified: '2019-11-15T00:47:08.788603Z'
+  title: Understanding the 2D Fourier transform
+  title_id: understanding-the-2d-fourier-transform
+  topics: []
+  translations: {}
 068df312-4c2a-495c-8378-5f7aaf9ee690:
   hexsha:
     private: 99422e488ebc16e9c171efeb17cf6c00cd0867a0

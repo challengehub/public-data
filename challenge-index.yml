@@ -1778,10 +1778,10 @@
   translations: {}
 8b2c94e5-c9e7-4296-83db-bb0aec0f9cb0:
   hexsha:
-    private: 2b9438eda8438a8509a3aa996d5f4587810f6575
-    public: 6616ab6fa2acc4cf1110350e4b1e5db22873a621
+    private: ac17dd64cff075436240575eeb959d43f347ea5f
+    public: f12a1d7adae573b8b368a1dd3415a5cc62a51102
   language: en
-  modified: '2018-11-28T08:32:32.984398Z'
+  modified: '2019-11-14T23:47:15.463354Z'
   title: 'Shifting Laplace transforms: e^(3t) cosh(5t)'
   title_id: shifting-laplace-transforms-e3t-cosh5t
   topics: []

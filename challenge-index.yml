@@ -2881,6 +2881,16 @@ da7f72e5-e9f0-40ec-a10f-df648bd9aa64:
   title_id: translation-of-an-object-and-the-position-of-the-applied-force
   topics: []
   translations: {}
+dc19d15b-ff67-43ce-afaa-449ed2becd52:
+  hexsha:
+    private: c2a6549a54b109b0c75c0b7bd03841b4351dc1f5
+    public: 8bee57e7e04dfe886092f9412dc7cf37d15829c9
+  language: en
+  modified: '2019-11-15T00:42:39.238732Z'
+  title: Cleaning an audio signal with python
+  title_id: cleaning-an-audio-signal-with-python
+  topics: []
+  translations: {}
 dccd4f56-edbb-4614-8060-c94e7086c574:
   hexsha:
     private: 190b458e169affef18799715c1fb68f91851c296

@@ -3254,6 +3254,16 @@ f5c97038-c150-4774-925e-04a803deb5a6:
   title_id: derivation-of-a-periodically-forced-harmonically-vibrating-system
   topics: []
   translations: {}
+f6b7e2ab-628d-4fda-a53d-50cd6aaba1dd:
+  hexsha:
+    private: bb2127a8040943027b6870bb1ffd7f008ee79b6e
+    public: 19609481406f6f3e03e583359791562142326f39
+  language: en
+  modified: '2019-11-15T00:59:41.608131Z'
+  title: Edge detection and blurring with Fourier analysis and python
+  title_id: edge-detection-and-blurring-with-fourier-analysis-and-python
+  topics: []
+  translations: {}
 f6eeaa31-2605-48e2-8813-e606df9092be:
   hexsha:
     private: 23c4d04c698112a9d12a359dfcf4981c9e4786d9

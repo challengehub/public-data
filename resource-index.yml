@@ -739,3 +739,13 @@ abd7146f-bfd1-4af1-adb9-acbf7917398a:
   topics: []
   upload_time: '2019-11-07T12:11:25Z'
   uploader_id: github.NanoScaleDesign
+
+3072c5c2-0214-4d77-83d9-ba170d844833:
+  content_type: image/png
+  hexsha: d309e5a33489c676c168f9b4535b22b32c158763
+  original_name: kyudai.png
+  title: Kyudai logo
+  title_id: kyudai-logo-d309e5
+  topics: []
+  upload_time: '2019-11-15T00:54:47Z'
+  uploader_id: github.NanoScaleDesign

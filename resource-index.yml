@@ -759,3 +759,13 @@ abd7146f-bfd1-4af1-adb9-acbf7917398a:
   topics: []
   upload_time: '2019-11-15T00:55:27Z'
   uploader_id: github.NanoScaleDesign
+
+ab1e9a8a-9abb-4fb8-afba-bfcc478afa57:
+  content_type: image/png
+  hexsha: 264a8259edb63118a771416c10e3d81f865367f4
+  original_name: kyudai_blurred.png
+  title: Kyudai logo blurred
+  title_id: kyudai-logo-blurred-264a82
+  topics: []
+  upload_time: '2019-11-15T00:56:17Z'
+  uploader_id: github.NanoScaleDesign

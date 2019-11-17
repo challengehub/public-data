@@ -881,10 +881,10 @@
   translations: {}
 4148748f-d8fe-4f62-84a6-ce43ba3c96bd:
   hexsha:
-    private: 57594541a38fd6eb09bfcc13679bbe305100e7b7
-    public: edcc5770a8367300cf42bbefa3b5e7e46c22a349
+    private: c22972c758a0213a62357ad1325675a4bbcd834e
+    public: f5f58749f2f6de1f81a0d8cad35aca23c6858d8b
   language: en
-  modified: '2019-10-17T06:06:58.184099Z'
+  modified: '2019-11-18T02:30:46.915852Z'
   title: Beating equation derivation
   title_id: beating-equation-derivation
   topics: []

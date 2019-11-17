@@ -1697,10 +1697,10 @@
   translations: {}
 84e5e67a-7b46-45a4-9706-f2e5295eb2b6:
   hexsha:
-    private: a766a1c9eca3660237a56a200fff8af280085bf8
-    public: 08aa59b33e6d3b0745f8037213e13f90db3deb59
+    private: 41ea10f4d8a10777877c8cdfa64fa2cc7c73c3c1
+    public: ae20e0695356e8602182aa02c05d7a83910d5482
   language: en
-  modified: '2019-10-17T05:53:08.478575Z'
+  modified: '2019-11-18T02:02:00.882026Z'
   title: Understanding phase-shift from sine to cosine
   title_id: understanding-phase-shift-from-sine-to-cosine
   topics: []

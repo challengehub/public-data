@@ -2771,10 +2771,10 @@ d4dab8d9-3463-4ed1-ae67-87e11b0b04a9:
   translations: {}
 d5364324-e45a-41ae-b2fb-0d32df6feb07:
   hexsha:
-    private: 979195212024a8fae4aff6aed1708a0899c5574d
-    public: d9382aef01eea83ada0c2d8bb4025de24f9bfc5a
+    private: 03391ef3fac18326f5487d07da1311d95498e380
+    public: c87c10e0df0c79c0ac834daf3d449c1618759331
   language: en
-  modified: '2019-11-19T07:01:13.597843Z'
+  modified: '2019-11-19T08:44:17.87Z'
   title: Calculating convolution of continuous functions
   title_id: calculating-convolution-of-continuous-functions
   topics: []

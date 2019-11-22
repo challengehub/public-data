@@ -303,6 +303,16 @@
   title_id: mass-flow-rate-of-a-rocket
   topics: []
   translations: {}
+1b0a75e9-06cf-4af8-ad6d-5d63718596e4:
+  hexsha:
+    private: acbab5db0c662878242b5782f73330932c8aac16
+    public: 0d2268d8501e881abc0960efaf4ce53ccf958140
+  language: en
+  modified: '2019-11-22T12:04:28.643076Z'
+  title: Course survey (ODE I, 2019)
+  title_id: course-survey-ode-i-2019
+  topics: []
+  translations: {}
 1b532910-196a-488b-84bb-338bba19348a:
   hexsha:
     private: bb375fa7bd1670e1b9ce611d8c9027e1fad6c532

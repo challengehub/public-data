@@ -351,10 +351,10 @@ db1f61ad-f14a-4884-9033-1de48bc77aee:
   translations: {}
 de82abed-daa0-4993-b83f-3f151efc08f4:
   hexsha:
-    private: 8edb6ed46e45bdaa68b04dcc7b6995a8826157e4
-    public: 924433ad67de4d1b069a31bcab3e30d5ed752422
+    private: 414300bb0e70b8b711d0e97574c5935b3542eb76
+    public: 0a63589af4f263ede6ca1b29a969c5aea943a419
   language: en
-  modified: '2019-11-25T06:49:01.976067Z'
+  modified: '2019-11-25T07:19:25.192809Z'
   title: LAF - Orthogonality II
   title_id: laf-orthogonality-ii
   topics: []

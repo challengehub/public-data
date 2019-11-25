@@ -281,10 +281,10 @@ ab12a1a4-c04d-4af3-b48d-0338388a0722:
   translations: {}
 bc0668a3-87d8-4413-bf64-c999ba1518a0:
   hexsha:
-    private: 2454db3a168eb727ddc5c9aeb51ac50739337922
-    public: 07566826f280686040d8352a5d167caf4e85d330
+    private: 226157966b9f07c165c27d321b04d04581473bfb
+    public: 457e7081f337ce2bc7fd9870aee6e8bb21ace976
   language: en
-  modified: '2019-11-25T07:00:49.142906Z'
+  modified: '2019-11-26T00:42:51.939861Z'
   title: LAF - Orthogonality I
   title_id: laf-orthogonality-i
   topics: []

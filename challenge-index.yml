@@ -439,3 +439,13 @@ fb731dcc-d152-4e91-acd0-aee60540464c:
   title_id: real-integrals
   topics: []
   translations: {}
+fc0a8c58-bc75-42a6-9c5d-cfefe7ff32ac:
+  hexsha:
+    private: 038f8293295ffa1d612576a94421d38919be33e2
+    public: 949ef83611b0c43798afb1ca81fe9eeb9658a8dd
+  language: en
+  modified: '2019-11-26T07:19:29.412017Z'
+  title: LAF - Vector spaces
+  title_id: laf-vector-spaces
+  topics: []
+  translations: {}

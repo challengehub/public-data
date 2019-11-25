@@ -7,7 +7,7 @@ editor_id: github.cbal-brezina
 extra_resources: {}
 id: fc0a8c58-bc75-42a6-9c5d-cfefe7ff32ac
 language: en
-modified: '2019-11-26T07:19:29.412017Z'
+modified: '2019-11-26T07:28:13.648686Z'
 title: LAF - Vector spaces
 title_id: laf-vector-spaces
 topics: []
@@ -57,7 +57,7 @@ After 23 classes on linear algebra, can you answer the question: What is **vecto
    
    c) If `$c{\bf u} = {\bf 0}$`, then `$c= 0$` or `${\bf u} = {\bf 0}$`.
  
-2. Determine whther the given set, together with the specified operations of addition and scalar multiplication, is a vector space. If it is not, list all of the axioms that fail to hold.
+2. Determine whether the given set, together with the specified operations of addition and scalar multiplication, is a vector space. If it is not, list all of the axioms that fail to hold.
 
     a) The set of all vectors in `$\mathbb R^2$` of the form `$\left[\begin{array}{c} x \\ x \end{array}\right]$`, with the usual vector addition and scalar multiplication.
     

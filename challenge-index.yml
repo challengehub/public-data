@@ -451,10 +451,10 @@ fb731dcc-d152-4e91-acd0-aee60540464c:
   translations: {}
 fc0a8c58-bc75-42a6-9c5d-cfefe7ff32ac:
   hexsha:
-    private: a9385c6b7f153b88e963084d78354194d9d858a0
-    public: 55fc6f1a580c64a5e7ac727e03840f967164f910
+    private: 5b0dd545375e45da1c4080aac93977f3511ee22c
+    public: afe2bc36e520677cb0348c2763e08c5c245eff5c
   language: en
-  modified: '2019-11-26T07:28:13.648686Z'
+  modified: '2019-11-26T08:33:09.339293Z'
   title: LAF - Vector spaces
   title_id: laf-vector-spaces
   topics: []

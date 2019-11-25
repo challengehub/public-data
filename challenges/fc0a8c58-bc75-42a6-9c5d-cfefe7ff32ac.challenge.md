@@ -7,7 +7,7 @@ editor_id: github.cbal-brezina
 extra_resources: {}
 id: fc0a8c58-bc75-42a6-9c5d-cfefe7ff32ac
 language: en
-modified: '2019-11-26T07:28:13.648686Z'
+modified: '2019-11-26T08:33:09.339293Z'
 title: LAF - Vector spaces
 title_id: laf-vector-spaces
 topics: []
@@ -83,6 +83,8 @@ After 23 classes on linear algebra, can you answer the question: What is **vecto
     
     b) `$V = \mathcal P_2$`, `$W = \{a + bx + cx^2: abc = 0 \}$`
 
+7. Show that the set of positive real numbers with the operations addition `$\oplus$` and scalar multiplication `$\odot$` defined as 
+`$$ x \oplus y = x\cdot y$$` `$$ c\odot x = x^c, \ c \in \mathbb R$$` is a vector space.
 
 ## Resources
 

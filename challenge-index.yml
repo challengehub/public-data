@@ -409,6 +409,16 @@ e9aed444-84ff-4c82-a407-2874f1c71a7a:
   title_id: powers-and-roots-basic
   topics: []
   translations: {}
+f032401a-3f68-4159-9adf-6499f76d115a:
+  hexsha:
+    private: 9920f51134be3410adef8bbf2f1ef569c72bce19
+    public: a4f18ea339fd2e14d9d302ab06a8fae07f12ebd8
+  language: en
+  modified: '2019-11-26T07:27:15.893898Z'
+  title: LAF - Subspaces
+  title_id: laf-subspaces
+  topics: []
+  translations: {}
 f0edc43e-0dd9-4e76-acdb-4d41dbbd3344:
   hexsha:
     private: 980a578ae42d08c47df69d4d7cb7fdc14fd63650

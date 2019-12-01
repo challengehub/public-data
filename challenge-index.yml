@@ -19,6 +19,16 @@
   title_id: characteristic-equation-identification-equal-roots
   topics: []
   translations: {}
+022e0aee-5de5-4841-96f8-e372da0bf2af:
+  hexsha:
+    private: 9230330088a5712b7e28232a03e0158abce7e235
+    public: bb6bfc014323e54a61609c4f44caf18de14f5034
+  language: en
+  modified: '2019-12-02T05:34:31.898803Z'
+  title: Boiling text missing word 8
+  title_id: boiling-text-missing-word-8
+  topics: []
+  translations: {}
 024d1793-9abd-4977-84cc-904b05506104:
   hexsha:
     private: f4390df5ab49e6868f45e17193a2224c30737b37

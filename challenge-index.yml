@@ -1341,6 +1341,16 @@
   title_id: rope-style-sample-problem-sp-410
   topics: []
   translations: {}
+62927f75-381d-45f8-9e5d-c1cf03e4e0d3:
+  hexsha:
+    private: 35094d0544d050492f29b3fa7abe447154848c49
+    public: e36ac9c8b3d94d68cc6041f2a177e4a4083e04d6
+  language: en
+  modified: '2019-12-02T05:30:17.543569Z'
+  title: Boiling text missing word 4
+  title_id: boiling-text-missing-word-4
+  topics: []
+  translations: {}
 62b554d8-939e-4c66-91b2-b2fa1bca91c9:
   hexsha:
     private: f197812272abe652b0063f0864eb97f3d2c8ade7

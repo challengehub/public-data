@@ -2504,6 +2504,16 @@ bcc14a44-15e8-431a-9e65-f2574a7d2676:
   title_id: angular-momentum-of-a-rigid-link
   topics: []
   translations: {}
+bdba6966-b5a6-47e9-b8b3-d36815906434:
+  hexsha:
+    private: 83cf058710fdf53e100bdf2d6f9831ba4ccc78ec
+    public: ed84a03f5a3aebc618148b294d571ef0a0dded58
+  language: en
+  modified: '2019-12-02T05:31:13.242969Z'
+  title: Boiling text missing word 5
+  title_id: boiling-text-missing-word-5
+  topics: []
+  translations: {}
 be08eb2e-2b9d-448d-b133-c2cb2aebec8d:
   hexsha:
     private: d596dba113f46b61946df4a3c35ecc75f19243f7

@@ -3234,6 +3234,16 @@ ef789560-0442-42b4-9dcd-050b807dc0ed:
   title_id: understanding-of-the-angle-of-maximum-bending-moment-of-a-misaligned-spinning-rod
   topics: []
   translations: {}
+f03678ab-b650-4140-8cea-3d341a046aab:
+  hexsha:
+    private: 6f77e88876fbd1bf1fd0c08223f08c3950586273
+    public: b9862e81652caa3769d36225c939ae94d2a72cf0
+  language: en
+  modified: '2019-12-02T05:35:14.524862Z'
+  title: Boiling text missing word 9
+  title_id: boiling-text-missing-word-9
+  topics: []
+  translations: {}
 f06adee3-8a49-4289-92e9-9f1d535c8e50:
   hexsha:
     private: 4dfc1f81104d54b565a6557aea192e9263a76aca

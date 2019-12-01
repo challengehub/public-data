@@ -2961,6 +2961,16 @@ da15d5d5-2b2e-4e8d-abc4-bb220aa80d4a:
   title_id: understanding-the-exponential
   topics: []
   translations: {}
+da4fd15f-6949-4e27-af2b-7bc7d0e09a5a:
+  hexsha:
+    private: f7e8d10e10c268aed351631dad6d9fe37504e8d4
+    public: 072500febb5452fbaa82ae89075a664ee253a932
+  language: en
+  modified: '2019-12-02T05:35:55.706918Z'
+  title: Boiling text missing word 10
+  title_id: boiling-text-missing-word-10
+  topics: []
+  translations: {}
 da7f72e5-e9f0-40ec-a10f-df648bd9aa64:
   hexsha:
     private: 137d7f5a1b653a28e74b5fad97348a976fd7c15a

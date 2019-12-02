@@ -161,6 +161,16 @@
   title_id: calculating-the-fourier-series-of-a-sawwave-with-non-unit-period
   topics: []
   translations: {}
+0d03b694-c806-45ba-a88e-89a489f2b05c:
+  hexsha:
+    private: 4a8c8e840763d6b2825056cd479ce5d4687d2530
+    public: 4e7ee4e575c22060ceda8178662e2bd0018260c3
+  language: en
+  modified: '2019-12-02T16:23:42.041433Z'
+  title: Boiling text missing word 13
+  title_id: boiling-text-missing-word-13
+  topics: []
+  translations: {}
 0d915f52-08f0-4147-b067-05a0437e9f36:
   hexsha:
     private: 8f8f9fa6fc9c02b41746fa41bf2a7d63c99ea338

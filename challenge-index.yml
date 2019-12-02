@@ -1301,6 +1301,16 @@
   title_id: proving-that-the-off-diagonal-values-of-inertia-of-a-centred-homogeneous-cube-are-zero
   topics: []
   translations: {}
+58c7f72a-5ac9-4f52-86c0-23b6c88671c1:
+  hexsha:
+    private: 7a014d0f0c9cc7be9e5be82c5ba5e922a53d0db1
+    public: e51caf0b91bf321e1ded9592773dff348246b68f
+  language: en
+  modified: '2019-12-02T16:36:22.047277Z'
+  title: Boiling text missing word 21
+  title_id: boiling-text-missing-word-21
+  topics: []
+  translations: {}
 5a8e2ea6-45c9-4622-b265-aad041440b64:
   hexsha:
     private: dabe64abca1c3b875bc4b5ff3e116b9a7c87dc2e

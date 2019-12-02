@@ -2381,6 +2381,16 @@
   title_id: boiling-text-missing-word-18
   topics: []
   translations: {}
+9f89a605-a114-4c44-84c2-14d73df0acd8:
+  hexsha:
+    private: 1d69aabf2a60098840afb7f8f2f7a00270ec9324
+    public: 9b02a1d6997139726d9ae30de5822e996c0404a8
+  language: en
+  modified: '2019-12-02T16:52:47.884717Z'
+  title: Boiling text missing word 36
+  title_id: boiling-text-missing-word-36
+  topics: []
+  translations: {}
 9fd492fa-1c4d-42a2-9f02-25b1c749c8ed:
   hexsha:
     private: 2a0dbb7d078174039396c5809b83d1c34bea046f

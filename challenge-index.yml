@@ -677,6 +677,16 @@
   title_id: laplace-transform-and-odes-a-sudden-impulse
   topics: []
   translations: {}
+34418649-e2b3-4129-bed7-6352079457a7:
+  hexsha:
+    private: 3b9795279286b20fea14c56521a66e5c342c9f00
+    public: 2baacb948c7cafe6e451a6bfa6e5987e627fb670
+  language: en
+  modified: '2019-12-02T15:49:37.768248Z'
+  title: Boiling text missing word 11
+  title_id: boiling-text-missing-word-11
+  topics: []
+  translations: {}
 34619ddf-1257-43e6-82bc-945d549795c0:
   hexsha:
     private: 357a7f52915ad22fb015ac9213111696c941e98a

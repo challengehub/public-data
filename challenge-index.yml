@@ -1039,6 +1039,16 @@
   title_id: derivation-of-eulers-equations-for-3d-rotation
   topics: []
   translations: {}
+44f3b9fe-9dd4-47b2-9032-a74239cfb543:
+  hexsha:
+    private: 29b9d08d50250099441f03ed642f551d3eb116ea
+    public: a3e02efd8c67988ced9b7a0c578e6b297f26e2e8
+  language: en
+  modified: '2019-12-02T16:35:20.699426Z'
+  title: Boiling text missing word 20
+  title_id: boiling-text-missing-word-20
+  topics: []
+  translations: {}
 469898ff-38c0-4ac6-af56-e09f0b9ef1c2:
   hexsha:
     private: c6fafd71a4a0cc4b3f8d01b9b1aabb7b828a06f8

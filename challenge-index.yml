@@ -444,6 +444,16 @@
   title_id: 2d-matrices-review-determinent
   topics: []
   translations: {}
+23ae1189-9b2d-4e78-bcee-69b2420aa4f7:
+  hexsha:
+    private: 9b1609bbd071cc4c166bf3341db089751a657e10
+    public: 0bab825bcfb6604704a7a31e055774b18cbefe94
+  language: en
+  modified: '2019-12-02T16:24:54.721441Z'
+  title: Boiling text missing word 14
+  title_id: boiling-text-missing-word-14
+  topics: []
+  translations: {}
 24d3e9ea-6c49-455f-b0fc-2cca2a6f5f2c:
   hexsha:
     private: 2b83fda7658e0cc8018479216eb4dc779227ec3a

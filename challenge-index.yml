@@ -2878,6 +2878,16 @@ cb8bf493-4808-4c6e-944d-67e8439a6b59:
   title_id: ideal-gas-mixtures-and-density
   topics: []
   translations: {}
+cc8a3d1b-e1c1-4b08-8406-b7e70c33fb9f:
+  hexsha:
+    private: 974e23e4ec3f1066836767976d2790a0cc3e7d8e
+    public: 548f823ac51a6d70f0994d25909067b44ed7e465
+  language: en
+  modified: '2019-12-02T16:41:42.255287Z'
+  title: Boiling text missing word 26
+  title_id: boiling-text-missing-word-26
+  topics: []
+  translations: {}
 ccca6e05-5da4-4bd8-b7d0-3a042ab6e7d3:
   hexsha:
     private: 25659ba8285b046a60a9690b4fd39858bfd88e1c

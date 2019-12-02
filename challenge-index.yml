@@ -2078,6 +2078,16 @@
   title_id: inertia-a-cone
   topics: []
   translations: {}
+8fe00c38-2648-46cc-bb2e-c6b551221b55:
+  hexsha:
+    private: c860444c4ca595a87e0645c8e1dbabf92f59b8b8
+    public: bb521b8be5ad1949d34e54104f6c799132ae4e9b
+  language: en
+  modified: '2019-12-02T16:39:28.361281Z'
+  title: Boiling text missing word 24
+  title_id: boiling-text-missing-word-24
+  topics: []
+  translations: {}
 8ff930db-0608-4f59-b0a8-d57082730f23:
   hexsha:
     private: a16ec8cea633c2c2f31b0a566fe096bae005b1ad

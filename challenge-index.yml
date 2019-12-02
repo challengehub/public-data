@@ -1916,6 +1916,16 @@
   title_id: a-worked-example-of-calculations-of-two-simultanious-rotations-on-different-axes-sp-71
   topics: []
   translations: {}
+888f523b-96b4-4dbf-af3a-e1be869f5766:
+  hexsha:
+    private: 01155abc270bd087c952643db8ebdbe5d94194bf
+    public: c71db782978bc1626a772dc11f8b6acc3e45b592
+  language: en
+  modified: '2019-12-02T16:44:01.471639Z'
+  title: Boiling text missing word 28
+  title_id: boiling-text-missing-word-28
+  topics: []
+  translations: {}
 889faba7-7b83-4b38-917d-18a66d47bb33:
   hexsha:
     private: d2b8cc3cf747472cc77944b00950f1bbcdcb980c

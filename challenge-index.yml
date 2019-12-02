@@ -3039,6 +3039,16 @@ d40d5f57-b9ee-4ac4-be11-96ab3c73f2f6:
   title_id: the-logistic-equation
   topics: []
   translations: {}
+d451c6d7-ecb1-4598-aeff-40e3115bfd6e:
+  hexsha:
+    private: a3143effa6ab497fea3d8112455eb303aa341bc2
+    public: d25ae75d5adf1c3c68e70131b98ae477ad7b6fb2
+  language: en
+  modified: '2019-12-02T16:49:57.046505Z'
+  title: Boiling text missing word 33
+  title_id: boiling-text-missing-word-33
+  topics: []
+  translations: {}
 d4dab8d9-3463-4ed1-ae67-87e11b0b04a9:
   hexsha:
     private: a8b68d1b7d86f9f8a6814e9932ac7e144e69566d

@@ -404,6 +404,16 @@
   title_id: velocity-and-acceleration-of-a-disk-that-is-undergoing-rotation-on-2-axes-using-a-reference-frame-rotating-in-2-dimensions
   topics: []
   translations: {}
+1f3a2e47-121d-4f09-9858-1dad74c1aac4:
+  hexsha:
+    private: 02f24f100cc5ad15e319e8454c723b962923ed24
+    public: a0311e02b5eff9fb9f4b665008351040a141ed00
+  language: en
+  modified: '2019-12-02T16:33:55.205379Z'
+  title: Boiling text missing word 19
+  title_id: boiling-text-missing-word-19
+  topics: []
+  translations: {}
 2052ddc3-9737-47d0-884a-1346cb5279f3:
   hexsha:
     private: 0297e1966663cc8ce09cbf8a26febd54dbe110bf

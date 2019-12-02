@@ -3112,6 +3112,16 @@ e0c75c63-d56d-46e1-83ec-9947d54a6372:
   title_id: definition-of-a-steady-state-condition-in-diffusive-mass-transfer
   topics: []
   translations: {}
+e274442b-f7aa-48f5-a604-52a9aedd0c27:
+  hexsha:
+    private: 67198677377beb7012d5ab86bee7473a314eeca9
+    public: 2d883d17aee6410bfac7fb2339677bf4a6ca4c95
+  language: en
+  modified: '2019-12-02T16:28:45.057276Z'
+  title: Boiling text missing word 16
+  title_id: boiling-text-missing-word-16
+  topics: []
+  translations: {}
 e4019de6-0585-4b7f-b282-6ff9c5cba0ac:
   hexsha:
     private: 353797adf53796207961550eddf894c838c245b8

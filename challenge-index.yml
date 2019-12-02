@@ -39,6 +39,16 @@
   title_id: super-simple-division-again
   topics: []
   translations: {}
+b80422b7-e9cf-42cc-bdc2-6d8453dcf228:
+  hexsha:
+    private: 2c7d71fa585083df130d1538e817574e0a23643a
+    public: f990ea0782398d10384b1d8f974b7d10d542dbe9
+  language: en
+  modified: '2019-12-02T10:09:35.706911Z'
+  title: What a challenge this was
+  title_id: what-a-challenge-this-was
+  topics: []
+  translations: {}
 df9861f9-2e09-4fe1-8b04-dd37007f844c:
   hexsha:
     private: f49dc72de1a8edcb06dd254b047a0c49461388f3

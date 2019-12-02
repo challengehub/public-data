@@ -2241,6 +2241,16 @@ a1549546-f57b-498b-8a31-07d880e12754:
   title_id: explaining-how-a-dft-of-length-n-can-be-split-into-two-dfts-of-length-n2
   topics: []
   translations: {}
+a36fd9a7-ee26-4f25-ba8f-47fe2cdf6640:
+  hexsha:
+    private: 74544619a7e5518c65a4bf5d310083d6dd1a4303
+    public: 106363cc775344df52a9483b0eb29bd484db8ae7
+  language: en
+  modified: '2019-12-02T16:21:34.273299Z'
+  title: Boiling text missing word 12
+  title_id: boiling-text-missing-word-12
+  topics: []
+  translations: {}
 a3de3205-4018-4432-b8bd-a450390d67bb:
   hexsha:
     private: bd98666684d86d6de4b639bb1e4e843b2ca1a451

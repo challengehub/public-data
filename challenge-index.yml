@@ -1804,6 +1804,16 @@
   title_id: characteristic-equation-complex-roots-with-b0
   topics: []
   translations: {}
+810e712c-8538-4405-b9f0-2d48694c9865:
+  hexsha:
+    private: 0066cd0c2bab9a3f94f8ce5db4fefd6fa9ab9853
+    public: 094d6adbd0abcee0f651f10998ad2685f5043cd4
+  language: en
+  modified: '2019-12-02T16:45:13.185852Z'
+  title: Boiling text missing word 29
+  title_id: boiling-text-missing-word-29
+  topics: []
+  translations: {}
 82587093-0f57-4142-a64c-bf81f73434fc:
   hexsha:
     private: c0f46413a001999b2f6a53df69b5cdad60429a7d

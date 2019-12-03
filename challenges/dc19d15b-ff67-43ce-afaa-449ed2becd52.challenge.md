@@ -7,7 +7,7 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: dc19d15b-ff67-43ce-afaa-449ed2becd52
 language: en
-modified: '2019-11-15T00:42:39.238732Z'
+modified: '2019-12-04T02:49:10.203665Z'
 title: Cleaning an audio signal with python
 title_id: cleaning-an-audio-signal-with-python
 topics: []
@@ -22,7 +22,7 @@ Note that running the python program will result in sound being played, which ca
 
 Graphs will also be displayed in the default browser on your computer.
 
-**For Mac users:** I recommend downloading the terminal software iTerm2 (\url{https://www.iterm2.com}). It is much easier to use than the default terminal on Macs.
+**For Mac users:** I recommend downloading the terminal software iTerm2 (https://www.iterm2.com). It is much easier to use than the default terminal on Macs.
 
 When you download the files below, I recommend that you create a new directory beforehand (for example, on your desktop) and save all the files to that new directory.
 

@@ -1613,6 +1613,16 @@
   title_id: boiling-text-missing-word-34
   topics: []
   translations: {}
+6d44296f-fa10-4332-804b-6c4a67cebd4a:
+  hexsha:
+    private: 0b7f94e700bce69a643c8ab087d36c7cf42abb51
+    public: 3c899a3ad740d55572b13bddbf8ad5a00719c2a6
+  language: en
+  modified: '2019-12-09T04:36:16.475775Z'
+  title: What happens to thermal transfer at (e) (pair response)
+  title_id: what-happens-to-thermal-transfer-at-e-pair-response
+  topics: []
+  translations: {}
 6d95069e-cc0a-4f39-acf8-6881d98674fe:
   hexsha:
     private: 182e68948c4c850d51617c6aa234d5c40904b559

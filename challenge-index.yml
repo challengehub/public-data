@@ -1553,6 +1553,16 @@
   title_id: method-of-undetermined-coefficients-determining-the-ode-y-c1-cos4t-c2-sin4t-et-sin-2t
   topics: []
   translations: {}
+677d99f8-204b-44b4-a2cb-27488fcf5371:
+  hexsha:
+    private: 07bf1a9bad3401205ea5a3a893e62b42155ccb10
+    public: 5c0cc85ab3ea3184bb688cf7cd5de1b6fe79a127
+  language: en
+  modified: '2019-12-09T04:35:21.797451Z'
+  title: What happens to thermal transfer at (e) (individual response)
+  title_id: what-happens-to-thermal-transfer-at-e-individual-response
+  topics: []
+  translations: {}
 679d28b6-b316-4e4b-9c1a-840d0f1b8905:
   hexsha:
     private: a90884a107a2fe140cae7447ee98ceb765758e98

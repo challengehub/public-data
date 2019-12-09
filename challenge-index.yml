@@ -301,6 +301,16 @@
   title_id: introduction-to-convolution-sintcost
   topics: []
   translations: {}
+180d4df9-48d0-476d-9d19-55ddb21274ef:
+  hexsha:
+    private: 2f89f65cd3330753c8f46c38512d66212d407eaf
+    public: cfbb1ebd6832878708168d37fd6a7676d4352a96
+  language: en
+  modified: '2019-12-10T00:27:29.885344Z'
+  title: Latent heat language question (solid-liquid)
+  title_id: latent-heat-language-question-solid-liquid
+  topics: []
+  translations: {}
 18c8d9e8-09b6-4894-956e-16d5141ffdf5:
   hexsha:
     private: 01dafa8791bf09ecb0a5e6965d6089ce4153cece

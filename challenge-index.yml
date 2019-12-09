@@ -484,6 +484,16 @@
   title_id: 2d-matrices-review-determinent
   topics: []
   translations: {}
+21fe1b41-0cfe-4fb9-ab37-6d083b5d9d30:
+  hexsha:
+    private: 9fb48fbffcdda0fae1a89db9836849d8c7d52ac9
+    public: a15dcd3288a94a976c0d94e9f0af26d986ca4a72
+  language: en
+  modified: '2019-12-10T00:29:34.422901Z'
+  title: Latent heat language question (liquid-gas)
+  title_id: latent-heat-language-question-liquid-gas
+  topics: []
+  translations: {}
 23ae1189-9b2d-4e78-bcee-69b2420aa4f7:
   hexsha:
     private: 9b1609bbd071cc4c166bf3341db089751a657e10

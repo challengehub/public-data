@@ -219,3 +219,13 @@ c9a72f2c-be34-40a1-9599-c20eac849a5e:
   topics: []
   upload_time: '2019-12-12T05:46:50Z'
   uploader_id: github.cbal-brezina
+
+27063651-7d01-429a-afd1-083ea15f6cfc:
+  content_type: application/pdf
+  hexsha: 098c7fbe3e22f4ce05bf3cad1a58af4624637108
+  original_name: textbook.pdf
+  title: Vector spaces textbook (printed version next class)
+  title_id: vector-spaces-textbook-printed-version-next-class-098c7f
+  topics: []
+  upload_time: '2019-12-12T06:00:34Z'
+  uploader_id: github.cbal-brezina

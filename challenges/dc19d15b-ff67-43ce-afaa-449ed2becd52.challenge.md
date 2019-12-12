@@ -7,7 +7,7 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: dc19d15b-ff67-43ce-afaa-449ed2becd52
 language: en
-modified: '2019-12-04T02:49:10.203665Z'
+modified: '2019-12-13T04:42:06.692192Z'
 title: Cleaning an audio signal with python
 title_id: cleaning-an-audio-signal-with-python
 topics: []
@@ -40,16 +40,13 @@ You may use the outline python code above to help you, or you may use your own c
 Generally, to install new libraries you can use *pip3 install sounddevice* etc.
 
 
-[1] ]If this brings up a webpage, you might need to right-click on the page and download it, ensuring the name is correct.
-[2] Can be played in a media player such as iTunes or VLC.
-
-
-
 ## Resources
 - Python outline code: http://raw.githubusercontent.com/NanoScaleDesign/FourierAnalysis/master/Audio/audio.py [1]
 - Noisy audio (to be read by the python code): http://raw.githubusercontent.com/NanoScaleDesign/FourierAnalysis/master/Audio/bbcnews181210.noisy.wav [1]
 - Noisy audio (media-player format [2]): http://raw.githubusercontent.com/NanoScaleDesign/FourierAnalysis/master/Audio/bbcnews181210.mediaformat.noisy.wav
 
+[1] If this brings up a webpage, you might need to right-click on the page and download it, ensuring the name is correct.
+[2] Can be played in a media player such as iTunes or VLC.
 
 
 ## Solution Form

@@ -3109,6 +3109,16 @@ d1d8b7b9-6a76-41a1-aab9-b7e3d677d39f:
   title_id: characteristic-equation-with-equal-roots
   topics: []
   translations: {}
+d2e741bb-e128-4d7b-8ded-77dc0d9c87df:
+  hexsha:
+    private: e0898d76c681e36dfc059b6ac49ad2bb040c0d4b
+    public: 703b959a0eeca258cf97dec1cb93cd30bcbd646b
+  language: en
+  modified: '2019-12-16T01:01:25.365387Z'
+  title: 'Reverse Laplace transform: 2/s^3'
+  title_id: reverse-laplace-transform-2s3
+  topics: []
+  translations: {}
 d35c7de4-5c63-4bb7-9e34-86cefa2c1504:
   hexsha:
     private: 27ffc7f360278ca13fb4c02d5f768807be2be577

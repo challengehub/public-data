@@ -7,7 +7,7 @@ editor_id: github.NanoScaleDesign
 extra_resources: {}
 id: dc19d15b-ff67-43ce-afaa-449ed2becd52
 language: en
-modified: '2019-12-13T04:42:06.692192Z'
+modified: '2019-12-20T04:18:41.211203Z'
 title: Cleaning an audio signal with python
 title_id: cleaning-an-audio-signal-with-python
 topics: []
@@ -38,6 +38,10 @@ You may use the outline python code above to help you, or you may use your own c
 - plotly
 
 Generally, to install new libraries you can use *pip3 install sounddevice* etc.
+
+For windows users you typically need to do the following on the command line:
+*/path/to/python.exe -m pip install plotly*
+etc. To open the command line, press *windows-r* then type *cmd* and press *enter*.
 
 
 ## Resources

@@ -2654,6 +2654,16 @@ b0e8bcb5-2120-4c31-899b-1baf0d88a4eb:
   title_id: valid-solutions-of-odes
   topics: []
   translations: {}
+b239d7f5-c247-4d80-8d90-2f207008feac:
+  hexsha:
+    private: f3f597aa0ee9e5cf2e91791b90fa73fda1c89f40
+    public: 220c533c5f3fd4e2af86235571fe4b51bfb0df89
+  language: en
+  modified: '2019-12-24T06:03:12.097288Z'
+  title: Fourier Analysis coursework (2019)
+  title_id: fourier-analysis-coursework-2019
+  topics: []
+  translations: {}
 b359a87e-8e04-4679-b540-3c345ac6eb20:
   hexsha:
     private: e18a8d88b2212eba546d81892156ca3e5efdf7ec

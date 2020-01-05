@@ -253,10 +253,10 @@
   translations: {}
 162d9156-8356-4137-a2f9-5748ecdc43c0:
   hexsha:
-    private: 5ddc0fbd4381c595aff0eff578f1f1f935405530
-    public: b554ad859854f2ce8666e9c49c700322b9f90e52
+    private: 4fb8b7025207d021ecbedab19abaa025aacdf415
+    public: 5b8f9edbc896aa4ad560deb78ceb4e1bc7ea2d86
   language: en
-  modified: '2018-12-14T02:47:24.830233Z'
+  modified: '2020-01-06T02:04:38.240193Z'
   title: 'Comparing solutions of ODE''s: With and without exponential forcing'
   title_id: comparing-solutions-of-odes-with-and-without-exponential-forcing
   topics: []

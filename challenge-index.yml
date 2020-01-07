@@ -847,6 +847,16 @@
   title_id: convolution-and-the-laplace-transform-122-2s
   topics: []
   translations: {}
+38ead30f-bf23-45e9-91dd-2e5f052e6420:
+  hexsha:
+    private: 0036281e0333e959faa332f2d6f1d0fa3216a622
+    public: 9f170c3311f39cebf4f66a7aeb11de6f79dd9fca
+  language: en
+  modified: '2020-01-08T04:30:31.606328Z'
+  title: Understanding the 4th-order Runge-Kutta method
+  title_id: understanding-the-4th-order-runge-kutta-method
+  topics: []
+  translations: {}
 3920c269-7a87-4866-bf0d-9e5a42157ef4:
   hexsha:
     private: 96f9248f1500383d5ab45a134d5a9a36a626270a

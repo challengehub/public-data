@@ -494,6 +494,16 @@
   title_id: latent-heat-language-question-liquid-gas
   topics: []
   translations: {}
+227f9b55-7c1d-4742-bab9-db603ba87df0:
+  hexsha:
+    private: 857d5196296c7e879d64d6b891db0ebd956de74e
+    public: 65891e6c1eab86c229fe2d84bb3da49a97812e3b
+  language: en
+  modified: '2020-01-08T01:28:20.570525Z'
+  title: Understanding tangent lines
+  title_id: understanding-tangent-lines
+  topics: []
+  translations: {}
 23ae1189-9b2d-4e78-bcee-69b2420aa4f7:
   hexsha:
     private: 9b1609bbd071cc4c166bf3341db089751a657e10

@@ -259,6 +259,16 @@ a4a73db7-0035-4f6f-8920-b4ccb876f04b:
   title_id: course-introduction
   topics: []
   translations: {}
+a540fc63-8ce3-465c-9a6c-de971309e40e:
+  hexsha:
+    private: 364e050b27e5d353d1cc2063ae5a380b102190a3
+    public: f8132013a6c0645d41355d43b9749027d431337e
+  language: en
+  modified: '2020-01-08T01:35:42.566196Z'
+  title: LAF - LInear Transformations from V to W
+  title_id: laf-linear-transformations-from-v-to-w
+  topics: []
+  translations: {}
 a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
   hexsha:
     private: 4656804146ccbc76c6b429d620856a204c6772dc

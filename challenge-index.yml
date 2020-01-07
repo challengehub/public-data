@@ -3794,6 +3794,16 @@ fb2bb6af-363b-41f5-8b04-73f7739f9790:
   title_id: heat-equation-on-a-ring-understanding-periodicity
   topics: []
   translations: {}
+fcf61b26-f6f4-4764-a305-440d6f215d5c:
+  hexsha:
+    private: 585100a2c56c7fe9c7c90153c117d8db275fab38
+    public: e6b796ada17fc900f554198827e372687dbb179d
+  language: en
+  modified: '2020-01-08T04:22:55.288088Z'
+  title: Numerical solutions to an ODE using Euler's method, by hand
+  title_id: numerical-solutions-to-an-ode-using-eulers-method-by-hand
+  topics: []
+  translations: {}
 fd4f0190-c05e-4980-bc5b-8c0531ba2221:
   hexsha:
     private: 52e1ef7da9cbedd0094174a486e396e93c172238

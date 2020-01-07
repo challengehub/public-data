@@ -261,11 +261,11 @@ a4a73db7-0035-4f6f-8920-b4ccb876f04b:
   translations: {}
 a540fc63-8ce3-465c-9a6c-de971309e40e:
   hexsha:
-    private: 364e050b27e5d353d1cc2063ae5a380b102190a3
-    public: f8132013a6c0645d41355d43b9749027d431337e
+    private: defadd112589b76cbc5b56afce960a7bc87996af
+    public: 19896b2643b12838d1a8157e8b89208d18daa7e6
   language: en
-  modified: '2020-01-08T01:35:42.566196Z'
-  title: LAF - LInear Transformations from V to W
+  modified: '2020-01-08T02:38:43.041952Z'
+  title: LAF - Linear Transformations from V to W
   title_id: laf-linear-transformations-from-v-to-w
   topics: []
   translations: {}

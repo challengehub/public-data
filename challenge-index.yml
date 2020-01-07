@@ -3219,6 +3219,16 @@ d7415328-30e3-4acb-875f-a5b5c20ae294:
   title_id: cases-of-diffusion-in-a-vertical-tube-subject-to-a-temperature-gradient
   topics: []
   translations: {}
+d7b47164-5b33-4d98-b0a8-0cf5596dea04:
+  hexsha:
+    private: 8f59268e4c956b7d3006822792e98bc4bac63c1d
+    public: a1eb0e2bde401e15f0e5b6316758882a938bb4d0
+  language: en
+  modified: '2020-01-08T00:51:24.638698Z'
+  title: Stability of solutions of an ODE describing acceleration under gravity
+  title_id: stability-of-solutions-of-an-ode-describing-acceleration-under-gravity
+  topics: []
+  translations: {}
 d7c688fc-38b9-430f-a10f-d2db3c653955:
   hexsha:
     private: e1a36a9c135d325b5a314e9825e0a5a87ca2271e

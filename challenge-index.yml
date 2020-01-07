@@ -149,6 +149,16 @@
   title_id: laf-introduction-to-eigenvalues-and-eigenvectors
   topics: []
   translations: {}
+4856002b-4c86-4b0b-8dd3-72c199cc5b10:
+  hexsha:
+    private: 41ba8bf5b529030ebe56ccb23451469107de9767
+    public: 0219a0ea2744019d542300404e91383c7b15de66
+  language: en
+  modified: '2020-01-08T08:51:03.122569Z'
+  title: LAF - Model file
+  title_id: laf-model-file
+  topics: []
+  translations: {}
 4b372d33-399f-4506-90dd-89db1cb990ae:
   hexsha:
     private: 99454c6a5914db79c85140a8a607b13118cd53a4

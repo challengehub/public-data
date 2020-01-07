@@ -239,6 +239,16 @@
   title_id: complex-functions
   topics: []
   translations: {}
+749e4b67-ce15-4507-b2e5-b8b118ccb0c0:
+  hexsha:
+    private: b833839a194fd0e36d0ba30aca2d9f028de6e7d7
+    public: aa426144fa73963fe7f3d4c246e925ca368e308a
+  language: en
+  modified: '2020-01-08T08:52:05.645844Z'
+  title: LAF - Least Square Approximation, The Singular Value Decomposition
+  title_id: laf-least-square-approximation-the-singular-value-decomposition
+  topics: []
+  translations: {}
 7754dc09-71ec-4ccb-8c9c-cbed13cd42ba:
   hexsha:
     private: 0d05e873c6c6d0233b5fde99884618c28bd25626

@@ -241,10 +241,10 @@
   translations: {}
 749e4b67-ce15-4507-b2e5-b8b118ccb0c0:
   hexsha:
-    private: b833839a194fd0e36d0ba30aca2d9f028de6e7d7
-    public: aa426144fa73963fe7f3d4c246e925ca368e308a
+    private: 3eab75bfdfb956a8852c96ca2231720b173dad5f
+    public: 4b3c7bce5ad03ce26c26fe7c9f79a10210f35b58
   language: en
-  modified: '2020-01-08T08:52:05.645844Z'
+  modified: '2020-01-10T05:50:52.538094Z'
   title: LAF - Least Square Approximation, The Singular Value Decomposition
   title_id: laf-least-square-approximation-the-singular-value-decomposition
   topics: []

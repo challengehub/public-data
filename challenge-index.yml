@@ -3844,3 +3844,13 @@ fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
   title_id: free-vibration-of-a-harmonic-spring
   topics: []
   translations: {}
+ff0d77b1-a79e-4cda-9a5c-a0fce108bf3b:
+  hexsha:
+    private: 76e8d6f327fed08a13bb06f3d4b4dbad717f59ca
+    public: cd397902d744e5ee4fdb727925db8e0e4764b1ce
+  language: en
+  modified: '2020-01-22T00:32:36.587858Z'
+  title: Link to Fourier Analysis coursework material (2019)
+  title_id: link-to-fourier-analysis-coursework-material-2019
+  topics: []
+  translations: {}

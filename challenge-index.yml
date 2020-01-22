@@ -1,10 +1,10 @@
 # ChallengeHub Challenge Index
 0217149d-34f8-45cd-a3b3-61a21e52a212:
   hexsha:
-    private: 8dd31f4de393886ffdef756c70ffb21d1780596a
-    public: 5ad81ccfc7005ee394ccc4ebc96d331e4af8ac3d
+    private: 4097cf5c8312d1cd9d19d60ff6f9ecc15be4886d
+    public: c0f03aaeefbaa41ea78d52d00792e7f13eff8ddd
   language: en
-  modified: '2020-01-08T08:51:36.946023Z'
+  modified: '2020-01-23T02:39:48.202401Z'
   title: LAF -  Inner Product Space, Norms, Distance functions
   title_id: laf-inner-product-space-norms-distance-functions
   topics: []

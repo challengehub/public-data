@@ -161,6 +161,16 @@
   title_id: drawing-the-direction-field-for-y02y1-y6
   topics: []
   translations: {}
+0b6011b1-0a6f-45ce-9b7f-8d2ce50388cc:
+  hexsha:
+    private: 07a171d964edc09a1ebc80cae724f63dfa349117
+    public: c7e1c65df0e7bc17504104e1c65051f266ddd90c
+  language: en
+  modified: '2020-02-25T04:31:32.29429Z'
+  title: Understanding Re and Im parts of complex numbers
+  title_id: understanding-re-and-im-parts-of-complex-numbers
+  topics: []
+  translations: {}
 0ba3e51e-f4cc-4367-850a-8c74e07b31bd:
   hexsha:
     private: 13b320ffa2b8eeb7a34a880dc6b0632b16b8ee08

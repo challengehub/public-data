@@ -1713,6 +1713,16 @@
   title_id: inertia-a-2d-rectangle
   topics: []
   translations: {}
+744701f7-b841-48a9-9ff2-3e6c5b19c81f:
+  hexsha:
+    private: 125818de5c432710030afbf72a7723cfce371d1f
+    public: 3dc73a559463676d6c3d64caee3c349c71918e9e
+  language: en
+  modified: '2020-02-25T04:14:13.632777Z'
+  title: 'Complex number algebra: i^n'
+  title_id: complex-number-algebra-in
+  topics: []
+  translations: {}
 746a78ce-f826-4855-9d66-62009f3f4442:
   hexsha:
     private: 4391ee9554657d3ddcfc512c113a68092c73cefa

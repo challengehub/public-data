@@ -638,10 +638,10 @@
   translations: {}
 2c8d9029-ba26-40ba-9d3a-04725ea5fbe0:
   hexsha:
-    private: 1d3ddc040566723a303e82463e47de1f4f67421c
-    public: cb0f5ce062695b2ae68541c8e7d04133cc651c55
+    private: e2b81b11f3811e650db7e82c67267fffaf554ccf
+    public: 5ea2dd770e39468eeac382019b70405207b51f41
   language: en
-  modified: '2020-02-25T04:16:35.978324Z'
+  modified: '2020-02-25T04:20:38.701263Z'
   title: 'Complex number algebra: (a+ib)^n'
   title_id: complex-number-algebra-aibn
   topics: []

@@ -636,6 +636,16 @@
   title_id: calculation-of-cross-product-of-2-vectors-using-the-angle-between-them
   topics: []
   translations: {}
+2c8d9029-ba26-40ba-9d3a-04725ea5fbe0:
+  hexsha:
+    private: 1d3ddc040566723a303e82463e47de1f4f67421c
+    public: cb0f5ce062695b2ae68541c8e7d04133cc651c55
+  language: en
+  modified: '2020-02-25T04:16:35.978324Z'
+  title: 'Complex number algebra: (a+ib)^n'
+  title_id: complex-number-algebra-aibn
+  topics: []
+  translations: {}
 2d665ad7-18f9-4f65-b335-871cedf1e07f:
   hexsha:
     private: b84c1a23d24c78fa6d9e1343fa6d35d74071e7d6

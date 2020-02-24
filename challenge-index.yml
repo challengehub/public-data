@@ -3341,6 +3341,16 @@ d8d5e07f-816d-4adb-92df-19e10e8be4b9:
   title_id: reverse-laplace-transform-1s2-1s
   topics: []
   translations: {}
+d9189a40-a700-42b8-92c4-d861b57a7036:
+  hexsha:
+    private: 03957f0ac18f297097e434192feb100aec6badff
+    public: c7e1ecf388a863394fb46151c236e509564b11ba
+  language: en
+  modified: '2020-02-25T07:47:36.931616Z'
+  title: Properties of complex numbers under the conditions z=z* and (z)^2=(z*)^2
+  title_id: properties-of-complex-numbers-under-the-conditions-zz-and-z2z2
+  topics: []
+  translations: {}
 d9c95807-fedc-44ab-bcaf-97558c83fd86:
   hexsha:
     private: fe7f85397b72e7367596e86f72ba9d5cd9d790b8

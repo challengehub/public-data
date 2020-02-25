@@ -3502,6 +3502,16 @@ e0c75c63-d56d-46e1-83ec-9947d54a6372:
   title_id: definition-of-a-steady-state-condition-in-diffusive-mass-transfer
   topics: []
   translations: {}
+e267861f-2e79-4489-9ae0-ec54fbb0a381:
+  hexsha:
+    private: a0038f0615149d7b3207ba63ea39f28f576d63cf
+    public: 85a7279ea963d21b2a7b8ff96dd7b7e1e6dadd05
+  language: en
+  modified: '2020-02-26T00:37:40.120861Z'
+  title: Express |z+ 5z*| in terms of x and y
+  title_id: express-z-5z-in-terms-of-x-and-y
+  topics: []
+  translations: {}
 e274442b-f7aa-48f5-a604-52a9aedd0c27:
   hexsha:
     private: 67198677377beb7012d5ab86bee7473a314eeca9

@@ -251,6 +251,16 @@
   title_id: inertia-a-simple-cylinder-sample-problem
   topics: []
   translations: {}
+154090a6-324d-482e-b1d6-49ec45faea50:
+  hexsha:
+    private: f837a37a2e749a82c2e3459ea017da8145d611d2
+    public: 2a8b6a41c267a3a7fae9a39a61edfb94143641f7
+  language: en
+  modified: '2020-02-26T01:18:55.142262Z'
+  title: Graphing z* = z^-1 in the complex plane
+  title_id: graphing-z-z-1-in-the-complex-plane
+  topics: []
+  translations: {}
 15dae042-098e-4860-9642-35c7232dc59b:
   hexsha:
     private: ee3fec7be86a42ddd6c1c716cca7c2c6b1d2bc96

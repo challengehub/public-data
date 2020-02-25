@@ -2704,6 +2704,16 @@ aebded7e-674f-47cf-917b-0b2f37adfdfa:
   title_id: boiling-text-missing-word-37
   topics: []
   translations: {}
+aebfc845-cf9f-4a1c-87a9-96b506e29a16:
+  hexsha:
+    private: 166dd2d09083c99777a9a2fe04bb9d5c56b3c445
+    public: c95416e08224db5ef3f976bfe6b13ae6ca21dc7d
+  language: en
+  modified: '2020-02-26T01:11:23.275652Z'
+  title: Graphing |z-i| = | z-1| in the complex plane
+  title_id: graphing-z-i-z-1-in-the-complex-plane
+  topics: []
+  translations: {}
 af8ca8a3-de68-4202-a908-2e9564377fc1:
   hexsha:
     private: 57b4189029a550a73d418fa684165ff185b16c99

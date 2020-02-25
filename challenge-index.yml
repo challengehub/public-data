@@ -636,6 +636,16 @@
   title_id: identifying-even-and-odd-functions
   topics: []
   translations: {}
+2a0aea6d-a239-4014-9e17-1336ff09500e:
+  hexsha:
+    private: c1c93d821595394c0f3d324ca3a8df04d6b314e6
+    public: 404f9a3b67da24dadef7d1e9943d8e0ff488eb5d
+  language: en
+  modified: '2020-02-26T01:21:34.454401Z'
+  title: Graphing |z| = Re(z) in the complex plane
+  title_id: graphing-z-rez-in-the-complex-plane
+  topics: []
+  translations: {}
 2a57d650-2c00-4147-9113-ea0096d60ca3:
   hexsha:
     private: d27ac035c3676cf01b051896f98c01db62dd92b7

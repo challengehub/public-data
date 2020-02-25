@@ -2471,6 +2471,16 @@
   title_id: thinking-of-a-new-original-product-for-wettability-controlled-surfaces
   topics: []
   translations: {}
+9979ec1f-0c9e-4318-bea2-5be9f54c05b6:
+  hexsha:
+    private: 23ec0be7f19060bee80d971b3a0d5ea613149c8a
+    public: 9a8c413302545d8aba96c24cc326f772793938d2
+  language: en
+  modified: '2020-02-26T01:34:09.132298Z'
+  title: Prove |z_1 z_2| = |z_1||z_2|
+  title_id: prove-z1-z2-z1z2
+  topics: []
+  translations: {}
 9a933582-fd69-45ff-88fc-c33954f1caf3:
   hexsha:
     private: d51790c003ac3f93624ca49c5f76a79639870223

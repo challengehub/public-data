@@ -3824,6 +3824,16 @@ f5c97038-c150-4774-925e-04a803deb5a6:
   title_id: derivation-of-a-periodically-forced-harmonically-vibrating-system
   topics: []
   translations: {}
+f66f9ab6-ad8b-496f-8cc7-bf9bd267876b:
+  hexsha:
+    private: 417a99f90f4ee796c2b09d05b9abd0f85a6eb89b
+    public: ff18c935f8b2d941e11589b74d23d44ae2654a11
+  language: en
+  modified: '2020-02-26T00:33:21.899634Z'
+  title: Evaluate |1-i|
+  title_id: evaluate-1-i
+  topics: []
+  translations: {}
 f6b7e2ab-628d-4fda-a53d-50cd6aaba1dd:
   hexsha:
     private: bb2127a8040943027b6870bb1ffd7f008ee79b6e

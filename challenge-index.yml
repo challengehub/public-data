@@ -1210,6 +1210,16 @@
   title_id: could-a-bubble-be-created-more-easily-on-a-hydrophobic-or-hydrophilic-surface
   topics: []
   translations: {}
+48855029-8d08-4e8f-b080-f97fee748d28:
+  hexsha:
+    private: dbf85390882576deaf033557bf4d56e79882d474
+    public: a57a40806385011271d4301d146cf8871f4d2296
+  language: en
+  modified: '2020-02-26T00:05:25.482365Z'
+  title: Showing z_2 = k z_1*
+  title_id: showing-z2-k-z1
+  topics: []
+  translations: {}
 4a57e0ee-5c01-4a16-ab89-174c45b27ddd:
   hexsha:
     private: 781cdab3ccee123e97ed54bb5ffa486487e798b9

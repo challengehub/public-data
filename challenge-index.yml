@@ -2874,6 +2874,16 @@ b8b8495e-5fca-4114-a5f3-a70ecc3793c4:
   title_id: test-challenge
   topics: []
   translations: {}
+b8b9034b-e76c-4f58-a074-180a7847ee64:
+  hexsha:
+    private: cee213523906e300fed3c94770d3f75a003df8ac
+    public: 3f3c1a61e636765c989a9f89fec0c676466f45a7
+  language: en
+  modified: '2020-03-02T06:29:51.458267Z'
+  title: Finding the complex roots of unity
+  title_id: finding-the-complex-roots-of-unity
+  topics: []
+  translations: {}
 b969ef61-49fc-4e97-bf55-6a393489a4e5:
   hexsha:
     private: 00fb7c39053101aa7b2291047c63a3cd9c014f81

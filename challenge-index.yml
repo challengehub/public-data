@@ -1129,6 +1129,16 @@
   title_id: crank-style-problem-sp73
   topics: []
   translations: {}
+436ba164-9015-490d-a05c-c4102780bb77:
+  hexsha:
+    private: 73a4fbcaeb2cfd001bf63f112f30c3063ac7496d
+    public: dd766a4d0292d32326a35c6c892eb1cbf2c69092
+  language: en
+  modified: '2020-03-02T05:12:30.419598Z'
+  title: Relation of complex numbers if Arg(z1)=Arg(z2)
+  title_id: relation-of-complex-numbers-if-argz1argz2
+  topics: []
+  translations: {}
 43933332-bb15-4d7b-9826-b452b90724d6:
   hexsha:
     private: 3d10dbf5a64539f2e7c4a604d761c911e3ed575f

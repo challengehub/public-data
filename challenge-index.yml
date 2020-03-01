@@ -3178,6 +3178,16 @@ cb8bf493-4808-4c6e-944d-67e8439a6b59:
   title_id: ideal-gas-mixtures-and-density
   topics: []
   translations: {}
+cba3c698-b3e8-4ebf-8a55-d1d6c7d50dce:
+  hexsha:
+    private: e94644bd3db3dd0bcf9d583d0bd6b91d8974bf63
+    public: 451c0572773df13bd53f530e3553b55fa358d65d
+  language: en
+  modified: '2020-03-02T01:42:38.59356Z'
+  title: Converting the polar representation of complex numbers into a Cartesian representation
+  title_id: converting-the-polar-representation-of-complex-numbers-into-a-cartesian-representation
+  topics: []
+  translations: {}
 cc8a3d1b-e1c1-4b08-8406-b7e70c33fb9f:
   hexsha:
     private: 974e23e4ec3f1066836767976d2790a0cc3e7d8e

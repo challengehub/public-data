@@ -1420,6 +1420,16 @@
   title_id: determining-the-angular-momentum-of-particles-relative-to-the-centre-of-mass
   topics: []
   translations: {}
+583afed2-f312-4a74-89b9-4bb88a48bf7c:
+  hexsha:
+    private: da4f45b992358808f5ab765df7c62dafe4e4afee
+    public: ea7a87898eec17ccd5bfc104dff33beea49ceff5
+  language: en
+  modified: '2020-03-02T03:49:55.17027Z'
+  title: Expressing z=(-2-2i)^-9 in polar form
+  title_id: expressing-z-2-2i-9-in-polar-form
+  topics: []
+  translations: {}
 5854fe63-949b-4516-b973-1c5d2010a94a:
   hexsha:
     private: 050889fa13b0784a5753712685ab75ce2b01c1c8

@@ -2126,6 +2126,16 @@
   title_id: a-worked-example-of-calculations-of-two-simultanious-rotations-on-different-axes-sp-71
   topics: []
   translations: {}
+8812243c-f903-42f6-9af1-a9a79fc23a54:
+  hexsha:
+    private: 9baab63eca774bac52d0540c866bd219759a08b1
+    public: e7b4207110c874f9733b63bd69f8bf2de493ba96
+  language: en
+  modified: '2020-03-02T06:13:30.390067Z'
+  title: Understanding the multiple complex roots of a number
+  title_id: understanding-the-multiple-complex-roots-of-a-number
+  topics: []
+  translations: {}
 888f523b-96b4-4dbf-af3a-e1be869f5766:
   hexsha:
     private: 01155abc270bd087c952643db8ebdbe5d94194bf

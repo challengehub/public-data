@@ -3005,6 +3005,16 @@ c0f52539-21a9-48a9-9943-ccb2dfdc9d9d:
   title_id: test-challenge-2
   topics: []
   translations: {}
+c13a73c3-7367-4e8c-a74e-2711c0e7da50:
+  hexsha:
+    private: 013d0589d04380945b504e4fc16b65766ba6d70a
+    public: 2fa33c5731106b503ff074ab664407a28333a3f3
+  language: en
+  modified: '2020-03-02T01:32:11.058088Z'
+  title: Introduction to polar representation of complex numbers
+  title_id: introduction-to-polar-representation-of-complex-numbers
+  topics: []
+  translations: {}
 c3b05988-8a42-40b7-aae7-2f069d34e329:
   hexsha:
     private: 7bd8be37294bf00058b11f5a6b1dca404e08d346

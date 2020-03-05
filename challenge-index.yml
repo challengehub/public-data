@@ -949,6 +949,16 @@
   title_id: sample-problem-angular-momentum-and-kinetic-energy-of-two-perpendicular-plates
   topics: []
   translations: {}
+3b74e733-bd62-43ba-aff5-ea28149928d7:
+  hexsha:
+    private: 547bad495fb98db83aeaa6317e875f9bd0264833
+    public: 88c6f7d57276688102a3c5f9ef51ed72e7d45463
+  language: en
+  modified: '2020-03-06T04:42:38.037875Z'
+  title: Definition of circles, discs, neighbourhoods and deleted neighbourhoods
+  title_id: definition-of-circles-discs-neighbourhoods-and-deleted-neighbourhoods
+  topics: []
+  translations: {}
 3bdb5c87-a8c0-43e0-8178-c1b7b5558c7c:
   hexsha:
     private: a02e239971ed45674f31dae7f110e089c48a1b45

@@ -19,6 +19,16 @@
   title_id: characteristic-equation-identification-equal-roots
   topics: []
   translations: {}
+0154c40f-6277-4ee6-9ea2-69ca544f9469:
+  hexsha:
+    private: 4a155dba4a7aaa579b5a428caa5fac9386441c0b
+    public: 96367b480263263f39ac99492b2769d42ee44dce
+  language: en
+  modified: '2020-03-06T04:54:45.242913Z'
+  title: Sketching graphs in the complex plane
+  title_id: sketching-graphs-in-the-complex-plane
+  topics: []
+  translations: {}
 022e0aee-5de5-4841-96f8-e372da0bf2af:
   hexsha:
     private: 9230330088a5712b7e28232a03e0158abce7e235

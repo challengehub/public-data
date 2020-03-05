@@ -1430,6 +1430,16 @@
   title_id: determining-the-angular-momentum-of-particles-relative-to-the-centre-of-mass
   topics: []
   translations: {}
+53abf9f0-82c4-44df-8457-693329fa567c:
+  hexsha:
+    private: 6110ff6c531863f47cdcdfc77d51077ba514902e
+    public: fade694c2e60efefc2a81d3b489fc67b1e6bd6e1
+  language: en
+  modified: '2020-03-06T03:33:20.776483Z'
+  title: Obtaining an expression for the k'th real root of 1
+  title_id: obtaining-an-expression-for-the-kth-real-root-of-1
+  topics: []
+  translations: {}
 583afed2-f312-4a74-89b9-4bb88a48bf7c:
   hexsha:
     private: da4f45b992358808f5ab765df7c62dafe4e4afee

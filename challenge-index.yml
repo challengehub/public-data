@@ -3156,6 +3156,16 @@ c7132fd6-fb16-4db4-8118-b1bc5f7ec5e9:
   title_id: reverse-laplace-transform-62s4
   topics: []
   translations: {}
+c71885e8-d119-4afc-8bf4-f085441eac95:
+  hexsha:
+    private: 44cb50ca73f801b761d4e3b58c4fe4f3b4e832d7
+    public: e76c654c126ce5a5580669c6313b5b48aca6adc6
+  language: en
+  modified: '2020-03-06T03:36:06.888183Z'
+  title: Can there be a 2nd cube root in the 1st quadrant?
+  title_id: can-there-be-a-2nd-cube-root-in-the-1st-quadrant
+  topics: []
+  translations: {}
 c9dfbc7a-e714-4974-a776-57b82b3ff51d:
   hexsha:
     private: 021765c128e815f8e650dd21a05fe9cb565a44a2

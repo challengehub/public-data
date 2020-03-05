@@ -1773,6 +1773,16 @@
   title_id: solving-separable-odes-yy
   topics: []
   translations: {}
+73b03f08-fbd8-4fc3-9f99-9de3fb6934be:
+  hexsha:
+    private: 5bb5973b9839415260e7c1cb736b1e092c7e64bf
+    public: e94bac28747ede6c04147cffb9559c95e4361812
+  language: en
+  modified: '2020-03-06T03:40:36.867239Z'
+  title: Relation of real-imaginary fourth roots
+  title_id: relation-of-real-imaginary-fourth-roots
+  topics: []
+  translations: {}
 73dcdc66-dfd0-483f-97cb-35b8557021d6:
   hexsha:
     private: 34c3c53161d7a3f3c44cfbc75a2679e55d7c338e

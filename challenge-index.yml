@@ -251,6 +251,16 @@
   title_id: characteristic-equation-exersize-2y-8y-y-0
   topics: []
   translations: {}
+1120c1ca-b85e-41a1-9854-2353a6e859f9:
+  hexsha:
+    private: b0586b44362595f1d23fb5fbf91759fd6175e775
+    public: 78e829c58c853f4f324bcc87770511d3aa6f65df
+  language: en
+  modified: '2020-03-09T07:16:08.609684Z'
+  title: Sketching complex number sets and determining their nature
+  title_id: sketching-complex-number-sets-and-determining-their-nature
+  topics: []
+  translations: {}
 1199a50f-f776-48d1-be62-afbb61581f16:
   hexsha:
     private: 6614f7976a01e20b460fc158a3be5c8ae2ae328a

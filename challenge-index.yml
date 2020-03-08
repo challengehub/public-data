@@ -2561,6 +2561,16 @@
   title_id: prove-z1-z2-z1z2
   topics: []
   translations: {}
+9a2451c9-cee6-4ee1-9789-4c4e7fdc5f4b:
+  hexsha:
+    private: 85e0e24adec0dd6185ef0983a8139057b80778bb
+    public: 65754e5fcc8d49d4d87f38e84f72b23bccd5a71d
+  language: en
+  modified: '2020-03-09T08:25:07.531379Z'
+  title: Characteristics of a set of discrete points in a complex plane
+  title_id: characteristics-of-a-set-of-discrete-points-in-a-complex-plane
+  topics: []
+  translations: {}
 9a933582-fd69-45ff-88fc-c33954f1caf3:
   hexsha:
     private: d51790c003ac3f93624ca49c5f76a79639870223

@@ -2084,6 +2084,16 @@
   title_id: boiling-text-missing-word-29
   topics: []
   translations: {}
+824d260a-a777-4685-a7a2-cd1b57b2aac2:
+  hexsha:
+    private: 84ece8f08143377b64796537e0063bf0b9f5410e
+    public: 04ac18c3f73c0c301aa6ad14cdd765403cd8fbbc
+  language: en
+  modified: '2020-03-11T02:49:07.68976Z'
+  title: Writing complex numbers in exponential form
+  title_id: writing-complex-numbers-in-exponential-form
+  topics: []
+  translations: {}
 82587093-0f57-4142-a64c-bf81f73434fc:
   hexsha:
     private: c0f46413a001999b2f6a53df69b5cdad60429a7d

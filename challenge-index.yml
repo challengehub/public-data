@@ -2054,6 +2054,16 @@
   title_id: convolution-of-two-window-functions
   topics: []
   translations: {}
+806f0e1e-0a32-4602-89de-524d8ac60592:
+  hexsha:
+    private: c99698187584450a2c74d0e51c505bd98744361d
+    public: a3556dcc6d28bc9466186b2641a21b2aaa66ef30
+  language: en
+  modified: '2020-03-11T06:46:06.434426Z'
+  title: Finding the real and imaginary parts of functions
+  title_id: finding-the-real-and-imaginary-parts-of-functions
+  topics: []
+  translations: {}
 80713277-e5fb-4674-852e-89ac898a7b45:
   hexsha:
     private: c85dba5b3252bac2d556c9aac389a47e5ce162fa

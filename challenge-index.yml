@@ -656,6 +656,16 @@
   title_id: identifying-even-and-odd-functions
   topics: []
   translations: {}
+29fe5fd8-25bc-4367-a04c-0f8a60768bda:
+  hexsha:
+    private: 56a637500afda3be1f11c30f73fce6e2ff79db21
+    public: 42be5ca43819d316eb3077f3d9d81f2642e9c473
+  language: en
+  modified: '2020-03-11T01:48:43.836916Z'
+  title: "Factoring z^2 + 2z \u2212 \u221A3i = 0"
+  title_id: factoring-z2-2z-3i-0
+  topics: []
+  translations: {}
 2a0aea6d-a239-4014-9e17-1336ff09500e:
   hexsha:
     private: c1c93d821595394c0f3d324ca3a8df04d6b314e6

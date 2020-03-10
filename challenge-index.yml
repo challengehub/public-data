@@ -2571,6 +2571,16 @@
   title_id: thought-process-for-solving-a-challenge
   topics: []
   translations: {}
+98cba074-cb71-4497-bb21-75f01ac85305:
+  hexsha:
+    private: f25591c869486d1044ebf63fff57d5d80e192396
+    public: 4625d73c8c4d7e981df684af65684f62635733e1
+  language: en
+  modified: '2020-03-11T05:38:36.866459Z'
+  title: Solving a complex ODE (3y'' + y = 0)
+  title_id: solving-a-complex-ode-3y-y-0
+  topics: []
+  translations: {}
 996dccc7-395d-43d9-ad50-ef47e4d39aab:
   hexsha:
     private: bec6d2795e5c73551f2e7602b087b53a6b39d1a5

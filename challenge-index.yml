@@ -1490,6 +1490,16 @@
   title_id: obtaining-an-expression-for-the-kth-real-root-of-1
   topics: []
   translations: {}
+552972af-9a44-49c5-a727-b4b616ea9d97:
+  hexsha:
+    private: f25475b19aecd53aac34d9105c541413046d54fd
+    public: c55e2c18f8a4ea35ab99b3b917dc228d8e295b3d
+  language: en
+  modified: '2020-03-11T07:05:47.133756Z'
+  title: Finding the real and imaginary parts of polar functions
+  title_id: finding-the-real-and-imaginary-parts-of-polar-functions
+  topics: []
+  translations: {}
 583afed2-f312-4a74-89b9-4bb88a48bf7c:
   hexsha:
     private: da4f45b992358808f5ab765df7c62dafe4e4afee

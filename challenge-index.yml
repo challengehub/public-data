@@ -253,12 +253,12 @@
   translations: {}
 108bd008-b765-4cc3-9b96-efd054a470be:
   hexsha:
-    private: f41afef045c1dcc626a4522e4136b8e3a32619e8
-    public: 0fba0fda97e73870e42b97cca1f07b75c0797a2f
+    private: aa391fe8acaf2b83e25dc429ce96763e696e56c0
+    public: 60ac4417e2f5931a7ffca318edff84287c76eb2f
   language: en
-  modified: '2020-03-11T01:51:45.80844Z'
-  title: "z^2 \u2212(1+9i)z\u221220+5i=0"
-  title_id: z2-19iz205i0
+  modified: '2020-03-11T01:52:52.633644Z'
+  title: "Factoring z^2 \u2212(1+9i)z\u221220+5i=0"
+  title_id: factoring-z2-19iz205i0
   topics: []
   translations: {}
 1120c1ca-b85e-41a1-9854-2353a6e859f9:

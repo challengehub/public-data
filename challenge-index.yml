@@ -3318,6 +3318,16 @@ ccca6e05-5da4-4bd8-b7d0-3a042ab6e7d3:
   title_id: 3d-linear-acceleration-of-two-points-on-a-crank
   topics: []
   translations: {}
+cdb0e8ae-746e-49b2-aeed-5a8749cb2cc8:
+  hexsha:
+    private: e34afbaf36f50295e56dffd26dcb643ebf27e1ad
+    public: 01e5e5d06296d262ca78b70f766bb88f126e724b
+  language: en
+  modified: '2020-03-11T01:42:45.875197Z'
+  title: Factoring iz^2 - z + i = 0
+  title_id: factoring-iz2-z-i-0
+  topics: []
+  translations: {}
 cf121668-42e8-4fca-a169-c7f8f253c1fa:
   hexsha:
     private: 816a98ddd61a465148b9d81a887c2671486faa9e

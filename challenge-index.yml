@@ -2761,6 +2761,16 @@ a36fd9a7-ee26-4f25-ba8f-47fe2cdf6640:
   title_id: boiling-text-missing-word-12
   topics: []
   translations: {}
+a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
+  hexsha:
+    private: 3c86c7542f43e847f7037a6854b265db147d0e9e
+    public: 1d1212391dbebd1b44455867affa363e5a093362
+  language: en
+  modified: '2020-03-16T07:05:49.629759Z'
+  title: Linear mapping of a closed disk
+  title_id: linear-mapping-of-a-closed-disk
+  topics: []
+  translations: {}
 a3de3205-4018-4432-b8bd-a450390d67bb:
   hexsha:
     private: bd98666684d86d6de4b639bb1e4e843b2ca1a451

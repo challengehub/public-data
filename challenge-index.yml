@@ -1773,6 +1773,16 @@
   title_id: test-006
   topics: []
   translations: {}
+67a0bf64-fd13-40c4-8a33-9116f09e5927:
+  hexsha:
+    private: 012784725d9dd923f8640f92f73210d880bf7964
+    public: 5fa1663924e339d47d360754e63be83612c9e624
+  language: en
+  modified: '2020-03-16T06:32:25.469129Z'
+  title: Sketching complex parametric curves
+  title_id: sketching-complex-parametric-curves
+  topics: []
+  translations: {}
 6917e372-92c4-439d-a372-059b66afa45a:
   hexsha:
     private: d0a858f5ece71fc21e1d783cffc04b2ff0fec615

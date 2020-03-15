@@ -2763,12 +2763,12 @@ a36fd9a7-ee26-4f25-ba8f-47fe2cdf6640:
   translations: {}
 a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
   hexsha:
-    private: 3c86c7542f43e847f7037a6854b265db147d0e9e
-    public: 1d1212391dbebd1b44455867affa363e5a093362
+    private: aa6d2de00591486568f043c3291c9aaf83278ff0
+    public: 066e7fc5c392b9e59022facab3ab812c8b081bf8
   language: en
-  modified: '2020-03-16T07:05:49.629759Z'
-  title: Linear mapping of a closed disk
-  title_id: linear-mapping-of-a-closed-disk
+  modified: '2020-03-16T07:07:00.846603Z'
+  title: Linear mapping of a closed disk in a complex plane
+  title_id: linear-mapping-of-a-closed-disk-in-a-complex-plane
   topics: []
   translations: {}
 a3de3205-4018-4432-b8bd-a450390d67bb:

@@ -807,6 +807,16 @@
   title_id: systems-of-odes-basis-for-creating-a-system-of-equations-from-a-single-homogeneous-ode-y-4y-5y-0
   topics: []
   translations: {}
+330934a4-2767-4464-978e-8cae2578fc0c:
+  hexsha:
+    private: 8dc027da4adf2165c1cef21d40e4a2bcacf9b4a2
+    public: 63dc7e6ab7e8020a4cd612285c0a1bc4ac4f5bf5
+  language: en
+  modified: '2020-03-16T05:05:04.036373Z'
+  title: Proving e^(z+2 pi i) = e^z
+  title_id: proving-ez2-pi-i-ez
+  topics: []
+  translations: {}
 33349010-5584-431d-9474-2c7564c557aa:
   hexsha:
     private: fe71ba356896d647c11080eb7b3cf29cfb4b72a4

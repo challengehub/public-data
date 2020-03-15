@@ -554,6 +554,17 @@
   title_id: understanding-tangent-lines
   topics: []
   translations: {}
+23400430-2516-4ad9-afa4-d0642a4d745b:
+  hexsha:
+    private: 1dd8912f9770acf95092a57bdf774faa036e5499
+    public: 0696ffc21007a63983671a93235cefe939472dff
+  language: en
+  modified: '2020-03-16T08:06:50.033506Z'
+  title: Expressing complex linear mapping in terms of rotation, magnification and
+    translation
+  title_id: expressing-complex-linear-mapping-in-terms-of-rotation-magnification-and-translation
+  topics: []
+  translations: {}
 23ae1189-9b2d-4e78-bcee-69b2420aa4f7:
   hexsha:
     private: 9b1609bbd071cc4c166bf3341db089751a657e10

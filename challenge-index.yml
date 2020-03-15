@@ -1492,10 +1492,10 @@
   translations: {}
 552972af-9a44-49c5-a727-b4b616ea9d97:
   hexsha:
-    private: cb4508c6d7e6e6f746ae371088455533a84cf53e
-    public: 16cedd5bbbd762fa541337cfd68e5cf8247243a6
+    private: c215690cc33495715fda2da141b352bdc4680ff7
+    public: 33fc5cbc485b6eb899c1379b69deb05bc916d333
   language: en
-  modified: '2020-03-11T07:07:11.987245Z'
+  modified: '2020-03-16T04:51:51.011014Z'
   title: Finding the real and imaginary parts of complex polar functions
   title_id: finding-the-real-and-imaginary-parts-of-complex-polar-functions
   topics: []

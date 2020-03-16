@@ -2847,10 +2847,10 @@ a806f89e-bfa5-4c75-8563-fb8aa4acb446:
   translations: {}
 a8124252-ab6c-4e07-8592-531baa3e565a:
   hexsha:
-    private: d456f5c1927aa96d1f398f579c39554d5490f936
-    public: 3f3b52d5f5f3464f1a37e0c133ed8af9957bd1aa
+    private: 3583f7fa537d367fb78722f919001c07ccee4a06
+    public: e6fb868b313c7863c22a74e0d74a96c4f0d074d1
   language: en
-  modified: '2020-03-17T05:10:45.476185Z'
+  modified: '2020-03-17T05:12:41.230791Z'
   title: Understanding commutation of translation, rotation and magnification of complex
     mapping
   title_id: understanding-commutation-of-translation-rotation-and-magnification-of-complex-mapping

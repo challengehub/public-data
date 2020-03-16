@@ -3227,6 +3227,17 @@ c13a73c3-7367-4e8c-a74e-2711c0e7da50:
   title_id: introduction-to-polar-representation-of-complex-numbers
   topics: []
   translations: {}
+c31df9d7-0f5e-4c99-ae4d-05b9caf4152e:
+  hexsha:
+    private: 89c948822d2f31305cd620282208337ff8735134
+    public: 6e61a2b722d6ce042be2144a118f7d4990e80bc6
+  language: en
+  modified: '2020-03-17T02:27:38.674535Z'
+  title: Understanding the effect of order of composition of two translations, two
+    rotations or two magnifications
+  title_id: understanding-the-effect-of-order-of-composition-of-two-translations-two-rotations-or-two-magnifications
+  topics: []
+  translations: {}
 c3b05988-8a42-40b7-aae7-2f069d34e329:
   hexsha:
     private: 7bd8be37294bf00058b11f5a6b1dca404e08d346

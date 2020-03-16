@@ -484,6 +484,17 @@
   title_id: velocity-and-acceleration-of-a-disk-that-is-undergoing-rotation-on-2-axes-using-a-reference-frame-rotating-in-2-dimensions
   topics: []
   translations: {}
+1e875274-a447-4808-b090-87e8d4ea20f4:
+  hexsha:
+    private: 9299d915b0ec00722968bfb7da2c0d568230f70f
+    public: d03333af7612302d75d58dd2a61a53629b3ca058
+  language: en
+  modified: '2020-03-17T01:58:30.450059Z'
+  title: Expressing a composition of a magnification, translation and rotation as
+    a linear mapping
+  title_id: expressing-a-composition-of-a-magnification-translation-and-rotation-as-a-linear-mapping
+  topics: []
+  translations: {}
 1f3a2e47-121d-4f09-9858-1dad74c1aac4:
   hexsha:
     private: 02f24f100cc5ad15e319e8454c723b962923ed24

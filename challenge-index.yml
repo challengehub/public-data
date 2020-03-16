@@ -2845,6 +2845,17 @@ a806f89e-bfa5-4c75-8563-fb8aa4acb446:
   title_id: understanding-the-fourier-transform-of-a-triangle-function
   topics: []
   translations: {}
+a8124252-ab6c-4e07-8592-531baa3e565a:
+  hexsha:
+    private: d456f5c1927aa96d1f398f579c39554d5490f936
+    public: 3f3b52d5f5f3464f1a37e0c133ed8af9957bd1aa
+  language: en
+  modified: '2020-03-17T05:10:45.476185Z'
+  title: Understanding commutation of translation, rotation and magnification of complex
+    mapping
+  title_id: understanding-commutation-of-translation-rotation-and-magnification-of-complex-mapping
+  topics: []
+  translations: {}
 a8d7908b-debc-45f3-b759-585fa86261d1:
   hexsha:
     private: 55031e15b1d1e3445fdd7e5f406eb75fca332813

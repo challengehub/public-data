@@ -4215,6 +4215,16 @@ fb2bb6af-363b-41f5-8b04-73f7739f9790:
   title_id: heat-equation-on-a-ring-understanding-periodicity
   topics: []
   translations: {}
+fc4fd5c1-ca0d-419e-a244-877b6fe91771:
+  hexsha:
+    private: 38f60c2e92be9cbf100568a98b1b622702c76ede
+    public: 8825a889929a80bb4b2c57bbb4a117dedb5fd1fc
+  language: en
+  modified: '2020-03-17T01:14:08.187265Z'
+  title: Mapping a complex square onto another set
+  title_id: mapping-a-complex-square-onto-another-set
+  topics: []
+  translations: {}
 fcf61b26-f6f4-4764-a305-440d6f215d5c:
   hexsha:
     private: 585100a2c56c7fe9c7c90153c117d8db275fab38

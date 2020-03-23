@@ -271,6 +271,16 @@
   title_id: sketching-complex-number-sets-and-determining-their-nature
   topics: []
   translations: {}
+1190e23a-bfce-4dc7-af1d-374fd6f2453a:
+  hexsha:
+    private: 5808e1d75e401af87df6c31226e355c51ef69f27
+    public: 32f75b585af3ee03780d4061a4d5200f1e1ba9d3
+  language: en
+  modified: '2020-03-24T07:52:17.083576Z'
+  title: Finding the image of a set under square-root mapping
+  title_id: finding-the-image-of-a-set-under-square-root-mapping
+  topics: []
+  translations: {}
 1199a50f-f776-48d1-be62-afbb61581f16:
   hexsha:
     private: 6614f7976a01e20b460fc158a3be5c8ae2ae328a

@@ -2612,6 +2612,16 @@
   title_id: definition-of-mass-transfer-in-this-course
   topics: []
   translations: {}
+96681381-cb5e-4005-b390-a73a192c00ca:
+  hexsha:
+    private: 5887f7817a9523554db7ee4cee9a256b94a24534
+    public: ca5fa84ebc63f1cd6a1b947f7734f762bf24228b
+  language: en
+  modified: '2020-03-24T05:30:34.110395Z'
+  title: Drawing the set and image of the square with vertices 0, 1, 1+i and i
+  title_id: drawing-the-set-and-image-of-the-square-with-vertices-0-1-1i-and-i
+  topics: []
+  translations: {}
 96bb567c-ff20-4a99-839d-4f690e85d070:
   hexsha:
     private: 0054717a910688149a82c052a499f83194604a05

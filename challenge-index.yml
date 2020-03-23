@@ -3167,6 +3167,16 @@ bcc14a44-15e8-431a-9e65-f2574a7d2676:
   title_id: angular-momentum-of-a-rigid-link
   topics: []
   translations: {}
+bcd7710c-71d3-440e-9e96-ab3c54d38f10:
+  hexsha:
+    private: 2dccf0da4807abc0570abf353aefe09998720552
+    public: 7029877c7cb799d77d7bf46c3a5816c05b147699
+  language: en
+  modified: '2020-03-24T05:28:59.69858Z'
+  title: Drawing the set and image of the triangle with vertices 0, 1 and 1+i
+  title_id: drawing-the-set-and-image-of-the-triangle-with-vertices-0-1-and-1i
+  topics: []
+  translations: {}
 bdba6966-b5a6-47e9-b8b3-d36815906434:
   hexsha:
     private: 83cf058710fdf53e100bdf2d6f9831ba4ccc78ec

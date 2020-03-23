@@ -3370,6 +3370,17 @@ c5c7b366-3d09-4188-9994-1a5395945d99:
   title_id: rate-of-increase-of-mass-of-a-rocket
   topics: []
   translations: {}
+c655a344-3e46-4d80-ac3b-cdc8cdae4865:
+  hexsha:
+    private: a691a99c31170af19a9663f0566568fbafa7117e
+    public: a5d7b6e0c236c75bd49fbfac269df7a84dc96592
+  language: en
+  modified: '2020-03-24T05:57:11.935154Z'
+  title: Drawing the set and image of the circular arc |z| = 2, 0 <= arg(z) <= pi/2;
+    f(z) = 1/4 e^(I pi/4) z^2
+  title_id: drawing-the-set-and-image-of-the-circular-arc-z-2-0-argz-pi2-fz-14-ei-pi4-z2
+  topics: []
+  translations: {}
 c69828c4-d79b-45e3-964d-aaf6328b5d4c:
   hexsha:
     private: 2945f54b3aeb61c9d7a0331dd6ca80a71a2d42dd

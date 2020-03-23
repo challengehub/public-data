@@ -1101,6 +1101,16 @@
   title_id: the-fourier-coefficient-ak
   topics: []
   translations: {}
+3ed2275a-692e-42a8-8064-6e20c3b7061e:
+  hexsha:
+    private: e38fe2021f6731f3ff483b34a37dc4d9e5cb13c5
+    public: 3b4e7b2d51fd6da97d7cc70a44da59a5d58a1004
+  language: en
+  modified: '2020-03-24T05:27:25.442808Z'
+  title: Drawing the set and image of the line y = -5
+  title_id: drawing-the-set-and-image-of-the-line-y-5
+  topics: []
+  translations: {}
 3ee6ea3f-bee0-4710-a246-edf6923b84db:
   hexsha:
     private: 710285faac4ecb3e68a8c72d6a299332621dd339

@@ -3097,6 +3097,16 @@ b8b9034b-e76c-4f58-a074-180a7847ee64:
   title_id: finding-the-complex-roots-of-unity
   topics: []
   translations: {}
+b9121274-65e5-488d-b253-942a258debdf:
+  hexsha:
+    private: 4da6c578edd0854c62cf9ebb370d33db5655c3ed
+    public: 5a419f18cea50788876d4e54a5908c31bc3bc657
+  language: en
+  modified: '2020-03-24T05:55:08.813764Z'
+  title: Drawing the set and image of the line x=2 under transformation f(z) = iz^2-3
+  title_id: drawing-the-set-and-image-of-the-line-x2-under-transformation-fz-iz2-3
+  topics: []
+  translations: {}
 b969ef61-49fc-4e97-bf55-6a393489a4e5:
   hexsha:
     private: 00fb7c39053101aa7b2291047c63a3cd9c014f81

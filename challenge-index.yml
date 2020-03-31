@@ -1684,6 +1684,16 @@
   title_id: calculating-the-complex-fourier-coefficients-of-a-square-wave
   topics: []
   translations: {}
+5f904199-d155-408c-b6e7-c0eebd79ee2e:
+  hexsha:
+    private: 908e5af8bc3413bf4bb6075bd6bdff4de7ce83ee
+    public: d949bba45fbfc375c50b1d0401b16324365ccc5d
+  language: en
+  modified: '2020-04-01T05:09:13.236911Z'
+  title: A first introduction to complex limits
+  title_id: a-first-introduction-to-complex-limits
+  topics: []
+  translations: {}
 603d5421-59d8-4094-93a6-dd19a1797722:
   hexsha:
     private: 9d3fea7cd53150b4fd8a6f6f9ee034023447049f

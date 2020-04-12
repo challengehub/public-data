@@ -2653,6 +2653,16 @@
   title_id: definition-of-mass-transfer-in-this-course
   topics: []
   translations: {}
+96416f79-8418-43d2-aeb6-b1e5a4a143f2:
+  hexsha:
+    private: 7d48f38c806f7b593715b7a8cf8b246e82fc0a05
+    public: b5433041d73c5dac2aea7961912ab8d898e10ed4
+  language: en
+  modified: '2020-04-13T07:04:19.909107Z'
+  title: Showing the existence of complex limits
+  title_id: showing-the-existence-of-complex-limits
+  topics: []
+  translations: {}
 96681381-cb5e-4005-b390-a73a192c00ca:
   hexsha:
     private: 5887f7817a9523554db7ee4cee9a256b94a24534

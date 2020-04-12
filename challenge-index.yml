@@ -1443,6 +1443,16 @@
   title_id: non-homogeneous-equations-method-of-undetermined-coefficients-2
   topics: []
   translations: {}
+4cffd999-af9b-4aca-9a98-9fd707a84b44:
+  hexsha:
+    private: 9f75e2f4e13d8291cbad2411f8dec1ee81870846
+    public: ed5712ff9564005e074027ae6342033dac02730f
+  language: en
+  modified: '2020-04-13T04:14:31.05034Z'
+  title: A review of real limits (Khan academy)
+  title_id: a-review-of-real-limits-khan-academy
+  topics: []
+  translations: {}
 4d9d9856-6516-4590-bf64-7334e89803b0:
   hexsha:
     private: 83ca2a7ad4c75fb7c4031e06a2b9c7d9190804de

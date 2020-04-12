@@ -1445,12 +1445,12 @@
   translations: {}
 4cffd999-af9b-4aca-9a98-9fd707a84b44:
   hexsha:
-    private: 9f75e2f4e13d8291cbad2411f8dec1ee81870846
-    public: ed5712ff9564005e074027ae6342033dac02730f
+    private: 553126e4452c918b1aeb7e86c961d312544f50ee
+    public: 85f773a7f0b1b577b82b82f8876b48c9ed54e298
   language: en
-  modified: '2020-04-13T04:14:31.05034Z'
-  title: A review of real limits (Khan academy)
-  title_id: a-review-of-real-limits-khan-academy
+  modified: '2020-04-13T05:15:51.533077Z'
+  title: A review of continuous functions and real limits (Khan academy)
+  title_id: a-review-of-continuous-functions-and-real-limits-khan-academy
   topics: []
   translations: {}
 4d9d9856-6516-4590-bf64-7334e89803b0:

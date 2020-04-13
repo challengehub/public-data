@@ -919,6 +919,16 @@
   title_id: characteristic-equation-real-negative-roots
   topics: []
   translations: {}
+34e99769-6721-4176-b94d-f1110eb2d22d:
+  hexsha:
+    private: ef4e0e96f71ef0417a3b35c7e2c4bafbcbc0a4d7
+    public: ad54c252d67198d116ec19bfb970e2f5f0311387
+  language: en
+  modified: '2020-04-14T01:24:39.103856Z'
+  title: Factoring a difference of cubes
+  title_id: factoring-a-difference-of-cubes
+  topics: []
+  translations: {}
 35cd73f7-8f5a-4b15-8a75-f753936531f7:
   hexsha:
     private: bc241bdc4b1c7d2bc0bb9016a5a1e396e835a2aa

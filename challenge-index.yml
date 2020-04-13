@@ -798,6 +798,16 @@
   title_id: the-definition-and-derivation-of-the-moment-of-inertia
   topics: []
   translations: {}
+3002e7a2-9703-4464-9618-f098800b046c:
+  hexsha:
+    private: a3d225398f4f726519ee56c9ef6628fafc4af97c
+    public: 660dd6211a11a5127e2b2e7a46d1fe2e7de9a19c
+  language: en
+  modified: '2020-04-14T01:10:13.711178Z'
+  title: Showing that a complex function is continuous at z0
+  title_id: showing-that-a-complex-function-is-continuous-at-z0
+  topics: []
+  translations: {}
 303d425e-40fa-4e92-b780-7af2c4c8cdf1:
   hexsha:
     private: afabe7cedc59918f4843f14af1f876645a97d443

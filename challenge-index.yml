@@ -1458,6 +1458,16 @@ ea22fb9b-f151-42a2-ace2-81546dce5705:
   language: en
   translations: {}
   title: Sketching complex number sets and determining their nature
+c77b2063-0915-40fd-9c1b-3c1edc32fda6:
+  topics: []
+  modified: 2020-05-01T02:58:24.305114453Z
+  hexsha:
+    private: 8ee336690f0ffa991a8ebb7ffbfe9193854df61c
+    public: aef15decf26f385e9b632cd096a9c73c1c1b1001
+  title_id: obtaining-the-complex-derivative-of-fz-iz3-7z2
+  language: en-gb
+  translations: {}
+  title: Obtaining the complex derivative of f(z) = iz^3 - 7z^2
 068df312-4c2a-495c-8378-5f7aaf9ee690:
   topics: []
   modified: 2019-03-18T00:15:41.239907Z

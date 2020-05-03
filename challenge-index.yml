@@ -1,501 +1,512 @@
 # ChallengeHub Challenge Index
-0217149d-34f8-45cd-a3b3-61a21e52a212:
-  hexsha:
-    private: 4097cf5c8312d1cd9d19d60ff6f9ecc15be4886d
-    public: c0f03aaeefbaa41ea78d52d00792e7f13eff8ddd
-  language: en
-  modified: '2020-01-23T02:39:48.202401Z'
-  title: LAF -  Inner Product Space, Norms, Distance functions
-  title_id: laf-inner-product-space-norms-distance-functions
-  topics: []
-  translations: {}
-0bb6bb6d-dd26-4183-9540-961a08fe4055:
-  hexsha:
-    private: c58e36cb33144f914a4d4d2125dd2b0966e25f11
-    public: 132634708fb8608e78c1a3cf51f6be372013709d
-  language: en
-  modified: '2019-07-23T02:28:51.592648Z'
-  title: Sequences and Series
-  title_id: sequences-and-series
-  topics: []
-  translations: {}
-0dc52920-bd80-4383-ba6f-324ceb448dfb:
-  hexsha:
-    private: 4ac3534fe589f4640857b32a7a77cbc2fc18f52d
-    public: 58f4d5b3d6693ac94f1952994813eae7d25860ba
-  language: en
-  modified: '2019-09-12T06:06:57.447956Z'
-  title: LAF - Change of the matrix of linear transformation
-  title_id: laf-change-of-the-matrix-of-linear-transformation
-  topics: []
-  translations: {}
-10e49381-bda6-4d1c-95c2-d4281953a39f:
-  hexsha:
-    private: f41c112d723de30f272c347662e0bc475b139ea4
-    public: 15874dd6bc1671332b8237b34121005635639f3f
-  language: en
-  modified: '2019-04-04T00:24:44.882695Z'
-  title: Algebra of complex numbers (basic)
-  title_id: algebra-of-complex-numbers-basic
-  topics: []
-  translations: {}
-17c7b776-fb05-4802-b3b5-a53454106884:
-  hexsha:
-    private: f5f12cc943b19311ddfe8d939064cbfa8016b427
-    public: 0328dad2e970e4aab5d4904f8295ae32ac36f89d
-  language: en
-  modified: '2019-07-16T06:16:57.10146Z'
-  title: Residues and Residue Theorem
-  title_id: residues-and-residue-theorem
-  topics: []
-  translations: {}
-1ab0ca4c-a465-4f04-955f-505d350f480b:
-  hexsha:
-    private: ec00aefebfe1c3dd6f3d2282d8991bf3ef6d55e8
-    public: ab40bf8b3a225e01673d981b8dbdf7e48ea0f930
-  language: en
-  modified: '2019-06-18T13:23:04.582693Z'
-  title: Complex integrals
-  title_id: complex-integrals
-  topics: []
-  translations: {}
-2551c6a1-7cd7-4e14-8fab-f30d9f9ef06f:
-  hexsha:
-    private: ee3d5b37f5701aee418ab5a702c9e9f8a437ac17
-    public: 8ff24b3dc8dfe47be00b1791b3f5b299f6853c92
-  language: en
-  modified: '2019-05-15T02:50:05.570917Z'
-  title: Special Power Functions
-  title_id: special-power-functions
-  topics: []
-  translations: {}
-29397571-923d-4fd7-95d0-08002379e886:
-  hexsha:
-    private: ecac16d2094aed7bf4dc4209fbb189299f83c4d9
-    public: 1c6af6f5411debf5461faa88ecc2f13e3096811d
-  language: en
-  modified: '2019-09-12T04:31:29.692617Z'
-  title: LAF - Change of basis
-  title_id: laf-change-of-basis
-  topics: []
-  translations: {}
-3173c7df-f880-4026-8b4a-acfac543d675:
-  hexsha:
-    private: 0ffea3a36f09da7a5425683b50d4c1353a299c2e
-    public: 1bea5bd65ca8cf1829eae36097ac24fa974f2232
-  language: en
-  modified: '2019-07-23T02:25:05.33236Z'
-  title: Polar form of complex numbers (advanced)
-  title_id: polar-form-of-complex-numbers-advanced
-  topics: []
-  translations: {}
-342f4e99-aee6-4f34-bd0c-931a238dee8e:
-  hexsha:
-    private: c5fa1ca36330261dbf81bd67aa88b4f9e6fbdcde
-    public: 7d6fbe91bc4c6e553771858b6f18e5102854c223
-  language: en
-  modified: '2019-05-19T05:54:18.024884Z'
-  title: Analytic functions (basic)
-  title_id: analytic-functions-basic
-  topics: []
-  translations: {}
-3475d0aa-b223-44fd-b84f-3af887b12ead:
-  hexsha:
-    private: df5f6ac8a707293ac6e56abfad3733d7d7ac2bcf
-    public: daff600dd53d121ea0ed068b954666c88498d28a
-  language: en
-  modified: '2019-06-24T05:39:15.598913Z'
-  title: Cauchy-Goursat Theorem
-  title_id: cauchy-goursat-theorem
-  topics: []
-  translations: {}
-364fa6c9-230c-4af6-b48c-b550562cb796:
-  hexsha:
-    private: 0ca7dfbf57ecb3c9f44ca2f2ee517d477d76ec7b
-    public: 70ae1d1c5450cfb0ea1f9b533522c9f1dc39533e
-  language: en
-  modified: '2019-10-25T02:07:02.510625Z'
-  title: LAF - Eigenvalues and Eigenvectors of square matrices
-  title_id: laf-eigenvalues-and-eigenvectors-of-square-matrices
-  topics: []
-  translations: {}
-37659fdb-9ab0-403c-9477-465ec6af4b03:
-  hexsha:
-    private: 7472e31d0b6b83f2846eb71102d7910c4de4352c
-    public: e8c466f26aaa7858cd9b4ad873d83b65ca1dcda0
-  language: en
-  modified: '2019-07-01T04:50:58.533563Z'
-  title: Cauchy's Two Integral Formulas
-  title_id: cauchys-two-integral-formulas
-  topics: []
-  translations: {}
-3885ac38-15fd-4390-a6cf-bd6712ef0af6:
-  hexsha:
-    private: e4dd822670a62f736c85048a37f8e41269c1d546
-    public: 6243c590893fd4fb90f6be6f6e5a81ec68ca5aaf
-  language: en
-  modified: '2019-07-16T05:16:56.749114Z'
-  title: Zeros and Poles
-  title_id: zeros-and-poles
-  topics: []
-  translations: {}
-3cc3434e-ee6c-4164-bfdd-9571079555d3:
-  hexsha:
-    private: d767addf20b20b5c167c0a09fe4ef532ca759ec7
-    public: 3c9115ecfacbe3ff8ce565255ed868a2a9884f50
-  language: en
-  modified: '2019-09-02T05:02:08.986961Z'
-  title: LAF - Introduction to Determinants
-  title_id: laf-introduction-to-determinants
-  topics: []
-  translations: {}
-405114c1-7fbb-4e1a-a342-eb5039b691af:
-  hexsha:
-    private: 321690efff9c3951a4cb59cd8c18ffff992af46b
-    public: 94fb57821fc308bdd4e00efabb755f3d337b09d2
-  language: en
-  modified: '2019-09-26T00:18:59.932136Z'
-  title: LAF - Introduction to Eigenvalues and Eigenvectors
-  title_id: laf-introduction-to-eigenvalues-and-eigenvectors
-  topics: []
-  translations: {}
-4856002b-4c86-4b0b-8dd3-72c199cc5b10:
-  hexsha:
-    private: 41ba8bf5b529030ebe56ccb23451469107de9767
-    public: 0219a0ea2744019d542300404e91383c7b15de66
-  language: en
-  modified: '2020-01-08T08:51:03.122569Z'
-  title: LAF - Model file
-  title_id: laf-model-file
-  topics: []
-  translations: {}
-4b372d33-399f-4506-90dd-89db1cb990ae:
-  hexsha:
-    private: 99454c6a5914db79c85140a8a607b13118cd53a4
-    public: 6592ef844f4e5130873ffcb46d4f63ebbd2fa252
-  language: en
-  modified: '2019-05-14T04:19:36.805826Z'
-  title: 'Limits '
-  title_id: limits
-  topics: []
-  translations: {}
-55ccf76c-cb48-4566-b60f-efc880e39d69:
-  hexsha:
-    private: 57fec5d1d01c954c15cec86e5073a559dad5ad32
-    public: 5639ae5e0405b7c87becdd9430e9004ddaefb948
-  language: en
-  modified: '2019-04-05T00:16:00.611835Z'
-  title: Algebra of complex numbers (advanced)
-  title_id: algebra-of-complex-numbers-advanced
-  topics: []
-  translations: {}
-5cec5cbb-2820-47c0-b6ac-a8e38e39af34:
-  hexsha:
-    private: 72ca4d8ee8c360d8c8dbe1050405c4b4fcde8e8d
-    public: 1daff73725682c2b94f747d2bddd3f2b5235be88
-  language: en
-  modified: '2019-05-19T06:55:02.955266Z'
-  title: Continuity
-  title_id: continuity
-  topics: []
-  translations: {}
-5f46fe37-fbfd-4e7a-8727-d16bbd137d8c:
-  hexsha:
-    private: a980098aceb7f5d6a4ac5f0b5977380fc7cdf66d
-    public: 14c2e4c56a0dc1bcbbb8af38ce188349da19dadb
-  language: en
-  modified: '2019-04-02T02:12:58.768161Z'
-  title: 'Complex plane '
-  title_id: complex-plane
-  topics: []
-  translations: {}
-634f98f8-a451-42ad-970d-f3d0355d939a:
-  hexsha:
-    private: 6728f4028bab620762f9ec9f0bdf59fde0a65371
-    public: 1d46bd8768a425c6bf382d8a67da179331fa79b7
-  language: en
-  modified: '2019-05-28T04:47:47.563961Z'
-  title: Harmonic functions
-  title_id: harmonic-functions
-  topics: []
-  translations: {}
-68222b65-7828-427a-a6f5-80a2f71a61ac:
-  hexsha:
-    private: 432a6bf8581a96d14a4fb8f20444a8392e2e8292
-    public: f46a7cbc21202113830cff8b11709dff058779ff
-  language: en
-  modified: '2019-04-22T05:19:06.102214Z'
-  title: Sets of Points in the Complex Plane (advanced)
-  title_id: sets-of-points-in-the-complex-plane-advanced
-  topics: []
-  translations: {}
-72487f46-63b5-4b74-a511-b228350aaf15:
-  hexsha:
-    private: 89261cc740662ba5c13225717184a760bf06d0a9
-    public: 69a3a832e1ecb68eb3d82f16698f852cd7027d9e
-  language: en
-  modified: '2019-04-02T05:22:48.401913Z'
-  title: 'Complex functions '
-  title_id: complex-functions
-  topics: []
-  translations: {}
-749e4b67-ce15-4507-b2e5-b8b118ccb0c0:
-  hexsha:
-    private: 3eab75bfdfb956a8852c96ca2231720b173dad5f
-    public: 4b3c7bce5ad03ce26c26fe7c9f79a10210f35b58
-  language: en
-  modified: '2020-01-10T05:50:52.538094Z'
-  title: LAF - Least Square Approximation, The Singular Value Decomposition
-  title_id: laf-least-square-approximation-the-singular-value-decomposition
-  topics: []
-  translations: {}
-7754dc09-71ec-4ccb-8c9c-cbed13cd42ba:
-  hexsha:
-    private: 0d05e873c6c6d0233b5fde99884618c28bd25626
-    public: 68b9be7628f964c3c2839616a81484273d9a684e
-  language: en
-  modified: '2019-07-23T02:26:30.306484Z'
-  title: Linear mappings
-  title_id: linear-mappings
-  topics: []
-  translations: {}
-9afe8a01-58d3-44c9-a644-d240514a3bca:
-  hexsha:
-    private: 87946fde25518c471db659835afb0b81ba7bbb42
-    public: 8c4e2103c6b504e7a9e88596d189951b81921d86
-  language: en
-  modified: '2019-04-22T04:28:32.120858Z'
-  title: Sets of Points in the Complex Plane (basic)
-  title_id: sets-of-points-in-the-complex-plane-basic
-  topics: []
-  translations: {}
-a32b120a-3300-4c98-9a3d-9935bb0a300d:
-  hexsha:
-    private: 481260a44ac5ff5f4e87df19855f935f31481425
-    public: fd30253c2149375b32640b29ad11f2a81d749ea0
-  language: en
-  modified: '2019-04-02T05:23:22.917015Z'
-  title: Complex functions as mappings
-  title_id: complex-functions-as-mappings
-  topics: []
-  translations: {}
-a4a73db7-0035-4f6f-8920-b4ccb876f04b:
-  hexsha:
-    private: a7b8ce6761e3a9ea56a8ee0a529a7fd942ae3e98
-    public: 052e4649d6412c8b25918b96afffb00dee10cc60
-  language: en
-  modified: '2019-04-19T01:53:26.337907Z'
-  title: Course introduction
-  title_id: course-introduction
-  topics: []
-  translations: {}
-a540fc63-8ce3-465c-9a6c-de971309e40e:
-  hexsha:
-    private: 90ebae0e5337558c63f86993ce6b8721f94fa9dc
-    public: 377aa7fa1323b1d073cf3cc265f3789576e6b94e
-  language: en
-  modified: '2020-01-08T08:49:07.281175Z'
-  title: LAF - Linear Transformations from V to W
-  title_id: laf-linear-transformations-from-v-to-w
-  topics: []
-  translations: {}
-a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
-  hexsha:
-    private: 4656804146ccbc76c6b429d620856a204c6772dc
-    public: db21edbb5da504df59203022525a3fbe14d7f926
-  language: en
-  modified: '2019-04-22T01:53:13.12012Z'
-  title: Powers and roots (advanced)
-  title_id: powers-and-roots-advanced
-  topics: []
-  translations: {}
-ab12a1a4-c04d-4af3-b48d-0338388a0722:
-  hexsha:
-    private: 2b61cb8a45e0550f01cd4b948fe228c7fd4afa9c
-    public: d687a14a28d9a27e5daf6d3851633c718513c22b
-  language: en
-  modified: '2019-06-25T05:12:41.762398Z'
-  title: Some Consequences of the Integral Formulas
-  title_id: some-consequences-of-the-integral-formulas
-  topics: []
-  translations: {}
-bc0668a3-87d8-4413-bf64-c999ba1518a0:
-  hexsha:
-    private: ab900deb114e9ee50e1d6900da64a63b45851cbd
-    public: 8deefee17eac3905c28f8932c448ab0aa5009d35
-  language: en
-  modified: '2019-11-26T00:50:00.480016Z'
-  title: LAF - Orthogonality I
-  title_id: laf-orthogonality-i
-  topics: []
-  translations: {}
-c15d059d-206e-459d-877b-c6be54bf3a34:
-  hexsha:
-    private: f687dc509cc78f1ab10eb116e9c8d40e845a9012
-    public: 3ff355a921dd0b77f7b10eac43d9a35ac01be968
-  language: en
-  modified: '2019-07-23T02:27:27.23468Z'
-  title: Analytic functions (advanced)
-  title_id: analytic-functions-advanced
-  topics: []
-  translations: {}
-c5f2ea95-a354-4e55-9069-08342073bc29:
-  hexsha:
-    private: 4e11fb924abab8aa7add537ff522055b3315d516
-    public: 10a018aae00425acbffa64d978c498572e75547d
-  language: en
-  modified: '2019-07-23T02:24:11.849288Z'
-  title: Elementary functions (advanced)
-  title_id: elementary-functions-advanced
-  topics: []
-  translations: {}
-cef71730-3afc-4637-9460-039802ccbe67:
-  hexsha:
-    private: 87077fe0ce914aa221f388902cd6023bf3220b84
-    public: 6439255e1f7299f101c4bb046145a47c8a1c0651
-  language: en
-  modified: '2019-11-13T06:41:03.099706Z'
-  title: LAF - Similarity and diagonalization
-  title_id: laf-similarity-and-diagonalization
-  topics: []
-  translations: {}
-d352b88b-27bf-4836-87d1-aaf00384d208:
-  hexsha:
-    private: c03bc6c8b4a82a3e28683f394c4494e07db163e3
-    public: 2eada70e2d655c4e51b6d23f2df3a1c674b26954
-  language: en
-  modified: '2020-01-30T02:11:25.912342Z'
-  title: LAF - Course Info and Solutions to Tests
-  title_id: laf-course-info-and-solutions-to-tests
-  topics: []
-  translations: {}
-dae88784-3825-4735-b25d-94ef821ffc17:
-  hexsha:
-    private: 864d222635623635fd7c5569b81364de47becceb
-    public: bcc18c7e7bebab265c637517486c5c0109de9900
-  language: en
-  modified: '2019-04-16T06:16:19.806617Z'
-  title: Polar form of complex numbers (basic)
-  title_id: polar-form-of-complex-numbers-basic
-  topics: []
-  translations: {}
-db1f61ad-f14a-4884-9033-1de48bc77aee:
-  hexsha:
-    private: 35e0aee9baf355eaa2f3b88db1f0a0da5b63fad9
-    public: e0213aa27675651fdcaa35270d6beb825514035b
-  language: en
-  modified: '2019-09-02T05:19:17.148892Z'
-  title: LAF - Applications of Determinants
-  title_id: laf-applications-of-determinants
-  topics: []
-  translations: {}
-de82abed-daa0-4993-b83f-3f151efc08f4:
-  hexsha:
-    private: 0dabfaf61c0f3cb040f292c39b44e18ad98acb26
-    public: d1de2ff3de43fe4339cb7e931ef3064167683ea2
-  language: en
-  modified: '2019-11-29T02:01:11.747045Z'
-  title: LAF - Orthogonality II
-  title_id: laf-orthogonality-ii
-  topics: []
-  translations: {}
+
 e1c257c4-1faa-4295-9701-7e7d0e3fb702:
+  topics: []
+  modified: 2019-07-16T14:31:12.509843Z
   hexsha:
     private: 0d9ab19d982c9d4497b19932542bf643bbc792b8
     public: efb7b11afa3f16a74a690ebd49c66b92e3b000e1
-  language: en
-  modified: '2019-07-16T14:31:12.509843Z'
-  title: Some Consequences of the Residue Theorem
   title_id: some-consequences-of-the-residue-theorem
-  topics: []
-  translations: {}
-e3e5bcf8-36d9-45d5-87e2-18e4d3e0cc8a:
-  hexsha:
-    private: 6cedd10935dfa54569b74fa9a3dc35c99ad2f920
-    public: 583e321cd17605e5c4496b875cb8495f69bc177a
   language: en
-  modified: '2019-04-23T05:26:19.248997Z'
-  title: 'Applications of complex numbers '
-  title_id: applications-of-complex-numbers
-  topics: []
   translations: {}
-e56a7d65-dc35-48eb-9159-09a59cb53d31:
+  title: Some Consequences of the Residue Theorem
+a540fc63-8ce3-465c-9a6c-de971309e40e:
+  topics: []
+  modified: 2020-01-08T08:49:07.281175Z
   hexsha:
-    private: 426500d2b1eec5dba419ba1fbc508e193e770691
-    public: 713ed7dad791a6338c251b96322007cb8b5ddd25
+    private: 90ebae0e5337558c63f86993ce6b8721f94fa9dc
+    public: 377aa7fa1323b1d073cf3cc265f3789576e6b94e
+  title_id: laf-linear-transformations-from-v-to-w
   language: en
-  modified: '2019-06-04T02:24:31.80481Z'
-  title: Elementary functions (basic)
-  title_id: elementary-functions-basic
-  topics: []
   translations: {}
+  title: LAF - Linear Transformations from V to W
 e8773e51-8de7-42fe-ad00-51a54499114a:
+  topics: []
+  modified: 2019-07-02T13:15:00.817616Z
   hexsha:
     private: 87e95003882424b55ba74dacd6e755c43d40b6a2
     public: b981c416be1ba9af8f956d445e17ff934a5fff28
-  language: en
-  modified: '2019-07-02T13:15:00.817616Z'
-  title: Taylor Series
   title_id: taylor-series
-  topics: []
-  translations: {}
-e9aed444-84ff-4c82-a407-2874f1c71a7a:
-  hexsha:
-    private: 832d14be2d2c8d6914fdd360b141c0e322fcabb3
-    public: 090d6b705d7f1c4d212366638929c0afddc35eb3
   language: en
-  modified: '2019-04-02T02:30:24.739554Z'
-  title: Powers and roots (basic)
-  title_id: powers-and-roots-basic
-  topics: []
   translations: {}
-f032401a-3f68-4159-9adf-6499f76d115a:
+  title: Taylor Series
+a6a360a8-5f96-4ba3-8d37-ee05191dd5f9:
+  topics: []
+  modified: 2019-04-22T01:53:13.12012Z
   hexsha:
-    private: 4ab293107702e31756787b97e594d909d81e1828
-    public: ae1dee036ca6127146433c5353f5813c3600f919
+    private: 4656804146ccbc76c6b429d620856a204c6772dc
+    public: db21edbb5da504df59203022525a3fbe14d7f926
+  title_id: powers-and-roots-advanced
   language: en
-  modified: '2020-01-08T01:31:41.470358Z'
-  title: LAF - Subspaces
-  title_id: laf-subspaces
-  topics: []
   translations: {}
-f0edc43e-0dd9-4e76-acdb-4d41dbbd3344:
+  title: Powers and roots (advanced)
+10e49381-bda6-4d1c-95c2-d4281953a39f:
+  topics: []
+  modified: 2019-04-04T00:24:44.882695Z
   hexsha:
-    private: 980a578ae42d08c47df69d4d7cb7fdc14fd63650
-    public: bbb4e264f8ebe74bb97029c34e1a2054b31fb644
+    private: f41c112d723de30f272c347662e0bc475b139ea4
+    public: 15874dd6bc1671332b8237b34121005635639f3f
+  title_id: algebra-of-complex-numbers-basic
   language: en
-  modified: '2019-07-04T07:48:33.224445Z'
-  title: Laurent Series
-  title_id: laurent-series
-  topics: []
   translations: {}
-fa7d3c8f-9063-4ce7-b665-6fa42b00339f:
+  title: Algebra of complex numbers (basic)
+2551c6a1-7cd7-4e14-8fab-f30d9f9ef06f:
+  topics: []
+  modified: 2019-05-15T02:50:05.570917Z
   hexsha:
-    private: 5867b7c909f44c8da826690a08c7a5e5a8d625ef
-    public: 5ee9e5e2b6d722618377768f5726525abe908506
+    private: ee3d5b37f5701aee418ab5a702c9e9f8a437ac17
+    public: 8ff24b3dc8dfe47be00b1791b3f5b299f6853c92
+  title_id: special-power-functions
   language: en
-  modified: '2019-06-25T04:23:27.789617Z'
-  title: Independence of Path
-  title_id: independence-of-path
-  topics: []
   translations: {}
-fb731dcc-d152-4e91-acd0-aee60540464c:
-  hexsha:
-    private: a17ebadc4a4b4466c446fec1a7cbd5e856036e2a
-    public: 4333313eed4aa96920ac5ebc01de579c10aba246
-  language: en
-  modified: '2019-06-11T04:30:42.170564Z'
-  title: Real integrals
-  title_id: real-integrals
-  topics: []
-  translations: {}
+  title: Special Power Functions
 fc0a8c58-bc75-42a6-9c5d-cfefe7ff32ac:
+  topics: []
+  modified: 2019-11-26T08:33:09.339293Z
   hexsha:
     private: 5b0dd545375e45da1c4080aac93977f3511ee22c
     public: afe2bc36e520677cb0348c2763e08c5c245eff5c
-  language: en
-  modified: '2019-11-26T08:33:09.339293Z'
-  title: LAF - Vector spaces
   title_id: laf-vector-spaces
-  topics: []
+  language: en
   translations: {}
+  title: LAF - Vector spaces
+4b372d33-399f-4506-90dd-89db1cb990ae:
+  topics: []
+  modified: 2019-05-14T04:19:36.805826Z
+  hexsha:
+    private: 99454c6a5914db79c85140a8a607b13118cd53a4
+    public: 6592ef844f4e5130873ffcb46d4f63ebbd2fa252
+  title_id: limits
+  language: en
+  translations: {}
+  title: 'Limits '
+72487f46-63b5-4b74-a511-b228350aaf15:
+  topics: []
+  modified: 2019-04-02T05:22:48.401913Z
+  hexsha:
+    private: 89261cc740662ba5c13225717184a760bf06d0a9
+    public: 69a3a832e1ecb68eb3d82f16698f852cd7027d9e
+  title_id: complex-functions
+  language: en
+  translations: {}
+  title: 'Complex functions '
+de82abed-daa0-4993-b83f-3f151efc08f4:
+  topics: []
+  modified: 2019-11-29T02:01:11.747045Z
+  hexsha:
+    private: 0dabfaf61c0f3cb040f292c39b44e18ad98acb26
+    public: d1de2ff3de43fe4339cb7e931ef3064167683ea2
+  title_id: laf-orthogonality-ii
+  language: en
+  translations: {}
+  title: LAF - Orthogonality II
+1ab0ca4c-a465-4f04-955f-505d350f480b:
+  topics: []
+  modified: 2019-06-18T13:23:04.582693Z
+  hexsha:
+    private: ec00aefebfe1c3dd6f3d2282d8991bf3ef6d55e8
+    public: ab40bf8b3a225e01673d981b8dbdf7e48ea0f930
+  title_id: complex-integrals
+  language: en
+  translations: {}
+  title: Complex integrals
+e3e5bcf8-36d9-45d5-87e2-18e4d3e0cc8a:
+  topics: []
+  modified: 2019-04-23T05:26:19.248997Z
+  hexsha:
+    private: 6cedd10935dfa54569b74fa9a3dc35c99ad2f920
+    public: 583e321cd17605e5c4496b875cb8495f69bc177a
+  title_id: applications-of-complex-numbers
+  language: en
+  translations: {}
+  title: 'Applications of complex numbers '
+749e4b67-ce15-4507-b2e5-b8b118ccb0c0:
+  topics: []
+  modified: 2020-01-10T05:50:52.538094Z
+  hexsha:
+    private: 3eab75bfdfb956a8852c96ca2231720b173dad5f
+    public: 4b3c7bce5ad03ce26c26fe7c9f79a10210f35b58
+  title_id: laf-least-square-approximation-the-singular-value-decomposition
+  language: en
+  translations: {}
+  title: LAF - Least Square Approximation, The Singular Value Decomposition
+c5f2ea95-a354-4e55-9069-08342073bc29:
+  topics: []
+  modified: 2019-07-23T02:24:11.849288Z
+  hexsha:
+    private: 4e11fb924abab8aa7add537ff522055b3315d516
+    public: 10a018aae00425acbffa64d978c498572e75547d
+  title_id: elementary-functions-advanced
+  language: en
+  translations: {}
+  title: Elementary functions (advanced)
+5cec5cbb-2820-47c0-b6ac-a8e38e39af34:
+  topics: []
+  modified: 2019-05-19T06:55:02.955266Z
+  hexsha:
+    private: 72ca4d8ee8c360d8c8dbe1050405c4b4fcde8e8d
+    public: 1daff73725682c2b94f747d2bddd3f2b5235be88
+  title_id: continuity
+  language: en
+  translations: {}
+  title: Continuity
+405114c1-7fbb-4e1a-a342-eb5039b691af:
+  topics: []
+  modified: 2019-09-26T00:18:59.932136Z
+  hexsha:
+    private: 321690efff9c3951a4cb59cd8c18ffff992af46b
+    public: 94fb57821fc308bdd4e00efabb755f3d337b09d2
+  title_id: laf-introduction-to-eigenvalues-and-eigenvectors
+  language: en
+  translations: {}
+  title: LAF - Introduction to Eigenvalues and Eigenvectors
+4856002b-4c86-4b0b-8dd3-72c199cc5b10:
+  topics: []
+  modified: 2020-01-08T08:51:03.122569Z
+  hexsha:
+    private: 41ba8bf5b529030ebe56ccb23451469107de9767
+    public: 0219a0ea2744019d542300404e91383c7b15de66
+  title_id: laf-model-file
+  language: en
+  translations: {}
+  title: LAF - Model file
+7754dc09-71ec-4ccb-8c9c-cbed13cd42ba:
+  topics: []
+  modified: 2019-07-23T02:26:30.306484Z
+  hexsha:
+    private: 0d05e873c6c6d0233b5fde99884618c28bd25626
+    public: 68b9be7628f964c3c2839616a81484273d9a684e
+  title_id: linear-mappings
+  language: en
+  translations: {}
+  title: Linear mappings
+3885ac38-15fd-4390-a6cf-bd6712ef0af6:
+  topics: []
+  modified: 2019-07-16T05:16:56.749114Z
+  hexsha:
+    private: e4dd822670a62f736c85048a37f8e41269c1d546
+    public: 6243c590893fd4fb90f6be6f6e5a81ec68ca5aaf
+  title_id: zeros-and-poles
+  language: en
+  translations: {}
+  title: Zeros and Poles
+68222b65-7828-427a-a6f5-80a2f71a61ac:
+  topics: []
+  modified: 2019-04-22T05:19:06.102214Z
+  hexsha:
+    private: 432a6bf8581a96d14a4fb8f20444a8392e2e8292
+    public: f46a7cbc21202113830cff8b11709dff058779ff
+  title_id: sets-of-points-in-the-complex-plane-advanced
+  language: en
+  translations: {}
+  title: Sets of Points in the Complex Plane (advanced)
+fb731dcc-d152-4e91-acd0-aee60540464c:
+  topics: []
+  modified: 2019-06-11T04:30:42.170564Z
+  hexsha:
+    private: a17ebadc4a4b4466c446fec1a7cbd5e856036e2a
+    public: 4333313eed4aa96920ac5ebc01de579c10aba246
+  title_id: real-integrals
+  language: en
+  translations: {}
+  title: Real integrals
+dae88784-3825-4735-b25d-94ef821ffc17:
+  topics: []
+  modified: 2019-04-16T06:16:19.806617Z
+  hexsha:
+    private: 864d222635623635fd7c5569b81364de47becceb
+    public: bcc18c7e7bebab265c637517486c5c0109de9900
+  title_id: polar-form-of-complex-numbers-basic
+  language: en
+  translations: {}
+  title: Polar form of complex numbers (basic)
+cef71730-3afc-4637-9460-039802ccbe67:
+  topics: []
+  modified: 2019-11-13T06:41:03.099706Z
+  hexsha:
+    private: 87077fe0ce914aa221f388902cd6023bf3220b84
+    public: 6439255e1f7299f101c4bb046145a47c8a1c0651
+  title_id: laf-similarity-and-diagonalization
+  language: en
+  translations: {}
+  title: LAF - Similarity and diagonalization
+fa7d3c8f-9063-4ce7-b665-6fa42b00339f:
+  topics: []
+  modified: 2019-06-25T04:23:27.789617Z
+  hexsha:
+    private: 5867b7c909f44c8da826690a08c7a5e5a8d625ef
+    public: 5ee9e5e2b6d722618377768f5726525abe908506
+  title_id: independence-of-path
+  language: en
+  translations: {}
+  title: Independence of Path
+17c7b776-fb05-4802-b3b5-a53454106884:
+  topics: []
+  modified: 2019-07-16T06:16:57.10146Z
+  hexsha:
+    private: f5f12cc943b19311ddfe8d939064cbfa8016b427
+    public: 0328dad2e970e4aab5d4904f8295ae32ac36f89d
+  title_id: residues-and-residue-theorem
+  language: en
+  translations: {}
+  title: Residues and Residue Theorem
+55ccf76c-cb48-4566-b60f-efc880e39d69:
+  topics: []
+  modified: 2019-04-05T00:16:00.611835Z
+  hexsha:
+    private: 57fec5d1d01c954c15cec86e5073a559dad5ad32
+    public: 5639ae5e0405b7c87becdd9430e9004ddaefb948
+  title_id: algebra-of-complex-numbers-advanced
+  language: en
+  translations: {}
+  title: Algebra of complex numbers (advanced)
+c15d059d-206e-459d-877b-c6be54bf3a34:
+  topics: []
+  modified: 2019-07-23T02:27:27.23468Z
+  hexsha:
+    private: f687dc509cc78f1ab10eb116e9c8d40e845a9012
+    public: 3ff355a921dd0b77f7b10eac43d9a35ac01be968
+  title_id: analytic-functions-advanced
+  language: en
+  translations: {}
+  title: Analytic functions (advanced)
+ab12a1a4-c04d-4af3-b48d-0338388a0722:
+  topics: []
+  modified: 2019-06-25T05:12:41.762398Z
+  hexsha:
+    private: 2b61cb8a45e0550f01cd4b948fe228c7fd4afa9c
+    public: d687a14a28d9a27e5daf6d3851633c718513c22b
+  title_id: some-consequences-of-the-integral-formulas
+  language: en
+  translations: {}
+  title: Some Consequences of the Integral Formulas
+9afe8a01-58d3-44c9-a644-d240514a3bca:
+  topics: []
+  modified: 2019-04-22T04:28:32.120858Z
+  hexsha:
+    private: 87946fde25518c471db659835afb0b81ba7bbb42
+    public: 8c4e2103c6b504e7a9e88596d189951b81921d86
+  title_id: sets-of-points-in-the-complex-plane-basic
+  language: en
+  translations: {}
+  title: Sets of Points in the Complex Plane (basic)
+29397571-923d-4fd7-95d0-08002379e886:
+  topics: []
+  modified: 2019-09-12T04:31:29.692617Z
+  hexsha:
+    private: ecac16d2094aed7bf4dc4209fbb189299f83c4d9
+    public: 1c6af6f5411debf5461faa88ecc2f13e3096811d
+  title_id: laf-change-of-basis
+  language: en
+  translations: {}
+  title: LAF - Change of basis
+634f98f8-a451-42ad-970d-f3d0355d939a:
+  topics: []
+  modified: 2019-05-28T04:47:47.563961Z
+  hexsha:
+    private: 6728f4028bab620762f9ec9f0bdf59fde0a65371
+    public: 1d46bd8768a425c6bf382d8a67da179331fa79b7
+  title_id: harmonic-functions
+  language: en
+  translations: {}
+  title: Harmonic functions
+db1f61ad-f14a-4884-9033-1de48bc77aee:
+  topics: []
+  modified: 2019-09-02T05:19:17.148892Z
+  hexsha:
+    private: 35e0aee9baf355eaa2f3b88db1f0a0da5b63fad9
+    public: e0213aa27675651fdcaa35270d6beb825514035b
+  title_id: laf-applications-of-determinants
+  language: en
+  translations: {}
+  title: LAF - Applications of Determinants
+e56a7d65-dc35-48eb-9159-09a59cb53d31:
+  topics: []
+  modified: 2019-06-04T02:24:31.80481Z
+  hexsha:
+    private: 426500d2b1eec5dba419ba1fbc508e193e770691
+    public: 713ed7dad791a6338c251b96322007cb8b5ddd25
+  title_id: elementary-functions-basic
+  language: en
+  translations: {}
+  title: Elementary functions (basic)
+0217149d-34f8-45cd-a3b3-61a21e52a212:
+  topics: []
+  modified: 2020-01-23T02:39:48.202401Z
+  hexsha:
+    private: 4097cf5c8312d1cd9d19d60ff6f9ecc15be4886d
+    public: c0f03aaeefbaa41ea78d52d00792e7f13eff8ddd
+  title_id: laf-inner-product-space-norms-distance-functions
+  language: en
+  translations: {}
+  title: LAF -  Inner Product Space, Norms, Distance functions
+342f4e99-aee6-4f34-bd0c-931a238dee8e:
+  topics: []
+  modified: 2019-05-19T05:54:18.024884Z
+  hexsha:
+    private: c5fa1ca36330261dbf81bd67aa88b4f9e6fbdcde
+    public: 7d6fbe91bc4c6e553771858b6f18e5102854c223
+  title_id: analytic-functions-basic
+  language: en
+  translations: {}
+  title: Analytic functions (basic)
+e9aed444-84ff-4c82-a407-2874f1c71a7a:
+  topics: []
+  modified: 2019-04-02T02:30:24.739554Z
+  hexsha:
+    private: 832d14be2d2c8d6914fdd360b141c0e322fcabb3
+    public: 090d6b705d7f1c4d212366638929c0afddc35eb3
+  title_id: powers-and-roots-basic
+  language: en
+  translations: {}
+  title: Powers and roots (basic)
+364fa6c9-230c-4af6-b48c-b550562cb796:
+  topics: []
+  modified: 2019-10-25T02:07:02.510625Z
+  hexsha:
+    private: 0ca7dfbf57ecb3c9f44ca2f2ee517d477d76ec7b
+    public: 70ae1d1c5450cfb0ea1f9b533522c9f1dc39533e
+  title_id: laf-eigenvalues-and-eigenvectors-of-square-matrices
+  language: en
+  translations: {}
+  title: LAF - Eigenvalues and Eigenvectors of square matrices
+d352b88b-27bf-4836-87d1-aaf00384d208:
+  topics: []
+  modified: 2020-01-30T02:11:25.912342Z
+  hexsha:
+    private: c03bc6c8b4a82a3e28683f394c4494e07db163e3
+    public: 2eada70e2d655c4e51b6d23f2df3a1c674b26954
+  title_id: laf-course-info-and-solutions-to-tests
+  language: en
+  translations: {}
+  title: LAF - Course Info and Solutions to Tests
+3173c7df-f880-4026-8b4a-acfac543d675:
+  topics: []
+  modified: 2019-07-23T02:25:05.33236Z
+  hexsha:
+    private: 0ffea3a36f09da7a5425683b50d4c1353a299c2e
+    public: 1bea5bd65ca8cf1829eae36097ac24fa974f2232
+  title_id: polar-form-of-complex-numbers-advanced
+  language: en
+  translations: {}
+  title: Polar form of complex numbers (advanced)
+37659fdb-9ab0-403c-9477-465ec6af4b03:
+  topics: []
+  modified: 2019-07-01T04:50:58.533563Z
+  hexsha:
+    private: 7472e31d0b6b83f2846eb71102d7910c4de4352c
+    public: e8c466f26aaa7858cd9b4ad873d83b65ca1dcda0
+  title_id: cauchys-two-integral-formulas
+  language: en
+  translations: {}
+  title: Cauchy's Two Integral Formulas
+5f46fe37-fbfd-4e7a-8727-d16bbd137d8c:
+  topics: []
+  modified: 2019-04-02T02:12:58.768161Z
+  hexsha:
+    private: a980098aceb7f5d6a4ac5f0b5977380fc7cdf66d
+    public: 14c2e4c56a0dc1bcbbb8af38ce188349da19dadb
+  title_id: complex-plane
+  language: en
+  translations: {}
+  title: 'Complex plane '
+3475d0aa-b223-44fd-b84f-3af887b12ead:
+  topics: []
+  modified: 2019-06-24T05:39:15.598913Z
+  hexsha:
+    private: df5f6ac8a707293ac6e56abfad3733d7d7ac2bcf
+    public: daff600dd53d121ea0ed068b954666c88498d28a
+  title_id: cauchy-goursat-theorem
+  language: en
+  translations: {}
+  title: Cauchy-Goursat Theorem
+a4a73db7-0035-4f6f-8920-b4ccb876f04b:
+  topics: []
+  modified: 2019-04-19T01:53:26.337907Z
+  hexsha:
+    private: a7b8ce6761e3a9ea56a8ee0a529a7fd942ae3e98
+    public: 052e4649d6412c8b25918b96afffb00dee10cc60
+  title_id: course-introduction
+  language: en
+  translations: {}
+  title: Course introduction
+0dc52920-bd80-4383-ba6f-324ceb448dfb:
+  topics: []
+  modified: 2019-09-12T06:06:57.447956Z
+  hexsha:
+    private: 4ac3534fe589f4640857b32a7a77cbc2fc18f52d
+    public: 58f4d5b3d6693ac94f1952994813eae7d25860ba
+  title_id: laf-change-of-the-matrix-of-linear-transformation
+  language: en
+  translations: {}
+  title: LAF - Change of the matrix of linear transformation
+f032401a-3f68-4159-9adf-6499f76d115a:
+  topics: []
+  modified: 2020-01-08T01:31:41.470358Z
+  hexsha:
+    private: 4ab293107702e31756787b97e594d909d81e1828
+    public: ae1dee036ca6127146433c5353f5813c3600f919
+  title_id: laf-subspaces
+  language: en
+  translations: {}
+  title: LAF - Subspaces
+3cc3434e-ee6c-4164-bfdd-9571079555d3:
+  topics: []
+  modified: 2019-09-02T05:02:08.986961Z
+  hexsha:
+    private: d767addf20b20b5c167c0a09fe4ef532ca759ec7
+    public: 3c9115ecfacbe3ff8ce565255ed868a2a9884f50
+  title_id: laf-introduction-to-determinants
+  language: en
+  translations: {}
+  title: LAF - Introduction to Determinants
+ec19e189-5d09-483e-84b1-a3185d7c79c3:
+  topics: []
+  modified: 2020-05-03T05:10:46.788155877Z
+  hexsha:
+    private: d30b7041bf0dfe6256d2654d09a1b9fc8f617602
+    public: 676f2ad916e49432c0c4c33d5372cbb73eb9e9c1
+  title_id: lai-course-info-and-solutions-to-tests
+  language: en-gb
+  translations: {}
+  title: LAI - Course Info and Solutions to Tests
+f0edc43e-0dd9-4e76-acdb-4d41dbbd3344:
+  topics: []
+  modified: 2019-07-04T07:48:33.224445Z
+  hexsha:
+    private: 980a578ae42d08c47df69d4d7cb7fdc14fd63650
+    public: bbb4e264f8ebe74bb97029c34e1a2054b31fb644
+  title_id: laurent-series
+  language: en
+  translations: {}
+  title: Laurent Series
+0bb6bb6d-dd26-4183-9540-961a08fe4055:
+  topics: []
+  modified: 2019-07-23T02:28:51.592648Z
+  hexsha:
+    private: c58e36cb33144f914a4d4d2125dd2b0966e25f11
+    public: 132634708fb8608e78c1a3cf51f6be372013709d
+  title_id: sequences-and-series
+  language: en
+  translations: {}
+  title: Sequences and Series
+bc0668a3-87d8-4413-bf64-c999ba1518a0:
+  topics: []
+  modified: 2019-11-26T00:50:00.480016Z
+  hexsha:
+    private: ab900deb114e9ee50e1d6900da64a63b45851cbd
+    public: 8deefee17eac3905c28f8932c448ab0aa5009d35
+  title_id: laf-orthogonality-i
+  language: en
+  translations: {}
+  title: LAF - Orthogonality I
+a32b120a-3300-4c98-9a3d-9935bb0a300d:
+  topics: []
+  modified: 2019-04-02T05:23:22.917015Z
+  hexsha:
+    private: 481260a44ac5ff5f4e87df19855f935f31481425
+    public: fd30253c2149375b32640b29ad11f2a81d749ea0
+  title_id: complex-functions-as-mappings
+  language: en
+  translations: {}
+  title: Complex functions as mappings

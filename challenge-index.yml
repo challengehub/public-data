@@ -280,6 +280,16 @@ c15d059d-206e-459d-877b-c6be54bf3a34:
   language: en
   translations: {}
   title: Analytic functions (advanced)
+f0cf8093-12b5-45d0-9c67-bd8daaf45aa7:
+  topics: []
+  modified: 2020-05-04T03:43:32.705677693Z
+  hexsha:
+    private: f0fa2d239a6ca3927b5b4f8c7dadc9ecba3243ad
+    public: 1c9f24b136075f42941eb8a5fd5851d3f2d3387c
+  title_id: lai-systems-of-linear-equations
+  language: en-gb
+  translations: {}
+  title: LAI -  Systems of linear equations
 ab12a1a4-c04d-4af3-b48d-0338388a0722:
   topics: []
   modified: 2019-06-25T05:12:41.762398Z

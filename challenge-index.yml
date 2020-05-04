@@ -1011,6 +1011,16 @@ fe7398f3-f822-4a49-b825-348f7f130c48:
   translations: {}
   title: 'Method of undetermined coefficients: Determining the ODE: y = C_1 cos(4t)
     + C_2 sin(4t) - e^t sin (2t)'
+86d108a7-2ab5-4eb3-92e8-7d8d41a0d08e:
+  topics: []
+  modified: 2020-05-04T03:21:15.344076409Z
+  hexsha:
+    private: 823d755560ce3bfdcbfd76d85cb9ee6c3a88b391
+    public: e44ddce6f44a8a41a5360f864fc0ec929f4c9496
+  title_id: obtaining-the-complex-derivative-of-fz-1z
+  language: en-gb
+  translations: {}
+  title: Obtaining the complex derivative of f(z) = 1/z
 76da5697-3251-4d5e-8382-e35857ed724a:
   topics: []
   modified: 2019-10-28T05:10:17.692154Z

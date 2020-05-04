@@ -1490,10 +1490,10 @@ c77b2063-0915-40fd-9c1b-3c1edc32fda6:
   title: Another test challenge March 2019
 db5d8810-7133-4e47-a620-aca09c5bf87c:
   topics: []
-  modified: 2020-05-04T05:43:50.642358815Z
+  modified: 2020-05-04T05:45:22.504741245Z
   hexsha:
-    private: ad08776b43c27fcc749b76e2f07cf8a3fafc8c4e
-    public: 044e8d95181aa23eb4d9194560e3df9b1cd2459e
+    private: a6f764caf57f39fb4c5aebf5055f790dd5d90300
+    public: 5a8fa6bafcc6fa5f73b181c1605374781b1a8059
   title_id: explaining-the-cauchy-riemann-equations
   language: en-gb
   translations: {}

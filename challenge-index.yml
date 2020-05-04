@@ -380,6 +380,16 @@ e9aed444-84ff-4c82-a407-2874f1c71a7a:
   language: en
   translations: {}
   title: Powers and roots (basic)
+8fec3e29-9597-49f4-8b06-3ee0c7fd9e64:
+  topics: []
+  modified: 2020-05-04T07:48:27.119477262Z
+  hexsha:
+    private: e4b2949207f60af96ae65edf4585905711488624
+    public: a451f9819fc5033486a2c60b66d6365192517f49
+  title_id: lai-row-reduced-form
+  language: en-gb
+  translations: {}
+  title: LAI -  Row Reduced Form
 364fa6c9-230c-4af6-b48c-b550562cb796:
   topics: []
   modified: 2019-10-25T02:07:02.510625Z

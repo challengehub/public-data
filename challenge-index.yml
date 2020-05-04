@@ -1760,6 +1760,16 @@ be59c8b1-8ac4-4d2a-a4bd-89b38578f852:
   language: en
   translations: {}
   title: Smallest period with k=2
+6c9387df-8649-420c-bd3d-20d96bc6d753:
+  topics: []
+  modified: 2020-05-04T07:17:58.458605058Z
+  hexsha:
+    private: bfbf957c33936a46d4461103a6760fe327986d5a
+    public: f737932d15c89ddbee4301ce5eb98020ecebe592
+  title_id: proving-that-analytic-functions-are-harmonic-in-the-complex-plane
+  language: en-gb
+  translations: {}
+  title: Proving that analytic functions are harmonic in the complex plane
 b40fbdb5-a0df-48c5-8d54-d0a2bb43a200:
   topics: []
   modified: 2019-10-04T05:23:20.520863Z

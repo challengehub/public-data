@@ -40,6 +40,16 @@ a0ed605d-5922-4f03-a6ac-979f3e7a8b88:
   language: en
   translations: {}
   title: Diffusion coefficient equivalency
+2b446632-3b6f-452a-9268-0d0019928477:
+  topics: []
+  modified: 2020-05-04T06:13:52.808287369Z
+  hexsha:
+    private: 3c9bc1ba74a109a6331252885a32229a965656b8
+    public: 8b037aecb3d86ffff2a71faf9753d98f7ba40f9a
+  title_id: explaining-analyticity
+  language: en-gb
+  translations: {}
+  title: Explaining analyticity
 0b532686-b33d-4b06-90ee-33ebd25c188c:
   topics: []
   modified: 2019-09-27T02:02:53.697784Z

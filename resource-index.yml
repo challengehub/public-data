@@ -1,251 +1,236 @@
-# ChallengeHub Resource index
-
-f5c8df96-a1fe-4a93-b8bd-d9dccb9f2f8d:
-  content_type: application/pdf
-  hexsha: 10369e4a945b2432b5de489bebb9f269d3e55c71
-  original_name: course introduction.pdf
-  title: Course introduction
-  title_id: course-introduction-10369e
-  topics: []
-  upload_time: '2019-04-04T00:24:43Z'
-  uploader_id: github.cbal-brezina
-
-9ae3f1ce-8215-4b4e-92ec-f44c5749cde4:
-  content_type: application/pdf
-  hexsha: 10369e4a945b2432b5de489bebb9f269d3e55c71
-  original_name: course introduction.pdf
-  title: Course introduction
-  title_id: course-introduction-10369e
-  topics: []
-  upload_time: '2019-04-04T00:27:02Z'
-  uploader_id: github.cbal-brezina
-
-4a852f28-50c5-49fe-bb91-7eb56fd659f0:
-  content_type: application/pdf
-  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
-  original_name: CFTC1.pdf
-  title: 1st Class
-  title_id: 1st-class-e71935
-  topics: []
-  upload_time: '2019-04-11T08:05:06Z'
-  uploader_id: github.cbal-brezina
-
-5eea869e-95ec-4945-a9ee-b57966d16fc0:
-  content_type: application/pdf
-  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
-  original_name: CFTC1.pdf
-  title: 1st Class
-  title_id: 1st-class-e71935
-  topics: []
-  upload_time: '2019-04-11T08:05:27Z'
-  uploader_id: github.cbal-brezina
-
-59dd7a75-0ae5-4365-8db6-3c2f340cce56:
-  content_type: application/pdf
-  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
-  original_name: CFTC1.pdf
-  title: 1st class
-  title_id: 1st-class-e719351
-  topics: []
-  upload_time: '2019-04-11T08:05:52Z'
-  uploader_id: github.cbal-brezina
-
-c36d240b-07ae-49ee-a467-4f9f11b0b954:
-  content_type: application/pdf
-  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
-  original_name: CFTC1.pdf
-  title: 1st class
-  title_id: 1st-class-e719351
-  topics: []
-  upload_time: '2019-04-11T08:07:10Z'
-  uploader_id: github.cbal-brezina
-
-7c42a296-640a-42a2-9c67-91f0ecae392b:
-  content_type: application/pdf
-  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
-  original_name: CFTC1.pdf
-  title: '1st class '
-  title_id: 1st-class-e7193518
-  topics: []
-  upload_time: '2019-04-11T23:15:56Z'
-  uploader_id: github.cbal-brezina
-
-3b07a116-9534-4822-ace4-5129fa3428eb:
-  content_type: application/pdf
-  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
-  original_name: CFTintro.pdf
-  title: About the course
-  title_id: about-the-course-e71935
-  topics: []
-  upload_time: '2019-04-19T01:49:36Z'
-  uploader_id: github.cbal-brezina
-
-6803de81-2784-4300-9adf-3a0f2d7698d5:
-  content_type: image/png
-  hexsha: 4d107b64d11d49c001a33d9d4f697acd8753439b
-  original_name: Complex_hw7_f2.png
-  title: infinity
-  title_id: infinity-4d107b
-  topics: []
-  upload_time: '2019-06-18T08:00:24Z'
-  uploader_id: github.cbal-brezina
+# ChallengeHub Resource Index
 
 3a3bcb47-e2ad-452c-8f46-c14e230fb7c9:
+  topics: []
   content_type: image/png
-  hexsha: 7d509bb03f6d24a4c2b1f319226cc089e7e3e7f6
   original_name: Complex_hw8.png
-  title: path
+  hexsha: 7d509bb03f6d24a4c2b1f319226cc089e7e3e7f6
   title_id: path-7d509b
-  topics: []
-  upload_time: '2019-06-18T12:38:16Z'
+  title: path
   uploader_id: github.cbal-brezina
-
-23d37368-1267-4045-8203-e9661ba9017b:
-  content_type: application/pdf
-  hexsha: e238cf2c970a67a7dba2feb254cee23f78d86d57
-  original_name: Course info.pdf
-  title: Basic information about the course
-  title_id: basic-information-about-the-course-e238cf
-  topics: []
-  upload_time: '2019-09-26T00:09:12Z'
-  uploader_id: github.cbal-brezina
-
-5ed99594-3f98-4f02-b9bd-be28fa310920:
-  content_type: application/pdf
-  hexsha: e238cf2c970a67a7dba2feb254cee23f78d86d57
-  original_name: Course info.pdf
-  title: Basic information about the course and grading
-  title_id: basic-information-about-the-course-and-grading-e238cf
-  topics: []
-  upload_time: '2019-09-26T00:10:45Z'
-  uploader_id: github.cbal-brezina
-
-8fd9e59c-226f-45c2-abcd-b268e2548590:
-  content_type: application/pdf
-  hexsha: 85d7f61bdecb6c65d2911137cfdd26ee65d72df0
-  original_name: Course info.pdf
-  title: Basic information about the course
-  title_id: basic-information-about-the-course-85d7f6
-  topics: []
-  upload_time: '2019-09-26T00:51:15Z'
-  uploader_id: github.cbal-brezina
-
-7a13177e-07f0-42d8-9a80-b5e556293cdf:
-  content_type: application/pdf
-  hexsha: d741336f145c1d861829f723745b4a300b46189b
-  original_name: Course Info.pdf
-  title: Basic Information About the Course
-  title_id: basic-information-about-the-course-d74133
-  topics: []
-  upload_time: '2019-09-26T01:03:16Z'
-  uploader_id: github.cbal-brezina
-
-274fa9e0-188e-4ecc-bee9-dbeebfbc4130:
-  content_type: application/pdf
-  hexsha: 2b0bcbe073c9722ba7c50d58050a0ca1ade39e03
-  original_name: Challenge system instructions.pdf
-  title: How to use challenge-hub
-  title_id: how-to-use-challenge-hub-2b0bcb
-  topics: []
-  upload_time: '2019-09-26T04:11:44Z'
-  uploader_id: github.cbal-brezina
-
-884e7c84-d227-46c9-848f-e5dffd0a3bc6:
-  content_type: application/pdf
-  hexsha: d06ed3b458ca8c46b8aa4df1cc1a64dd4936323f
-  original_name: Challenge Hub instructions.pdf
-  title: How to Use Challenge Hub
-  title_id: how-to-use-challenge-hub-d06ed3
-  topics: []
-  upload_time: '2019-09-26T04:23:42Z'
-  uploader_id: github.cbal-brezina
-
-f06834cf-53a7-4283-8e45-987b357b9e64:
-  content_type: application/pdf
-  hexsha: 498ab249cf746026cdc1ac70d66239464dd79d7c
-  original_name: Line instructions.pdf
-  title: How to Use Challenge Hub with LINE/Email
-  title_id: how-to-use-challenge-hub-with-lineemail-498ab2
-  topics: []
-  upload_time: '2019-10-03T02:12:12Z'
-  uploader_id: github.cbal-brezina
-
+  upload_time: 2019-06-18T12:38:16Z
 8bba189d-ae63-46a1-a85a-3f2776b348ba:
+  topics: []
   content_type: application/pdf
-  hexsha: 077bf45353dd4b33ba45eb6bac3be8f00937b1f4
   original_name: LAST1S.pdf
-  title: Solution of short test 1
+  hexsha: 077bf45353dd4b33ba45eb6bac3be8f00937b1f4
   title_id: solution-of-short-test-1-077bf4
-  topics: []
-  upload_time: '2019-10-17T06:41:34Z'
+  title: Solution of short test 1
   uploader_id: github.cbal-brezina
-
-d1d6f961-39dc-4cf6-b7dc-57e725c18eea:
+  upload_time: 2019-10-17T06:41:34Z
+9ae3f1ce-8215-4b4e-92ec-f44c5749cde4:
+  topics: []
   content_type: application/pdf
-  hexsha: 7854f02e87bfea050d70f6f7ce9c2896b457df5d
-  original_name: LAST2S.pdf
-  title: Solution of short test 2
-  title_id: solution-of-short-test-2-7854f0
-  topics: []
-  upload_time: '2019-11-14T02:56:14Z'
+  original_name: course introduction.pdf
+  hexsha: 10369e4a945b2432b5de489bebb9f269d3e55c71
+  title_id: course-introduction-10369e
+  title: Course introduction
   uploader_id: github.cbal-brezina
-
-72129ebd-da9d-4111-ac5e-1c8174d0c45a:
+  upload_time: 2019-04-04T00:27:02Z
+3b07a116-9534-4822-ace4-5129fa3428eb:
+  topics: []
   content_type: application/pdf
-  hexsha: e3b3f7ecfae7d9b56ba2ec02043f567c268e889b
-  original_name: LAST3S.pdf
-  title: Solution of short test 3
-  title_id: solution-of-short-test-3-e3b3f7
-  topics: []
-  upload_time: '2019-11-25T02:34:25Z'
+  original_name: CFTintro.pdf
+  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
+  title_id: about-the-course-e71935
+  title: About the course
   uploader_id: github.cbal-brezina
-
-f8d8c64b-b775-4194-a8a3-b8b13dad3322:
+  upload_time: 2019-04-19T01:49:36Z
+6803de81-2784-4300-9adf-3a0f2d7698d5:
+  topics: []
+  content_type: image/png
+  original_name: Complex_hw7_f2.png
+  hexsha: 4d107b64d11d49c001a33d9d4f697acd8753439b
+  title_id: infinity-4d107b
+  title: infinity
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-06-18T08:00:24Z
+f06834cf-53a7-4283-8e45-987b357b9e64:
+  topics: []
   content_type: application/pdf
-  hexsha: 3d73cb2e36e61f158ca6024cfe1e1767b98667bf
-  original_name: LAMES.pdf
-  title: Solution of midterm
-  title_id: solution-of-midterm-3d73cb
-  topics: []
-  upload_time: '2019-12-12T03:59:30Z'
+  original_name: Line instructions.pdf
+  hexsha: 498ab249cf746026cdc1ac70d66239464dd79d7c
+  title_id: how-to-use-challenge-hub-with-lineemail-498ab2
+  title: How to Use Challenge Hub with LINE/Email
   uploader_id: github.cbal-brezina
-
-c9a72f2c-be34-40a1-9599-c20eac849a5e:
+  upload_time: 2019-10-03T02:12:12Z
+7c42a296-640a-42a2-9c67-91f0ecae392b:
+  topics: []
   content_type: application/pdf
-  hexsha: 7a243773a519061fbddb5d25cb35a4aa84fe2bab
-  original_name: LACh9S.pdf
-  title: Solution of challenge No9
-  title_id: solution-of-challenge-no9-7a2437
-  topics: []
-  upload_time: '2019-12-12T05:46:50Z'
+  original_name: CFTC1.pdf
+  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
+  title_id: 1st-class-e7193518
+  title: '1st class '
   uploader_id: github.cbal-brezina
-
-27063651-7d01-429a-afd1-083ea15f6cfc:
-  content_type: application/pdf
-  hexsha: 098c7fbe3e22f4ce05bf3cad1a58af4624637108
-  original_name: textbook.pdf
-  title: Vector spaces textbook (printed version next class)
-  title_id: vector-spaces-textbook-printed-version-next-class-098c7f
-  topics: []
-  upload_time: '2019-12-12T06:00:34Z'
-  uploader_id: github.cbal-brezina
-
-0096b791-a808-4e7a-a2df-e72828cf8b12:
-  content_type: application/pdf
-  hexsha: 0730ce0a4d8318e9a19fa3b588c7466400dfa086
-  original_name: LAST4S.pdf
-  title: Solution of short test 4
-  title_id: solution-of-short-test-4-0730ce
-  topics: []
-  upload_time: '2019-12-20T00:01:45Z'
-  uploader_id: github.cbal-brezina
-
+  upload_time: 2019-04-11T23:15:56Z
 456a65e6-64a6-4347-a91f-d70b6e79bcc6:
-  content_type: application/pdf
-  hexsha: c59d6f63632e0d292d0d39b85445d660a1149fec
-  original_name: LAST5S.pdf
-  title: Solution of short test 5
-  title_id: solution-of-short-test-5-c59d6f
   topics: []
-  upload_time: '2020-01-30T02:11:08Z'
+  content_type: application/pdf
+  original_name: LAST5S.pdf
+  hexsha: c59d6f63632e0d292d0d39b85445d660a1149fec
+  title_id: solution-of-short-test-5-c59d6f
+  title: Solution of short test 5
   uploader_id: github.cbal-brezina
+  upload_time: 2020-01-30T02:11:08Z
+0096b791-a808-4e7a-a2df-e72828cf8b12:
+  topics: []
+  content_type: application/pdf
+  original_name: LAST4S.pdf
+  hexsha: 0730ce0a4d8318e9a19fa3b588c7466400dfa086
+  title_id: solution-of-short-test-4-0730ce
+  title: Solution of short test 4
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-12-20T00:01:45Z
+d1d6f961-39dc-4cf6-b7dc-57e725c18eea:
+  topics: []
+  content_type: application/pdf
+  original_name: LAST2S.pdf
+  hexsha: 7854f02e87bfea050d70f6f7ce9c2896b457df5d
+  title_id: solution-of-short-test-2-7854f0
+  title: Solution of short test 2
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-11-14T02:56:14Z
+4a852f28-50c5-49fe-bb91-7eb56fd659f0:
+  topics: []
+  content_type: application/pdf
+  original_name: CFTC1.pdf
+  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
+  title_id: 1st-class-e71935
+  title: 1st Class
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-04-11T08:05:06Z
+7a13177e-07f0-42d8-9a80-b5e556293cdf:
+  topics: []
+  content_type: application/pdf
+  original_name: Course Info.pdf
+  hexsha: d741336f145c1d861829f723745b4a300b46189b
+  title_id: basic-information-about-the-course-d74133
+  title: Basic Information About the Course
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-09-26T01:03:16Z
+5ed99594-3f98-4f02-b9bd-be28fa310920:
+  topics: []
+  content_type: application/pdf
+  original_name: Course info.pdf
+  hexsha: e238cf2c970a67a7dba2feb254cee23f78d86d57
+  title_id: basic-information-about-the-course-and-grading-e238cf
+  title: Basic information about the course and grading
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-09-26T00:10:45Z
+f8d8c64b-b775-4194-a8a3-b8b13dad3322:
+  topics: []
+  content_type: application/pdf
+  original_name: LAMES.pdf
+  hexsha: 3d73cb2e36e61f158ca6024cfe1e1767b98667bf
+  title_id: solution-of-midterm-3d73cb
+  title: Solution of midterm
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-12-12T03:59:30Z
+8fd9e59c-226f-45c2-abcd-b268e2548590:
+  topics: []
+  content_type: application/pdf
+  original_name: Course info.pdf
+  hexsha: 85d7f61bdecb6c65d2911137cfdd26ee65d72df0
+  title_id: basic-information-about-the-course-85d7f6
+  title: Basic information about the course
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-09-26T00:51:15Z
+27063651-7d01-429a-afd1-083ea15f6cfc:
+  topics: []
+  content_type: application/pdf
+  original_name: textbook.pdf
+  hexsha: 098c7fbe3e22f4ce05bf3cad1a58af4624637108
+  title_id: vector-spaces-textbook-printed-version-next-class-098c7f
+  title: Vector spaces textbook (printed version next class)
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-12-12T06:00:34Z
+274fa9e0-188e-4ecc-bee9-dbeebfbc4130:
+  topics: []
+  content_type: application/pdf
+  original_name: Challenge system instructions.pdf
+  hexsha: 2b0bcbe073c9722ba7c50d58050a0ca1ade39e03
+  title_id: how-to-use-challenge-hub-2b0bcb
+  title: How to use challenge-hub
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-09-26T04:11:44Z
+f5c8df96-a1fe-4a93-b8bd-d9dccb9f2f8d:
+  topics: []
+  content_type: application/pdf
+  original_name: course introduction.pdf
+  hexsha: 10369e4a945b2432b5de489bebb9f269d3e55c71
+  title_id: course-introduction-10369e
+  title: Course introduction
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-04-04T00:24:43Z
+72129ebd-da9d-4111-ac5e-1c8174d0c45a:
+  topics: []
+  content_type: application/pdf
+  original_name: LAST3S.pdf
+  hexsha: e3b3f7ecfae7d9b56ba2ec02043f567c268e889b
+  title_id: solution-of-short-test-3-e3b3f7
+  title: Solution of short test 3
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-11-25T02:34:25Z
+5eea869e-95ec-4945-a9ee-b57966d16fc0:
+  topics: []
+  content_type: application/pdf
+  original_name: CFTC1.pdf
+  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
+  title_id: 1st-class-e71935
+  title: 1st Class
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-04-11T08:05:27Z
+884e7c84-d227-46c9-848f-e5dffd0a3bc6:
+  topics: []
+  content_type: application/pdf
+  original_name: Challenge Hub instructions.pdf
+  hexsha: d06ed3b458ca8c46b8aa4df1cc1a64dd4936323f
+  title_id: how-to-use-challenge-hub-d06ed3
+  title: How to Use Challenge Hub
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-09-26T04:23:42Z
+d8299741-cd08-432e-b439-148e50dd170d:
+  topics: []
+  content_type: application/pdf
+  original_name: Student LINE instructions.pdf
+  hexsha: 7c848dece6f1c377b762cada172d31e4797aadff
+  title_id: how-to-use-challenge-hub-with-lineemail-7c848d
+  title: How to Use Challenge Hub with LINE/Email
+  uploader_id: github.cbal-brezina
+  upload_time: 2020-05-05T22:11:53.907864563Z
+59dd7a75-0ae5-4365-8db6-3c2f340cce56:
+  topics: []
+  content_type: application/pdf
+  original_name: CFTC1.pdf
+  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
+  title_id: 1st-class-e719351
+  title: 1st class
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-04-11T08:05:52Z
+c9a72f2c-be34-40a1-9599-c20eac849a5e:
+  topics: []
+  content_type: application/pdf
+  original_name: LACh9S.pdf
+  hexsha: 7a243773a519061fbddb5d25cb35a4aa84fe2bab
+  title_id: solution-of-challenge-no9-7a2437
+  title: Solution of challenge No9
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-12-12T05:46:50Z
+23d37368-1267-4045-8203-e9661ba9017b:
+  topics: []
+  content_type: application/pdf
+  original_name: Course info.pdf
+  hexsha: e238cf2c970a67a7dba2feb254cee23f78d86d57
+  title_id: basic-information-about-the-course-e238cf
+  title: Basic information about the course
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-09-26T00:09:12Z
+c36d240b-07ae-49ee-a467-4f9f11b0b954:
+  topics: []
+  content_type: application/pdf
+  original_name: CFTC1.pdf
+  hexsha: e7193518b71f486b2d342f753c74d95cbd339155
+  title_id: 1st-class-e719351
+  title: 1st class
+  uploader_id: github.cbal-brezina
+  upload_time: 2019-04-11T08:07:10Z

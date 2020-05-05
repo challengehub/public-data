@@ -470,6 +470,16 @@ a4a73db7-0035-4f6f-8920-b4ccb876f04b:
   language: en
   translations: {}
   title: LAF - Change of the matrix of linear transformation
+81c6ce7a-a208-4832-965b-4aa8bf2c4809:
+  topics: []
+  modified: 2020-05-05T03:29:14.331492692Z
+  hexsha:
+    private: 9a56dd90e75c5227d19a298edf5a00e4d2ab3649
+    public: 44efbfeefcf4e53dff88b74909bab2d7d4fb5e13
+  title_id: lai-vectors
+  language: en-gb
+  translations: {}
+  title: LAI -  Vectors
 f032401a-3f68-4159-9adf-6499f76d115a:
   topics: []
   modified: 2020-01-08T01:31:41.470358Z

@@ -1791,6 +1791,16 @@ b40fbdb5-a0df-48c5-8d54-d0a2bb43a200:
   translations: {}
   title: Radial acceleration towards the axis of rotation of a point with no angular
     acceleration
+73dc1ec7-d448-45a2-9226-a13f12195f5d:
+  topics: []
+  modified: 2020-05-06T01:32:50.960387916Z
+  hexsha:
+    private: 24626fd511db73ba14be2dfcae6af43bad3ed536
+    public: 2953bb4cf9248f87ea7c4077ff9ef023e4271c1a
+  title_id: finding-the-harmonic-conjugate-of-uxy-x
+  language: en-gb
+  translations: {}
+  title: Finding the harmonic conjugate of u(x,y) = x
 d9c95807-fedc-44ab-bcaf-97558c83fd86:
   topics: []
   modified: 2019-06-12T05:47:04.033997Z

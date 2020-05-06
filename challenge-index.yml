@@ -900,6 +900,16 @@ b239d7f5-c247-4d80-8d90-2f207008feac:
   language: en
   translations: {}
   title: Determining the Fourier Series coefficients of sin(x)
+09f9b4aa-4579-40cf-99e3-0c5db01caf08:
+  topics: []
+  modified: 2020-05-06T02:21:17.204133531Z
+  hexsha:
+    private: ee870b0c49d86e31464f143e620c578a51ced7aa
+    public: d404953c746fa9999aa7528f6cf06d8e6e755c99
+  title_id: finding-the-harmonic-conjugate-of-uxyx2-y2
+  language: en-gb
+  translations: {}
+  title: Finding the harmonic conjugate of u(x,y)=x^2 - y^2
 2973505a-bc20-45e5-9a36-b1f35eb57435:
   topics: []
   modified: 2019-09-28T22:59:44.325915Z

@@ -1508,6 +1508,16 @@ c77b2063-0915-40fd-9c1b-3c1edc32fda6:
   language: en
   translations: {}
   title: Another test challenge March 2019
+3f9c9ae0-0042-409d-8c87-2e9e52e3a018:
+  topics: []
+  modified: 2020-05-06T02:18:08.708856018Z
+  hexsha:
+    private: 3827cf1c4fe754f7f76d51b6ae8fc63851562357
+    public: 1f4515e4b30130a3d93338486952d515b56e3814
+  title_id: finding-the-harmonic-conjugate-of-uxyy3-3x2y
+  language: en-gb
+  translations: {}
+  title: Finding the harmonic conjugate of u(x,y)=y^3-3x^2y
 db5d8810-7133-4e47-a620-aca09c5bf87c:
   topics: []
   modified: 2020-05-04T06:12:28.539435517Z

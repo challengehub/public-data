@@ -4239,12 +4239,12 @@ e502ed38-e206-4f4a-872f-98c391840d8b:
   title: Boiling text missing word 18
 d9189a40-a700-42b8-92c4-d861b57a7036:
   topics: []
-  modified: 2020-02-25T07:47:36.931616Z
+  modified: 2020-05-12T20:08:51.149409493Z
   hexsha:
-    private: 03957f0ac18f297097e434192feb100aec6badff
-    public: c7e1ecf388a863394fb46151c236e509564b11ba
+    private: fbaa58e78538e9a0ca37fafacb89b09797d5fee4
+    public: efbc21e29283ffdee1f189f9de37b6b2770b956f
   title_id: properties-of-complex-numbers-under-the-conditions-zz-and-z2z2
-  language: en
+  language: en-gb
   translations: {}
   title: Properties of complex numbers under the conditions z=z* and (z)^2=(z*)^2
 677d99f8-204b-44b4-a2cb-27488fcf5371:

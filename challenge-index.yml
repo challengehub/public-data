@@ -1399,12 +1399,12 @@ d7cf3ecc-0a2b-48f0-82f5-f3afc7c40425:
   title: Rolling friction of two disks connected by a rod (sample calculation)
 744701f7-b841-48a9-9ff2-3e6c5b19c81f:
   topics: []
-  modified: 2020-02-25T04:14:13.632777Z
+  modified: 2020-05-12T20:24:08.750250008Z
   hexsha:
-    private: 125818de5c432710030afbf72a7723cfce371d1f
-    public: 3dc73a559463676d6c3d64caee3c349c71918e9e
+    private: 4734760affec65a9a053a081b8b07de53a7330ee
+    public: 963b70305f922604f943289060ead0c9a0edda27
   title_id: complex-number-algebra-in
-  language: en
+  language: en-gb
   translations: {}
   title: 'Complex number algebra: i^n'
 ef385aaa-dba5-4a00-a79a-e9c7b427ad74:

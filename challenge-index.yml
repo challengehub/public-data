@@ -952,10 +952,10 @@ f1ac917c-551c-4196-b5ba-82eb64b91a8d:
   title: Laplace transform of 1
 0b6011b1-0a6f-45ce-9b7f-8d2ce50388cc:
   topics: []
-  modified: 2020-05-13T00:53:54.085505131Z
+  modified: 2020-05-13T22:58:32.209689858Z
   hexsha:
-    private: d6bc23418d8fdf4f0df7e973ca5e26db0d8d6f65
-    public: 998b577cba99956259c18da8a4212a2d52d5d4d5
+    private: af0aea17fb82bde82b55c7900290e537b79d68a8
+    public: fc1b03af274f43cc4a23864daca2238220b2945c
   title_id: understanding-re-and-im-parts-of-complex-numbers
   language: en-gb
   translations: {}

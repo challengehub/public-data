@@ -3164,12 +3164,12 @@ b969ef61-49fc-4e97-bf55-6a393489a4e5:
   title: Derivation of the effect of a stretch in the time domain on the Fourier transform
 48855029-8d08-4e8f-b080-f97fee748d28:
   topics: []
-  modified: 2020-02-26T00:05:25.482365Z
+  modified: 2020-05-13T00:27:39.945222191Z
   hexsha:
-    private: dbf85390882576deaf033557bf4d56e79882d474
-    public: a57a40806385011271d4301d146cf8871f4d2296
+    private: 08906df51928f54f5ea3f0e732523809b4a6c821
+    public: 2a7732d9edab36ab03fe7a6fe8c7f7bdbd5f2920
   title_id: showing-z2-k-z1
-  language: en
+  language: en-gb
   translations: {}
   title: Showing z_2 = k z_1*
 38bad5f9-3df1-473e-a243-ed1bf08a746b:

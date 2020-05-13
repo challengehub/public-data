@@ -202,12 +202,12 @@ ad274394-954f-4710-8970-5458b94afa4e:
   title: Boiling text missing word 20
 2c8d9029-ba26-40ba-9d3a-04725ea5fbe0:
   topics: []
-  modified: 2020-02-25T04:20:38.701263Z
+  modified: 2020-05-13T00:26:14.602438616Z
   hexsha:
-    private: e2b81b11f3811e650db7e82c67267fffaf554ccf
-    public: 5ea2dd770e39468eeac382019b70405207b51f41
+    private: a86aaca2b79406ee8e0f87560fe39e2f0c9f52cb
+    public: aaa4b5764c4bcb046f45dd37daac19d65140685e
   title_id: complex-number-algebra-aibn
-  language: en
+  language: en-gb
   translations: {}
   title: 'Complex number algebra: (a+ib)^n'
 383d28d9-1c6c-45b2-baa3-fed5d3fe8071:

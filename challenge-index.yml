@@ -2014,12 +2014,12 @@ a806f89e-bfa5-4c75-8563-fb8aa4acb446:
   title: 'Method of undetermined coefficients: y'''' + 4y = 8 cos(2t)'
 aebfc845-cf9f-4a1c-87a9-96b506e29a16:
   topics: []
-  modified: 2020-02-26T01:11:23.275652Z
+  modified: 2020-05-13T00:41:50.714525533Z
   hexsha:
-    private: 166dd2d09083c99777a9a2fe04bb9d5c56b3c445
-    public: c95416e08224db5ef3f976bfe6b13ae6ca21dc7d
+    private: 171124d0b7c36c12f98337090f7599d06b06ea1e
+    public: 61b5d47bd431cd38be4706f6aa30f0bef21eebaa
   title_id: graphing-z-i-z-1-in-the-complex-plane
-  language: en
+  language: en-gb
   translations: {}
   title: Graphing |z-i| = | z-1| in the complex plane
 d1d8b7b9-6a76-41a1-aab9-b7e3d677d39f:

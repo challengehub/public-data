@@ -2720,12 +2720,12 @@ d451c6d7-ecb1-4598-aeff-40e3115bfd6e:
   title: Convolution of two window functions
 cba3c698-b3e8-4ebf-8a55-d1d6c7d50dce:
   topics: []
-  modified: 2020-03-02T01:42:38.59356Z
+  modified: 2020-05-15T05:53:46.285556066Z
   hexsha:
-    private: e94644bd3db3dd0bcf9d583d0bd6b91d8974bf63
-    public: 451c0572773df13bd53f530e3553b55fa358d65d
+    private: 682363306992127c81d3069cef8cd7a3ee69e57b
+    public: 961370653eb415222d394643335d2f28a5016f97
   title_id: converting-the-polar-representation-of-complex-numbers-into-a-cartesian-representation
-  language: en
+  language: en-gb
   translations: {}
   title: Converting the polar representation of complex numbers into a Cartesian representation
 bb12c06b-293a-452d-ab4f-091f552b76f5:

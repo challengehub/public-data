@@ -2277,12 +2277,12 @@ c7132fd6-fb16-4db4-8118-b1bc5f7ec5e9:
   title: 'Reverse Laplace transform: 6/(2+s)^4'
 9979ec1f-0c9e-4318-bea2-5be9f54c05b6:
   topics: []
-  modified: 2020-02-26T01:34:09.132298Z
+  modified: 2020-05-19T04:45:10.331569439Z
   hexsha:
-    private: 23ec0be7f19060bee80d971b3a0d5ea613149c8a
-    public: 9a8c413302545d8aba96c24cc326f772793938d2
+    private: 97a27594450fe3f1f66286dab5f2a56e71717833
+    public: 586f5d49f8f5194442748c0bd9d366166d2691c3
   title_id: prove-z1-z2-z1z2
-  language: en
+  language: en-gb
   translations: {}
   title: Prove |z_1 z_2| = |z_1||z_2|
 bad21262-8553-45d2-91db-e18ecfa80229:

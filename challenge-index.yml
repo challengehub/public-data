@@ -4075,6 +4075,16 @@ a1549546-f57b-498b-8a31-07d880e12754:
   language: en
   translations: {}
   title: 'Reverse Laplace transform: (5-5s)/s^2'
+2578ba3a-295b-46b1-82f1-100ee89216e7:
+  topics: []
+  modified: 2020-05-26T07:10:18.825255093Z
+  hexsha:
+    private: 73b7d6ae83987cd59f9dc03eef449c59c5718b63
+    public: 806bb67aef393311766aee2436b30060a9e2b2ac
+  title_id: finding-complex-values-of-log1-i
+  language: en-gb
+  translations: {}
+  title: Finding complex values of Log(1-i)
 fc4fd5c1-ca0d-419e-a244-877b6fe91771:
   topics: []
   modified: 2020-03-17T01:14:08.187265Z

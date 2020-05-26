@@ -719,6 +719,16 @@ c9dfbc7a-e714-4974-a776-57b82b3ff51d:
   language: en
   translations: {}
   title: Solving an ODE with exponential forcing using the Laplace transform method
+a2fc4e58-45d8-4cd9-8330-83700140fd48:
+  topics: []
+  modified: 2020-05-26T08:02:02.219324419Z
+  hexsha:
+    private: 85f469c97335228efdfcdb5d3c61356434e28993
+    public: 80bf3a91f038e1e5caa7f713c2f1d4387d0965eb
+  title_id: find-the-principle-value-of-1-sqrt3ii
+  language: en-gb
+  translations: {}
+  title: Find the principle value of (1-sqrt(3)i)^i
 bb48f56e-66ca-4bce-8d45-6036667f7730:
   topics: []
   modified: 2019-06-13T01:23:52.960089Z

@@ -2798,6 +2798,16 @@ bdba6966-b5a6-47e9-b8b3-d36815906434:
   language: en
   translations: {}
   title: Convolution of t^2 with a window function
+6f21e053-dfed-4930-8aae-7df9eb51f333:
+  topics: []
+  modified: 2020-05-26T07:01:42.807906296Z
+  hexsha:
+    private: 0746ad28e38d0e3c94ced24072c3bcdef8dc761d
+    public: 334431b4f6a84159750f5cde56376b13e7acf05d
+  title_id: finding-complex-values-of-logi
+  language: en-gb
+  translations: {}
+  title: Finding complex values of Log(i)
 9a2451c9-cee6-4ee1-9789-4c4e7fdc5f4b:
   topics: []
   modified: 2020-03-09T08:25:07.531379Z

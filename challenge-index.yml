@@ -2668,6 +2668,16 @@ d451c6d7-ecb1-4598-aeff-40e3115bfd6e:
   language: en
   translations: {}
   title: '2D Matrices review: Eigenvectors and eigenvalues: ((-5,7),(-1,3))'
+59b3ef38-4431-40e9-88f3-4e544b5e2346:
+  topics: []
+  modified: 2020-05-26T07:54:02.551816787Z
+  hexsha:
+    private: 3449f45b2fd94c9294ebf860404f1427a09a8ec8
+    public: 600ca434528223d8efe67e5436af8045dd979ee5
+  title_id: calculate-ii
+  language: en-gb
+  translations: {}
+  title: Calculate i^i
 742ab5e4-5f2b-427b-82bd-a98ac753bc61:
   topics: []
   modified: 2019-06-07T05:30:58.592346Z

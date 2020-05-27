@@ -4360,12 +4360,12 @@ c31df9d7-0f5e-4c99-ae4d-05b9caf4152e:
     rotations or two magnifications
 53abf9f0-82c4-44df-8457-693329fa567c:
   topics: []
-  modified: 2020-03-06T03:33:20.776483Z
+  modified: 2020-05-27T02:39:29.761129838Z
   hexsha:
-    private: 6110ff6c531863f47cdcdfc77d51077ba514902e
-    public: fade694c2e60efefc2a81d3b489fc67b1e6bd6e1
+    private: 97c4f3836466f1931877b7f49a75040d74205223
+    public: 5091460ef8580e3f347a9383ad7cc47651e59962
   title_id: obtaining-an-expression-for-the-kth-real-root-of-1
-  language: en
+  language: en-gb
   translations: {}
   title: Obtaining an expression for the k'th real root of 1
 cdb0e8ae-746e-49b2-aeed-5a8749cb2cc8:

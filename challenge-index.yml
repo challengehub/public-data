@@ -3683,6 +3683,16 @@ f06adee3-8a49-4289-92e9-9f1d535c8e50:
   language: en
   translations: {}
   title: The origin of the N log N scaling of the FFT
+1c406268-59d9-4d8a-bdfc-cb8fe2fd1b35:
+  topics: []
+  modified: 2020-05-27T06:57:32.543482469Z
+  hexsha:
+    private: 32aee49f4f493299f7be92288b4bfb889b220020
+    public: 48a027f90524ecae284b0b0d9b24f6a0c74e8590
+  title_id: determine-sini-and-sinhi
+  language: en-gb
+  translations: {}
+  title: Determine sin(i) and sinh(i)
 8f0d9748-048f-4e0b-90da-8dd113cbcda9:
   topics: []
   modified: 2018-12-13T08:25:55.395962Z

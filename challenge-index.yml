@@ -4489,6 +4489,16 @@ bb8193aa-c617-4aee-bea6-8dd3af722fa0:
   language: en
   translations: {}
   title: 'Characteristic equation: real negative roots'
+fd69fc7a-c186-4416-822b-8e25ce77ba18:
+  topics: []
+  modified: 2020-05-27T08:09:52.059400704Z
+  hexsha:
+    private: 825c339e0b5097a6e9874027a5c7548df13db965
+    public: 6cd1f6a49ad0f9059be2ac44388a42fc0c336a76
+  title_id: deriving-the-complex-inverse-sine-function
+  language: en-gb
+  translations: {}
+  title: Deriving the complex inverse sine function
 e9f7b949-488a-419e-9693-4131817850be:
   topics: []
   modified: 2019-07-05T01:02:36.892123Z

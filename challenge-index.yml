@@ -3895,6 +3895,16 @@ b7532194-5047-49bd-937f-7ac9689dddf9:
   language: en
   translations: {}
   title: Understanding tangent lines
+bfe871b7-6389-4bf6-9603-209c64e0b9c0:
+  topics: []
+  modified: 2020-05-28T01:20:53.259812154Z
+  hexsha:
+    private: 19f8175372d94478bce26c78edfd3891853121b1
+    public: f7e320b490944c095abc1efab2fadf759d851ef2
+  title_id: calculate-the-derivative-of-cosiez
+  language: en-gb
+  translations: {}
+  title: Calculate the derivative of cos(ie^z)
 deac25c3-00ee-417c-8ebc-1cc83297a62a:
   topics: []
   modified: 2019-04-04T00:26:45.940357Z

@@ -2398,10 +2398,10 @@ fd4f0190-c05e-4980-bc5b-8c0531ba2221:
   title: 'Solving systems of ODE''s with initial conditions: ((-1,1),(-1,-1))'
 806f0e1e-0a32-4602-89de-524d8ac60592:
   topics: []
-  modified: 2020-06-02T01:23:32.243682357Z
+  modified: 2020-06-02T01:40:59.576403693Z
   hexsha:
-    private: 444e687f496249172918020c3a9c442eb659e8ad
-    public: 8b0a3e15ea9b1e850e0703de290a7c7b73855b98
+    private: 7a12139410c25fb8c61ce78c9795cbc73c1e7f0c
+    public: eff0157468d9c4bd2b95679f21b778df014e0b91
   title_id: finding-the-real-and-imaginary-parts-of-functions
   language: en
   translations: {}

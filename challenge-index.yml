@@ -3684,6 +3684,16 @@ f5748ada-0a79-4ae1-8f96-388d6133f7ca:
   language: en
   translations: {}
   title: Sketching complex parametric curves
+2819b2f1-afad-4a09-bca5-2b3f595a09f4:
+  topics: []
+  modified: 2020-06-05T06:52:41.461764942Z
+  hexsha:
+    private: fa8da31916256b734d443b6551d2bed87c11b11d
+    public: ac5ad2e797c0ad9a203a21dc8103837a82d86618
+  title_id: showing-that-sinz-is-no-where-analytic
+  language: en-gb
+  translations: {}
+  title: Showing that Sin(z*) is no-where analytic
 980ef17b-31a2-41e5-a993-4eae68d3e540:
   topics: []
   modified: 2019-05-13T01:27:39.460866Z

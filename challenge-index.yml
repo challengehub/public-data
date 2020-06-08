@@ -4661,6 +4661,16 @@ d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:
   language: en
   translations: {}
   title: 'Characteristic equation identification: Complex roots'
+861cce0a-fc1f-428a-83d9-df8926f4561f:
+  topics: []
+  modified: 2020-06-08T08:18:30.586094693Z
+  hexsha:
+    private: 631598aa50a954523bd85d280ef23591bdb8ff20
+    public: 3f1a61a01fa6d9d2ce80358a085d33f86558db8c
+  title_id: calculating-the-closed-integral-of-a-square-in-the-complex-plane
+  language: en-gb
+  translations: {}
+  title: Calculating the closed integral of a square in the complex plane
 4ba35c95-2f3c-408e-8e4b-633439f92268:
   topics: []
   modified: 2019-11-06T01:24:48.297702Z

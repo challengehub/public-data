@@ -1671,10 +1671,10 @@ b359a87e-8e04-4679-b540-3c345ac6eb20:
   title: 'Solving systems of ODE''s: ((8,1),(-4,4))'
 622487f1-2458-420f-b2af-81030c4e8aea:
   topics: []
-  modified: 2020-06-08T06:46:06.626089694Z
+  modified: 2020-06-08T06:47:52.764685858Z
   hexsha:
-    private: bc8f03e3a8a6a31bdbe3724ed2830e0a137b0e22
-    public: f01839c2021194e999fb2e68ee3cee976127d1cc
+    private: b503f2620283d4020850eb708391e2d3a876377b
+    public: bcd5056dc1919075e54b10760ea419dd39b6f95f
   title_id: calculating-the-mass-of-a-wire-with-density-proportional-to-distance-from-the-y-axis-using-a-line-integral
   language: en-gb
   translations: {}

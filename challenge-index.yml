@@ -3474,6 +3474,16 @@ b8516a09-58dd-42d0-a5c0-12177d7db68d:
   language: en
   translations: {}
   title: Calculating the complex Fourier series of a square wave
+a9638d95-1303-4a8d-94fc-d6d7c2274786:
+  topics: []
+  modified: 2020-06-08T07:29:29.864220578Z
+  hexsha:
+    private: b88be6de45520b3ee9896609e107d87712f654b7
+    public: 175f4133514e13c7e9f0c1270be3be15305e221d
+  title_id: calculating-the-complex-integral-of-z2-on-the-line-from-1i-to-1
+  language: en-gb
+  translations: {}
+  title: Calculating the complex integral of |z|^2 on the line from (-1+i) to (1)
 878c507d-bd32-4aa3-8f9c-846ade54a46f:
   topics: []
   modified: 2019-05-13T06:53:54.165072Z

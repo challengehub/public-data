@@ -70,6 +70,16 @@ da4fd15f-6949-4e27-af2b-7bc7d0e09a5a:
   language: en
   translations: {}
   title: Boiling text missing word 10
+6405e07c-1412-45df-93e6-08a0bbea3c83:
+  topics: []
+  modified: 2020-06-08T08:30:41.682825615Z
+  hexsha:
+    private: e34faf2aac93d9de44aa015c9d414279db19483c
+    public: b84e9f0027b3090c0ec33b6e34538c811bd11919
+  title_id: calculate-the-length-of-the-curve-zt2it3-in-the-complex-plane
+  language: en
+  translations: {}
+  title: Calculate the length of the curve z=t^2+it^3 in the complex plane
 d5fa7dc8-e1d6-4c6b-b740-ba35ee70785f:
   topics: []
   modified: 2018-11-17T12:22:54.814127Z

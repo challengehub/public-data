@@ -4692,3 +4692,13 @@ ea1da35f-98a6-41b3-83a7-14df85a62212:
   language: en
   translations: {}
   title: Boiling text missing word 21
+af5cfa3b-5187-4685-9415-66f97193283a:
+  topics: []
+  modified: 2020-06-08T06:20:54.567595932Z
+  hexsha:
+    private: c9da376aee97405e5e33df643d29c2f5d641141f
+    public: 6b937af5b3135652c7da02dcdda56aef771e83a5
+  title_id: line-integral-of-2xy-given-x5cost-y5sint-dx
+  language: en-gb
+  translations: {}
+  title: Line integral of 2xy given x=5cos(t) & y=5sin(t) (dx)

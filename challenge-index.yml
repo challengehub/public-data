@@ -596,6 +596,16 @@ f1ae87ed-c786-4a07-af15-2da838e7f72a:
   language: en
   translations: {}
   title: Lifting a chain
+eee6da55-7fa5-4013-b4fa-9f973754597a:
+  topics: []
+  modified: 2020-06-08T07:27:19.495403273Z
+  hexsha:
+    private: 6854b2c85aaa2d702d8717ade5c85d55975bbf7e
+    public: 4b9f2aee2c5cce8b1a40d61b87688abb81fe57f8
+  title_id: calculating-the-complex-integral-of-2z3-on-the-contour-ztit2
+  language: en-gb
+  translations: {}
+  title: Calculating the complex integral of 2z+3 on the contour z=t+it^2
 996dccc7-395d-43d9-ad50-ef47e4d39aab:
   topics: []
   modified: 2019-12-16T06:22:54.625267Z

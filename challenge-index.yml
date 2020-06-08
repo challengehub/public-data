@@ -4682,6 +4682,16 @@ d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:
   translations: {}
   title: 'Raoult''s law: Mole fraction of water vapour on the air-side of a water-air
     interface'
+32d40300-7e6c-476d-bd4d-d7683aca3058:
+  topics: []
+  modified: 2020-06-08T08:11:31.073214397Z
+  hexsha:
+    private: aa01b84b919c0918a323a619b59b47816e329ff7
+    public: 714d4d2bcbc09f87588c07cf760cdb90bb25554f
+  title_id: calculating-the-complex-integral-of-rez-on-the-circle-z1
+  language: en-gb
+  translations: {}
+  title: Calculating the complex integral of Re(z) on the circle |z|=1
 ea1da35f-98a6-41b3-83a7-14df85a62212:
   topics: []
   modified: 2018-12-17T01:58:24.788439Z

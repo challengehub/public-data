@@ -2516,6 +2516,16 @@ a981641d-ba54-4e90-a3ba-672807935d17:
   language: en
   translations: {}
   title: Laplace transform of cos(at)
+5dea9b76-a244-4610-a85a-afd0a00c5233:
+  topics: []
+  modified: 2020-06-08T05:35:28.367736194Z
+  hexsha:
+    private: ffde6639b199c646d4cd209a72ad0bc265e89362
+    public: 9fd6ed781083cc1d8536c438df3b433ea00a65db
+  title_id: line-integral-of-2xy-given-x5cost-y5sint
+  language: en-gb
+  translations: {}
+  title: Line integral of 2xy given x=5cos(t) & y=5sin(t)
 7f1880ea-7fe1-4fd5-9c04-9ecd0804cd5e:
   topics: []
   modified: 2019-04-01T05:43:16.470454Z

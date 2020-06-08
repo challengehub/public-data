@@ -2749,6 +2749,16 @@ d451c6d7-ecb1-4598-aeff-40e3115bfd6e:
   language: en
   translations: {}
   title: 'Inertia: A 2D rectangle'
+140d128a-94db-490d-9a03-87cd0b492cd7:
+  topics: []
+  modified: 2020-06-08T06:22:31.337291786Z
+  hexsha:
+    private: 914f5e47b82f89dc92309db179c69e5c9de2c9de
+    public: 2c8529467e3689f45b0dc6ea873784643dc0f75e
+  title_id: line-integral-of-2xy-given-x5cost-y5sint-dy
+  language: en-gb
+  translations: {}
+  title: Line integral of 2xy given x=5cos(t) & y=5sin(t) (dy)
 88c6d8cc-c2c7-4664-b1f3-a36b4cbeec8e:
   topics: []
   modified: 2019-07-14T07:27:49.193982Z

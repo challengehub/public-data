@@ -1914,10 +1914,10 @@ ef29e0e0-5638-4e0d-8be4-8def1dddd9c4:
   title: Calculate arccos(i)
 80e3abdc-bd27-4963-80c6-dcb38fff1a75:
   topics: []
-  modified: 2020-06-09T05:46:15.606000064Z
+  modified: 2020-06-09T05:46:31.586929299Z
   hexsha:
-    private: 9d47419f489478e9ae8ad069f4e1860808eb4211
-    public: 29757c01edf1c8f828e51885b12865c52ea49275
+    private: aaee0aa8c3768cd7e36d3503fd8639683b01ccc2
+    public: 15408ad2c9609fd8b12bc723a7797a30a5e0787c
   title_id: calculate-the-length-of-the-curve-z2eit-in-the-complex-plane
   language: en
   translations: {}

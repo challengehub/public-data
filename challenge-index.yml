@@ -4249,10 +4249,10 @@ a1549546-f57b-498b-8a31-07d880e12754:
   title: Finding complex values of Log(1-i)
 fc4fd5c1-ca0d-419e-a244-877b6fe91771:
   topics: []
-  modified: 2020-03-17T01:14:08.187265Z
+  modified: 2020-06-09T03:05:41.746129527Z
   hexsha:
-    private: 38f60c2e92be9cbf100568a98b1b622702c76ede
-    public: 8825a889929a80bb4b2c57bbb4a117dedb5fd1fc
+    private: 3b929c84f77f2c926f93540f23c8d9602d6dcd9e
+    public: b5294a0c208cbe1f41e07f619a2bb4a316470526
   title_id: mapping-a-complex-square-onto-another-set
   language: en
   translations: {}

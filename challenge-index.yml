@@ -882,10 +882,10 @@ d7b47164-5b33-4d98-b0a8-0cf5596dea04:
   title: Definition of a stationary medium approximation
 a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
   topics: []
-  modified: 2020-03-16T07:07:00.846603Z
+  modified: 2020-06-09T02:55:21.919051253Z
   hexsha:
-    private: aa6d2de00591486568f043c3291c9aaf83278ff0
-    public: 066e7fc5c392b9e59022facab3ab812c8b081bf8
+    private: 589309cca0e8694e81f7d083b681a835c8b57c94
+    public: 411095d0be82ec37daa49560de8a737e5994ba6c
   title_id: linear-mapping-of-a-closed-disk-in-a-complex-plane
   language: en
   translations: {}

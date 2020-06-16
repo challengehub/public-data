@@ -2700,10 +2700,10 @@ ca96add1-6dc2-42c9-b994-2b3d150cd645:
   title: Fundamental period of sum of signals
 5f904199-d155-408c-b6e7-c0eebd79ee2e:
   topics: []
-  modified: 2020-06-16T06:24:14.19041265Z
+  modified: 2020-06-16T06:27:34.659364268Z
   hexsha:
-    private: 66939146b1824247fbf5d5a12f633435e974a04b
-    public: 923349acb28d1140ac9f5fb7c73637f8685cf993
+    private: 39cf8b50f9034bc906c266a0eceb1bab584ec3b5
+    public: c511627bb006fdf79882db38102e0752cad0a2e7
   title_id: a-first-introduction-to-complex-limits
   language: en-gb
   translations: {}

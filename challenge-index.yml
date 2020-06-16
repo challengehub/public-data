@@ -1052,10 +1052,10 @@ d178eeca-e586-40de-854e-365f93b0d365:
   title: Analysis of the coefficients of the Discrete Fourier Transform
 b9121274-65e5-488d-b253-942a258debdf:
   topics: []
-  modified: 2020-03-24T05:55:08.813764Z
+  modified: 2020-06-16T02:59:03.545959938Z
   hexsha:
-    private: 4da6c578edd0854c62cf9ebb370d33db5655c3ed
-    public: 5a419f18cea50788876d4e54a5908c31bc3bc657
+    private: b42976e44ba1232b24ee50e7f6cdc1339b1d2b33
+    public: 3b91ef2443efdc4bd558e7e4a16b91346ccaa23c
   title_id: drawing-the-set-and-image-of-the-line-x2-under-transformation-fz-iz2-3
   language: en
   translations: {}

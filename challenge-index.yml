@@ -32,10 +32,10 @@ a0ed605d-5922-4f03-a6ac-979f3e7a8b88:
   title: 'Characteristic equation exersize: 2y'''' + 8y'' + y = 0'
 4bb04a41-b344-4119-a7e8-6139e543edfb:
   topics: []
-  modified: 2019-05-28T02:24:44.543827Z
+  modified: 2020-06-17T07:21:32.453985839Z
   hexsha:
-    private: 90030daf7ca46648e6934102d0f2981d4bd5b731
-    public: e876938432f1c8b6abee3877049a9d05ae1175e1
+    private: a3fb02e089996fe988e3c2ec8eb64109b0af833d
+    public: 34abe37245340150626779fcc8b586ea47296a38
   title_id: diffusion-coefficient-equivalency
   language: en
   translations: {}

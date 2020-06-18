@@ -2527,6 +2527,16 @@ e99656c0-3e37-4816-bb00-40b5a8b7fa2d:
   language: en
   translations: {}
   title: Frequency with k=1
+7de1b294-fdfa-40fa-ab9f-64c5a0448180:
+  topics: []
+  modified: 2020-06-18T07:35:36.395293208Z
+  hexsha:
+    private: 3fd25dc1b03ba25af3c78b787f7851f767f7f2f1
+    public: e73ba8a0405f492cb81c2754529b873917e7e6d3
+  title_id: defining-a-simply-connected-set
+  language: en-gb
+  translations: {}
+  title: Defining a simply-connected set
 f4f78e8e-eda1-4789-8028-8283b38c07c9:
   topics: []
   modified: 2019-04-18T00:08:02.355001Z

@@ -3395,6 +3395,17 @@ b969ef61-49fc-4e97-bf55-6a393489a4e5:
   language: en
   translations: {}
   title: 'Laplace transform of a unit step function: U_0'
+1aac2f70-1d62-466f-a1bc-3e8619b08d19:
+  topics: []
+  modified: 2020-06-19T07:40:24.761071802Z
+  hexsha:
+    private: 0605f86fbab2f2ef32b4f818dc23b48b23375439
+    public: 81fd843c3cafe82d249ee8c14a16589a5df5608f
+  title_id: cauchy-goursat-theorem-evaluate-the-integral-of-2z3zz-1-over-a-complex-style-curve
+  language: en-gb
+  translations: {}
+  title: 'Cauchy-Goursat theorem: Evaluate the integral of (2z+3)/(z(z-1)) over a
+    complex ∞-style curve'
 1b532910-196a-488b-84bb-338bba19348a:
   topics: []
   modified: 2019-01-15T00:51:09.587405Z

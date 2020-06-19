@@ -820,6 +820,17 @@ d5364324-e45a-41ae-b2fb-0d32df6feb07:
   language: en
   translations: {}
   title: Calculating the trigonometric Fourier series of another square wave
+3b2c68ab-f2ed-4b03-94fc-f81d8e2e7fdc:
+  topics: []
+  modified: 2020-06-19T06:59:39.788044904Z
+  hexsha:
+    private: ca0a0342fc419d22d5d48d1c8a13f3a304939d7e
+    public: 79586a1d35894398b6b19527d6ea133d8d7139f2
+  title_id: cauchy-goursat-theorem-evaluate-3ziz21-along-the-closed-contour-z-i1
+  language: en-gb
+  translations: {}
+  title: 'Cauchy-Goursat theorem: Evaluate ((3z+i)/(z^2+1)) along the closed contour
+    |z-i|=1'
 05ed1a2c-b448-45b0-8743-6f4a6ac5d701:
   topics: []
   modified: 2019-11-15T00:47:08.788603Z

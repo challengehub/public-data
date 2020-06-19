@@ -3958,6 +3958,16 @@ c09c3204-39b9-406c-9ab2-a64905fc844f:
   language: en
   translations: {}
   title: Definitions of space cones and body cones
+fa6e4384-125a-4526-834e-07f517a2215c:
+  topics: []
+  modified: 2020-06-19T08:52:14.056465487Z
+  hexsha:
+    private: 2b669f5cc5c262d6f2f996460da63d56a515ef37
+    public: 066e19cf9f23cbce4484f58b26bb3a945f4652b8
+  title_id: cauchy-goursat-theorem-the-general-case-of-1z-z0n
+  language: en-gb
+  translations: {}
+  title: 'Cauchy-Goursat theorem: The general case of 1/((z-z0)^n)'
 44542db4-3109-44d6-ae6b-3ed4da5dbd87:
   topics: []
   modified: 2019-10-24T05:37:56.382634Z

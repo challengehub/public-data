@@ -3194,6 +3194,16 @@ bcc14a44-15e8-431a-9e65-f2574a7d2676:
   language: en
   translations: {}
   title: Angular momentum of a rigid link
+41e8f207-523b-4871-8167-ab2cd310d48a:
+  topics: []
+  modified: 2020-06-19T06:49:01.90791828Z
+  hexsha:
+    private: 64367f7de30ffee0b70c33c09f8a654538240c5a
+    public: e96f0f61f9e888c269e4aed76a8a46d25ad9b777
+  title_id: cauchy-goursat-theorem-evaluate-z1z-along-the-closed-contour-z2
+  language: en-gb
+  translations: {}
+  title: 'Cauchy-Goursat theorem: Evaluate (z+(1/z)) along the closed contour |z|=2'
 f66f9ab6-ad8b-496f-8cc7-bf9bd267876b:
   topics: []
   modified: 2020-05-13T00:45:12.228299984Z

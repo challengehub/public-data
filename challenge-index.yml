@@ -10,6 +10,17 @@ a0ed605d-5922-4f03-a6ac-979f3e7a8b88:
   language: en
   translations: {}
   title: Centre-of-mass position of 3 particles
+bd50370b-d99c-43e4-9afc-348706d721a2:
+  topics: []
+  modified: 2020-06-24T08:09:28.643093747Z
+  hexsha:
+    private: fe70c8d8c04b0f682524f619d8ba3899716fa024
+    public: e02857e98cdd5961fbf8db44210e8d21732aa46c
+  title_id: independence-of-path-integral-of-ez-on-the-contour-3t2it4t21-for-0t1
+  language: en
+  translations: {}
+  title: 'Independence of path: Integral of e^z on the contour 3t^2+i(t^4+t^2+1) for
+    0<=t<=1'
 4f5b05c1-779f-4427-8c06-4eec5b47dfcc:
   topics: []
   modified: 2019-10-20T18:39:39.88107Z

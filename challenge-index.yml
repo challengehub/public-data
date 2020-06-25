@@ -3567,6 +3567,16 @@ a9638d95-1303-4a8d-94fc-d6d7c2274786:
   language: en-gb
   translations: {}
   title: Calculating the complex integral of |z|^2 on the line from (-1+i) to (1)
+bb5cb248-3c70-402c-99ba-eeb802ba9daa:
+  topics: []
+  modified: 2020-06-25T01:27:14.404988724Z
+  hexsha:
+    private: 149b5984f9b6cf38ad5dac44005ceef1626ab82d
+    public: 82046fbcf4a3f9048053dab1589101126369b833
+  title_id: independence-of-path-integral-of-2z1-on-a-piecewise-contour
+  language: en
+  translations: {}
+  title: 'Independence of path: Integral of 2z+1 on a piecewise contour'
 878c507d-bd32-4aa3-8f9c-846ade54a46f:
   topics: []
   modified: 2019-05-13T06:53:54.165072Z

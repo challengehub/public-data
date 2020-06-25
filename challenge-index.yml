@@ -2350,6 +2350,17 @@ a8124252-ab6c-4e07-8592-531baa3e565a:
   translations: {}
   title: Understanding commutation of translation, rotation and magnification of complex
     mapping
+582d4df6-2511-4814-8e70-24475049b16f:
+  topics: []
+  modified: 2020-06-25T03:18:03.302039569Z
+  hexsha:
+    private: 19499d5056a0294af4404c80a201f2b48c4e8aa7
+    public: 3a23d2c40befef070de3f635c599b7b30c8e2451
+  title_id: cauchys-integral-formulas-closed-contour-integral-of-3ziz21-on-z2
+  language: en
+  translations: {}
+  title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1) on
+    |z|=2'
 d8d5e07f-816d-4adb-92df-19e10e8be4b9:
   topics: []
   modified: 2018-11-18T20:10:13.376476Z

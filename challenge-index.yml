@@ -373,6 +373,17 @@ d8a27632-bc34-4b99-a633-b3f7c00f92bc:
   language: en
   translations: {}
   title: Boiling text missing word 4
+78599696-d265-430c-96b8-46b4470943bc:
+  topics: []
+  modified: 2020-06-25T03:14:42.234611577Z
+  hexsha:
+    private: e45340ec8cc0b78713a31ecaac0e181387fbaaa5
+    public: a531e04d85c1e13ad110782e2a7f35a6a4a5c766
+  title_id: cauchys-integral-formulas-closed-contour-integral-of-3ziz21-on-zi1
+  language: en
+  translations: {}
+  title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1) on
+    |z+i|=1'
 fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
   topics: []
   modified: 2019-10-17T06:08:09.234677Z

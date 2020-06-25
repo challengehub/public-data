@@ -1153,6 +1153,17 @@ a8d7908b-debc-45f3-b759-585fa86261d1:
   language: en
   translations: {}
   title: Question creation (particles)
+f6a48495-20a4-49a5-998d-f245406ced61:
+  topics: []
+  modified: 2020-06-25T03:13:36.122741232Z
+  hexsha:
+    private: f06b61ad6d6d1222ce97c89fe67d7fd6c991e990
+    public: 9ee7d12c120d89c47d6694577806678754c9e607
+  title_id: cauchys-integral-formulas-closed-contour-integral-of-3ziz21-on-z-i1
+  language: en
+  translations: {}
+  title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1) on
+    |z-i|=1'
 1e1043e3-4368-40df-8217-f54fced23e58:
   topics: []
   modified: 2019-06-06T03:59:23.764632Z

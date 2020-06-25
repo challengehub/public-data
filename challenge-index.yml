@@ -151,6 +151,17 @@ d09b6da5-636f-44c4-b001-8a31cd92f76d:
   language: en
   translations: {}
   title: '2D Matrices review: Addition'
+1cf15242-82ed-4897-a3fd-bd68a4e0be68:
+  topics: []
+  modified: 2020-06-25T03:44:20.083635912Z
+  hexsha:
+    private: 9dcec6481be9fbbea917659600a313c29c88317b
+    public: 0a118023090d276ae0e80774213261e43c448690
+  title_id: cauchys-integral-formulas-closed-contour-integral-of-z1zi3-on-z2
+  language: en
+  translations: {}
+  title: 'Cauchy''s integral formulas: Closed contour integral of ((z+1)/(z+i))^3
+    on |z|=2'
 21c3a132-4610-4d79-a476-68eded2ddef8:
   topics: []
   modified: 2019-01-10T06:58:26.01449Z

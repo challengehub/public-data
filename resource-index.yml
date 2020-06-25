@@ -1,771 +1,704 @@
-# ChallengeHub Resource index
-
-d7b461cd-a68b-4abf-a0a3-b50385d7a4c9:
-  content_type: image/jpeg
-  hexsha: e1fd9796d0ffe220abc00e93b70c157abd493e30
-  original_name: eqn001.jpg
-  title: chareqn001
-  title_id: chareqn001-e1fd97
-  topics: []
-  upload_time: '2018-10-20T05:57:20Z'
-  uploader_id: github.NanoScaleDesign
-
-8a9dea39-461f-4458-9446-b000852cef66:
-  content_type: image/jpeg
-  hexsha: b5db67f88ff8b59722bb8a1717fc770c185e5103
-  original_name: eqn002.jpg
-  title: chareqn002
-  title_id: chareqn002-b5db67
-  topics: []
-  upload_time: '2018-10-20T05:58:42Z'
-  uploader_id: github.NanoScaleDesign
-
-61ae7a8b-6077-48ac-bf5a-4176b767c5d3:
-  content_type: image/jpeg
-  hexsha: 82cce249dd62a1b2b3fd7da866cdb35bdc57fff7
-  original_name: eqn003.jpg
-  title: chareqn_complex_roots_b0
-  title_id: chareqncomplexrootsb0-82cce2
-  topics: []
-  upload_time: '2018-10-21T08:14:27Z'
-  uploader_id: github.NanoScaleDesign
-
-454b443e-2655-49d7-a6d3-abc33e27658d:
-  content_type: image/png
-  hexsha: 437bf34570ffec2e52add0480995a1b951eeb258
-  original_name: damping.png
-  title: Mixed graphs of damped and non-damped functions
-  title_id: mixed-graphs-of-damped-and-non-damped-functions-437bf3
-  topics: []
-  upload_time: '2018-10-21T08:57:45Z'
-  uploader_id: github.NanoScaleDesign
-
-14bbdddd-0855-4617-9367-5c8289aaadee:
-  content_type: image/png
-  hexsha: 1057d86c878819c25aa3b8de17770078fea68256
-  original_name: pulse.png
-  title: Pulse from t=1 to t=2
-  title_id: pulse-from-t1-to-t2-1057d8
-  topics: []
-  upload_time: '2018-11-17T12:19:38Z'
-  uploader_id: github.NanoScaleDesign
+# ChallengeHub Resource Index
 
 4ec4c82e-c820-4709-937a-649885681ed9:
+  topics: []
   content_type: image/jpeg
-  hexsha: 309161cdcac1becd853d85b650f133135d14a9b0
   original_name: cosforcing.jpg
-  title: Cosine forcing
+  hexsha: 309161cdcac1becd853d85b650f133135d14a9b0
   title_id: cosine-forcing-309161
-  topics: []
-  upload_time: '2018-12-14T02:21:20Z'
+  title: Cosine forcing
   uploader_id: github.NanoScaleDesign
-
-5005ca03-2dfa-4bf4-891d-1db0fee7cf9c:
-  content_type: image/jpeg
-  hexsha: be7054a7cb88b13e59aa54a6a17ac5217e756107
-  original_name: stepforcing.jpg
-  title: Step forcing graph
-  title_id: step-forcing-graph-be7054
-  topics: []
-  upload_time: '2018-12-14T02:58:37Z'
-  uploader_id: github.NanoScaleDesign
-
-29a1c89a-0c45-4be5-80d2-cecb80b8f776:
-  content_type: image/jpeg
-  hexsha: d8c3b78c26233e91504b19de1e1293393427e162
-  original_name: deltaforcing.jpg
-  title: Delta forcing
-  title_id: delta-forcing-d8c3b7
-  topics: []
-  upload_time: '2018-12-14T06:29:43Z'
-  uploader_id: github.NanoScaleDesign
-
-aed3e673-3673-4635-9614-78dee43dc4ff:
-  content_type: application/pdf
-  hexsha: 3f9f4a48eaaac06a8e3b0f1e0d1145b3dbf3f567
-  original_name: systems_homo.pdf
-  title: Homogeneous systems
-  title_id: homogeneous-systems-3f9f4a
-  topics: []
-  upload_time: '2018-12-27T07:10:13Z'
-  uploader_id: github.NanoScaleDesign
-
-7c545aac-9b61-46fc-83c4-bc4a8b07af47:
-  content_type: application/pdf
-  hexsha: 55eff147116f0aaa40d1b123ecb4054837de5ea0
-  original_name: matrices.pdf
-  title: Matrices
-  title_id: matrices-55eff1
-  topics: []
-  upload_time: '2019-01-10T02:11:04Z'
-  uploader_id: github.NanoScaleDesign
-
-c4e5505b-b367-4efa-97db-fbe89ce06cb3:
-  content_type: application/pdf
-  hexsha: 55eff147116f0aaa40d1b123ecb4054837de5ea0
-  original_name: matrices.pdf
-  title: matrices
-  title_id: matrices-55eff14
-  topics: []
-  upload_time: '2019-01-10T02:32:42Z'
-  uploader_id: github.NanoScaleDesign
-
-547cb1c8-3412-403e-939d-a9a48c87c95d:
-  content_type: application/pdf
-  hexsha: 55eff147116f0aaa40d1b123ecb4054837de5ea0
-  original_name: matrices.pdf
-  title: matrices
-  title_id: matrices-55eff14
-  topics: []
-  upload_time: '2019-01-10T02:35:41Z'
-  uploader_id: github.NanoScaleDesign
-
-b57fc242-11a7-4099-aa02-d55eec5ff938:
-  content_type: application/pdf
-  hexsha: 55eff147116f0aaa40d1b123ecb4054837de5ea0
-  original_name: matrices.pdf
-  title: matices
-  title_id: matices-55eff1
-  topics: []
-  upload_time: '2019-01-10T03:54:00Z'
-  uploader_id: github.NanoScaleDesign
-
-09ba0257-3988-478d-b407-3ffa69aef12c:
-  content_type: application/pdf
-  hexsha: d7aba645a76a85fcd436f55f60e0234df641d80e
-  original_name: linear_systems.pdf
-  title: linear_systems
-  title_id: linearsystems-d7aba6
-  topics: []
-  upload_time: '2019-01-10T07:22:45Z'
-  uploader_id: github.NanoScaleDesign
-
-4f69f6fb-adb0-42ae-b24b-e75e67f294f0:
-  content_type: image/jpeg
-  hexsha: 1c0741c54a70ec3799f1f6c7a1c5d88d9b86d4d4
-  original_name: phase_space_1.jpg
-  title: Phase space example
-  title_id: phase-space-example-1c0741
-  topics: []
-  upload_time: '2019-01-11T03:03:51Z'
-  uploader_id: github.NanoScaleDesign
-
-cda7b705-9677-4410-9bcb-bde27ea76e39:
-  content_type: image/jpeg
-  hexsha: fb74ff00b06bc81727c0d7217eef5cee848c9acc
-  original_name: pendulum_gentle.jpg
-  title: Gentle pendulum
-  title_id: gentle-pendulum-fb74ff
-  topics: []
-  upload_time: '2019-01-11T03:06:39Z'
-  uploader_id: github.NanoScaleDesign
-
-23014471-15d0-4cff-a778-940837fd39ba:
-  content_type: image/jpeg
-  hexsha: 7aca1c972593df20a7e1d73141364b0d91e081ad
-  original_name: pendulum_fullphase.jpg
-  title: Full-phase pendulum
-  title_id: full-phase-pendulum-7aca1c
-  topics: []
-  upload_time: '2019-01-11T03:08:27Z'
-  uploader_id: github.NanoScaleDesign
-
-760c80f9-3d55-4e81-8560-6bc7a3c536b4:
-  content_type: image/jpeg
-  hexsha: 8d8ed2559a05227aeb5f9413228fcb621e4f3a61
-  original_name: phase_space_a.jpg
-  title: Phase-space A
-  title_id: phase-space-a-8d8ed2
-  topics: []
-  upload_time: '2019-01-11T03:29:49Z'
-  uploader_id: github.NanoScaleDesign
-
-a9416e46-39e3-487a-89bc-c17da9ea5602:
-  content_type: image/jpeg
-  hexsha: 30955096c55b17702beae66c17c07f2b6a8c98e5
-  original_name: phase_space_b.jpg
-  title: Phase-space B
-  title_id: phase-space-b-309550
-  topics: []
-  upload_time: '2019-01-11T03:32:22Z'
-  uploader_id: github.NanoScaleDesign
-
-f95c10c6-227c-4c72-8c9f-85acb20bf8d7:
-  content_type: image/jpeg
-  hexsha: e0f7f3e358eafdae42999c734b1dfe546f2f687d
-  original_name: phase_space_c.jpg
-  title: Phase-space C
-  title_id: phase-space-c-e0f7f3
-  topics: []
-  upload_time: '2019-01-11T03:32:36Z'
-  uploader_id: github.NanoScaleDesign
-
-2f7badbb-9a47-4982-bef8-500b14a45ec2:
-  content_type: image/jpeg
-  hexsha: b99a10a5cd7f69bf44792678a14509ce2222c8d0
-  original_name: phase_space_d.jpg
-  title: Phase-space D
-  title_id: phase-space-d-b99a10
-  topics: []
-  upload_time: '2019-01-11T03:32:52Z'
-  uploader_id: github.NanoScaleDesign
-
-2d7cf942-2bd1-4971-967e-7c175925dc9c:
-  content_type: image/jpeg
-  hexsha: 4d9daaaf7b5f415ad6d6d2b464410601a378ba90
-  original_name: phase_space_e.jpg
-  title: Phase-space E
-  title_id: phase-space-e-4d9daa
-  topics: []
-  upload_time: '2019-01-11T03:33:07Z'
-  uploader_id: github.NanoScaleDesign
-
-3f9c0b1d-04d4-4bfb-bb2c-6039c0397ec6:
-  content_type: image/jpeg
-  hexsha: e1fd9796d0ffe220abc00e93b70c157abd493e30
-  original_name: eqn001.jpg
-  title: Test equation as an image
-  title_id: test-equation-as-an-image-e1fd97
-  topics: []
-  upload_time: '2019-03-18T00:15:12Z'
-  uploader_id: github.NanoScaleDesign
-
-95622082-3df4-4022-b11d-e1857acbf24f:
-  content_type: image/png
-  hexsha: 1057d86c878819c25aa3b8de17770078fea68256
-  original_name: pulse.png
-  title: image
-  title_id: image-1057d8
-  topics: []
-  upload_time: '2019-03-18T01:38:35Z'
-  uploader_id: github.NanoScaleDesign
-
-4cca9bdf-d65a-42e2-a1ce-9f9610a783c1:
-  content_type: image/png
-  hexsha: 74588d52a8bbf76289eef068c02e85424f105b94
-  original_name: force_at_end_of_rod.png
-  title: Rod with a perpendicular force applied at one end
-  title_id: rod-with-a-perpendicular-force-applied-at-one-end-74588d
-  topics: []
-  upload_time: '2019-03-28T05:36:50Z'
-  uploader_id: github.NanoScaleDesign
-
-b470b1bf-9ca2-4833-8896-a00b6b09a6d9:
-  content_type: image/png
-  hexsha: a74dafc7b799b5a693c5a7ed7e2a280360ee2abb
-  original_name: force_at_end_of_rod.png
-  title: Rod with a perpendicular force applied at one end
-  title_id: rod-with-a-perpendicular-force-applied-at-one-end-a74daf
-  topics: []
-  upload_time: '2019-03-28T05:38:37Z'
-  uploader_id: github.NanoScaleDesign
-
-0a1da874-6556-475f-8f64-1560cf2b91d3:
-  content_type: image/jpeg
-  hexsha: c0526f5f0865f70a703719b75068e043acd65bfb
-  original_name: IMG_20190405_081356948_HDR_small.jpg
-  title: Plane
-  title_id: plane-c0526f
-  topics: []
-  upload_time: '2019-04-18T20:16:54Z'
-  uploader_id: github.NanoScaleDesign
-
-da07a4b2-9ac4-42a2-90a8-713c96edc381:
-  content_type: image/png
-  hexsha: e86a199cbd6cb9d2b938a9a389e3d0f42725dde7
-  original_name: rod-frombelow.png
-  title: rod-frombelow
-  title_id: rod-frombelow-e86a19
-  topics: []
-  upload_time: '2019-05-07T07:16:29Z'
-  uploader_id: github.NanoScaleDesign
-
-1a367ffc-8a88-4c6b-91a6-45ccc654e1b7:
-  content_type: image/png
-  hexsha: 51eb20800dced79a448548e573edbef0d82cf280
-  original_name: sliding_chain.png
-  title: Sliding chain
-  title_id: sliding-chain-51eb20
-  topics: []
-  upload_time: '2019-05-17T07:50:51Z'
-  uploader_id: github.NanoScaleDesign
-
-6edb18f1-49b6-42e1-8cdd-118d2dac09d9:
-  content_type: image/png
-  hexsha: a45e4154a0d24e8f8c8910b07a788b062fde8857
-  original_name: figure.png
-  title: simrot_vel
-  title_id: simrotvel-a45e41
-  topics: []
-  upload_time: '2019-06-03T00:48:31Z'
-  uploader_id: github.NanoScaleDesign
-
-3aa238f5-d586-4b63-b76e-a4931e346ecc:
-  content_type: image/jpeg
-  hexsha: 46c8bb5448d93d4ae9e7c038c593088e657fce93
-  original_name: 434px-Evaporation_Pan.jpg
-  title: Evaporation pan
-  title_id: evaporation-pan-46c8bb
-  topics: []
-  upload_time: '2019-06-13T01:11:49Z'
-  uploader_id: github.NanoScaleDesign
-
-eef76893-f0bd-4427-83fa-391380bb9c95:
-  content_type: image/png
-  hexsha: d75b5d77270785e30b22beb1ab6f938464517afa
-  original_name: iyz.png
-  title: iyz
-  title_id: iyz-d75b5d
-  topics: []
-  upload_time: '2019-07-14T07:01:04Z'
-  uploader_id: github.NanoScaleDesign
-
-4206ab62-e156-461a-afae-439c762c47bf:
-  content_type: image/png
-  hexsha: e6ffc5291d04c8e0a23bb5005b8389c1947e2295
-  original_name: iyz.png
-  title: iyz
-  title_id: iyz-e6ffc5
-  topics: []
-  upload_time: '2019-07-14T07:02:11Z'
-  uploader_id: github.NanoScaleDesign
-
-8cb4adef-02cc-42c1-aeab-5b0c9a0aebd4:
-  content_type: image/png
-  hexsha: e6ffc5291d04c8e0a23bb5005b8389c1947e2295
-  original_name: iyz.png
-  title: iyz
-  title_id: iyz-e6ffc5
-  topics: []
-  upload_time: '2019-08-27T05:14:36Z'
-  uploader_id: github.NanoScaleDesign
-
-81044ea6-2460-43b8-8e74-7b1e34f1b496:
-  content_type: image/jpeg
-  hexsha: 42a1f04ccf5ba770b1389a4e373ae3b57b3deb9c
-  original_name: amplitude.jpg
-  title: Amplitude
-  title_id: amplitude-42a1f0
-  topics: []
-  upload_time: '2019-09-19T06:16:47Z'
-  uploader_id: github.NanoScaleDesign
-
-0b3f5835-ffb3-4ba2-b140-c38b355c7ba8:
-  content_type: image/jpeg
-  hexsha: ca3b09d4022f70a3d7c798f3240c717c339de7d1
-  original_name: phase_shift.jpg
-  title: Phase shift graph
-  title_id: phase-shift-graph-ca3b09
-  topics: []
-  upload_time: '2019-09-19T06:20:42Z'
-  uploader_id: github.NanoScaleDesign
-
-3248aff2-dd60-4101-a8d1-5bab6255a9a7:
-  content_type: image/jpeg
-  hexsha: e4f70d0d3654afb7e0ca4f9a6618854542dd0f0f
-  original_name: square_wave.jpg
-  title: Square wave
-  title_id: square-wave-e4f70d
-  topics: []
-  upload_time: '2019-09-28T22:58:29Z'
-  uploader_id: github.NanoScaleDesign
-
-9f5e63c5-fd4c-4fce-8835-95176ae3e000:
-  content_type: image/jpeg
-  hexsha: 11faf78abb2034d74dfcc2940692ab77d9b99850
-  original_name: signal_buildup.jpg
-  title: Signal buildup
-  title_id: signal-buildup-11faf7
-  topics: []
-  upload_time: '2019-09-29T20:46:38Z'
-  uploader_id: github.NanoScaleDesign
-
-bb09b127-4e4d-4e56-983f-9597e92d737f:
-  content_type: image/jpeg
-  hexsha: ab1ea1a284441f306c3889d721441a8ea8f3b009
-  original_name: fourier_sine_series.jpg
-  title: Fourier sine series
-  title_id: fourier-sine-series-ab1ea1
-  topics: []
-  upload_time: '2019-09-30T01:08:46Z'
-  uploader_id: github.NanoScaleDesign
-
-92ed4d17-5f2b-48aa-a9fb-d55482651346:
-  content_type: image/jpeg
-  hexsha: fe3eab4dac4e66821bb2e514db126d583f057c2f
-  original_name: fourier_cosine_series.jpg
-  title: Fourier cosine series
-  title_id: fourier-cosine-series-fe3eab
-  topics: []
-  upload_time: '2019-09-30T01:16:03Z'
-  uploader_id: github.NanoScaleDesign
-
-6b007d1e-7408-42cf-9c07-7885dcb0eb64:
-  content_type: image/png
-  hexsha: da83367921df93de774e5261cbb176371ce8a939
-  original_name: direction_fields_A.png
-  title: Direction field A
-  title_id: direction-field-a-da8336
-  topics: []
-  upload_time: '2019-09-30T02:13:45Z'
-  uploader_id: github.NanoScaleDesign
-
-f1d4495a-fb12-41b3-92c6-584981e9dca8:
-  content_type: image/jpeg
-  hexsha: 404c6ea22775b6d7b27db5d5f37491acd3b120ba
-  original_name: direction_fields_A.jpg
-  title: Direction field A
-  title_id: direction-field-a-404c6e
-  topics: []
-  upload_time: '2019-09-30T02:15:33Z'
-  uploader_id: github.NanoScaleDesign
-
-1efd0ee6-dcf8-4630-8e4f-955b86bb51c8:
-  content_type: image/jpeg
-  hexsha: 0132e2cb18acf298a344eee8bdae6e70a157e289
-  original_name: direction_fields_B.jpg
-  title: Direction field B
-  title_id: direction-field-b-0132e2
-  topics: []
-  upload_time: '2019-09-30T02:15:51Z'
-  uploader_id: github.NanoScaleDesign
-
-ba3d8259-81c5-44dd-996f-564511ee71c5:
-  content_type: image/jpeg
-  hexsha: 6356508220df762afd8dd733922056cfba80f366
-  original_name: direction_fields_C.jpg
-  title: Direction field C
-  title_id: direction-field-c-635650
-  topics: []
-  upload_time: '2019-09-30T02:16:06Z'
-  uploader_id: github.NanoScaleDesign
-
-f59aabe4-13a9-4314-be3b-0331d4c5cfa5:
-  content_type: image/jpeg
-  hexsha: 7b45e6cb6b3dd2835a39265e996f02c58fa1e97b
-  original_name: direction_fields_D.jpg
-  title: Direction field D
-  title_id: direction-field-d-7b45e6
-  topics: []
-  upload_time: '2019-09-30T02:16:24Z'
-  uploader_id: github.NanoScaleDesign
-
-4178343a-0ba2-4e1e-9740-44c1e65d9a86:
-  content_type: image/jpeg
-  hexsha: 9ef07a58c7c0d541d75710297033b9281c23f531
-  original_name: direction_fields_E.jpg
-  title: Direction field E
-  title_id: direction-field-e-9ef07a
-  topics: []
-  upload_time: '2019-09-30T02:16:39Z'
-  uploader_id: github.NanoScaleDesign
-
-274455ef-b99b-4ce5-901d-7e2cc7d13aff:
-  content_type: image/jpeg
-  hexsha: 5d3f642db0180a3b572d89242ad2aba7dece1447
-  original_name: direction_fields_F.jpg
-  title: Direction field F
-  title_id: direction-field-f-5d3f64
-  topics: []
-  upload_time: '2019-09-30T02:16:52Z'
-  uploader_id: github.NanoScaleDesign
-
-16ada9f1-be51-4a43-a04f-3046076241a6:
-  content_type: image/jpeg
-  hexsha: 5d3f642db0180a3b572d89242ad2aba7dece1447
-  original_name: direction_fields_F.jpg
-  title: Direction field
-  title_id: direction-field-5d3f64
-  topics: []
-  upload_time: '2019-10-01T19:14:01Z'
-  uploader_id: github.NanoScaleDesign
-
-3bb5ee18-be89-4eac-8454-48a13ab5ec77:
-  content_type: image/jpeg
-  hexsha: fe3eab4dac4e66821bb2e514db126d583f057c2f
-  original_name: fourier_cosine_series.jpg
-  title: Fourier series I
-  title_id: fourier-series-i-fe3eab
-  topics: []
-  upload_time: '2019-10-04T03:29:42Z'
-  uploader_id: github.NanoScaleDesign
-
-ffd72a31-53a2-46a4-b7f1-810ce30844ae:
-  content_type: image/jpeg
-  hexsha: ab1ea1a284441f306c3889d721441a8ea8f3b009
-  original_name: fourier_sine_series.jpg
-  title: Fourier series II
-  title_id: fourier-series-ii-ab1ea1
-  topics: []
-  upload_time: '2019-10-04T03:30:04Z'
-  uploader_id: github.NanoScaleDesign
-
-ef4b4d42-1be0-4437-b73d-8ee054fbd359:
-  content_type: image/jpeg
-  hexsha: eeebfd32a53a9dd3efe1fde5b42b4248b697533e
-  original_name: fs_exp_squarewave.jpg
-  title: Square wave
-  title_id: square-wave-eeebfd
-  topics: []
-  upload_time: '2019-10-04T05:32:21Z'
-  uploader_id: github.NanoScaleDesign
-
-c85d46d9-195a-4a96-a522-8137308b12ba:
-  content_type: image/jpeg
-  hexsha: c3efdc2c375baca26825566837fbf6bc2d1c16de
-  original_name: damping.jpg
-  title: Damping
-  title_id: damping-c3efdc
-  topics: []
-  upload_time: '2019-10-10T05:46:30Z'
-  uploader_id: github.NanoScaleDesign
-
-d73270b1-2954-4bad-90df-52a691166b0d:
-  content_type: image/jpeg
-  hexsha: c3efdc2c375baca26825566837fbf6bc2d1c16de
-  original_name: damping.jpg
-  title: Functions with and without dDamping
-  title_id: functions-with-and-without-ddamping-c3efdc
-  topics: []
-  upload_time: '2019-10-10T06:02:08Z'
-  uploader_id: github.NanoScaleDesign
-
+  upload_time: 2018-12-14T02:21:20Z
 9713b47f-3c40-45d2-a44b-714a5836be9b:
+  topics: []
   content_type: image/jpeg
-  hexsha: cc9629b639cbe9b503507890d508565101d2e2cc
   original_name: sawwave.jpg
-  title: Saw wave
+  hexsha: cc9629b639cbe9b503507890d508565101d2e2cc
   title_id: saw-wave-cc9629
-  topics: []
-  upload_time: '2019-10-15T00:43:33Z'
+  title: Saw wave
   uploader_id: github.NanoScaleDesign
-
+  upload_time: 2019-10-15T00:43:33Z
 d5f8cb98-dfd6-4f94-a759-f615addf8ed4:
+  topics: []
   content_type: image/jpeg
-  hexsha: 325fb2ace91dac8e44bfeb4a8639f9ab0464e7f6
   original_name: window_function.jpg
-  title: Window function
+  hexsha: 325fb2ace91dac8e44bfeb4a8639f9ab0464e7f6
   title_id: window-function-325fb2
-  topics: []
-  upload_time: '2019-10-17T03:33:39Z'
+  title: Window function
   uploader_id: github.NanoScaleDesign
-
-6e208adf-1338-4d99-a9c9-bcb42d812fb1:
+  upload_time: 2019-10-17T03:33:39Z
+da07a4b2-9ac4-42a2-90a8-713c96edc381:
+  topics: []
+  content_type: image/png
+  original_name: rod-frombelow.png
+  hexsha: e86a199cbd6cb9d2b938a9a389e3d0f42725dde7
+  title_id: rod-frombelow-e86a19
+  title: rod-frombelow
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-05-07T07:16:29Z
+2d7cf942-2bd1-4971-967e-7c175925dc9c:
+  topics: []
   content_type: image/jpeg
-  hexsha: e611b298c82c87b39417ab8ad8eed8feec96bf8d
-  original_name: windowft.jpg
-  title: Window function Fourier transform
-  title_id: window-function-fourier-transform-e611b2
-  topics: []
-  upload_time: '2019-10-17T03:33:59Z'
+  original_name: phase_space_e.jpg
+  hexsha: 4d9daaaf7b5f415ad6d6d2b464410601a378ba90
+  title_id: phase-space-e-4d9daa
+  title: Phase-space E
   uploader_id: github.NanoScaleDesign
-
-ac15c611-7b7c-47ae-989a-cc4a5089f787:
+  upload_time: 2019-01-11T03:33:07Z
+aed3e673-3673-4635-9614-78dee43dc4ff:
+  topics: []
   content_type: application/pdf
-  hexsha: e51393fde8aa89a87bd3e159d414c39f9b2ef71f
-  original_name: undetermined.pdf
-  title: Undetermined coefficients PDF
-  title_id: undetermined-coefficients-pdf-e51393
-  topics: []
-  upload_time: '2019-10-17T05:19:08Z'
+  original_name: systems_homo.pdf
+  hexsha: 3f9f4a48eaaac06a8e3b0f1e0d1145b3dbf3f567
+  title_id: homogeneous-systems-3f9f4a
+  title: Homogeneous systems
   uploader_id: github.NanoScaleDesign
-
+  upload_time: 2018-12-27T07:10:13Z
+6b007d1e-7408-42cf-9c07-7885dcb0eb64:
+  topics: []
+  content_type: image/png
+  original_name: direction_fields_A.png
+  hexsha: da83367921df93de774e5261cbb176371ce8a939
+  title_id: direction-field-a-da8336
+  title: Direction field A
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-30T02:13:45Z
 004e8ed6-fe9a-4472-871e-29c614bada02:
+  topics: []
   content_type: image/jpeg
-  hexsha: 4e7cc6fa212cd0a83f1498d1beb44254755d78c7
   original_name: triangle_function.jpg
-  title: Triangle function
+  hexsha: 4e7cc6fa212cd0a83f1498d1beb44254755d78c7
   title_id: triangle-function-4e7cc6
-  topics: []
-  upload_time: '2019-10-21T01:13:45Z'
+  title: Triangle function
   uploader_id: github.NanoScaleDesign
-
-b8e1feff-4297-4b30-9676-a4cfc1b0b6aa:
-  content_type: image/jpeg
-  hexsha: d0be21760ef58001a64b95c9974b7430b9eb05f3
-  original_name: triangle_function_ft.jpg
-  title: Triangle function Fourier transform
-  title_id: triangle-function-fourier-transform-d0be21
+  upload_time: 2019-10-21T01:13:45Z
+95622082-3df4-4022-b11d-e1857acbf24f:
   topics: []
-  upload_time: '2019-10-21T01:14:10Z'
-  uploader_id: github.NanoScaleDesign
-
-0c5170b3-9301-4068-954b-2f9b4a46fb20:
-  content_type: image/jpeg
-  hexsha: 5e711ae7f071836e59dc9e95b3adf09ecdf0173e
-  original_name: gaussian.jpg
-  title: Gaussian function
-  title_id: gaussian-function-5e711a
-  topics: []
-  upload_time: '2019-10-21T05:01:11Z'
-  uploader_id: github.NanoScaleDesign
-
-77f0fcab-93a2-4564-9dc6-0e43b6442477:
-  content_type: image/jpeg
-  hexsha: 5094b867d81ca51ead53ce40c7608b5e4772f920
-  original_name: rocket_function.jpg
-  title: Rocket function
-  title_id: rocket-function-5094b8
-  topics: []
-  upload_time: '2019-10-21T05:08:58Z'
-  uploader_id: github.NanoScaleDesign
-
-23cc3769-f683-4812-8f5a-26e021e33c3f:
-  content_type: image/jpeg
-  hexsha: ba667afe7748df3852ea196f75843d4ddd81797a
-  original_name: rocket_function_ft.jpg
-  title: Rocket function Fourier transform
-  title_id: rocket-function-fourier-transform-ba667a
-  topics: []
-  upload_time: '2019-10-21T05:09:25Z'
-  uploader_id: github.NanoScaleDesign
-
-4410d479-962f-401f-933a-cfef4292e0ee:
-  content_type: image/jpeg
-  hexsha: fbfaf0914d1087925889747d5ed5c10dbbf61168
-  original_name: window_function_delay.jpg
-  title: Window function delay graph
-  title_id: window-function-delay-graph-fbfaf0
-  topics: []
-  upload_time: '2019-10-21T08:05:02Z'
-  uploader_id: github.NanoScaleDesign
-
-ba186c05-ddcc-478b-807f-a9db43710782:
-  content_type: image/jpeg
-  hexsha: 620d9d48fa506449c233c40d2db1aa50c16df41f
-  original_name: window_function_delay_ft_real.jpg
-  title: Window function delay Fourier transform (real component)
-  title_id: window-function-delay-fourier-transform-real-component-620d9d
-  topics: []
-  upload_time: '2019-10-21T08:05:32Z'
-  uploader_id: github.NanoScaleDesign
-
-494d8ede-b671-43ff-a8a6-0df184678d85:
-  content_type: image/jpeg
-  hexsha: bfd40aa8244270915cf651062471dbaa173a1f58
-  original_name: window_function_delay_ft_im.jpg
-  title: Window function delay Fourier transform (imaginary component)
-  title_id: window-function-delay-fourier-transform-imaginary-component-bfd40a
-  topics: []
-  upload_time: '2019-10-21T08:06:00Z'
-  uploader_id: github.NanoScaleDesign
-
-9bd1c1a8-961f-4cd4-aa33-077c2038aeb6:
-  content_type: image/jpeg
-  hexsha: 16bb850d28d42883dca5b27d9a869266b58134cf
-  original_name: turbidity.jpg
-  title: Turbidity standards
-  title_id: turbidity-standards-16bb85
-  topics: []
-  upload_time: '2019-10-24T05:45:43Z'
-  uploader_id: github.NanoScaleDesign
-
-560a1849-7363-45e7-9edf-660db15537d3:
-  content_type: application/pdf
-  hexsha: ed7ec6e98089da18edfbe0ac271f231b37aec94d
-  original_name: discrete_1-5.pdf
-  title: Discrete signals introduction
-  title_id: discrete-signals-introduction-ed7ec6
-  topics: []
-  upload_time: '2019-10-24T07:10:14Z'
-  uploader_id: github.NanoScaleDesign
-
-6fefb12c-c897-4ffc-9a83-11046ffa2410:
-  content_type: application/pdf
-  hexsha: 1111147484c7b1f6dbb69fc8a215523f2045f8f6
-  original_name: discrete_10-15.pdf
-  title: DFT slides
-  title_id: dft-slides-111114
-  topics: []
-  upload_time: '2019-10-29T08:14:42Z'
-  uploader_id: github.NanoScaleDesign
-
-cc5ffdd0-830c-48a0-8e58-5e14e1abd7ca:
-  content_type: image/jpeg
-  hexsha: aeb9bded54450c637734574fee1e149bba6f365c
-  original_name: sinedft.jpg
-  title: Sine curve with DFT points
-  title_id: sine-curve-with-dft-points-aeb9bd
-  topics: []
-  upload_time: '2019-10-30T01:09:36Z'
-  uploader_id: github.NanoScaleDesign
-
-d65b231f-e947-4328-ae6f-1e25866d05c9:
-  content_type: image/jpeg
-  hexsha: 12966356a1f3e280754c0a1a6e038d6855911cb7
-  original_name: dftcossin.jpg
-  title: Cos plus Sin
-  title_id: cos-plus-sin-129663
-  topics: []
-  upload_time: '2019-10-30T05:32:16Z'
-  uploader_id: github.NanoScaleDesign
-
-d6a27a07-87be-433b-a613-9244efee084b:
-  content_type: image/jpeg
-  hexsha: e7bf08fc4eb775fb33d9f6d841c283483e787723
-  original_name: dftcossinsamples.jpg
-  title: DFT cos sin sum sampled
-  title_id: dft-cos-sin-sum-sampled-e7bf08
-  topics: []
-  upload_time: '2019-10-30T05:52:28Z'
-  uploader_id: github.NanoScaleDesign
-
-3e87546d-12f5-40ac-8604-84d529db124d:
-  content_type: application/pdf
-  hexsha: 34398e3273502ddda4e440dc560951b193093c46
-  original_name: fft_1-4.pdf
-  title: FFT introduction
-  title_id: fft-introduction-34398e
-  topics: []
-  upload_time: '2019-10-30T06:12:24Z'
-  uploader_id: github.NanoScaleDesign
-
-abd7146f-bfd1-4af1-adb9-acbf7917398a:
-  content_type: image/jpeg
-  hexsha: 0b1597a6e9781149bcc190cd994047c5c8ece2b1
-  original_name: twiddle_diagram.jpg
-  title: Twiddle diagram
-  title_id: twiddle-diagram-0b1597
-  topics: []
-  upload_time: '2019-11-07T06:20:43Z'
-  uploader_id: github.NanoScaleDesign
-
-812c0b62-4706-4e07-8260-f82b4ef29e3d:
-  content_type: image/jpeg
-  hexsha: 81788b794a69724f51b25e7f58a94e300f0f7be6
-  original_name: DFT_radix4.jpg
-  title: DFT radix-4
-  title_id: dft-radix-4-81788b
-  topics: []
-  upload_time: '2019-11-07T12:11:25Z'
-  uploader_id: github.NanoScaleDesign
-
-3072c5c2-0214-4d77-83d9-ba170d844833:
   content_type: image/png
-  hexsha: d309e5a33489c676c168f9b4535b22b32c158763
-  original_name: kyudai.png
-  title: Kyudai logo
-  title_id: kyudai-logo-d309e5
-  topics: []
-  upload_time: '2019-11-15T00:54:47Z'
+  original_name: pulse.png
+  hexsha: 1057d86c878819c25aa3b8de17770078fea68256
+  title_id: image-1057d8
+  title: image
   uploader_id: github.NanoScaleDesign
-
+  upload_time: 2019-03-18T01:38:35Z
+f95c10c6-227c-4c72-8c9f-85acb20bf8d7:
+  topics: []
+  content_type: image/jpeg
+  original_name: phase_space_c.jpg
+  hexsha: e0f7f3e358eafdae42999c734b1dfe546f2f687d
+  title_id: phase-space-c-e0f7f3
+  title: Phase-space C
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-11T03:32:36Z
+6edb18f1-49b6-42e1-8cdd-118d2dac09d9:
+  topics: []
+  content_type: image/png
+  original_name: figure.png
+  hexsha: a45e4154a0d24e8f8c8910b07a788b062fde8857
+  title_id: simrotvel-a45e41
+  title: simrot_vel
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-06-03T00:48:31Z
+16ada9f1-be51-4a43-a04f-3046076241a6:
+  topics: []
+  content_type: image/jpeg
+  original_name: direction_fields_F.jpg
+  hexsha: 5d3f642db0180a3b572d89242ad2aba7dece1447
+  title_id: direction-field-5d3f64
+  title: Direction field
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-01T19:14:01Z
+2f7badbb-9a47-4982-bef8-500b14a45ec2:
+  topics: []
+  content_type: image/jpeg
+  original_name: phase_space_d.jpg
+  hexsha: b99a10a5cd7f69bf44792678a14509ce2222c8d0
+  title_id: phase-space-d-b99a10
+  title: Phase-space D
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-11T03:32:52Z
+eef76893-f0bd-4427-83fa-391380bb9c95:
+  topics: []
+  content_type: image/png
+  original_name: iyz.png
+  hexsha: d75b5d77270785e30b22beb1ab6f938464517afa
+  title_id: iyz-d75b5d
+  title: iyz
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-07-14T07:01:04Z
+0a1da874-6556-475f-8f64-1560cf2b91d3:
+  topics: []
+  content_type: image/jpeg
+  original_name: IMG_20190405_081356948_HDR_small.jpg
+  hexsha: c0526f5f0865f70a703719b75068e043acd65bfb
+  title_id: plane-c0526f
+  title: Plane
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-04-18T20:16:54Z
+ffd72a31-53a2-46a4-b7f1-810ce30844ae:
+  topics: []
+  content_type: image/jpeg
+  original_name: fourier_sine_series.jpg
+  hexsha: ab1ea1a284441f306c3889d721441a8ea8f3b009
+  title_id: fourier-series-ii-ab1ea1
+  title: Fourier series II
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-04T03:30:04Z
 42fb107e-f863-4d2b-8d44-548509a33cc7:
+  topics: []
   content_type: image/png
-  hexsha: 18967773f3c83d9c48f2223258c1b81a2f5dfc01
   original_name: kyudai_outline.png
-  title: Kyudai logo edges-only
+  hexsha: 18967773f3c83d9c48f2223258c1b81a2f5dfc01
   title_id: kyudai-logo-edges-only-189677
-  topics: []
-  upload_time: '2019-11-15T00:55:27Z'
+  title: Kyudai logo edges-only
   uploader_id: github.NanoScaleDesign
-
-ab1e9a8a-9abb-4fb8-afba-bfcc478afa57:
+  upload_time: 2019-11-15T00:55:27Z
+23cc3769-f683-4812-8f5a-26e021e33c3f:
+  topics: []
+  content_type: image/jpeg
+  original_name: rocket_function_ft.jpg
+  hexsha: ba667afe7748df3852ea196f75843d4ddd81797a
+  title_id: rocket-function-fourier-transform-ba667a
+  title: Rocket function Fourier transform
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-21T05:09:25Z
+494d8ede-b671-43ff-a8a6-0df184678d85:
+  topics: []
+  content_type: image/jpeg
+  original_name: window_function_delay_ft_im.jpg
+  hexsha: bfd40aa8244270915cf651062471dbaa173a1f58
+  title_id: window-function-delay-fourier-transform-imaginary-component-bfd40a
+  title: Window function delay Fourier transform (imaginary component)
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-21T08:06:00Z
+bb09b127-4e4d-4e56-983f-9597e92d737f:
+  topics: []
+  content_type: image/jpeg
+  original_name: fourier_sine_series.jpg
+  hexsha: ab1ea1a284441f306c3889d721441a8ea8f3b009
+  title_id: fourier-sine-series-ab1ea1
+  title: Fourier sine series
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-30T01:08:46Z
+d65b231f-e947-4328-ae6f-1e25866d05c9:
+  topics: []
+  content_type: image/jpeg
+  original_name: dftcossin.jpg
+  hexsha: 12966356a1f3e280754c0a1a6e038d6855911cb7
+  title_id: cos-plus-sin-129663
+  title: Cos plus Sin
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-30T05:32:16Z
+3e87546d-12f5-40ac-8604-84d529db124d:
+  topics: []
+  content_type: application/pdf
+  original_name: fft_1-4.pdf
+  hexsha: 34398e3273502ddda4e440dc560951b193093c46
+  title_id: fft-introduction-34398e
+  title: FFT introduction
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-30T06:12:24Z
+b470b1bf-9ca2-4833-8896-a00b6b09a6d9:
+  topics: []
   content_type: image/png
-  hexsha: 264a8259edb63118a771416c10e3d81f865367f4
-  original_name: kyudai_blurred.png
-  title: Kyudai logo blurred
-  title_id: kyudai-logo-blurred-264a82
-  topics: []
-  upload_time: '2019-11-15T00:56:17Z'
+  original_name: force_at_end_of_rod.png
+  hexsha: a74dafc7b799b5a693c5a7ed7e2a280360ee2abb
+  title_id: rod-with-a-perpendicular-force-applied-at-one-end-a74daf
+  title: Rod with a perpendicular force applied at one end
   uploader_id: github.NanoScaleDesign
+  upload_time: 2019-03-28T05:38:37Z
+8cb4adef-02cc-42c1-aeab-5b0c9a0aebd4:
+  topics: []
+  content_type: image/png
+  original_name: iyz.png
+  hexsha: e6ffc5291d04c8e0a23bb5005b8389c1947e2295
+  title_id: iyz-e6ffc5
+  title: iyz
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-08-27T05:14:36Z
+81044ea6-2460-43b8-8e74-7b1e34f1b496:
+  topics: []
+  content_type: image/jpeg
+  original_name: amplitude.jpg
+  hexsha: 42a1f04ccf5ba770b1389a4e373ae3b57b3deb9c
+  title_id: amplitude-42a1f0
+  title: Amplitude
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-19T06:16:47Z
+9bd1c1a8-961f-4cd4-aa33-077c2038aeb6:
+  topics: []
+  content_type: image/jpeg
+  original_name: turbidity.jpg
+  hexsha: 16bb850d28d42883dca5b27d9a869266b58134cf
+  title_id: turbidity-standards-16bb85
+  title: Turbidity standards
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-24T05:45:43Z
+4206ab62-e156-461a-afae-439c762c47bf:
+  topics: []
+  content_type: image/png
+  original_name: iyz.png
+  hexsha: e6ffc5291d04c8e0a23bb5005b8389c1947e2295
+  title_id: iyz-e6ffc5
+  title: iyz
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-07-14T07:02:11Z
+ac15c611-7b7c-47ae-989a-cc4a5089f787:
+  topics: []
+  content_type: application/pdf
+  original_name: undetermined.pdf
+  hexsha: e51393fde8aa89a87bd3e159d414c39f9b2ef71f
+  title_id: undetermined-coefficients-pdf-e51393
+  title: Undetermined coefficients PDF
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-17T05:19:08Z
+d73270b1-2954-4bad-90df-52a691166b0d:
+  topics: []
+  content_type: image/jpeg
+  original_name: damping.jpg
+  hexsha: c3efdc2c375baca26825566837fbf6bc2d1c16de
+  title_id: functions-with-and-without-ddamping-c3efdc
+  title: Functions with and without dDamping
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-10T06:02:08Z
+4cca9bdf-d65a-42e2-a1ce-9f9610a783c1:
+  topics: []
+  content_type: image/png
+  original_name: force_at_end_of_rod.png
+  hexsha: 74588d52a8bbf76289eef068c02e85424f105b94
+  title_id: rod-with-a-perpendicular-force-applied-at-one-end-74588d
+  title: Rod with a perpendicular force applied at one end
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-03-28T05:36:50Z
+136ca53e-3d62-4dc2-90fd-a42d0bf5c62b:
+  topics: []
+  content_type: image/png
+  original_name: Complex_hw8.png
+  hexsha: 7d509bb03f6d24a4c2b1f319226cc089e7e3e7f6
+  title_id: contour-from-1i-to-1-2i-7d509b
+  title: Contour from -1+I to 1-2i
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2020-06-25T01:25:18.403912437Z
+c85d46d9-195a-4a96-a522-8137308b12ba:
+  topics: []
+  content_type: image/jpeg
+  original_name: damping.jpg
+  hexsha: c3efdc2c375baca26825566837fbf6bc2d1c16de
+  title_id: damping-c3efdc
+  title: Damping
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-10T05:46:30Z
+cc5ffdd0-830c-48a0-8e58-5e14e1abd7ca:
+  topics: []
+  content_type: image/jpeg
+  original_name: sinedft.jpg
+  hexsha: aeb9bded54450c637734574fee1e149bba6f365c
+  title_id: sine-curve-with-dft-points-aeb9bd
+  title: Sine curve with DFT points
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-30T01:09:36Z
+3248aff2-dd60-4101-a8d1-5bab6255a9a7:
+  topics: []
+  content_type: image/jpeg
+  original_name: square_wave.jpg
+  hexsha: e4f70d0d3654afb7e0ca4f9a6618854542dd0f0f
+  title_id: square-wave-e4f70d
+  title: Square wave
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-28T22:58:29Z
+6e208adf-1338-4d99-a9c9-bcb42d812fb1:
+  topics: []
+  content_type: image/jpeg
+  original_name: windowft.jpg
+  hexsha: e611b298c82c87b39417ab8ad8eed8feec96bf8d
+  title_id: window-function-fourier-transform-e611b2
+  title: Window function Fourier transform
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-17T03:33:59Z
+a9416e46-39e3-487a-89bc-c17da9ea5602:
+  topics: []
+  content_type: image/jpeg
+  original_name: phase_space_b.jpg
+  hexsha: 30955096c55b17702beae66c17c07f2b6a8c98e5
+  title_id: phase-space-b-309550
+  title: Phase-space B
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-11T03:32:22Z
+61ae7a8b-6077-48ac-bf5a-4176b767c5d3:
+  topics: []
+  content_type: image/jpeg
+  original_name: eqn003.jpg
+  hexsha: 82cce249dd62a1b2b3fd7da866cdb35bdc57fff7
+  title_id: chareqncomplexrootsb0-82cce2
+  title: chareqn_complex_roots_b0
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2018-10-21T08:14:27Z
+92ed4d17-5f2b-48aa-a9fb-d55482651346:
+  topics: []
+  content_type: image/jpeg
+  original_name: fourier_cosine_series.jpg
+  hexsha: fe3eab4dac4e66821bb2e514db126d583f057c2f
+  title_id: fourier-cosine-series-fe3eab
+  title: Fourier cosine series
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-30T01:16:03Z
+760c80f9-3d55-4e81-8560-6bc7a3c536b4:
+  topics: []
+  content_type: image/jpeg
+  original_name: phase_space_a.jpg
+  hexsha: 8d8ed2559a05227aeb5f9413228fcb621e4f3a61
+  title_id: phase-space-a-8d8ed2
+  title: Phase-space A
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-11T03:29:49Z
+560a1849-7363-45e7-9edf-660db15537d3:
+  topics: []
+  content_type: application/pdf
+  original_name: discrete_1-5.pdf
+  hexsha: ed7ec6e98089da18edfbe0ac271f231b37aec94d
+  title_id: discrete-signals-introduction-ed7ec6
+  title: Discrete signals introduction
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-24T07:10:14Z
+4410d479-962f-401f-933a-cfef4292e0ee:
+  topics: []
+  content_type: image/jpeg
+  original_name: window_function_delay.jpg
+  hexsha: fbfaf0914d1087925889747d5ed5c10dbbf61168
+  title_id: window-function-delay-graph-fbfaf0
+  title: Window function delay graph
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-21T08:05:02Z
+0b3f5835-ffb3-4ba2-b140-c38b355c7ba8:
+  topics: []
+  content_type: image/jpeg
+  original_name: phase_shift.jpg
+  hexsha: ca3b09d4022f70a3d7c798f3240c717c339de7d1
+  title_id: phase-shift-graph-ca3b09
+  title: Phase shift graph
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-19T06:20:42Z
+ab1e9a8a-9abb-4fb8-afba-bfcc478afa57:
+  topics: []
+  content_type: image/png
+  original_name: kyudai_blurred.png
+  hexsha: 264a8259edb63118a771416c10e3d81f865367f4
+  title_id: kyudai-logo-blurred-264a82
+  title: Kyudai logo blurred
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-11-15T00:56:17Z
+b57fc242-11a7-4099-aa02-d55eec5ff938:
+  topics: []
+  content_type: application/pdf
+  original_name: matrices.pdf
+  hexsha: 55eff147116f0aaa40d1b123ecb4054837de5ea0
+  title_id: matices-55eff1
+  title: matices
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-10T03:54:00Z
+7c545aac-9b61-46fc-83c4-bc4a8b07af47:
+  topics: []
+  content_type: application/pdf
+  original_name: matrices.pdf
+  hexsha: 55eff147116f0aaa40d1b123ecb4054837de5ea0
+  title_id: matrices-55eff1
+  title: Matrices
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-10T02:11:04Z
+0c5170b3-9301-4068-954b-2f9b4a46fb20:
+  topics: []
+  content_type: image/jpeg
+  original_name: gaussian.jpg
+  hexsha: 5e711ae7f071836e59dc9e95b3adf09ecdf0173e
+  title_id: gaussian-function-5e711a
+  title: Gaussian function
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-21T05:01:11Z
+3aa238f5-d586-4b63-b76e-a4931e346ecc:
+  topics: []
+  content_type: image/jpeg
+  original_name: 434px-Evaporation_Pan.jpg
+  hexsha: 46c8bb5448d93d4ae9e7c038c593088e657fce93
+  title_id: evaporation-pan-46c8bb
+  title: Evaporation pan
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-06-13T01:11:49Z
+6fefb12c-c897-4ffc-9a83-11046ffa2410:
+  topics: []
+  content_type: application/pdf
+  original_name: discrete_10-15.pdf
+  hexsha: 1111147484c7b1f6dbb69fc8a215523f2045f8f6
+  title_id: dft-slides-111114
+  title: DFT slides
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-29T08:14:42Z
+454b443e-2655-49d7-a6d3-abc33e27658d:
+  topics: []
+  content_type: image/png
+  original_name: damping.png
+  hexsha: 437bf34570ffec2e52add0480995a1b951eeb258
+  title_id: mixed-graphs-of-damped-and-non-damped-functions-437bf3
+  title: Mixed graphs of damped and non-damped functions
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2018-10-21T08:57:45Z
+ba3d8259-81c5-44dd-996f-564511ee71c5:
+  topics: []
+  content_type: image/jpeg
+  original_name: direction_fields_C.jpg
+  hexsha: 6356508220df762afd8dd733922056cfba80f366
+  title_id: direction-field-c-635650
+  title: Direction field C
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-30T02:16:06Z
+4178343a-0ba2-4e1e-9740-44c1e65d9a86:
+  topics: []
+  content_type: image/jpeg
+  original_name: direction_fields_E.jpg
+  hexsha: 9ef07a58c7c0d541d75710297033b9281c23f531
+  title_id: direction-field-e-9ef07a
+  title: Direction field E
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-30T02:16:39Z
+29a1c89a-0c45-4be5-80d2-cecb80b8f776:
+  topics: []
+  content_type: image/jpeg
+  original_name: deltaforcing.jpg
+  hexsha: d8c3b78c26233e91504b19de1e1293393427e162
+  title_id: delta-forcing-d8c3b7
+  title: Delta forcing
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2018-12-14T06:29:43Z
+d7b461cd-a68b-4abf-a0a3-b50385d7a4c9:
+  topics: []
+  content_type: image/jpeg
+  original_name: eqn001.jpg
+  hexsha: e1fd9796d0ffe220abc00e93b70c157abd493e30
+  title_id: chareqn001-e1fd97
+  title: chareqn001
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2018-10-20T05:57:20Z
+77f0fcab-93a2-4564-9dc6-0e43b6442477:
+  topics: []
+  content_type: image/jpeg
+  original_name: rocket_function.jpg
+  hexsha: 5094b867d81ca51ead53ce40c7608b5e4772f920
+  title_id: rocket-function-5094b8
+  title: Rocket function
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-21T05:08:58Z
+23014471-15d0-4cff-a778-940837fd39ba:
+  topics: []
+  content_type: image/jpeg
+  original_name: pendulum_fullphase.jpg
+  hexsha: 7aca1c972593df20a7e1d73141364b0d91e081ad
+  title_id: full-phase-pendulum-7aca1c
+  title: Full-phase pendulum
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-11T03:08:27Z
+14bbdddd-0855-4617-9367-5c8289aaadee:
+  topics: []
+  content_type: image/png
+  original_name: pulse.png
+  hexsha: 1057d86c878819c25aa3b8de17770078fea68256
+  title_id: pulse-from-t1-to-t2-1057d8
+  title: Pulse from t=1 to t=2
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2018-11-17T12:19:38Z
+b8e1feff-4297-4b30-9676-a4cfc1b0b6aa:
+  topics: []
+  content_type: image/jpeg
+  original_name: triangle_function_ft.jpg
+  hexsha: d0be21760ef58001a64b95c9974b7430b9eb05f3
+  title_id: triangle-function-fourier-transform-d0be21
+  title: Triangle function Fourier transform
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-21T01:14:10Z
+3f9c0b1d-04d4-4bfb-bb2c-6039c0397ec6:
+  topics: []
+  content_type: image/jpeg
+  original_name: eqn001.jpg
+  hexsha: e1fd9796d0ffe220abc00e93b70c157abd493e30
+  title_id: test-equation-as-an-image-e1fd97
+  title: Test equation as an image
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-03-18T00:15:12Z
+9f5e63c5-fd4c-4fce-8835-95176ae3e000:
+  topics: []
+  content_type: image/jpeg
+  original_name: signal_buildup.jpg
+  hexsha: 11faf78abb2034d74dfcc2940692ab77d9b99850
+  title_id: signal-buildup-11faf7
+  title: Signal buildup
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-29T20:46:38Z
+274455ef-b99b-4ce5-901d-7e2cc7d13aff:
+  topics: []
+  content_type: image/jpeg
+  original_name: direction_fields_F.jpg
+  hexsha: 5d3f642db0180a3b572d89242ad2aba7dece1447
+  title_id: direction-field-f-5d3f64
+  title: Direction field F
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-30T02:16:52Z
+abd7146f-bfd1-4af1-adb9-acbf7917398a:
+  topics: []
+  content_type: image/jpeg
+  original_name: twiddle_diagram.jpg
+  hexsha: 0b1597a6e9781149bcc190cd994047c5c8ece2b1
+  title_id: twiddle-diagram-0b1597
+  title: Twiddle diagram
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-11-07T06:20:43Z
+ef4b4d42-1be0-4437-b73d-8ee054fbd359:
+  topics: []
+  content_type: image/jpeg
+  original_name: fs_exp_squarewave.jpg
+  hexsha: eeebfd32a53a9dd3efe1fde5b42b4248b697533e
+  title_id: square-wave-eeebfd
+  title: Square wave
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-04T05:32:21Z
+1efd0ee6-dcf8-4630-8e4f-955b86bb51c8:
+  topics: []
+  content_type: image/jpeg
+  original_name: direction_fields_B.jpg
+  hexsha: 0132e2cb18acf298a344eee8bdae6e70a157e289
+  title_id: direction-field-b-0132e2
+  title: Direction field B
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-30T02:15:51Z
+d6a27a07-87be-433b-a613-9244efee084b:
+  topics: []
+  content_type: image/jpeg
+  original_name: dftcossinsamples.jpg
+  hexsha: e7bf08fc4eb775fb33d9f6d841c283483e787723
+  title_id: dft-cos-sin-sum-sampled-e7bf08
+  title: DFT cos sin sum sampled
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-30T05:52:28Z
+8a9dea39-461f-4458-9446-b000852cef66:
+  topics: []
+  content_type: image/jpeg
+  original_name: eqn002.jpg
+  hexsha: b5db67f88ff8b59722bb8a1717fc770c185e5103
+  title_id: chareqn002-b5db67
+  title: chareqn002
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2018-10-20T05:58:42Z
+3bb5ee18-be89-4eac-8454-48a13ab5ec77:
+  topics: []
+  content_type: image/jpeg
+  original_name: fourier_cosine_series.jpg
+  hexsha: fe3eab4dac4e66821bb2e514db126d583f057c2f
+  title_id: fourier-series-i-fe3eab
+  title: Fourier series I
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-04T03:29:42Z
+ba186c05-ddcc-478b-807f-a9db43710782:
+  topics: []
+  content_type: image/jpeg
+  original_name: window_function_delay_ft_real.jpg
+  hexsha: 620d9d48fa506449c233c40d2db1aa50c16df41f
+  title_id: window-function-delay-fourier-transform-real-component-620d9d
+  title: Window function delay Fourier transform (real component)
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-10-21T08:05:32Z
+1a367ffc-8a88-4c6b-91a6-45ccc654e1b7:
+  topics: []
+  content_type: image/png
+  original_name: sliding_chain.png
+  hexsha: 51eb20800dced79a448548e573edbef0d82cf280
+  title_id: sliding-chain-51eb20
+  title: Sliding chain
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-05-17T07:50:51Z
+f1d4495a-fb12-41b3-92c6-584981e9dca8:
+  topics: []
+  content_type: image/jpeg
+  original_name: direction_fields_A.jpg
+  hexsha: 404c6ea22775b6d7b27db5d5f37491acd3b120ba
+  title_id: direction-field-a-404c6e
+  title: Direction field A
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-30T02:15:33Z
+547cb1c8-3412-403e-939d-a9a48c87c95d:
+  topics: []
+  content_type: application/pdf
+  original_name: matrices.pdf
+  hexsha: 55eff147116f0aaa40d1b123ecb4054837de5ea0
+  title_id: matrices-55eff14
+  title: matrices
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-10T02:35:41Z
+4f69f6fb-adb0-42ae-b24b-e75e67f294f0:
+  topics: []
+  content_type: image/jpeg
+  original_name: phase_space_1.jpg
+  hexsha: 1c0741c54a70ec3799f1f6c7a1c5d88d9b86d4d4
+  title_id: phase-space-example-1c0741
+  title: Phase space example
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-11T03:03:51Z
+09ba0257-3988-478d-b407-3ffa69aef12c:
+  topics: []
+  content_type: application/pdf
+  original_name: linear_systems.pdf
+  hexsha: d7aba645a76a85fcd436f55f60e0234df641d80e
+  title_id: linearsystems-d7aba6
+  title: linear_systems
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-10T07:22:45Z
+3072c5c2-0214-4d77-83d9-ba170d844833:
+  topics: []
+  content_type: image/png
+  original_name: kyudai.png
+  hexsha: d309e5a33489c676c168f9b4535b22b32c158763
+  title_id: kyudai-logo-d309e5
+  title: Kyudai logo
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-11-15T00:54:47Z
+812c0b62-4706-4e07-8260-f82b4ef29e3d:
+  topics: []
+  content_type: image/jpeg
+  original_name: DFT_radix4.jpg
+  hexsha: 81788b794a69724f51b25e7f58a94e300f0f7be6
+  title_id: dft-radix-4-81788b
+  title: DFT radix-4
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-11-07T12:11:25Z
+5005ca03-2dfa-4bf4-891d-1db0fee7cf9c:
+  topics: []
+  content_type: image/jpeg
+  original_name: stepforcing.jpg
+  hexsha: be7054a7cb88b13e59aa54a6a17ac5217e756107
+  title_id: step-forcing-graph-be7054
+  title: Step forcing graph
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2018-12-14T02:58:37Z
+c4e5505b-b367-4efa-97db-fbe89ce06cb3:
+  topics: []
+  content_type: application/pdf
+  original_name: matrices.pdf
+  hexsha: 55eff147116f0aaa40d1b123ecb4054837de5ea0
+  title_id: matrices-55eff14
+  title: matrices
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-10T02:32:42Z
+f59aabe4-13a9-4314-be3b-0331d4c5cfa5:
+  topics: []
+  content_type: image/jpeg
+  original_name: direction_fields_D.jpg
+  hexsha: 7b45e6cb6b3dd2835a39265e996f02c58fa1e97b
+  title_id: direction-field-d-7b45e6
+  title: Direction field D
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-09-30T02:16:24Z
+cda7b705-9677-4410-9bcb-bde27ea76e39:
+  topics: []
+  content_type: image/jpeg
+  original_name: pendulum_gentle.jpg
+  hexsha: fb74ff00b06bc81727c0d7217eef5cee848c9acc
+  title_id: gentle-pendulum-fb74ff
+  title: Gentle pendulum
+  uploader_id: github.NanoScaleDesign
+  upload_time: 2019-01-11T03:06:39Z

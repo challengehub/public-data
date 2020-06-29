@@ -4517,10 +4517,10 @@ d828d071-d594-45c6-89ce-9669be9291cb:
   title: Calculating the complex Fourier coefficients of a square wave
 93534aef-72f1-4233-a8ff-6ee7ef60f535:
   topics: []
-  modified: 2019-05-21T06:54:33.820728Z
+  modified: 2020-06-29T02:41:15.978284247Z
   hexsha:
-    private: f6c033c0797b32acf84353892f3917c815629b59
-    public: df2cb11feeca0a9e383a12f4a218290832533cfd
+    private: 6b86d40f099cf213ead79bf0b89aa7cb3955b60e
+    public: ab35700a9b8aaf7a19d49da6c13adb1efc527be9
   title_id: definition-of-mass-transfer-in-this-course
   language: en
   translations: {}

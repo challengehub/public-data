@@ -2614,6 +2614,16 @@ e99656c0-3e37-4816-bb00-40b5a8b7fa2d:
   language: en
   translations: {}
   title: Past simple vs present perfect
+c7ef7a05-037f-4289-9dbd-71e4494af8e2:
+  topics: []
+  modified: 2020-07-02T12:46:55.974045228Z
+  hexsha:
+    private: f832374dc6c3aa2d61d87542c80d18d1f328a604
+    public: b584c5bb7211a4c35d4a86c84258696cc6627070
+  title_id: identify-the-radius-of-convergence-of-the-series-nz1-in
+  language: en
+  translations: {}
+  title: Identify the radius of convergence of the series n!(z+1-i)^n
 978f3e18-effe-4c0e-9c44-49ecbcdf086e:
   topics: []
   modified: 2019-04-12T05:52:59.037623Z

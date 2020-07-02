@@ -1360,6 +1360,16 @@ e4019de6-0585-4b7f-b282-6ff9c5cba0ac:
   language: en
   translations: {}
   title: Making non-periodic signals from periodic signals
+9a9da3d5-b6f3-4537-86e5-d4b89eff873f:
+  topics: []
+  modified: 2020-07-02T03:07:25.262775285Z
+  hexsha:
+    private: 22f7744c97d4e39d07284f3e95694e9fd207bb47
+    public: 7d21ddcc13a2141541ec64f1b9fe0a74930735a0
+  title_id: evaluate-the-limit-n1ni
+  language: en
+  translations: {}
+  title: Evaluate the limit (n+1)/(n+i)
 e04f7340-4ded-4224-974b-2d4ce15b68e7:
   topics: []
   modified: 2019-10-04T04:01:03.444781Z

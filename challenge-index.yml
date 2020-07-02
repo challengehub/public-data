@@ -1228,6 +1228,16 @@ cb8bf493-4808-4c6e-944d-67e8439a6b59:
   translations: {}
   title: Crank-style problem - Perpendicularity of position, velocity and rotation
     vectors
+b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
+  topics: []
+  modified: 2020-07-02T12:07:17.412919406Z
+  hexsha:
+    private: 77c6abeb097083d96cae690661840fd2cf567af9
+    public: 93dce42bf19cb60a1769168ff4b4d9c0bc8b1455
+  title_id: identify-the-radius-of-convergence-of-the-series-z1n2in
+  language: en
+  translations: {}
+  title: Identify the radius of convergence of the series (z+1)^n/(2+i)^n
 429373ee-dd8d-4db4-a3b6-a467c0c3a30a:
   topics: []
   modified: 2019-03-26T04:30:23.189885Z

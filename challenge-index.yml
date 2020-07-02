@@ -3047,6 +3047,16 @@ bdba6966-b5a6-47e9-b8b3-d36815906434:
   language: en-gb
   translations: {}
   title: Finding complex values of Log(i)
+6fae0465-fd1f-411c-8997-eaaf8dc290ef:
+  topics: []
+  modified: 2020-07-02T12:34:33.179849104Z
+  hexsha:
+    private: 0fdb386105ecb62284a7f6c88284092533d2b280
+    public: 8683c2be9afcaa2ecb3d1e3dda50a47fb79ecce5
+  title_id: identify-the-radius-of-convergence-of-the-series-z-1-3inn3i
+  language: en
+  translations: {}
+  title: Identify the radius of convergence of the series ((z-1-3i)^n)/(n+3i)
 9a2451c9-cee6-4ee1-9789-4c4e7fdc5f4b:
   topics: []
   modified: 2020-03-09T08:25:07.531379Z

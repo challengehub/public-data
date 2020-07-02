@@ -753,6 +753,16 @@ af8ca8a3-de68-4202-a908-2e9564377fc1:
   translations: {}
   title: 'Cauchy''s integral formulas: Closed contour integral of e^(2z)/(z^5) on
     |z-1-i|=2'
+04457f88-b681-47a4-b2da-ccda9684de07:
+  topics: []
+  modified: 2020-07-02T12:38:53.178514087Z
+  hexsha:
+    private: bb4ab030721fe48eda7472511c238004dc03118d
+    public: e84e576e444dbd49785f1ffac390354da620e4bb
+  title_id: identify-the-radius-of-convergence-of-the-series-n-12-znn
+  language: en
+  translations: {}
+  title: Identify the radius of convergence of the series ((n-1)^2 z^n)/n!
 3e0f96e1-d3aa-4c49-bbec-5da3b64951c7:
   topics: []
   modified: 2018-11-16T01:37:42.740688Z

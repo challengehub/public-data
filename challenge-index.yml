@@ -1025,6 +1025,16 @@ b239d7f5-c247-4d80-8d90-2f207008feac:
   language: en
   translations: {}
   title: Drawing the set and image of the square with vertices 0, 1, 1+i and i
+37c64bd2-2c1c-40fe-894e-278d5d629dcb:
+  topics: []
+  modified: 2020-07-03T01:24:05.183868342Z
+  hexsha:
+    private: e524db16af9868ebc522aef415db2f5576e380f4
+    public: 5513b8ba549ba0a4f8df4db0583a1cb045289e3e
+  title_id: find-the-maclaurin-series-and-radius-of-conversion-of-ze2z
+  language: en
+  translations: {}
+  title: Find the Maclaurin series and radius of conversion of ze^(2z)
 180d4df9-48d0-476d-9d19-55ddb21274ef:
   topics: []
   modified: 2019-12-10T00:27:29.885344Z

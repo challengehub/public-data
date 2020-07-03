@@ -2088,6 +2088,16 @@ a04a8ec8-f4db-4ac3-8ab7-c6785110adc0:
   language: en
   translations: {}
   title: Question creation (ODE I)
+b8dcab62-de99-458c-870a-2334edaedc58:
+  topics: []
+  modified: 2020-07-03T03:03:55.008858812Z
+  hexsha:
+    private: 63290deffdc786dc24fbd33fa2963ced02ad85d8
+    public: 66fd4303b7cbbb8a136d9aa2607427153c0d1a1c
+  title_id: find-the-taylor-series-of-ez-centred-at-2i
+  language: en
+  translations: {}
+  title: Find the Taylor series of e^z centred at 2i
 639e1675-f3d9-40a7-a095-03e653f034d6:
   topics: []
   modified: 2019-04-01T05:01:30.391984Z

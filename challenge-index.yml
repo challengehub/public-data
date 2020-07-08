@@ -3383,10 +3383,10 @@ f66f9ab6-ad8b-496f-8cc7-bf9bd267876b:
   title: Factoring a difference of cubes
 e0c75c63-d56d-46e1-83ec-9947d54a6372:
   topics: []
-  modified: 2019-06-14T03:46:04.739578Z
+  modified: 2020-07-08T08:26:39.020977382Z
   hexsha:
-    private: 5db08e8bfb68a8f27d93281df205633da98d22e3
-    public: 20904ea31ac4ed012a03da38d71d0c31205298ab
+    private: a8f343ebc3cbf8d42ca3dc223c0ee4f70fc10a13
+    public: f93a4cbb7fa57cc60cf59bdffcda22a42b2d8fb0
   title_id: definition-of-a-steady-state-condition-in-diffusive-mass-transfer
   language: en
   translations: {}

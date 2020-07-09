@@ -3592,6 +3592,16 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   language: en
   translations: {}
   title: Mass Transfer 2019 class 2 survey
+83e99bf0-ea72-4007-a9bd-71e5b20203f2:
+  topics: []
+  modified: 2020-07-09T06:13:05.959019169Z
+  hexsha:
+    private: 95954f488021ce38ab3b6a102eaf436d5c018c16
+    public: 88ad6ea2b7e5cc8fb42a3aae69166c5c46463cdb
+  title_id: describe-branch-cuts-and-branch-points
+  language: en
+  translations: {}
+  title: Describe branch cuts and branch points
 34619ddf-1257-43e6-82bc-945d549795c0:
   topics: []
   modified: 2019-10-08T03:58:48.801127Z

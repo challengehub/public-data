@@ -4808,6 +4808,16 @@ bb8193aa-c617-4aee-bea6-8dd3af722fa0:
   language: en-gb
   translations: {}
   title: Harmonic conjugate relationship of u and v
+754ca9f7-60a1-4614-9a82-c21a2b103287:
+  topics: []
+  modified: 2020-07-09T23:57:08.732156035Z
+  hexsha:
+    private: 5836db10683b8ebdc99f1d9ef42e06761b6170b4
+    public: c814d2f561081bdc8dcceffc13f6b31273e2664d
+  title_id: expand-fzz-3z-1z1-into-a-series-valid-for-the-domain-z1
+  language: en
+  translations: {}
+  title: Expand f(z)=(z-3)/((z-1)(z+1)) into a series valid for the domain |z|<1
 5ef934f8-0c6c-4559-99b1-6c6ac8c81e4e:
   topics: []
   modified: 2018-11-17T12:29:50.770072Z

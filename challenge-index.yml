@@ -3361,6 +3361,16 @@ bcc14a44-15e8-431a-9e65-f2574a7d2676:
   language: en
   translations: {}
   title: Angular momentum of a rigid link
+da413fae-b256-4fc8-814e-0d036e0c5047:
+  topics: []
+  modified: 2020-07-09T23:34:50.427708583Z
+  hexsha:
+    private: cf840b20455ba149dde5ecb03bf3989131bb2a2d
+    public: b125ce2b7f2a64dd921d7da42e75e9dd4199b670
+  title_id: when-to-use-taylor-series-and-laurant-series
+  language: en
+  translations: {}
+  title: When to use Taylor series and Laurant series
 41e8f207-523b-4871-8167-ab2cd310d48a:
   topics: []
   modified: 2020-06-19T06:49:01.90791828Z

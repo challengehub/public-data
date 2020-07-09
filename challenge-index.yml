@@ -2373,14 +2373,14 @@ bafb0068-db14-47b2-b454-76570cb5fd82:
   title: Phase-space of pendulum motion
 d6c69ee4-b977-427a-b193-2e9ef238286a:
   topics: []
-  modified: 2020-07-09T13:41:11.825421772Z
+  modified: 2020-07-09T13:57:54.486782017Z
   hexsha:
-    private: 8250a3434a4be9e80b266ade626c6edaeb83b13e
-    public: 9c098465fa19cb6980a34babed64d9c13c8ca344
+    private: 751613ca35cf2f358ce2f3a57207f67740b18be4
+    public: aac9dcb93344bf26031474b03cdf076125651fed
   title_id: calculate-the-laurent-series-of-1zz-3-for-the-annular-domain-0z3
   language: en
   translations: {}
-  title: Calculate the Laurent Series of 1/(z(z-3) for the annular domain 0<|z|<3
+  title: Calculate the Laurent Series of 1/(z(z-3)) for the annular domain 0<|z|<3
 1b8a379b-8af1-4acc-94dd-312c7ef472d8:
   topics: []
   modified: 2019-09-19T04:55:13.644586Z

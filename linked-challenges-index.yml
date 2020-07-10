@@ -1,3 +1,13 @@
 # ChallengeHub Linked Challenge Index
 
-{}
+15dae042-098e-4860-9642-35c7232dc59b:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ee3fec7be86a42ddd6c1c716cca7c2c6b1d2bc96
+    public: b61e30fd7e1fae8fe64560f9a54038f514e27787
+  import_time: 2020-07-10T01:47:12.524839539Z
+  title_id: tension-three-monkeys-climbing-a-rope-b61e30
+  title: 'Tension: Three monkeys climbing a rope'
+  creator_id: github.NanoScaleDesign

@@ -3362,6 +3362,17 @@ c562d8c6-9141-4b55-9b84-1c224d78bff2:
   translations: {}
   title: A worked example of calculations of two simultaneous rotations on different
     axes
+67d59f62-5d09-4fb0-826f-54444209744b:
+  topics: []
+  modified: 2020-07-10T01:09:00.199740131Z
+  hexsha:
+    private: 4ef59fa0017f427837585d0f72de482e3bd46562
+    public: 22e063782683fcddea6ad1fc121af6a0537bb427
+  title_id: define-a-removable-isolated-singularity-a-pole-isolated-singularity-and-an-essential-isolated-singularity
+  language: en
+  translations: {}
+  title: Define a removable isolated singularity, a pole isolated singularity and
+    an essential isolated singularity
 bcc14a44-15e8-431a-9e65-f2574a7d2676:
   topics: []
   modified: 2019-05-31T00:24:07.225862Z

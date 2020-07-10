@@ -783,6 +783,17 @@ af8ca8a3-de68-4202-a908-2e9564377fc1:
   language: en
   translations: {}
   title: '2D Matrices review: Inverse'
+3cf22cca-0ac1-419a-9440-08cb0ce9ef5b:
+  topics: []
+  modified: 2020-07-10T00:36:33.373866765Z
+  hexsha:
+    private: 7fb9608df20768311615f9923a6993674b0de6a4
+    public: ca75bca6c6407687788f472854e6502f397a5831
+  title_id: expand-fzz-3z-1z1-into-a-series-that-is-valid-for-the-domain-z1
+  language: en
+  translations: {}
+  title: Expand f(z)=(z-3)/((z-1)(z+1)) into a series that is valid for the domain
+    |z|>1
 c9dfbc7a-e714-4974-a776-57b82b3ff51d:
   topics: []
   modified: 2018-12-14T02:31:21.370796Z

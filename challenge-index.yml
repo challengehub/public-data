@@ -1108,10 +1108,10 @@ f1ac917c-551c-4196-b5ba-82eb64b91a8d:
   title: 'Solving separable ODE''s: y''=y'
 76fb63e3-7948-4749-aa75-83b9a4674306:
   topics: []
-  modified: 2020-05-28T00:59:36.588488322Z
+  modified: 2020-07-14T23:31:21.08634585Z
   hexsha:
-    private: 5d536827426c8fa1a02e641e64f76f2b3fabe209
-    public: 006ce82a1179845010726e84f68a5cec3e1ce366
+    private: d2ffb6b76a16623beb59df116176a1626df705a9
+    public: 795506ba93cb265ab66c4b8dce66bb0fae8039bd
   title_id: calculate-arccosh12
   language: en-gb
   translations: {}

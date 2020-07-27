@@ -1564,6 +1564,16 @@ d7cf3ecc-0a2b-48f0-82f5-f3afc7c40425:
   language: en-gb
   translations: {}
   title: 'Complex number algebra: i^n'
+510862b4-984d-47e9-a936-8914f01628e7:
+  topics: []
+  modified: 2020-07-27T02:24:33.660233015Z
+  hexsha:
+    private: 46815823c04a06567bd6e741fe007c9e3824fc42
+    public: 7086ffc77fe6ecf98124874b1dbfaf3b92f73b63
+  title_id: question-creation-mass-transfer-2020
+  language: en
+  translations: {}
+  title: Question creation (Mass Transfer 2020)
 ef385aaa-dba5-4a00-a79a-e9c7b427ad74:
   topics: []
   modified: 2019-10-21T00:45:37.83854Z

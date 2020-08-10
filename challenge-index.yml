@@ -1167,6 +1167,16 @@ fe7398f3-f822-4a49-b825-348f7f130c48:
   translations: {}
   title: 'Method of undetermined coefficients: Determining the ODE: y = C_1 cos(4t)
     + C_2 sin(4t) - e^t sin (2t)'
+963d2112-bf33-403c-869c-dc96aef435b3:
+  topics: []
+  modified: 2020-08-10T00:50:16.843225667Z
+  hexsha:
+    private: 8dce0fbbe86d4923a4ae728c2b2d347eeae934af
+    public: 96f8be4f99b65e53b0b93f4c920dd325b63cab4d
+  title_id: answering-peers-peerwise-questions-mass-transfer-2020
+  language: en
+  translations: {}
+  title: Answering peers' peerwise questions (Mass Transfer 2020)
 86d108a7-2ab5-4eb3-92e8-7d8d41a0d08e:
   topics: []
   modified: 2020-05-04T03:21:15.344076409Z

@@ -1169,10 +1169,10 @@ fe7398f3-f822-4a49-b825-348f7f130c48:
     + C_2 sin(4t) - e^t sin (2t)'
 963d2112-bf33-403c-869c-dc96aef435b3:
   topics: []
-  modified: 2020-08-10T00:50:16.843225667Z
+  modified: 2020-08-10T00:53:40.625176837Z
   hexsha:
-    private: 8dce0fbbe86d4923a4ae728c2b2d347eeae934af
-    public: 96f8be4f99b65e53b0b93f4c920dd325b63cab4d
+    private: 91bc28c9bb021cf398206c920cece7f1a219dc80
+    public: 3b8fa289b0a6fb0049b380577b733392874b3d2d
   title_id: answering-peers-peerwise-questions-mass-transfer-2020
   language: en
   translations: {}

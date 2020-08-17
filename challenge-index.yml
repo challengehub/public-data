@@ -2121,10 +2121,10 @@ a04a8ec8-f4db-4ac3-8ab7-c6785110adc0:
   title: Question creation (ODE I)
 b8dcab62-de99-458c-870a-2334edaedc58:
   topics: []
-  modified: 2020-07-03T03:10:24.947319669Z
+  modified: 2020-08-17T02:04:50.103841618Z
   hexsha:
-    private: 2f35b2e57ecd5a199061354c52fd3602e07c0ce7
-    public: 0198754a77920a6556b55bf20afb810caade4144
+    private: ddb4668d7ef14504bdeceb485d57cd99da4db585
+    public: 7a403865a925702105be298436fa7701fe7da3ce
   title_id: find-the-taylor-series-of-ez-centred-at-2i
   language: en
   translations: {}

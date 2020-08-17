@@ -5034,10 +5034,10 @@ d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:
   title: Calculating the complex integral of Re(z) on the circle |z|=1
 fe45c912-e338-4bbf-9060-dcd3e4c66671:
   topics: []
-  modified: 2020-07-09T13:57:40.389440182Z
+  modified: 2020-08-17T02:12:49.436745553Z
   hexsha:
-    private: ba53353ed4c3803179f795c3dc315bd89487bdde
-    public: cef1052e42f5690c5bcb2b6751484cb76f40dfe5
+    private: 6127fbe23d47c0f08b79e78b2ae182aead3ae4e1
+    public: 1ca31386e1dfceded259c8c2e58fa165160b8705
   title_id: calculate-the-laurent-series-of-1zz-3-for-the-annular-domain-3z
   language: en
   translations: {}

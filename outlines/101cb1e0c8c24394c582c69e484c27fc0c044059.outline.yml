@@ -1,0 +1,358 @@
+stints:
+- has_teams: false
+  starts_after: 92700
+  challenges:
+  - challenge_sha:
+      private: 6b86d40f099cf213ead79bf0b89aa7cb3955b60e
+      public: ab35700a9b8aaf7a19d49da6c13adb1efc527be9
+    language: en
+    id: 93534aef-72f1-4233-a8ff-6ee7ef60f535
+    title: Definition of mass transfer in this course
+  - challenge_sha:
+      private: a64cd1b031a45f2c390ef5e5e3920a44e9555e54
+      public: c4bb8918ad6bd60a84750c35e8677d8a519d206c
+    language: en
+    id: 275ae2fa-de80-423c-ba20-3f14f6fe8599
+    title: Diffusion in the long time limit
+  - challenge_sha:
+      private: c9074311561101d8900c5a285d25f599f2f72f82
+      public: 0fd271e0515bf59b1ee141e70cd736de4012ecaf
+    language: en
+    id: c3f21ef7-8f93-4954-b4c6-771f9be31c26
+    title: Individual gas constant definition
+  - challenge_sha:
+      private: 1f4232475ffcf5ca8af76594b8ede1edd2d3f39f
+      public: 8a7304729e8d44f6ef568431d85866543c7bbfdb
+    language: en
+    id: 411df674-c171-4f68-8f1c-0609bc8a1798
+    title: Partial-pressure definition
+  - challenge_sha:
+      private: 7649e3f540919c263f1c620fe26481b964b0f5f7
+      public: cfb7d8b8c98259cb6034c0e246021aa13c467c3b
+    language: en
+    id: 69b745ca-5197-444a-b135-2f8d7121a32d
+    title: Calculating mass-fraction from partial pressure
+  - challenge_sha:
+      private: 6f77c3600f933924e1b7889b9b1bc835f3b0b7bf
+      public: 4207dfaac4218d90be4a9bd7565c32533d69d4af
+    language: en
+    id: cb8bf493-4808-4c6e-944d-67e8439a6b59
+    title: Ideal gas mixtures and density
+  - challenge_sha:
+      private: 12b16e5a499d036fc3137814c9795e12cb1b269a
+      public: 25c92e673f435d983124233373d5a2c7bdfd7ca8
+    language: en
+    id: 07aee1fb-a9a6-4aed-a95b-96dbb3e36f47
+    title: 'LNG: mole-fraction of ethane'
+  - challenge_sha:
+      private: d29610ad78de53a2c7190abf28c7f5c935fbaa02
+      public: 91017d6e2d06155ef41e966a3d6685d59105b74e
+    language: en
+    id: 83146463-2a06-43be-8aa2-030b04f3b82d
+    title: 'LNG: mass-fraction of ethane'
+  - challenge_sha:
+      private: f191bbe1c053168f2a028b24ff569ed0c7eeb343
+      public: d90dcc85db50eb125f6151d303ca0262da67c65e
+    language: en
+    id: 0969a174-5cc3-4ee6-8bbe-36217a691f63
+    title: 'LNG: Average molecular mass of the mixture'
+  title: Class 1
+- has_teams: false
+  starts_after: 696300
+  challenges:
+  - challenge_sha:
+      private: f4390df5ab49e6868f45e17193a2224c30737b37
+      public: 02ac2786f7f959342bb702b774cb36b8e725a145
+    language: en
+    id: 024d1793-9abd-4977-84cc-904b05506104
+    title: Mass Transfer 2019 class 2 survey
+  title: Class 2 pre-survey
+- has_teams: true
+  starts_after: 696600
+  challenges:
+  - challenge_sha:
+      private: b448242dd251a7796a55fe8095b3a6501a7a7914
+      public: 7744b8f565919a9747923e8f85e1fb8a9191f49d
+    language: en
+    id: b7532194-5047-49bd-937f-7ac9689dddf9
+    title: 'LNG: Partial pressure of methane'
+  - challenge_sha:
+      private: 323e81a82a8ff7dfe6fbc50061cd26409bfbb31f
+      public: 0952b146c73b352b9141b06dffe613bc53fc3fe5
+    language: en
+    id: 8d3ed50c-ef36-4f2a-96b9-3dabf12c9290
+    title: 'LNG: Mass density of the gas'
+  - challenge_sha:
+      private: 087bc9125f12fda904bf76842cc6e806ca93b98c
+      public: d6f418c3e85b33c3a24fd58563d4a7b94e1af255
+    language: en
+    id: 4d9d9856-6516-4590-bf64-7334e89803b0
+    title: Estimating mass diffusivity of Ammonia at a different temperature
+  - challenge_sha:
+      private: 190b458e169affef18799715c1fb68f91851c296
+      public: 186686ee87669bbb4c2559069e805b579c6ce227
+    language: en
+    id: dccd4f56-edbb-4614-8060-c94e7086c574
+    title: Estimating mass diffusivity of Hydrogen at a different temperature
+  - challenge_sha:
+      private: 729b873144afb0acc8b296f559353a79e96fa1a8
+      public: 04b96c8f998bb0cfe2ad3585529506b3c3a5c203
+    language: en
+    id: d7415328-30e3-4acb-875f-a5b5c20ae294
+    title: Cases of diffusion in a vertical tube subject to a temperature gradient
+  - challenge_sha:
+      private: a3fb02e089996fe988e3c2ec8eb64109b0af833d
+      public: 34abe37245340150626779fcc8b586ea47296a38
+    language: en
+    id: 4bb04a41-b344-4119-a7e8-6139e543edfb
+    title: Diffusion coefficient equivalency
+  - challenge_sha:
+      private: c9a873e54173d219588c7c2002c56fbdc76e88cd
+      public: b51641c0a7312955afabd25960f4284ba103dede
+    language: en
+    id: 8ef7fbc3-b798-4aa0-8d89-150ea00a9b51
+    title: Saturated Vapour Pressure and its relation to Relative Humidity
+  - challenge_sha:
+      private: 0e3173cae9cb248e6abf519f3d900b09040beb0f
+      public: dfe1d674c927d9e81b9d8bd9cb53117e3dd60415
+    language: en
+    id: 26d0f33a-1aec-446d-8ba3-9ac6d986eb0c
+    title: The relation between humidity and saturated density
+  - challenge_sha:
+      private: 947a1848822a08eff7d11945c096139ec44fc63a
+      public: 2abd7eb89d043963fa0c6e7e0e8da7f8eec4c54f
+    language: en
+    id: 1bd952e0-1f9a-4627-b120-93104f7bb389
+    title: Relations between humidity, saturated density and mole-fraction
+  - challenge_sha:
+      private: dda5078491a75849c88545491390f1c7840f3040
+      public: 203920de57d836db888bedf6cbcad174cecb23ad
+    language: en
+    id: 90e882c1-748a-4b09-a04d-0fe6efe8ea07
+    title: Relation between pressure, humidity and mole-fraction
+  - challenge_sha:
+      private: dabe64abca1c3b875bc4b5ff3e116b9a7c87dc2e
+      public: 16b92bcf9dbb33eac4e805fc44a00fa10082176d
+    language: en
+    id: 5a8e2ea6-45c9-4622-b265-aad041440b64
+    title: Column evaporation derivation
+  title: Class 2
+- has_teams: false
+  starts_after: 1301400
+  challenges:
+  - challenge_sha:
+      private: 6c320fff45df7caff0f59969abb2bbf86c5da87b
+      public: 27e205d864b69c8187e4b67f90fba463cc70c919
+    language: en
+    id: 05654b55-b029-44b1-8725-c2c3b328e9b9
+    title: Guest lecture by Prof. Khellil Sefiane from Edinburgh University on 24
+      June 2019
+  title: Guest lecture
+- has_teams: true
+  starts_after: 1906200
+  challenges:
+  - challenge_sha:
+      private: 32a2534ced3d3969535dcc7c3cac17359f29bb62
+      public: b1a00b23bd74b01d4125d74c63378d89e8c4a14a
+    language: en
+    id: 8bce66f2-8871-4c2c-af8d-9d588920326f
+    title: Example of calculation of evaporation through a pore
+  - challenge_sha:
+      private: f15e52eda5880b5b9f9c33f7c02902696796bcb4
+      public: 50debd1eedd39134bda7aa39b91969c3f0ccc7a5
+    language: en
+    id: 479961a6-d5bb-489d-9b0d-083198d5c138
+    title: Initial evaporation rate from an evaporation pan, assuming only diffusive
+      mass transport
+  - challenge_sha:
+      private: 7819ddbb26fa29c5a4f7638e5153abc106e96e6e
+      public: 282780b496054c7a30c15a0795ae3f0f03c0576b
+    language: en
+    id: 29669082-6d57-4c9f-8f76-74e9f2f2664f
+    title: Initial evaporation rate from an evaporation pan, including the effects
+      of advection
+  - challenge_sha:
+      private: a58c6ac4eeb98cd19ad91f46fa098092170e9cca
+      public: c2823f626912b0435430dcf6cb1bc836bfa36496
+    language: en
+    id: bb48f56e-66ca-4bce-8d45-6036667f7730
+    title: Definition of a stationary medium
+  - challenge_sha:
+      private: 3bb476b9c58708bc2e6ad33c31438dcdeaf799e7
+      public: 99c5e12ffa33c354bcb144abcf8ec4d79dc5c887
+    language: en
+    id: 1a54e37b-0d7f-452d-87bf-ce32f61535de
+    title: Calculating flux of a 3rd component given fluxes of 2 other components
+      in a stationary medium
+  - challenge_sha:
+      private: d0a858f5ece71fc21e1d783cffc04b2ff0fec615
+      public: 92d2679f80c4f1440e34f45f8087a660fd294759
+    language: en
+    id: 6917e372-92c4-439d-a372-059b66afa45a
+    title: Calculating the molar velocity of a component in a stationary medium
+  - challenge_sha:
+      private: bc241bdc4b1c7d2bc0bb9016a5a1e396e835a2aa
+      public: 53076a78361ff24e1cbe276e971a4c215cd9e856
+    language: en
+    id: 35cd73f7-8f5a-4b15-8a75-f753936531f7
+    title: Definition of a stationary medium approximation
+  - challenge_sha:
+      private: a8f343ebc3cbf8d42ca3dc223c0ee4f70fc10a13
+      public: f93a4cbb7fa57cc60cf59bdffcda22a42b2d8fb0
+    language: en
+    id: e0c75c63-d56d-46e1-83ec-9947d54a6372
+    title: Definition of a steady-state condition in diffusive mass transfer
+  - challenge_sha:
+      private: 76bbffa3467273c4c8704e7746db0522f3dc06e4
+      public: 5829c56a5fc4cea90a5fd25bf83076c4f69ca7f5
+    language: en
+    id: 78d42eda-df98-43b2-8379-4b311e12e9fd
+    title: 'Steady-state diffusion planer example with specified surface concentrations:
+      minimal flat plane'
+  - challenge_sha:
+      private: 34c3c53161d7a3f3c44cfbc75a2679e55d7c338e
+      public: 8bbeb448330afa937f5b20fad42951bc0b8481dd
+    language: en
+    id: 73dcdc66-dfd0-483f-97cb-35b8557021d6
+    title: Steady-state planer diffusion of helium through a plastic membrane in kmol/s/m^2
+  - challenge_sha:
+      private: fe71ba356896d647c11080eb7b3cf29cfb4b72a4
+      public: 6640861b65bc153c7f1da9ee47d46c68869c7157
+    language: en
+    id: 33349010-5584-431d-9474-2c7564c557aa
+    title: Steady-state planer diffusion of helium through a plastic membrane in kg/s/m^2
+  title: Stationary media and steady state
+- has_teams: true
+  starts_after: 2511000
+  challenges:
+  - challenge_sha:
+      private: 96f9248f1500383d5ab45a134d5a9a36a626270a
+      public: 3e8836166406d6ab31050a67b3b6db436c631111
+    language: en
+    id: 3920c269-7a87-4866-bf0d-9e5a42157ef4
+    title: 'Raoult''s law: Mole fraction of water vapour on the air-side of a water-air
+      interface'
+  - challenge_sha:
+      private: 8abc0df87ced39b8490be29f51c453dd1bc8a7d3
+      public: b3647e600fe80a6e499bf3ac9675b368b82e7be9
+    language: en
+    id: acb900a9-e5f1-423a-b72f-ba825b16c4e9
+    title: 'Raoult''s law: Mass fraction of water vapour on the air-side of a water-air
+      interface'
+  - challenge_sha:
+      private: 15d341f0fe7bfa3556134c459908e89259e7655b
+      public: b33aa17e34ca7c5d99ca8d6c80c4ef639a9591b1
+    language: en
+    id: 8f5792d1-f319-4fab-9783-8efa2b75360e
+    title: 'Raoult''s law: Mole fraction of water on the liquid-side of a water-air
+      interface'
+  - challenge_sha:
+      private: cca828114b93c455cffd2f3a62b001268573c379
+      public: 858d8f02457cb9937066840a7777001ea9d9ee98
+    language: en
+    id: dea97d08-19c4-4940-a89f-e29f4faf38ec
+    title: 'Raoult''s law: Mass fraction of water on the liquid-side of a water-air
+      interface'
+  - challenge_sha:
+      private: 50ce375dc913d4b05139b458f7a2f03f4f01126e
+      public: 675ec22a7f09494fbaf2c6537c77887a5ef83245
+    language: en
+    id: aacf2783-8a47-482a-9e1e-9ba0f7e980ce
+    title: Definition of two principle boundary conditions for mass transfer
+  - challenge_sha:
+      private: 1edcbe61e29b2379bfc2f12eee995cd124dd8dd4
+      public: aeeb4c9619a357ea7c2e3843964398fbec558cb8
+    language: en
+    id: e9f7b949-488a-419e-9693-4131817850be
+    title: The applicability of Henry's law and calculation of Henry's constant
+  - challenge_sha:
+      private: 062270e37842913901973673885e81323599df77
+      public: 81c298aa6fe875e2897ad2ad4d43853832534a53
+    language: en
+    id: 7cf06c02-002b-4b92-bdb3-fbab41b9c84c
+    title: Calculation of solubility of a gas in a solid given density and partial
+      pressure
+  - challenge_sha:
+      private: 5c27596894d6fe739fe0e66d033b7cabfa066f5f
+      public: de14c43f77395fda65c0037f6f7453f1f92cbaf5
+    language: en
+    id: 2634f805-ff27-4830-94f7-740635a458e2
+    title: Calculation of the volume of a soluble species in the gas-phase at STP
+      given its volume in the solid phase at an interface
+  title: Solubility
+- has_teams: true
+  starts_after: 3202200
+  challenges:
+  - challenge_sha:
+      private: 937601bbcbf3b6a6bac2e9c7d0fe29541a6d0082
+      public: d5675c7f132f840661e15d7f8b1650185186f92a
+    language: en
+    id: 51f1bdcf-0695-498b-9c19-9b1289ec86e6
+    title: Worked example of diffusion through a plane wall
+  - challenge_sha:
+      private: c73383afc12c740769ab596f3ae912c8667d7d0e
+      public: 7c4bca33fb87f55515a0c8731ef9ab2c64a43cbb
+    language: en
+    id: b4a27bb7-480b-4c00-924b-0e3714b270a6
+    title: Calculation of flux through a spherical membrane
+  - challenge_sha:
+      private: 816a98ddd61a465148b9d81a887c2671486faa9e
+      public: 2de39ce518ebd93e1693ffb4370ad2554f1c3e17
+    language: en
+    id: cf121668-42e8-4fca-a169-c7f8f253c1fa
+    title: Location of heterogeneous and homogeneous reactions
+  - challenge_sha:
+      private: 07e6d50cc88f61157d77d89158e7bbe69331b349
+      public: 9544632183068bb39aeb0953a48597dacc2912d1
+    language: en
+    id: 8ca5db06-78f3-483c-b74e-3a73b128e13e
+    title: Definitions of zeroth-order and first-order reactions
+  - challenge_sha:
+      private: b45cddf098b7752b55020fd12394af2c99d0dc9a
+      public: 963885a3b19177fe5357fc00b088be26c820ede9
+    language: en
+    id: e454c9e2-1497-4e48-b360-060092086158
+    title: Concentration under a reaction-limited condition
+  - challenge_sha:
+      private: 3acf62d49b23d77f8c96cd7104d0ba309d2e70f6
+      public: a1dc35c3076259a72997bf58d4d1ec4ee6bda70c
+    language: en
+    id: 76536e3c-0cd9-416c-b650-f01f6fa8e92d
+    title: Concentration under a diffusion-limited condition
+  - challenge_sha:
+      private: 409f44cd8eecc9cf3a588cf15a7ee650bb0051be
+      public: 30739072f041df398a30236d04bb1e505c63965c
+    language: en
+    id: 4857b6e9-41ef-44cf-b6a9-9228869723ec
+    title: Flux under a diffusion-limited condition
+  title: Diffusion through membranes and reactions
+- has_teams: true
+  starts_after: 3722400
+  challenges:
+  - challenge_sha:
+      private: ee7c7be09095f6a39c9b4d2266a2fa44afd13790
+      public: 38d443a27cf87c3a1858895ed3bc473d7f9c2bf3
+    language: en
+    id: 7d094fc8-9712-4bbe-8675-bc9d1e047ab3
+    title: Mass Transfer 2019 end-of-course survey
+  title: Final class
+other_languages: []
+topics:
+- Mass Transfer
+- Diffusion
+- Graduate
+editor_id: github.NanoScaleDesign
+challenge_sha: 4f76888356d3b3a4774cd0d0eb59f0de739f2166
+modified: 2020-09-15T20:33:53.019774082Z
+version: '1.0'
+title_id: mass-transfer-2019-101cb1e0c8c24394c582c69e484c27fc0c044059
+language: en
+id: 101cb1e0c8c24394c582c69e484c27fc0c044059
+title: Mass Transfer (2019)
+storage_id: 9a184e88-403c-471f-b90f-e9ae0b4a9d8e
+duration: 52
+description: Mass Transfer (2019)
+institute:
+  url: https://www.kyushu-u.ac.jp
+  en_name: Kyushu University
+  name: 九州大学

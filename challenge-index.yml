@@ -2527,10 +2527,10 @@ d09bbeae-78f8-48ee-bab7-923df8d14481:
   title: 'Heat equation on a ring: derivation using Fourier series'
 275ae2fa-de80-423c-ba20-3f14f6fe8599:
   topics: []
-  modified: 2020-06-29T03:11:23.61581708Z
+  modified: 2020-09-17T02:40:02.586557339Z
   hexsha:
-    private: a64cd1b031a45f2c390ef5e5e3920a44e9555e54
-    public: c4bb8918ad6bd60a84750c35e8677d8a519d206c
+    private: 5a8a9821bde9554d2f2cfd6a5e0e63e89d0793f1
+    public: 19de31f72123db929ffe8616210ca2632050791e
   title_id: diffusion-in-the-long-time-limit
   language: en
   translations: {}

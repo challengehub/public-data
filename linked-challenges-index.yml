@@ -350,6 +350,17 @@ c655a344-3e46-4d80-ac3b-cdc8cdae4865:
   title_id: finding-the-image-of-a-set-under-square-root-mapping-80b492
   title: Finding the image of a set under square-root mapping
   creator_id: github.NanoScaleDesign
+1120c1ca-b85e-41a1-9854-2353a6e859f9:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b0586b44362595f1d23fb5fbf91759fd6175e775
+    public: 78e829c58c853f4f324bcc87770511d3aa6f65df
+  import_time: 2020-09-18T09:59:44.327528553Z
+  title_id: sketching-complex-number-sets-and-determining-their-nature-78e829
+  title: Sketching complex number sets and determining their nature
+  creator_id: github.NanoScaleDesign
 c77b2063-0915-40fd-9c1b-3c1edc32fda6:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

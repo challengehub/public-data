@@ -951,6 +951,17 @@ bfe871b7-6389-4bf6-9603-209c64e0b9c0:
   title_id: calculate-the-derivative-of-cosiez-e02326
   title: Calculate the derivative of cos(ie^z)
   creator_id: github.NanoScaleDesign
+552972af-9a44-49c5-a727-b4b616ea9d97:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: a196b3b9123e23567a13ba809a17a91c7599f184
+    public: 01acd6bb1ac7ab121ffd82999b1672f34be542ad
+  import_time: 2020-09-18T09:59:26.153271692Z
+  title_id: finding-the-real-and-imaginary-parts-of-complex-polar-functions-01acd6
+  title: Finding the real and imaginary parts of complex polar functions
+  creator_id: github.NanoScaleDesign
 2578ba3a-295b-46b1-82f1-100ee89216e7:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

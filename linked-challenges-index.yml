@@ -124,6 +124,18 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title_id: finding-complex-values-of-logi-334431
   title: Finding complex values of Log(i)
   creator_id: github.NanoScaleDesign
+67d59f62-5d09-4fb0-826f-54444209744b:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 4ef59fa0017f427837585d0f72de482e3bd46562
+    public: 22e063782683fcddea6ad1fc121af6a0537bb427
+  import_time: 2020-09-18T09:55:17.701835377Z
+  title_id: define-a-removable-isolated-singularity-a-pole-isolated-singularity-and-an-essential-isolated-singularity-22e063
+  title: Define a removable isolated singularity, a pole isolated singularity and
+    an essential isolated singularity
+  creator_id: github.NanoScaleDesign
 8a16a2a2-1801-43f6-9439-b16122ea930a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

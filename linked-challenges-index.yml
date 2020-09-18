@@ -102,6 +102,17 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title_id: find-the-maclaurin-series-and-radius-of-conversion-of-ez-dd7bcf
   title: Find the Maclaurin series and radius of conversion of e^z
   creator_id: github.NanoScaleDesign
+4cffd999-af9b-4aca-9a98-9fd707a84b44:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 553126e4452c918b1aeb7e86c961d312544f50ee
+    public: 85f773a7f0b1b577b82b82f8876b48c9ed54e298
+  import_time: 2020-09-18T09:55:22.649563191Z
+  title_id: a-review-of-continuous-functions-and-real-limits-khan-academy-85f773
+  title: A review of continuous functions and real limits (Khan academy)
+  creator_id: github.NanoScaleDesign
 59b3ef38-4431-40e9-88f3-4e544b5e2346:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

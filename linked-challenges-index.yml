@@ -358,6 +358,17 @@ bb8193aa-c617-4aee-bea6-8dd3af722fa0:
   title_id: expand-fzz-3z-1z1-into-a-series-valid-for-the-domain-z1-c814d2
   title: Expand f(z)=(z-3)/((z-1)(z+1)) into a series valid for the domain |z|<1
   creator_id: github.NanoScaleDesign
+fd69fc7a-c186-4416-822b-8e25ce77ba18:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 825c339e0b5097a6e9874027a5c7548df13db965
+    public: 6cd1f6a49ad0f9059be2ac44388a42fc0c336a76
+  import_time: 2020-09-18T09:56:11.8958421Z
+  title_id: deriving-the-complex-inverse-sine-function-6cd1f6
+  title: Deriving the complex inverse sine function
+  creator_id: github.NanoScaleDesign
 861cce0a-fc1f-428a-83d9-df8926f4561f:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

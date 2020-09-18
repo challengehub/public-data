@@ -281,6 +281,17 @@ d6c69ee4-b977-427a-b193-2e9ef238286a:
   title_id: cauchy-goursat-theorem-evaluate-z1z-along-the-closed-contour-z2-e96f0f
   title: 'Cauchy-Goursat theorem: Evaluate (z+(1/z)) along the closed contour |z|=2'
   creator_id: github.NanoScaleDesign
+b022458e-203a-45a4-964b-dcb7d586dfa0:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 8f8021d89d072c8f8525136c31f15df8a1f49162
+    public: a77477041761445d722a68202388e6c45566caae
+  import_time: 2020-09-18T09:56:14.522095688Z
+  title_id: identifying-convergence-of-complex-series-and-calculating-convergence-sums-a77477
+  title: Identifying convergence of complex series and calculating convergence sums
+  creator_id: github.NanoScaleDesign
 8a16a2a2-1801-43f6-9439-b16122ea930a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

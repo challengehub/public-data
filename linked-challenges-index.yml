@@ -294,6 +294,18 @@ e267861f-2e79-4489-9ae0-ec54fbb0a381:
   title_id: complex-number-algebra-in-963b70
   title: 'Complex number algebra: i^n'
   creator_id: github.NanoScaleDesign
+c655a344-3e46-4d80-ac3b-cdc8cdae4865:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 710b5d7e72e64ff7a75b9283f6be85d7b335be91
+    public: 389759562dbe7d61cce01e9427989c7df60f898f
+  import_time: 2020-09-18T09:58:48.431395152Z
+  title_id: drawing-the-set-and-image-of-the-circular-arc-z-2-0-argz-pi2-fz-14-ei-pi4-z2-389759
+  title: Drawing the set and image of the circular arc |z| = 2, 0 <= arg(z) <= pi/2;
+    f(z) = 1/4 e^(I pi/4) z^2
+  creator_id: github.NanoScaleDesign
 c77b2063-0915-40fd-9c1b-3c1edc32fda6:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

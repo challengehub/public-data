@@ -918,6 +918,17 @@ bb8193aa-c617-4aee-bea6-8dd3af722fa0:
   title_id: expand-fzz-3z-1z1-into-a-series-valid-for-the-domain-z1-c814d2
   title: Expand f(z)=(z-3)/((z-1)(z+1)) into a series valid for the domain |z|<1
   creator_id: github.NanoScaleDesign
+436ba164-9015-490d-a05c-c4102780bb77:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 73a4fbcaeb2cfd001bf63f112f30c3063ac7496d
+    public: dd766a4d0292d32326a35c6c892eb1cbf2c69092
+  import_time: 2020-09-18T09:58:51.222547908Z
+  title_id: relation-of-complex-numbers-if-argz1argz2-dd766a
+  title: Relation of complex numbers if Arg(z1)=Arg(z2)
+  creator_id: github.NanoScaleDesign
 fd69fc7a-c186-4416-822b-8e25ce77ba18:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

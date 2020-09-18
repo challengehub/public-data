@@ -1,5 +1,16 @@
 # ChallengeHub Linked Challenge Index
 
+2b446632-3b6f-452a-9268-0d0019928477:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 3c9bc1ba74a109a6331252885a32229a965656b8
+    public: 8b037aecb3d86ffff2a71faf9753d98f7ba40f9a
+  import_time: 2020-09-18T09:55:10.219828131Z
+  title_id: explaining-analyticity-8b037a
+  title: Explaining analyticity
+  creator_id: github.NanoScaleDesign
 fbaca123-9531-46b7-8fc5-7e23834b0711:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

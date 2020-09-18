@@ -827,6 +827,17 @@ fc4fd5c1-ca0d-419e-a244-877b6fe91771:
   title_id: mapping-a-complex-square-onto-another-set-b5294a
   title: Mapping a complex square onto another set
   creator_id: github.NanoScaleDesign
+73b03f08-fbd8-4fc3-9f99-9de3fb6934be:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 5bb5973b9839415260e7c1cb736b1e092c7e64bf
+    public: e94bac28747ede6c04147cffb9559c95e4361812
+  import_time: 2020-09-18T09:58:35.775749935Z
+  title_id: relation-of-real-imaginary-fourth-roots-e94bac
+  title: Relation of real-imaginary fourth roots
+  creator_id: github.NanoScaleDesign
 d9189a40-a700-42b8-92c4-d861b57a7036:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

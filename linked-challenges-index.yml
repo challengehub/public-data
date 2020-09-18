@@ -136,6 +136,17 @@ db5d8810-7133-4e47-a620-aca09c5bf87c:
   title: Showing that the complex inverse sine function recovers real angles for real
     values
   creator_id: github.NanoScaleDesign
+d6c69ee4-b977-427a-b193-2e9ef238286a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 751613ca35cf2f358ce2f3a57207f67740b18be4
+    public: aac9dcb93344bf26031474b03cdf076125651fed
+  import_time: 2020-09-18T09:55:52.780275508Z
+  title_id: calculate-the-laurent-series-of-1zz-3-for-the-annular-domain-0z3-aac9dc
+  title: Calculate the Laurent Series of 1/(z(z-3)) for the annular domain 0<|z|<3
+  creator_id: github.NanoScaleDesign
 582d4df6-2511-4814-8e70-24475049b16f:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

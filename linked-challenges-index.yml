@@ -91,6 +91,18 @@ a2fc4e58-45d8-4cd9-8330-83700140fd48:
   title_id: find-the-principle-value-of-1-sqrt3ii-212abd
   title: Find the principle value of (1-sqrt(3)i)^i
   creator_id: github.NanoScaleDesign
+3b2c68ab-f2ed-4b03-94fc-f81d8e2e7fdc:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ca0a0342fc419d22d5d48d1c8a13f3a304939d7e
+    public: 79586a1d35894398b6b19527d6ea133d8d7139f2
+  import_time: 2020-09-18T09:56:54.195450983Z
+  title_id: cauchy-goursat-theorem-evaluate-3ziz21-along-the-closed-contour-z-i1-79586a
+  title: 'Cauchy-Goursat theorem: Evaluate ((3z+i)/(z^2+1)) along the closed contour
+    |z-i|=1'
+  creator_id: github.NanoScaleDesign
 86d108a7-2ab5-4eb3-92e8-7d8d41a0d08e:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

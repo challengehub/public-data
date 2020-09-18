@@ -11,6 +11,18 @@
   title_id: explaining-analyticity-8b037a
   title: Explaining analyticity
   creator_id: github.NanoScaleDesign
+1cf15242-82ed-4897-a3fd-bd68a4e0be68:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 63843a5064799a4513fe1ed22d737b330909b843
+    public: 7dff9c170456292c25b0e1b634832cd118f6c786
+  import_time: 2020-09-18T09:55:40.583365861Z
+  title_id: cauchys-integral-formulas-closed-contour-integral-of-z1zi3-on-z2-7dff9c
+  title: 'Cauchy''s integral formulas: Closed contour integral of ((z+1)/(z+i))^3
+    on |z|=2'
+  creator_id: github.NanoScaleDesign
 fbaca123-9531-46b7-8fc5-7e23834b0711:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

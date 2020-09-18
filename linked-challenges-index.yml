@@ -572,6 +572,17 @@ dcb372fa-f429-4032-9145-9f69375d9de3:
   title_id: line-integral-of-2xy-given-x5cost-y5sint-dy-2c8529
   title: Line integral of 2xy given x=5cos(t) & y=5sin(t) (dy)
   creator_id: github.NanoScaleDesign
+cba3c698-b3e8-4ebf-8a55-d1d6c7d50dce:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 682363306992127c81d3069cef8cd7a3ee69e57b
+    public: 961370653eb415222d394643335d2f28a5016f97
+  import_time: 2020-09-18T09:58:42.626817394Z
+  title_id: converting-the-polar-representation-of-complex-numbers-into-a-cartesian-representation-961370
+  title: Converting the polar representation of complex numbers into a Cartesian representation
+  creator_id: github.NanoScaleDesign
 6f21e053-dfed-4930-8aae-7df9eb51f333:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

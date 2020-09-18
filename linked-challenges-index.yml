@@ -460,6 +460,17 @@ da413fae-b256-4fc8-814e-0d036e0c5047:
   title_id: cauchy-goursat-theorem-evaluate-z1z-along-the-closed-contour-z2-e96f0f
   title: 'Cauchy-Goursat theorem: Evaluate (z+(1/z)) along the closed contour |z|=2'
   creator_id: github.NanoScaleDesign
+34e99769-6721-4176-b94d-f1110eb2d22d:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ef4e0e96f71ef0417a3b35c7e2c4bafbcbc0a4d7
+    public: ad54c252d67198d116ec19bfb970e2f5f0311387
+  import_time: 2020-09-18T09:57:26.40553938Z
+  title_id: factoring-a-difference-of-cubes-ad54c2
+  title: Factoring a difference of cubes
+  creator_id: github.NanoScaleDesign
 96416f79-8418-43d2-aeb6-b1e5a4a143f2:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

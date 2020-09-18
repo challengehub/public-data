@@ -483,6 +483,17 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title: 'Cauchy-Goursat theorem: Evaluate the integral of (2z+3)/(z(z-1)) over a
     complex ∞-style curve'
   creator_id: github.NanoScaleDesign
+3002e7a2-9703-4464-9618-f098800b046c:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ecfa5f18e550195adfdf5f3a7d7a83f691b34b03
+    public: 76623b72a85bc9177b696f05bc2fd5e7ca3b3219
+  import_time: 2020-09-18T09:57:20.482709129Z
+  title_id: showing-that-a-complex-function-is-continuous-at-z0-76623b
+  title: Showing that a complex function is continuous at z0
+  creator_id: github.NanoScaleDesign
 83e99bf0-ea72-4007-a9bd-71e5b20203f2:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

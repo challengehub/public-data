@@ -158,6 +158,17 @@ bb5cb248-3c70-402c-99ba-eeb802ba9daa:
   title_id: independence-of-path-integral-of-2z1-on-a-piecewise-contour-82046f
   title: 'Independence of path: Integral of 2z+1 on a piecewise contour'
   creator_id: github.NanoScaleDesign
+1c406268-59d9-4d8a-bdfc-cb8fe2fd1b35:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 542193ff4baa22d65b44f00cd2a8e08675696a71
+    public: de7815d007da368a6d361aa95d373d4f27537cab
+  import_time: 2020-09-18T09:55:20.086914792Z
+  title_id: determine-sini-and-sinhi-de7815
+  title: Determine sin(i) and sinh(i)
+  creator_id: github.NanoScaleDesign
 fa6e4384-125a-4526-834e-07f517a2215c:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

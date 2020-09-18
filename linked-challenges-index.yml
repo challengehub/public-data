@@ -361,6 +361,17 @@ d6c69ee4-b977-427a-b193-2e9ef238286a:
   title_id: find-the-maclaurin-series-and-radius-of-conversion-of-ez-dd7bcf
   title: Find the Maclaurin series and radius of conversion of e^z
   creator_id: github.NanoScaleDesign
+c7ef7a05-037f-4289-9dbd-71e4494af8e2:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: f832374dc6c3aa2d61d87542c80d18d1f328a604
+    public: b584c5bb7211a4c35d4a86c84258696cc6627070
+  import_time: 2020-09-18T09:57:32.620929961Z
+  title_id: identify-the-radius-of-convergence-of-the-series-nz1-in-b584c5
+  title: Identify the radius of convergence of the series n!(z+1-i)^n
+  creator_id: github.NanoScaleDesign
 7de1b294-fdfa-40fa-ab9f-64c5a0448180:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

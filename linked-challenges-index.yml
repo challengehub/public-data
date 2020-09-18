@@ -226,6 +226,17 @@ a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
   title_id: calculate-arccosh12-795506
   title: Calculate arccosh(1/2)
   creator_id: github.NanoScaleDesign
+b9121274-65e5-488d-b253-942a258debdf:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b42976e44ba1232b24ee50e7f6cdc1339b1d2b33
+    public: 3b91ef2443efdc4bd558e7e4a16b91346ccaa23c
+  import_time: 2020-09-18T09:59:50.150842501Z
+  title_id: drawing-the-set-and-image-of-the-line-x2-under-transformation-fz-iz2-3-3b91ef
+  title: Drawing the set and image of the line x=2 under transformation f(z) = iz^2-3
+  creator_id: github.NanoScaleDesign
 86d108a7-2ab5-4eb3-92e8-7d8d41a0d08e:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

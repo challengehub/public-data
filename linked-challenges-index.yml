@@ -439,6 +439,17 @@ c7ef7a05-037f-4289-9dbd-71e4494af8e2:
   title_id: a-review-of-continuous-functions-and-real-limits-khan-academy-85f773
   title: A review of continuous functions and real limits (Khan academy)
   creator_id: github.NanoScaleDesign
+dcb372fa-f429-4032-9145-9f69375d9de3:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 25f35652f76d559d56d94ded7d5443fc60df6280
+    public: 791b901f3183fb6a76206b45e05bab604b7411f9
+  import_time: 2020-09-18T09:57:56.47719682Z
+  title_id: writing-complex-numbers-in-the-form-aib-791b90
+  title: Writing complex numbers in the form a+ib
+  creator_id: github.NanoScaleDesign
 5f904199-d155-408c-b6e7-c0eebd79ee2e:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

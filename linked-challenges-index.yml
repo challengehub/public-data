@@ -739,6 +739,17 @@ bfe871b7-6389-4bf6-9603-209c64e0b9c0:
   title_id: finding-complex-values-of-log1-i-85b68b
   title: Finding complex values of Log(1-i)
   creator_id: github.NanoScaleDesign
+fc4fd5c1-ca0d-419e-a244-877b6fe91771:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 3b929c84f77f2c926f93540f23c8d9602d6dcd9e
+    public: b5294a0c208cbe1f41e07f619a2bb4a316470526
+  import_time: 2020-09-18T09:58:08.775078026Z
+  title_id: mapping-a-complex-square-onto-another-set-b5294a
+  title: Mapping a complex square onto another set
+  creator_id: github.NanoScaleDesign
 d9189a40-a700-42b8-92c4-d861b57a7036:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -539,6 +539,17 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title_id: identifying-convergence-of-complex-series-and-calculating-convergence-sums-a77477
   title: Identifying convergence of complex series and calculating convergence sums
   creator_id: github.NanoScaleDesign
+48855029-8d08-4e8f-b080-f97fee748d28:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 08906df51928f54f5ea3f0e732523809b4a6c821
+    public: 2a7732d9edab36ab03fe7a6fe8c7f7bdbd5f2920
+  import_time: 2020-09-18T09:57:44.444005771Z
+  title_id: showing-z2-k-z1-2a7732
+  title: Showing z_2 = k z_1*
+  creator_id: github.NanoScaleDesign
 1aac2f70-1d62-466f-a1bc-3e8619b08d19:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

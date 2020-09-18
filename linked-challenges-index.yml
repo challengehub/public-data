@@ -69,6 +69,17 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title: Expand f(z)=(z-3)/((z-1)(z+1)) into a series that is valid for the domain
     |z|>1
   creator_id: github.NanoScaleDesign
+a2fc4e58-45d8-4cd9-8330-83700140fd48:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 63c2c19f08a07717888ae9288d32adf649a9832b
+    public: 212abd0b5f8c0def90f6a7bf8d53d69c8479f2a3
+  import_time: 2020-09-18T09:55:43.002691804Z
+  title_id: find-the-principle-value-of-1-sqrt3ii-212abd
+  title: Find the principle value of (1-sqrt(3)i)^i
+  creator_id: github.NanoScaleDesign
 3f9c9ae0-0042-409d-8c87-2e9e52e3a018:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

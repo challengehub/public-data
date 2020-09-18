@@ -1,5 +1,16 @@
 # ChallengeHub Linked Challenge Index
 
+fbaca123-9531-46b7-8fc5-7e23834b0711:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 39dc5fa9c46748e18efbd6bd25c81481d8ba8761
+    public: accb45d7057921897e2d3751868a5dd285182387
+  import_time: 2020-09-18T09:55:05.217442477Z
+  title_id: prove-analyticity-of-complex-functions-using-the-cauchy-riemann-equations-accb45
+  title: Prove analyticity of complex functions using the Cauchy-Riemann equations
+  creator_id: github.NanoScaleDesign
 01fd70ec-4051-4561-bb2a-f3a109bf4a3c:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

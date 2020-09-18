@@ -149,6 +149,17 @@ a2fc4e58-45d8-4cd9-8330-83700140fd48:
   title: 'Cauchy-Goursat theorem: Evaluate ((3z+i)/(z^2+1)) along the closed contour
     |z-i|=1'
   creator_id: github.NanoScaleDesign
+a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 589309cca0e8694e81f7d083b681a835c8b57c94
+    public: 411095d0be82ec37daa49560de8a737e5994ba6c
+  import_time: 2020-09-18T09:58:32.543047284Z
+  title_id: linear-mapping-of-a-closed-disk-in-a-complex-plane-411095
+  title: Linear mapping of a closed disk in a complex plane
+  creator_id: github.NanoScaleDesign
 09f9b4aa-4579-40cf-99e3-0c5db01caf08:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -497,6 +497,17 @@ a8124252-ab6c-4e07-8592-531baa3e565a:
   title_id: find-the-maclaurin-series-and-radius-of-conversion-of-ez-dd7bcf
   title: Find the Maclaurin series and radius of conversion of e^z
   creator_id: github.NanoScaleDesign
+806f0e1e-0a32-4602-89de-524d8ac60592:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 7a12139410c25fb8c61ce78c9795cbc73c1e7f0c
+    public: eff0157468d9c4bd2b95679f21b778df014e0b91
+  import_time: 2020-09-18T09:58:53.901503885Z
+  title_id: finding-the-real-and-imaginary-parts-of-functions-eff015
+  title: Finding the real and imaginary parts of functions
+  creator_id: github.NanoScaleDesign
 c7ef7a05-037f-4289-9dbd-71e4494af8e2:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

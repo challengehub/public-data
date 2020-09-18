@@ -91,6 +91,17 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1) on
     |z|=2'
   creator_id: github.NanoScaleDesign
+59b3ef38-4431-40e9-88f3-4e544b5e2346:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 3ffdcc9ecca1b59636f677cc6ad40b5d73765630
+    public: 9b4f116ca894eefc85dfb81ee8d29e9de57807ba
+  import_time: 2020-09-18T09:55:12.52357468Z
+  title_id: calculate-ii-9b4f11
+  title: Calculate i^i
+  creator_id: github.NanoScaleDesign
 6f21e053-dfed-4930-8aae-7df9eb51f333:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -446,6 +446,17 @@ fd69fc7a-c186-4416-822b-8e25ce77ba18:
   title_id: calculating-the-closed-integral-of-a-square-in-the-complex-plane-3f1a61
   title: Calculating the closed integral of a square in the complex plane
   creator_id: github.NanoScaleDesign
+32d40300-7e6c-476d-bd4d-d7683aca3058:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: aa01b84b919c0918a323a619b59b47816e329ff7
+    public: 714d4d2bcbc09f87588c07cf760cdb90bb25554f
+  import_time: 2020-09-18T09:56:30.506277525Z
+  title_id: calculating-the-complex-integral-of-rez-on-the-circle-z1-714d4d
+  title: Calculating the complex integral of Re(z) on the circle |z|=1
+  creator_id: github.NanoScaleDesign
 fe45c912-e338-4bbf-9060-dcd3e4c66671:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

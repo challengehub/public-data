@@ -169,6 +169,17 @@ db5d8810-7133-4e47-a620-aca09c5bf87c:
   title: Calculating the mass of a wire with density proportional to distance from
     the y-axis, using a line integral
   creator_id: github.NanoScaleDesign
+6c9387df-8649-420c-bd3d-20d96bc6d753:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: bfbf957c33936a46d4461103a6760fe327986d5a
+    public: f737932d15c89ddbee4301ce5eb98020ecebe592
+  import_time: 2020-09-18T09:56:48.572062307Z
+  title_id: proving-that-analytic-functions-are-harmonic-in-the-complex-plane-f73793
+  title: Proving that analytic functions are harmonic in the complex plane
+  creator_id: github.NanoScaleDesign
 73dc1ec7-d448-45a2-9226-a13f12195f5d:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

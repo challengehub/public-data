@@ -404,6 +404,17 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title_id: cauchy-goursat-theorem-evaluate-z21-along-the-closed-contour-3eit-2a944f
   title: 'Cauchy-Goursat theorem: Evaluate (z^2+1) along the closed contour 3+e^(it)'
   creator_id: github.NanoScaleDesign
+a9638d95-1303-4a8d-94fc-d6d7c2274786:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b88be6de45520b3ee9896609e107d87712f654b7
+    public: 175f4133514e13c7e9f0c1270be3be15305e221d
+  import_time: 2020-09-18T09:56:45.979446917Z
+  title_id: calculating-the-complex-integral-of-z2-on-the-line-from-1i-to-1-175f41
+  title: Calculating the complex integral of |z|^2 on the line from (-1+i) to (1)
+  creator_id: github.NanoScaleDesign
 bb5cb248-3c70-402c-99ba-eeb802ba9daa:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

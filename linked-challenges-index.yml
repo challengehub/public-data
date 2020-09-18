@@ -213,3 +213,14 @@ fa6e4384-125a-4526-834e-07f517a2215c:
   title_id: expand-fzz-3z-1z1-into-a-series-valid-for-the-domain-z1-c814d2
   title: Expand f(z)=(z-3)/((z-1)(z+1)) into a series valid for the domain |z|<1
   creator_id: github.NanoScaleDesign
+fe45c912-e338-4bbf-9060-dcd3e4c66671:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6127fbe23d47c0f08b79e78b2ae182aead3ae4e1
+    public: 1ca31386e1dfceded259c8c2e58fa165160b8705
+  import_time: 2020-09-18T09:55:30.507778551Z
+  title_id: calculate-the-laurent-series-of-1zz-3-for-the-annular-domain-3z-1ca313
+  title: Calculate the Laurent Series of 1/(z(z-3)) for the annular domain 3<|z|
+  creator_id: github.NanoScaleDesign

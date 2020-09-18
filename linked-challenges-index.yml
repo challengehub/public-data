@@ -202,3 +202,14 @@ fa6e4384-125a-4526-834e-07f517a2215c:
   title_id: cauchy-goursat-theorem-the-general-case-of-1z-z0n-066e19
   title: 'Cauchy-Goursat theorem: The general case of 1/((z-z0)^n)'
   creator_id: github.NanoScaleDesign
+754ca9f7-60a1-4614-9a82-c21a2b103287:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 5836db10683b8ebdc99f1d9ef42e06761b6170b4
+    public: c814d2f561081bdc8dcceffc13f6b31273e2664d
+  import_time: 2020-09-18T09:55:27.995698704Z
+  title_id: expand-fzz-3z-1z1-into-a-series-valid-for-the-domain-z1-c814d2
+  title: Expand f(z)=(z-3)/((z-1)(z+1)) into a series valid for the domain |z|<1
+  creator_id: github.NanoScaleDesign

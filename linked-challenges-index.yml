@@ -179,6 +179,17 @@ ef29e0e0-5638-4e0d-8be4-8def1dddd9c4:
   title_id: calculate-arccosi-a7e438
   title: Calculate arccos(i)
   creator_id: github.NanoScaleDesign
+80e3abdc-bd27-4963-80c6-dcb38fff1a75:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: aaee0aa8c3768cd7e36d3503fd8639683b01ccc2
+    public: 15408ad2c9609fd8b12bc723a7797a30a5e0787c
+  import_time: 2020-09-18T09:56:33.031031288Z
+  title_id: calculate-the-length-of-the-curve-z2eit-in-the-complex-plane-15408a
+  title: Calculate the length of the curve z=2e^(it) in the complex plane
+  creator_id: github.NanoScaleDesign
 a04a8ec8-f4db-4ac3-8ab7-c6785110adc0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

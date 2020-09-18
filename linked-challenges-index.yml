@@ -985,6 +985,17 @@ c31df9d7-0f5e-4c99-ae4d-05b9caf4152e:
   title: Understanding the effect of order of composition of two translations, two
     rotations or two magnifications
   creator_id: github.NanoScaleDesign
+53abf9f0-82c4-44df-8457-693329fa567c:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 97c4f3836466f1931877b7f49a75040d74205223
+    public: 5091460ef8580e3f347a9383ad7cc47651e59962
+  import_time: 2020-09-18T09:59:17.169815214Z
+  title_id: obtaining-an-expression-for-the-kth-real-root-of-1-509146
+  title: Obtaining an expression for the k'th real root of 1
+  creator_id: github.NanoScaleDesign
 bb8193aa-c617-4aee-bea6-8dd3af722fa0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

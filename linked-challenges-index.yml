@@ -91,6 +91,17 @@ a2fc4e58-45d8-4cd9-8330-83700140fd48:
   title_id: find-the-principle-value-of-1-sqrt3ii-212abd
   title: Find the principle value of (1-sqrt(3)i)^i
   creator_id: github.NanoScaleDesign
+86d108a7-2ab5-4eb3-92e8-7d8d41a0d08e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 823d755560ce3bfdcbfd76d85cb9ee6c3a88b391
+    public: e44ddce6f44a8a41a5360f864fc0ec929f4c9496
+  import_time: 2020-09-18T09:56:09.265294105Z
+  title_id: obtaining-the-complex-derivative-of-fz-1z-e44ddc
+  title: Obtaining the complex derivative of f(z) = 1/z
+  creator_id: github.NanoScaleDesign
 b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

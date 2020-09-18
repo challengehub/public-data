@@ -46,6 +46,17 @@ bd50370b-d99c-43e4-9afc-348706d721a2:
   title: 'Cauchy''s integral formulas: Closed contour integral of ((z+1)/(z+i))^3
     on |z|=2'
   creator_id: github.NanoScaleDesign
+2c8d9029-ba26-40ba-9d3a-04725ea5fbe0:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: a86aaca2b79406ee8e0f87560fe39e2f0c9f52cb
+    public: aaa4b5764c4bcb046f45dd37daac19d65140685e
+  import_time: 2020-09-18T09:59:32.044250431Z
+  title_id: complex-number-algebra-aibn-aaa4b5
+  title: 'Complex number algebra: (a+ib)^n'
+  creator_id: github.NanoScaleDesign
 78599696-d265-430c-96b8-46b4470943bc:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

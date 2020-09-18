@@ -124,6 +124,18 @@ db5d8810-7133-4e47-a620-aca09c5bf87c:
   title_id: finding-the-harmonic-conjugate-of-uxy-x-2953bb
   title: Finding the harmonic conjugate of u(x,y) = x
   creator_id: github.NanoScaleDesign
+308d9c1d-ed27-4533-b984-f4ff058b0dfc:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6c76c087898b12e08727a6a595bbb91bb6dcf9a4
+    public: a312e955142824bea2d889829149bf324b70f513
+  import_time: 2020-09-18T09:55:50.463087728Z
+  title_id: showing-that-the-complex-inverse-sine-function-recovers-real-angles-for-real-values-a312e9
+  title: Showing that the complex inverse sine function recovers real angles for real
+    values
+  creator_id: github.NanoScaleDesign
 582d4df6-2511-4814-8e70-24475049b16f:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

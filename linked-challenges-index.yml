@@ -34,6 +34,17 @@ bd50370b-d99c-43e4-9afc-348706d721a2:
   title_id: calculate-the-length-of-the-curve-zt2it3-in-the-complex-plane-b84e9f
   title: Calculate the length of the curve z=t^2+it^3 in the complex plane
   creator_id: github.NanoScaleDesign
+98cba074-cb71-4497-bb21-75f01ac85305:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: e5d79dc02857eeb6c4706c14928f014d2b3e9538
+    public: ebc27a33bf7a964ec7e0d4e3320b1c71c85a4803
+  import_time: 2020-09-18T10:00:12.217710098Z
+  title_id: solving-an-ode-with-complex-solutions-3y-y-0-ebc27a
+  title: Solving an ODE with complex solutions (3y'' + y = 0)
+  creator_id: github.NanoScaleDesign
 1cf15242-82ed-4897-a3fd-bd68a4e0be68:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

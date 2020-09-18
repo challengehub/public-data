@@ -113,6 +113,17 @@ b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   title_id: identify-the-radius-of-convergence-of-the-series-z1n2in-dc181a
   title: Identify the radius of convergence of the series (z+1)^n/(2+i)^n
   creator_id: github.NanoScaleDesign
+9a9da3d5-b6f3-4537-86e5-d4b89eff873f:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 910af117511fbbfedefff9f6616039818ef72e9b
+    public: 204aadd9c25a99c95d6cf0cddf1ede11e181c4d7
+  import_time: 2020-09-18T09:56:17.074215607Z
+  title_id: evaluate-the-limit-n1ni-204aad
+  title: Evaluate the limit (n+1)/(n+i)
+  creator_id: github.NanoScaleDesign
 3f9c9ae0-0042-409d-8c87-2e9e52e3a018:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

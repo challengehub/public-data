@@ -249,6 +249,18 @@ b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   title_id: evaluate-the-limit-n1ni-204aad
   title: Evaluate the limit (n+1)/(n+i)
   creator_id: github.NanoScaleDesign
+1e875274-a447-4808-b090-87e8d4ea20f4:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6e8909efd26704366e85ccb6a434cf80e12b5c20
+    public: e6312d7197858b0e328c5751b1b68db8714c185d
+  import_time: 2020-09-18T09:58:45.635932498Z
+  title_id: expressing-a-composition-of-a-magnification-translation-and-rotation-as-a-linear-mapping-e6312d
+  title: Expressing a composition of a magnification, translation and rotation as
+    a linear mapping
+  creator_id: github.NanoScaleDesign
 e267861f-2e79-4489-9ae0-ec54fbb0a381:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -393,6 +393,17 @@ da413fae-b256-4fc8-814e-0d036e0c5047:
   title_id: cauchy-goursat-theorem-evaluate-z1z-along-the-closed-contour-z2-e96f0f
   title: 'Cauchy-Goursat theorem: Evaluate (z+(1/z)) along the closed contour |z|=2'
   creator_id: github.NanoScaleDesign
+96416f79-8418-43d2-aeb6-b1e5a4a143f2:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ce9a2cbf7e7a8a8c1044a95488931569f9464c65
+    public: 18c0e3f0f6d040bdcb52cac3273cdf0df8ffde1a
+  import_time: 2020-09-18T09:56:59.259658467Z
+  title_id: showing-the-existence-of-complex-limits-18c0e3
+  title: Showing the existence of complex limits
+  creator_id: github.NanoScaleDesign
 b022458e-203a-45a4-964b-dcb7d586dfa0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

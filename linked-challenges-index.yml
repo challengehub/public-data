@@ -805,6 +805,17 @@ fd69fc7a-c186-4416-822b-8e25ce77ba18:
   title_id: deriving-the-complex-inverse-sine-function-6cd1f6
   title: Deriving the complex inverse sine function
   creator_id: github.NanoScaleDesign
+c71885e8-d119-4afc-8bf4-f085441eac95:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 44cb50ca73f801b761d4e3b58c4fe4f3b4e832d7
+    public: e76c654c126ce5a5580669c6313b5b48aca6adc6
+  import_time: 2020-09-18T09:58:14.365781482Z
+  title_id: can-there-be-a-2nd-cube-root-in-the-1st-quadrant-e76c65
+  title: Can there be a 2nd cube root in the 1st quadrant?
+  creator_id: github.NanoScaleDesign
 861cce0a-fc1f-428a-83d9-df8926f4561f:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

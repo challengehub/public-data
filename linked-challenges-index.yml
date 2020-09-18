@@ -204,6 +204,17 @@ a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
   title_id: find-the-maclaurin-series-and-radius-of-conversion-of-ze2z-5513b8
   title: Find the Maclaurin series and radius of conversion of ze^(2z)
   creator_id: github.NanoScaleDesign
+0b6011b1-0a6f-45ce-9b7f-8d2ce50388cc:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: af0aea17fb82bde82b55c7900290e537b79d68a8
+    public: fc1b03af274f43cc4a23864daca2238220b2945c
+  import_time: 2020-09-18T09:59:41.155539248Z
+  title_id: understanding-re-and-im-parts-of-complex-numbers-fc1b03
+  title: Understanding Re and Im parts of complex numbers
+  creator_id: github.NanoScaleDesign
 76fb63e3-7948-4749-aa75-83b9a4674306:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

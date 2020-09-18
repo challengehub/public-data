@@ -313,6 +313,17 @@ d6c69ee4-b977-427a-b193-2e9ef238286a:
   title_id: finding-complex-values-of-logi-334431
   title: Finding complex values of Log(i)
   creator_id: github.NanoScaleDesign
+6fae0465-fd1f-411c-8997-eaaf8dc290ef:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: addd4ca709b78aaf0a4aa3ba1b86d4bd0756a9d3
+    public: f6959e44022316f96bdae801901cf267011ea83f
+  import_time: 2020-09-18T09:56:35.494238486Z
+  title_id: identify-the-radius-of-convergence-of-the-series-z-1-3inn3i-f6959e
+  title: Identify the radius of convergence of the series ((z-1-3i)^n)/(n+3i)
+  creator_id: github.NanoScaleDesign
 67d59f62-5d09-4fb0-826f-54444209744b:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

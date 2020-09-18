@@ -192,6 +192,17 @@ db5d8810-7133-4e47-a620-aca09c5bf87c:
   title: Define a removable isolated singularity, a pole isolated singularity and
     an essential isolated singularity
   creator_id: github.NanoScaleDesign
+41e8f207-523b-4871-8167-ab2cd310d48a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 64367f7de30ffee0b70c33c09f8a654538240c5a
+    public: e96f0f61f9e888c269e4aed76a8a46d25ad9b777
+  import_time: 2020-09-18T09:55:45.298764837Z
+  title_id: cauchy-goursat-theorem-evaluate-z1z-along-the-closed-contour-z2-e96f0f
+  title: 'Cauchy-Goursat theorem: Evaluate (z+(1/z)) along the closed contour |z|=2'
+  creator_id: github.NanoScaleDesign
 8a16a2a2-1801-43f6-9439-b16122ea930a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

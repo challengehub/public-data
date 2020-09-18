@@ -102,6 +102,17 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title_id: find-the-maclaurin-series-and-radius-of-conversion-of-ez-dd7bcf
   title: Find the Maclaurin series and radius of conversion of e^z
   creator_id: github.NanoScaleDesign
+7de1b294-fdfa-40fa-ab9f-64c5a0448180:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 56448c8abaac6faaecfbe3acb65c90f368cc342d
+    public: 44b8a95177438ee276c2f41e7071e02aa30d8e8b
+  import_time: 2020-09-18T09:55:25.169456323Z
+  title_id: defining-simply-connected-and-multiply-connected-sets-44b8a9
+  title: Defining simply-connected and multiply-connected sets
+  creator_id: github.NanoScaleDesign
 4cffd999-af9b-4aca-9a98-9fd707a84b44:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

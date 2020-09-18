@@ -24,6 +24,17 @@
   title: Expand f(z)=(z-3)/((z-1)(z+1)) into a series that is valid for the domain
     |z|>1
   creator_id: github.NanoScaleDesign
+3f9c9ae0-0042-409d-8c87-2e9e52e3a018:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 3827cf1c4fe754f7f76d51b6ae8fc63851562357
+    public: 1f4515e4b30130a3d93338486952d515b56e3814
+  import_time: 2020-09-18T09:55:02.864166698Z
+  title_id: finding-the-harmonic-conjugate-of-uxyy3-3x2y-1f4515
+  title: Finding the harmonic conjugate of u(x,y)=y^3-3x^2y
+  creator_id: github.NanoScaleDesign
 73dc1ec7-d448-45a2-9226-a13f12195f5d:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

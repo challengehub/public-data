@@ -382,6 +382,17 @@ b8dcab62-de99-458c-870a-2334edaedc58:
   title_id: find-the-taylor-series-of-ez-centred-at-2i-7a4038
   title: Find the Taylor series of e^z centred at 2i
   creator_id: github.NanoScaleDesign
+29fe5fd8-25bc-4367-a04c-0f8a60768bda:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 56a637500afda3be1f11c30f73fce6e2ff79db21
+    public: 42be5ca43819d316eb3077f3d9d81f2642e9c473
+  import_time: 2020-09-18T09:58:29.52164463Z
+  title_id: factoring-z2-2z-3i-0-42be5c
+  title: Factoring z^2 + 2z − √3i = 0
+  creator_id: github.NanoScaleDesign
 aebfc845-cf9f-4a1c-87a9-96b506e29a16:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

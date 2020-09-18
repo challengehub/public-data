@@ -325,6 +325,17 @@ fa6e4384-125a-4526-834e-07f517a2215c:
   title_id: finding-complex-values-of-log1-i-85b68b
   title: Finding complex values of Log(1-i)
   creator_id: github.NanoScaleDesign
+bb8193aa-c617-4aee-bea6-8dd3af722fa0:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 7d755b75929c7fc7f1838c8c997d81e23af9642d
+    public: daf021639fb316698f038641b11eb6ebc94d6c13
+  import_time: 2020-09-18T09:56:04.102954075Z
+  title_id: harmonic-conjugate-relationship-of-u-and-v-daf021
+  title: Harmonic conjugate relationship of u and v
+  creator_id: github.NanoScaleDesign
 754ca9f7-60a1-4614-9a82-c21a2b103287:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

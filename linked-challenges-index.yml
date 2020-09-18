@@ -249,6 +249,17 @@ e267861f-2e79-4489-9ae0-ec54fbb0a381:
   title_id: express-z-5z-in-terms-of-x-and-y-9f0fe5
   title: Express |z+ 5z*| in terms of x and y
   creator_id: github.NanoScaleDesign
+3b74e733-bd62-43ba-aff5-ea28149928d7:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 547bad495fb98db83aeaa6317e875f9bd0264833
+    public: 88c6f7d57276688102a3c5f9ef51ed72e7d45463
+  import_time: 2020-09-18T09:58:26.681679098Z
+  title_id: definition-of-circles-discs-neighbourhoods-and-deleted-neighbourhoods-88c6f7
+  title: Definition of circles, discs, neighbourhoods and deleted neighbourhoods
+  creator_id: github.NanoScaleDesign
 744701f7-b841-48a9-9ff2-3e6c5b19c81f:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

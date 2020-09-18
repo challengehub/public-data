@@ -372,6 +372,18 @@ d6c69ee4-b977-427a-b193-2e9ef238286a:
   title_id: calculate-the-laurent-series-of-1zz-3-for-the-annular-domain-0z3-aac9dc
   title: Calculate the Laurent Series of 1/(z(z-3)) for the annular domain 0<|z|<3
   creator_id: github.NanoScaleDesign
+a8124252-ab6c-4e07-8592-531baa3e565a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 3583f7fa537d367fb78722f919001c07ccee4a06
+    public: e6fb868b313c7863c22a74e0d74a96c4f0d074d1
+  import_time: 2020-09-18T09:57:59.485176455Z
+  title_id: understanding-commutation-of-translation-rotation-and-magnification-of-complex-mapping-e6fb86
+  title: Understanding commutation of translation, rotation and magnification of complex
+    mapping
+  creator_id: github.NanoScaleDesign
 582d4df6-2511-4814-8e70-24475049b16f:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

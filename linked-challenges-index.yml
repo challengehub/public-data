@@ -918,6 +918,17 @@ fa6e4384-125a-4526-834e-07f517a2215c:
   title_id: cauchy-goursat-theorem-the-general-case-of-1z-z0n-066e19
   title: 'Cauchy-Goursat theorem: The general case of 1/((z-z0)^n)'
   creator_id: github.NanoScaleDesign
+8812243c-f903-42f6-9af1-a9a79fc23a54:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 9baab63eca774bac52d0540c866bd219759a08b1
+    public: e7b4207110c874f9733b63bd69f8bf2de493ba96
+  import_time: 2020-09-18T09:59:20.281456093Z
+  title_id: understanding-the-multiple-complex-roots-of-a-number-e7b420
+  title: Understanding the multiple complex roots of a number
+  creator_id: github.NanoScaleDesign
 bfe871b7-6389-4bf6-9603-209c64e0b9c0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

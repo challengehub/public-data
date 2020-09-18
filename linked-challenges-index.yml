@@ -68,6 +68,17 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title_id: finding-the-harmonic-conjugate-of-uxyy3-3x2y-1f4515
   title: Finding the harmonic conjugate of u(x,y)=y^3-3x^2y
   creator_id: github.NanoScaleDesign
+db5d8810-7133-4e47-a620-aca09c5bf87c:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6181c6040f50c2ebe3a704c3508e6ccc848c4b6f
+    public: 080449dabcac0c40946c9abd270bb8139b85f2e2
+  import_time: 2020-09-18T09:55:33.075073175Z
+  title_id: explaining-the-cauchy-riemann-equations-080449
+  title: Explaining the Cauchy-Riemann equations
+  creator_id: github.NanoScaleDesign
 73dc1ec7-d448-45a2-9226-a13f12195f5d:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

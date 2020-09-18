@@ -205,6 +205,17 @@ b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   title_id: identify-the-radius-of-convergence-of-the-series-z1n2in-dc181a
   title: Identify the radius of convergence of the series (z+1)^n/(2+i)^n
   creator_id: github.NanoScaleDesign
+366df447-5a53-4af9-8ff5-f42ba0c126f0:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 1e05b3bb60be041385aa1e52d3658fa0d4b11a30
+    public: 17bd78f1f5ca01c16fd79048939ef8280303db76
+  import_time: 2020-09-18T09:57:53.704421108Z
+  title_id: definitions-of-complex-identities-17bd78
+  title: Definitions of complex identities
+  creator_id: github.NanoScaleDesign
 9a9da3d5-b6f3-4537-86e5-d4b89eff873f:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

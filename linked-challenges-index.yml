@@ -258,6 +258,17 @@ d6c69ee4-b977-427a-b193-2e9ef238286a:
   title_id: calculate-ii-9b4f11
   title: Calculate i^i
   creator_id: github.NanoScaleDesign
+140d128a-94db-490d-9a03-87cd0b492cd7:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 914f5e47b82f89dc92309db179c69e5c9de2c9de
+    public: 2c8529467e3689f45b0dc6ea873784643dc0f75e
+  import_time: 2020-09-18T09:56:19.597581962Z
+  title_id: line-integral-of-2xy-given-x5cost-y5sint-dy-2c8529
+  title: Line integral of 2xy given x=5cos(t) & y=5sin(t) (dy)
+  creator_id: github.NanoScaleDesign
 6f21e053-dfed-4930-8aae-7df9eb51f333:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

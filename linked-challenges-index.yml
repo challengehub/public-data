@@ -214,6 +214,17 @@ d6c69ee4-b977-427a-b193-2e9ef238286a:
   title_id: a-review-of-continuous-functions-and-real-limits-khan-academy-85f773
   title: A review of continuous functions and real limits (Khan academy)
   creator_id: github.NanoScaleDesign
+5f904199-d155-408c-b6e7-c0eebd79ee2e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 7a533637915f28b6cf4fd4e61d7d2cfaf82ca943
+    public: 5451b765d9423012ed45b9fbec57b287dea7ee96
+  import_time: 2020-09-18T09:56:00.649401865Z
+  title_id: a-first-introduction-to-complex-limits-5451b7
+  title: A first introduction to complex limits
+  creator_id: github.NanoScaleDesign
 59b3ef38-4431-40e9-88f3-4e544b5e2346:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

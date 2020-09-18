@@ -371,6 +371,17 @@ d6c69ee4-b977-427a-b193-2e9ef238286a:
   title: Define a removable isolated singularity, a pole isolated singularity and
     an essential isolated singularity
   creator_id: github.NanoScaleDesign
+da413fae-b256-4fc8-814e-0d036e0c5047:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ce531e3faab54b21c283181683fe6db1977bf1c0
+    public: 05b1f62a771e93ca92d2db6b7c736b19825c8a85
+  import_time: 2020-09-18T09:56:56.773180495Z
+  title_id: when-to-use-taylor-series-and-laurent-series-05b1f6
+  title: When to use Taylor series and Laurent series
+  creator_id: github.NanoScaleDesign
 41e8f207-523b-4871-8167-ab2cd310d48a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

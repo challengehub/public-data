@@ -651,6 +651,17 @@ cba3c698-b3e8-4ebf-8a55-d1d6c7d50dce:
   title_id: identify-the-radius-of-convergence-of-the-series-z-1-3inn3i-f6959e
   title: Identify the radius of convergence of the series ((z-1-3i)^n)/(n+3i)
   creator_id: github.NanoScaleDesign
+9a2451c9-cee6-4ee1-9789-4c4e7fdc5f4b:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 85e0e24adec0dd6185ef0983a8139057b80778bb
+    public: 65754e5fcc8d49d4d87f38e84f72b23bccd5a71d
+  import_time: 2020-09-18T09:58:59.522790565Z
+  title_id: characteristics-of-a-set-of-discrete-points-in-a-complex-plane-65754e
+  title: Characteristics of a set of discrete points in a complex plane
+  creator_id: github.NanoScaleDesign
 47e7f9fa-6b7f-4b82-a45c-341f6ee1ef63:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

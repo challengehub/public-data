@@ -157,6 +157,18 @@ db5d8810-7133-4e47-a620-aca09c5bf87c:
   title_id: explaining-the-cauchy-riemann-equations-080449
   title: Explaining the Cauchy-Riemann equations
   creator_id: github.NanoScaleDesign
+622487f1-2458-420f-b2af-81030c4e8aea:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b503f2620283d4020850eb708391e2d3a876377b
+    public: bcd5056dc1919075e54b10760ea419dd39b6f95f
+  import_time: 2020-09-18T09:56:43.540320492Z
+  title_id: calculating-the-mass-of-a-wire-with-density-proportional-to-distance-from-the-y-axis-using-a-line-integral-bcd505
+  title: Calculating the mass of a wire with density proportional to distance from
+    the y-axis, using a line integral
+  creator_id: github.NanoScaleDesign
 73dc1ec7-d448-45a2-9226-a13f12195f5d:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

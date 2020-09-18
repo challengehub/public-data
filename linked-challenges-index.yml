@@ -508,6 +508,17 @@ a8124252-ab6c-4e07-8592-531baa3e565a:
   title_id: finding-the-real-and-imaginary-parts-of-functions-eff015
   title: Finding the real and imaginary parts of functions
   creator_id: github.NanoScaleDesign
+824d260a-a777-4685-a7a2-cd1b57b2aac2:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 84ece8f08143377b64796537e0063bf0b9f5410e
+    public: 04ac18c3f73c0c301aa6ad14cdd765403cd8fbbc
+  import_time: 2020-09-18T09:58:56.757068625Z
+  title_id: writing-complex-numbers-in-exponential-form-04ac18
+  title: Writing complex numbers in exponential form
+  creator_id: github.NanoScaleDesign
 c7ef7a05-037f-4289-9dbd-71e4494af8e2:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

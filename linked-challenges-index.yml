@@ -34,6 +34,17 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title_id: prove-analyticity-of-complex-functions-using-the-cauchy-riemann-equations-accb45
   title: Prove analyticity of complex functions using the Cauchy-Riemann equations
   creator_id: github.NanoScaleDesign
+eee6da55-7fa5-4013-b4fa-9f973754597a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6854b2c85aaa2d702d8717ade5c85d55975bbf7e
+    public: 4b9f2aee2c5cce8b1a40d61b87688abb81fe57f8
+  import_time: 2020-09-18T09:55:47.861161145Z
+  title_id: calculating-the-complex-integral-of-2z3-on-the-contour-ztit2-4b9f2a
+  title: Calculating the complex integral of 2z+3 on the contour z=t+it^2
+  creator_id: github.NanoScaleDesign
 01fd70ec-4051-4561-bb2a-f3a109bf4a3c:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

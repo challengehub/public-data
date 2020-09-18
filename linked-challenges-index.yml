@@ -69,6 +69,17 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title_id: prove-analyticity-of-complex-functions-using-the-cauchy-riemann-equations-accb45
   title: Prove analyticity of complex functions using the Cauchy-Riemann equations
   creator_id: github.NanoScaleDesign
+bcd7710c-71d3-440e-9e96-ab3c54d38f10:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 471d963565ef28e30c080b36e09de64458225572
+    public: 353416c95d0bae75332862fbc6a97d2b3feebaac
+  import_time: 2020-09-18T09:58:17.259286487Z
+  title_id: drawing-the-set-and-image-of-the-triangle-with-vertices-0-1-and-1i-353416
+  title: Drawing the set and image of the triangle with vertices 0, 1 and 1+i
+  creator_id: github.NanoScaleDesign
 eee6da55-7fa5-4013-b4fa-9f973754597a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -314,6 +314,17 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title_id: identifying-convergence-of-complex-series-and-calculating-convergence-sums-a77477
   title: Identifying convergence of complex series and calculating convergence sums
   creator_id: github.NanoScaleDesign
+83e99bf0-ea72-4007-a9bd-71e5b20203f2:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 95954f488021ce38ab3b6a102eaf436d5c018c16
+    public: 88ad6ea2b7e5cc8fb42a3aae69166c5c46463cdb
+  import_time: 2020-09-18T09:56:22.238022532Z
+  title_id: describe-branch-cuts-and-branch-points-88ad6e
+  title: Describe branch cuts and branch points
+  creator_id: github.NanoScaleDesign
 8a16a2a2-1801-43f6-9439-b16122ea930a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

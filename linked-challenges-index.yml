@@ -484,6 +484,17 @@ aebfc845-cf9f-4a1c-87a9-96b506e29a16:
   title: Showing that the complex inverse sine function recovers real angles for real
     values
   creator_id: github.NanoScaleDesign
+108bd008-b765-4cc3-9b96-efd054a470be:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: aa391fe8acaf2b83e25dc429ce96763e696e56c0
+    public: 60ac4417e2f5931a7ffca318edff84287c76eb2f
+  import_time: 2020-09-18T09:59:35.055469803Z
+  title_id: factoring-z2-19iz205i0-60ac44
+  title: Factoring z^2 −(1+9i)z−20+5i=0
+  creator_id: github.NanoScaleDesign
 d6c69ee4-b977-427a-b193-2e9ef238286a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

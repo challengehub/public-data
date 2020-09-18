@@ -940,6 +940,18 @@ d9189a40-a700-42b8-92c4-d861b57a7036:
   title_id: properties-of-complex-numbers-under-the-conditions-zz-and-z2z2-2ebc71
   title: Properties of complex numbers under the conditions z=z* and (z)^2=(z*)^2
   creator_id: github.NanoScaleDesign
+c31df9d7-0f5e-4c99-ae4d-05b9caf4152e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 89c948822d2f31305cd620282208337ff8735134
+    public: 6e61a2b722d6ce042be2144a118f7d4990e80bc6
+  import_time: 2020-09-18T09:59:05.318677112Z
+  title_id: understanding-the-effect-of-order-of-composition-of-two-translations-two-rotations-or-two-magnifications-6e61a2
+  title: Understanding the effect of order of composition of two translations, two
+    rotations or two magnifications
+  creator_id: github.NanoScaleDesign
 bb8193aa-c617-4aee-bea6-8dd3af722fa0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

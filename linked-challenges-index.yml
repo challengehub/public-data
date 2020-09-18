@@ -594,6 +594,18 @@ dcb372fa-f429-4032-9145-9f69375d9de3:
   title_id: identify-the-radius-of-convergence-of-the-series-z-1-3inn3i-f6959e
   title: Identify the radius of convergence of the series ((z-1-3i)^n)/(n+3i)
   creator_id: github.NanoScaleDesign
+47e7f9fa-6b7f-4b82-a45c-341f6ee1ef63:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 667e681cfe28b91b358b228d110c07c7ed0022e2
+    public: e2574a5c2a52fd25b42774732321322644450303
+  import_time: 2020-09-18T09:58:39.397672105Z
+  title_id: finding-the-value-of-the-principle-nth-root-function-at-a-given-value-of-z-e2574a
+  title: Finding the value of the principle n'th root function at a given value of
+    z
+  creator_id: github.NanoScaleDesign
 67d59f62-5d09-4fb0-826f-54444209744b:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

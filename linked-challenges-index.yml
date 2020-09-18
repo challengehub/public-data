@@ -606,6 +606,17 @@ bb5cb248-3c70-402c-99ba-eeb802ba9daa:
   title_id: independence-of-path-integral-of-2z1-on-a-piecewise-contour-82046f
   title: 'Independence of path: Integral of 2z+1 on a piecewise contour'
   creator_id: github.NanoScaleDesign
+67a0bf64-fd13-40c4-8a33-9116f09e5927:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 012784725d9dd923f8640f92f73210d880bf7964
+    public: 5fa1663924e339d47d360754e63be83612c9e624
+  import_time: 2020-09-18T09:57:41.728866751Z
+  title_id: sketching-complex-parametric-curves-5fa166
+  title: Sketching complex parametric curves
+  creator_id: github.NanoScaleDesign
 1c406268-59d9-4d8a-bdfc-cb8fe2fd1b35:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

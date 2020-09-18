@@ -550,6 +550,17 @@ aebfc845-cf9f-4a1c-87a9-96b506e29a16:
   title_id: factoring-z2-19iz205i0-60ac44
   title: Factoring z^2 −(1+9i)z−20+5i=0
   creator_id: github.NanoScaleDesign
+583afed2-f312-4a74-89b9-4bb88a48bf7c:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: da4f45b992358808f5ab765df7c62dafe4e4afee
+    public: ea7a87898eec17ccd5bfc104dff33beea49ceff5
+  import_time: 2020-09-18T10:00:05.210335169Z
+  title_id: expressing-z-2-2i-9-in-polar-form-ea7a87
+  title: Expressing z=(-2-2i)^-9 in polar form
+  creator_id: github.NanoScaleDesign
 d6c69ee4-b977-427a-b193-2e9ef238286a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -739,6 +739,17 @@ bfe871b7-6389-4bf6-9603-209c64e0b9c0:
   title_id: finding-complex-values-of-log1-i-85b68b
   title: Finding complex values of Log(1-i)
   creator_id: github.NanoScaleDesign
+d9189a40-a700-42b8-92c4-d861b57a7036:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 3965bd9b83a54a5aa3448becbabf67b6e0d5ae22
+    public: 2ebc71e88940b3e113dad8acceace8bef8c4ce44
+  import_time: 2020-09-18T09:58:05.59407091Z
+  title_id: properties-of-complex-numbers-under-the-conditions-zz-and-z2z2-2ebc71
+  title: Properties of complex numbers under the conditions z=z* and (z)^2=(z*)^2
+  creator_id: github.NanoScaleDesign
 bb8193aa-c617-4aee-bea6-8dd3af722fa0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

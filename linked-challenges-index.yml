@@ -1029,6 +1029,17 @@ c31df9d7-0f5e-4c99-ae4d-05b9caf4152e:
   title_id: obtaining-an-expression-for-the-kth-real-root-of-1-509146
   title: Obtaining an expression for the k'th real root of 1
   creator_id: github.NanoScaleDesign
+cdb0e8ae-746e-49b2-aeed-5a8749cb2cc8:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: a51a2b85d4e160aa4164d1d341b6e08975a65721
+    public: a8166d6bc8a6014d532f3f37b486bb460335f1e0
+  import_time: 2020-09-18T09:59:29.039075709Z
+  title_id: factoring-iz2-z-i-0-a8166d
+  title: Factoring iz^2 - z + i = 0
+  creator_id: github.NanoScaleDesign
 bb8193aa-c617-4aee-bea6-8dd3af722fa0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -103,6 +103,17 @@ a2fc4e58-45d8-4cd9-8330-83700140fd48:
   title: 'Cauchy-Goursat theorem: Evaluate ((3z+i)/(z^2+1)) along the closed contour
     |z-i|=1'
   creator_id: github.NanoScaleDesign
+76fb63e3-7948-4749-aa75-83b9a4674306:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: d2ffb6b76a16623beb59df116176a1626df705a9
+    public: 795506ba93cb265ab66c4b8dce66bb0fae8039bd
+  import_time: 2020-09-18T09:57:02.335934452Z
+  title_id: calculate-arccosh12-795506
+  title: Calculate arccosh(1/2)
+  creator_id: github.NanoScaleDesign
 86d108a7-2ab5-4eb3-92e8-7d8d41a0d08e:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

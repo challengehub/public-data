@@ -24,6 +24,18 @@
   title: Expand f(z)=(z-3)/((z-1)(z+1)) into a series that is valid for the domain
     |z|>1
   creator_id: github.NanoScaleDesign
+582d4df6-2511-4814-8e70-24475049b16f:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 19499d5056a0294af4404c80a201f2b48c4e8aa7
+    public: 3a23d2c40befef070de3f635c599b7b30c8e2451
+  import_time: 2020-09-18T09:54:55.474038745Z
+  title_id: cauchys-integral-formulas-closed-contour-integral-of-3ziz21-on-z2-3a23d2
+  title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1) on
+    |z|=2'
+  creator_id: github.NanoScaleDesign
 6f21e053-dfed-4930-8aae-7df9eb51f333:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

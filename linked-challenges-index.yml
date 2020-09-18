@@ -561,6 +561,17 @@ d6c69ee4-b977-427a-b193-2e9ef238286a:
   title_id: calculate-the-laurent-series-of-1zz-3-for-the-annular-domain-0z3-aac9dc
   title: Calculate the Laurent Series of 1/(z(z-3)) for the annular domain 0<|z|<3
   creator_id: github.NanoScaleDesign
+154090a6-324d-482e-b1d6-49ec45faea50:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: d4fba13e54e831cfc0824cf5e1b3c03060fa8741
+    public: 48276fbc0c9d260de16f1ebbbadfef2082babcf5
+  import_time: 2020-09-18T10:00:01.893222828Z
+  title_id: graphing-z-z-1-in-the-complex-plane-48276f
+  title: Graphing z* = z^-1 in the complex plane
+  creator_id: github.NanoScaleDesign
 a8124252-ab6c-4e07-8592-531baa3e565a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

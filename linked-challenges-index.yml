@@ -135,6 +135,17 @@ db5d8810-7133-4e47-a620-aca09c5bf87c:
   title_id: finding-the-harmonic-conjugate-of-uxy-x-2953bb
   title: Finding the harmonic conjugate of u(x,y) = x
   creator_id: github.NanoScaleDesign
+a04a8ec8-f4db-4ac3-8ab7-c6785110adc0:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 7a30b434015189d4a1f2f2e297ade7a8f80b9b06
+    public: 551ba7f19a7705b1e1afee01f94d2b8f5faf7c86
+  import_time: 2020-09-18T09:55:58.101981118Z
+  title_id: basic-limits-of-complex-functions-and-their-properties-551ba7
+  title: Basic limits of complex functions and their properties
+  creator_id: github.NanoScaleDesign
 308d9c1d-ed27-4533-b984-f4ff058b0dfc:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

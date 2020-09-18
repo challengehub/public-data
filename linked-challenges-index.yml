@@ -247,6 +247,17 @@ a04a8ec8-f4db-4ac3-8ab7-c6785110adc0:
   title_id: basic-limits-of-complex-functions-and-their-properties-551ba7
   title: Basic limits of complex functions and their properties
   creator_id: github.NanoScaleDesign
+b8dcab62-de99-458c-870a-2334edaedc58:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ddb4668d7ef14504bdeceb485d57cd99da4db585
+    public: 7a403865a925702105be298436fa7701fe7da3ce
+  import_time: 2020-09-18T09:57:08.281771172Z
+  title_id: find-the-taylor-series-of-ez-centred-at-2i-7a4038
+  title: Find the Taylor series of e^z centred at 2i
+  creator_id: github.NanoScaleDesign
 308d9c1d-ed27-4533-b984-f4ff058b0dfc:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

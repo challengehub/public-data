@@ -91,6 +91,17 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1) on
     |z|=2'
   creator_id: github.NanoScaleDesign
+5db7fb2d-c210-488f-9ec7-e7214ee293fc:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 48d7905e44407531cb54953dfc1bf20b9f05b91e
+    public: dd7bcfeefeb69acc6740b0ec7cfaff5e18006fee
+  import_time: 2020-09-18T09:55:15.054459425Z
+  title_id: find-the-maclaurin-series-and-radius-of-conversion-of-ez-dd7bcf
+  title: Find the Maclaurin series and radius of conversion of e^z
+  creator_id: github.NanoScaleDesign
 59b3ef38-4431-40e9-88f3-4e544b5e2346:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

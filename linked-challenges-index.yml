@@ -1006,6 +1006,17 @@ bb5cb248-3c70-402c-99ba-eeb802ba9daa:
   title_id: independence-of-path-integral-of-2z1-on-a-piecewise-contour-82046f
   title: 'Independence of path: Integral of 2z+1 on a piecewise contour'
   creator_id: github.NanoScaleDesign
+2a0aea6d-a239-4014-9e17-1336ff09500e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: efca54f2d9da0dad5a956475c3eaee9d2754bb36
+    public: d30883d04b16fbf62034471f1f5d4d8494485f9a
+  import_time: 2020-09-18T10:00:16.051323454Z
+  title_id: graphing-z-rez-in-the-complex-plane-d30883
+  title: Graphing |z| = Re(z) in the complex plane
+  creator_id: github.NanoScaleDesign
 c13a73c3-7367-4e8c-a74e-2711c0e7da50:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -317,6 +317,17 @@ c655a344-3e46-4d80-ac3b-cdc8cdae4865:
   title: Drawing the set and image of the circular arc |z| = 2, 0 <= arg(z) <= pi/2;
     f(z) = 1/4 e^(I pi/4) z^2
   creator_id: github.NanoScaleDesign
+1190e23a-bfce-4dc7-af1d-374fd6f2453a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 9c140e7688ed05f3c82240168eb18263c0425928
+    public: 80b4924291203cf22545f0d5f78f38e78b33d800
+  import_time: 2020-09-18T09:59:23.174717469Z
+  title_id: finding-the-image-of-a-set-under-square-root-mapping-80b492
+  title: Finding the image of a set under square-root mapping
+  creator_id: github.NanoScaleDesign
 c77b2063-0915-40fd-9c1b-3c1edc32fda6:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

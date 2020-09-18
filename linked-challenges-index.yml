@@ -204,6 +204,17 @@ a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
   title_id: finding-the-harmonic-conjugate-of-uxyx2-y2-d40495
   title: Finding the harmonic conjugate of u(x,y)=x^2 - y^2
   creator_id: github.NanoScaleDesign
+96681381-cb5e-4005-b390-a73a192c00ca:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: cf49856424ef9e258dd7b1351f2d68459135e5d5
+    public: ab64e8caf1056c64cc931fd06fdc3147388009c9
+  import_time: 2020-09-18T09:59:58.712784662Z
+  title_id: drawing-the-set-and-image-of-the-square-with-vertices-0-1-1i-and-i-ab64e8
+  title: Drawing the set and image of the square with vertices 0, 1, 1+i and i
+  creator_id: github.NanoScaleDesign
 37c64bd2-2c1c-40fe-894e-278d5d629dcb:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

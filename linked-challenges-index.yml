@@ -806,6 +806,17 @@ cba3c698-b3e8-4ebf-8a55-d1d6c7d50dce:
   title: Finding the value of the principle n'th root function at a given value of
     z
   creator_id: github.NanoScaleDesign
+3ed2275a-692e-42a8-8064-6e20c3b7061e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: e38fe2021f6731f3ff483b34a37dc4d9e5cb13c5
+    public: 3b4e7b2d51fd6da97d7cc70a44da59a5d58a1004
+  import_time: 2020-09-18T10:00:08.411454207Z
+  title_id: drawing-the-set-and-image-of-the-line-y-5-3b4e7b
+  title: Drawing the set and image of the line y = -5
+  creator_id: github.NanoScaleDesign
 67d59f62-5d09-4fb0-826f-54444209744b:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

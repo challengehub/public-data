@@ -547,3 +547,14 @@ fe45c912-e338-4bbf-9060-dcd3e4c66671:
   title_id: calculate-the-laurent-series-of-1zz-3-for-the-annular-domain-3z-1ca313
   title: Calculate the Laurent Series of 1/(z(z-3)) for the annular domain 3<|z|
   creator_id: github.NanoScaleDesign
+af5cfa3b-5187-4685-9415-66f97193283a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: c9da376aee97405e5e33df643d29c2f5d641141f
+    public: 6b937af5b3135652c7da02dcdda56aef771e83a5
+  import_time: 2020-09-18T09:56:51.128991329Z
+  title_id: line-integral-of-2xy-given-x5cost-y5sint-dx-6b937a
+  title: Line integral of 2xy given x=5cos(t) & y=5sin(t) (dx)
+  creator_id: github.NanoScaleDesign

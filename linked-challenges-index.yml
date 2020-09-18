@@ -462,6 +462,17 @@ c7ef7a05-037f-4289-9dbd-71e4494af8e2:
   title_id: defining-simply-connected-and-multiply-connected-sets-44b8a9
   title: Defining simply-connected and multiply-connected sets
   creator_id: github.NanoScaleDesign
+0154c40f-6277-4ee6-9ea2-69ca544f9469:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 4a155dba4a7aaa579b5a428caa5fac9386441c0b
+    public: 96367b480263263f39ac99492b2769d42ee44dce
+  import_time: 2020-09-18T09:58:23.522285873Z
+  title_id: sketching-graphs-in-the-complex-plane-96367b
+  title: Sketching graphs in the complex plane
+  creator_id: github.NanoScaleDesign
 5dea9b76-a244-4610-a85a-afd0a00c5233:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

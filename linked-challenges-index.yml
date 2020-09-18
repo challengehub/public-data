@@ -1084,6 +1084,18 @@ bb8193aa-c617-4aee-bea6-8dd3af722fa0:
   title_id: expand-fzz-3z-1z1-into-a-series-valid-for-the-domain-z1-c814d2
   title: Expand f(z)=(z-3)/((z-1)(z+1)) into a series valid for the domain |z|<1
   creator_id: github.NanoScaleDesign
+23400430-2516-4ad9-afa4-d0642a4d745b:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ae6f8c32e25ed19c9c918029dc5fc75654ad3c16
+    public: 922c35ed71d460b757d6dcbe8473e9421c7f1c72
+  import_time: 2020-09-18T09:59:38.298536263Z
+  title_id: expressing-complex-linear-mapping-in-terms-of-rotation-magnification-and-translation-922c35
+  title: Expressing complex linear mapping in terms of rotation, magnification and
+    translation
+  creator_id: github.NanoScaleDesign
 436ba164-9015-490d-a05c-c4102780bb77:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

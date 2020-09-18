@@ -34,6 +34,18 @@
   title: 'Cauchy''s integral formulas: Closed contour integral of ((z+1)/(z+i))^3
     on |z|=2'
   creator_id: github.NanoScaleDesign
+78599696-d265-430c-96b8-46b4470943bc:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: e45340ec8cc0b78713a31ecaac0e181387fbaaa5
+    public: a531e04d85c1e13ad110782e2a7f35a6a4a5c766
+  import_time: 2020-09-18T09:57:14.348490268Z
+  title_id: cauchys-integral-formulas-closed-contour-integral-of-3ziz21-on-zi1-a531e0
+  title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1) on
+    |z+i|=1'
+  creator_id: github.NanoScaleDesign
 fbaca123-9531-46b7-8fc5-7e23834b0711:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

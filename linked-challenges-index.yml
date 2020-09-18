@@ -1,5 +1,16 @@
 # ChallengeHub Linked Challenge Index
 
+6f21e053-dfed-4930-8aae-7df9eb51f333:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 0746ad28e38d0e3c94ced24072c3bcdef8dc761d
+    public: 334431b4f6a84159750f5cde56376b13e7acf05d
+  import_time: 2020-09-18T09:54:43.930127388Z
+  title_id: finding-complex-values-of-logi-334431
+  title: Finding complex values of Log(i)
+  creator_id: github.NanoScaleDesign
 8a16a2a2-1801-43f6-9439-b16122ea930a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -249,6 +249,17 @@ e267861f-2e79-4489-9ae0-ec54fbb0a381:
   title_id: express-z-5z-in-terms-of-x-and-y-9f0fe5
   title: Express |z+ 5z*| in terms of x and y
   creator_id: github.NanoScaleDesign
+744701f7-b841-48a9-9ff2-3e6c5b19c81f:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 4734760affec65a9a053a081b8b07de53a7330ee
+    public: 963b70305f922604f943289060ead0c9a0edda27
+  import_time: 2020-09-18T09:58:20.464705647Z
+  title_id: complex-number-algebra-in-963b70
+  title: 'Complex number algebra: i^n'
+  creator_id: github.NanoScaleDesign
 c77b2063-0915-40fd-9c1b-3c1edc32fda6:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

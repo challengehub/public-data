@@ -227,6 +227,17 @@ b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   title_id: evaluate-the-limit-n1ni-204aad
   title: Evaluate the limit (n+1)/(n+i)
   creator_id: github.NanoScaleDesign
+e267861f-2e79-4489-9ae0-ec54fbb0a381:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 3586788eda0d04836f99d4acb136233378db2b8e
+    public: 9f0fe5b2fe9476d849de5374a42979734f84160a
+  import_time: 2020-09-18T09:58:02.54185746Z
+  title_id: express-z-5z-in-terms-of-x-and-y-9f0fe5
+  title: Express |z+ 5z*| in terms of x and y
+  creator_id: github.NanoScaleDesign
 c77b2063-0915-40fd-9c1b-3c1edc32fda6:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

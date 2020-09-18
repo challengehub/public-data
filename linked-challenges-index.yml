@@ -1,5 +1,17 @@
 # ChallengeHub Linked Challenge Index
 
+01fd70ec-4051-4561-bb2a-f3a109bf4a3c:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 0c16d2cedc5058a00237815fa1716ebbaecc0ea8
+    public: 9e58c9c24b6546134be3172ab0d5e99c1da04976
+  import_time: 2020-09-18T09:54:48.564888358Z
+  title_id: cauchys-integral-formulas-closed-contour-integral-of-e2zz5-on-z-1-i2-9e58c9
+  title: 'Cauchy''s integral formulas: Closed contour integral of e^(2z)/(z^5) on
+    |z-1-i|=2'
+  creator_id: github.NanoScaleDesign
 3cf22cca-0ac1-419a-9440-08cb0ce9ef5b:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -126,6 +126,17 @@ a2fc4e58-45d8-4cd9-8330-83700140fd48:
   title: 'Cauchy-Goursat theorem: Evaluate ((3z+i)/(z^2+1)) along the closed contour
     |z-i|=1'
   creator_id: github.NanoScaleDesign
+37c64bd2-2c1c-40fe-894e-278d5d629dcb:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: e524db16af9868ebc522aef415db2f5576e380f4
+    public: 5513b8ba549ba0a4f8df4db0583a1cb045289e3e
+  import_time: 2020-09-18T09:57:17.134744119Z
+  title_id: find-the-maclaurin-series-and-radius-of-conversion-of-ze2z-5513b8
+  title: Find the Maclaurin series and radius of conversion of ze^(2z)
+  creator_id: github.NanoScaleDesign
 76fb63e3-7948-4749-aa75-83b9a4674306:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

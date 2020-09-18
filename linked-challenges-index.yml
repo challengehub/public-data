@@ -1,3 +1,13 @@
 # ChallengeHub Linked Challenge Index
 
-{}
+8a16a2a2-1801-43f6-9439-b16122ea930a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 02d473d15409a09d286ecbf30e33230bdce3d70f
+    public: 2a944f9f7e746a6632a4ed591b60ea7e9c6a8140
+  import_time: 2020-09-18T09:54:41.5641318Z
+  title_id: cauchy-goursat-theorem-evaluate-z21-along-the-closed-contour-3eit-2a944f
+  title: 'Cauchy-Goursat theorem: Evaluate (z^2+1) along the closed contour 3+e^(it)'
+  creator_id: github.NanoScaleDesign

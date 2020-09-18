@@ -124,6 +124,17 @@ b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   title_id: evaluate-the-limit-n1ni-204aad
   title: Evaluate the limit (n+1)/(n+i)
   creator_id: github.NanoScaleDesign
+c77b2063-0915-40fd-9c1b-3c1edc32fda6:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 96990c1c13aca1e438901499290e1baeaec1d32e
+    public: 0810b9d5edb74d29bdedd68e01ee98bc72ed0113
+  import_time: 2020-09-18T09:56:24.878661061Z
+  title_id: obtaining-the-complex-derivative-of-fz-iz3-7z2-0810b9
+  title: Obtaining the complex derivative of f(z) = iz^3 - 7z^2
+  creator_id: github.NanoScaleDesign
 3f9c9ae0-0042-409d-8c87-2e9e52e3a018:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

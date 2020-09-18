@@ -841,6 +841,17 @@ bb5cb248-3c70-402c-99ba-eeb802ba9daa:
   title_id: independence-of-path-integral-of-2z1-on-a-piecewise-contour-82046f
   title: 'Independence of path: Integral of 2z+1 on a piecewise contour'
   creator_id: github.NanoScaleDesign
+c13a73c3-7367-4e8c-a74e-2711c0e7da50:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 870e835efc723adc970370a2c8c406bc62877a2f
+    public: 21d5c1d4d5d19889a4094188a0bde1b2c7059cab
+  import_time: 2020-09-18T09:59:02.508456698Z
+  title_id: introduction-to-polar-representation-of-complex-numbers-21d5c1
+  title: Introduction to polar representation of complex numbers
+  creator_id: github.NanoScaleDesign
 67a0bf64-fd13-40c4-8a33-9116f09e5927:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

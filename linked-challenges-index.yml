@@ -995,6 +995,17 @@ bfe871b7-6389-4bf6-9603-209c64e0b9c0:
   title_id: calculate-the-derivative-of-cosiez-e02326
   title: Calculate the derivative of cos(ie^z)
   creator_id: github.NanoScaleDesign
+daaf55f7-950d-4b79-a6cc-e52f82a03470:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b3a3f8395b1140d0ffad440d7c4b879e026d44f7
+    public: c70b3f255b5c3eef900307105b0b3ec6e54a02a4
+  import_time: 2020-09-18T09:59:47.543471973Z
+  title_id: expressing-zsqrt3-i11-in-polar-form-c70b3f
+  title: Expressing z=(sqrt(3)-i)^11 in polar form
+  creator_id: github.NanoScaleDesign
 552972af-9a44-49c5-a727-b4b616ea9d97:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

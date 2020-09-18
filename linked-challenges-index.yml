@@ -395,6 +395,17 @@ c7ef7a05-037f-4289-9dbd-71e4494af8e2:
   title_id: defining-simply-connected-and-multiply-connected-sets-44b8a9
   title: Defining simply-connected and multiply-connected sets
   creator_id: github.NanoScaleDesign
+5dea9b76-a244-4610-a85a-afd0a00c5233:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ffde6639b199c646d4cd209a72ad0bc265e89362
+    public: 9fd6ed781083cc1d8536c438df3b433ea00a65db
+  import_time: 2020-09-18T09:57:38.804747237Z
+  title_id: line-integral-of-2xy-given-x5cost-y5sint-9fd6ed
+  title: Line integral of 2xy given x=5cos(t) & y=5sin(t)
+  creator_id: github.NanoScaleDesign
 4cffd999-af9b-4aca-9a98-9fd707a84b44:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

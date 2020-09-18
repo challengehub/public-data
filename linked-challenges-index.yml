@@ -774,6 +774,17 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title_id: showing-z2-k-z1-2a7732
   title: Showing z_2 = k z_1*
   creator_id: github.NanoScaleDesign
+38bad5f9-3df1-473e-a243-ed1bf08a746b:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 9662573870dec45d26b60111ff3e65eafaff95bd
+    public: 08a049a1f59e788fb291908616e2f6f7c5e9e6bd
+  import_time: 2020-09-18T09:59:11.252422742Z
+  title_id: drawing-the-set-and-image-of-the-ray-argz-34-pi-08a049
+  title: Drawing the set and image of the ray arg(z) = - 3/4 pi
+  creator_id: github.NanoScaleDesign
 1aac2f70-1d62-466f-a1bc-3e8619b08d19:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -1460,6 +1460,16 @@ fb9fc090-effa-4dfa-905a-7f70d36ff9de:
   language: ja
   translations: {}
   title: ふく射（放射率が一定の物体）
+a44ae0ba-3fe6-4684-a00b-26956765eaa2:
+  topics: []
+  modified: 2020-09-23T05:14:33.626353797Z
+  hexsha:
+    private: 64188ec170ecc744e7250910919ac328e0a8dace
+    public: b449a339c9d5ba4ff8023ffcb7e467a7cf634582
+  title_id: 条件a7条件b1gb
+  language: ja
+  translations: {}
+  title: 条件A：7，条件B：1，G_B
 ee9f8c42-b090-4fcf-9fd1-090320bbef1f:
   topics: []
   modified: 2019-10-03T08:15:14.793972Z

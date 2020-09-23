@@ -1532,14 +1532,14 @@ e0327a5e-d290-4f91-a50f-6038ccd36f7f:
   title: 対流　演習12　①　80℃の物性値を用いて仮の熱伝達率を計算する
 56442d7e-dd12-47fd-b53e-f7f0e1b5b073:
   topics: []
-  modified: 2019-10-03T09:17:42.271677Z
+  modified: 2020-09-23T01:45:39.932568168Z
   hexsha:
-    private: 17d56bcdc36c7a432c9f42fd99c50c44390ee016
-    public: abb75b9d82056aab4a0a69a56745f88d9bb053dc
-  title_id: 条件a8hbe
+    private: 1cb55a59d6a44ce3bfe938778e24d6a613eeb356
+    public: 4346b90ade381ab368d7af7654e3e36ab3faa73a
+  title_id: 条件a5hbe
   language: ja
   translations: {}
-  title: 条件A：8，h_Be
+  title: 条件A：5，h_Be
 696a4915-8290-41a3-a15b-1bff47153092:
   topics: []
   modified: 2019-10-03T04:32:08.665329Z

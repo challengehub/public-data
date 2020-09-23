@@ -1,24 +1,24 @@
 ---
-affiliated_institute:
-  en_name: Kyushu University
-  name: "\u4E5D\u5DDE\u5927\u5B66"
-  url: https://www.kyushu-u.ac.jp
-editor_id: github.cbal-kurata
 extra_resources: {}
-id: 46464ef9-abaf-4f9b-bfb7-01fefef77d73
-language: ja
-modified: '2019-10-03T09:33:55.315737Z'
-title: "\u6761\u4EF6A\uFF1A8\uFF0C\u6761\u4EF6B\uFF1A3\uFF0C\u6761\u4EF6C\uFF1A3\uFF0C\
-  GA"
-title_id: "\u6761\u4EF6a8\u6761\u4EF6b3\u6761\u4EF6c3ga"
 topics: []
-translations: {}
+editor_id: github.cbal-kurata
+modified: 2020-09-23T01:56:25.692639819Z
+affiliated_institute:
+  url: https://www.kyushu-u.ac.jp
+  en_name: Kyushu University
+  name: 九州大学
 version: '1.0'
+title_id: 条件a5条件b2条件c3ga
+language: ja
+id: 46464ef9-abaf-4f9b-bfb7-01fefef77d73
+translations: {}
+title: 条件A：5，条件B：2，条件C：3，GA
+
 ---
 
 ## Comments
-条件A：8
-条件B：3
+条件A：5
+条件B：2
 条件C：3
 
 ## Challenge

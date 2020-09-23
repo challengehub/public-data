@@ -472,14 +472,14 @@ f0899ab0-7aff-479d-a57f-d83da0a309d0:
   title: 対流　局所熱伝達率から伝熱量を計算する（1）
 82824b2d-c4f8-44e5-a23c-490f695897c6:
   topics: []
-  modified: 2019-10-03T12:22:44.060372Z
+  modified: 2020-09-23T02:05:51.036880227Z
   hexsha:
-    private: 31052a7f9c73d49171215c60e8d466b683fa16c7
-    public: cad486cd3759af202a55c6a40193a1fc5594e325
-  title_id: 条件a4条件b5gb
+    private: e0ec4bcb504d02da9270bb2031a4994cada35e18
+    public: 90b8c897a76095f2477e91dc93d113d2585760ac
+  title_id: 条件a4条件b4gb
   language: ja
   translations: {}
-  title: 条件A：4，条件B：5，G_B
+  title: 条件A：4，条件B：4，G_B
 7b808d0b-2bbd-46f4-9a77-a750f6f21650:
   topics: []
   modified: 2019-10-03T08:13:04.969507Z

@@ -582,14 +582,14 @@ d60ee993-b34f-48bf-a8e6-5e44802723be:
   title: ふく射（ふく射強度がどの方向にも一定の面）
 b400ff98-ec64-47f6-b881-c28ec92f3331:
   topics: []
-  modified: 2019-10-03T02:04:10.043727Z
+  modified: 2020-09-23T02:25:37.932706703Z
   hexsha:
-    private: 073be91b0e7c5f04f4277e6cdc91c813d1d35072
-    public: 7edfd93908436a38a3a09c05b903d58893da0955
-  title_id: 条件a1条件b1gb
+    private: 2be5921e9111b858483eac174376ca05c679bedd
+    public: 535276492c692d8818af137d0bacfbde0e80a493
+  title_id: 条件a1条件b3gb
   language: ja
   translations: {}
-  title: 条件A：1，条件B：1，G_B
+  title: 条件A：1，条件B：3，G_B
 9da1e65f-67f3-4991-bcd0-3ea25035b042:
   topics: []
   modified: 2019-10-03T03:37:19.813565Z

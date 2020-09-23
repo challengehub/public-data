@@ -1500,6 +1500,16 @@ d5586db8-12ae-4ed6-8f10-3feb21b2d222:
   language: ja
   translations: {}
   title: ふく射（プランクの法則）
+94697894-ca14-40fb-87c1-2c71bc7df090:
+  topics: []
+  modified: 2020-09-23T04:34:50.942671442Z
+  hexsha:
+    private: edaeb59a4d5b296b20cf390c36c4574eb13be097
+    public: 95bb131f2ff6e6a6cf82f1f00138513eff8b9ac9
+  title_id: 条件a5条件b3gb
+  language: ja
+  translations: {}
+  title: 条件A：5，条件B：3，G_B
 ec338c39-e93c-4d26-a4af-68659cc323ff:
   topics: []
   modified: 2019-10-29T05:44:00.836906Z

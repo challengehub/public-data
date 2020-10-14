@@ -1018,10 +1018,10 @@ b239d7f5-c247-4d80-8d90-2f207008feac:
   title: Finding the harmonic conjugate of u(x,y)=x^2 - y^2
 2973505a-bc20-45e5-9a36-b1f35eb57435:
   topics: []
-  modified: 2019-09-28T22:59:44.325915Z
+  modified: 2020-10-14T02:23:42.296912022Z
   hexsha:
-    private: d23527ec31a9221d7c943ab3da13689243d412e9
-    public: c66765324d2c0a353c0e89dcc52fab3e3a1f2292
+    private: e4d665debf5e70c92913c03100a5001c03a15c14
+    public: f466736ad2ca7c7d11216a82abd54aba4a444910
   title_id: identifying-even-and-odd-functions
   language: en
   translations: {}

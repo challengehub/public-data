@@ -1118,10 +1118,10 @@ f1ac917c-551c-4196-b5ba-82eb64b91a8d:
   title: Calculate arccosh(1/2)
 d178eeca-e586-40de-854e-365f93b0d365:
   topics: []
-  modified: 2019-09-30T04:16:28.544622Z
+  modified: 2020-10-18T23:25:13.826174571Z
   hexsha:
-    private: ad75c31847509b0eba933b7b54c4413ca9433d41
-    public: dcf9fc78f90504c6ab75d208f83812f0527356a0
+    private: 5edf08822652a35300fa4734fb84471ce817d015
+    public: c648f73694fef96fa77e06e5662ab0b749844491
   title_id: identifying-autonomous-differential-equations
   language: en
   translations: {}

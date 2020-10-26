@@ -19,6 +19,18 @@ d7e6403210d8fc2a2fcb29db8e9eb2ea80b56e2c:
   challenges_sha: 4f76888356d3b3a4774cd0d0eb59f0de739f2166
   title: Mass Transfer (2019)
   storage_id: 9a184e88-403c-471f-b90f-e9ae0b4a9d8e
+0bb2f2d1eb9826cb6f40709e8d2dbe85c8d4971d:
+  topics:
+  - Fourier analysis
+  - Fourier series
+  - Fourier transform
+  - Mathematics
+  - Undergraduate
+  modified: 2020-10-26T19:48:38.93672343Z
+  title_id: fourier-analysis-2019-0bb2f2d1eb9826cb6f40709e8d2dbe85c8d4971d
+  challenges_sha: 7e964e464c70710143cd1172d901916446054efe
+  title: Fourier Analysis (2019)
+  storage_id: b6f844bc-8d11-4f60-9aea-d1f6e801b2b9
 b45c1b7c00a0f7d0db25412214660939f7fa1e54:
   topics:
   - Complex analysis

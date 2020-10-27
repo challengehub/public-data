@@ -2827,10 +2827,10 @@ a981641d-ba54-4e90-a3ba-672807935d17:
   title: A review of continuous functions and real limits (Khan academy)
 d40d5f57-b9ee-4ac4-be11-96ab3c73f2f6:
   topics: []
-  modified: 2019-10-21T03:30:34.732686Z
+  modified: 2020-10-27T05:49:16.308193917Z
   hexsha:
-    private: 777dd212f1a79d59422eca5b207969d92961291b
-    public: ce0d0c7ad3f9a5e0765b1f528c0fcc15a925c33a
+    private: 47ea250f3132ba4ba0628c6046e4f27929cc895d
+    public: 041c6350f6658f6c4f3a1370c4bb1a6098c111f7
   title_id: the-logistic-equation
   language: en
   translations: {}

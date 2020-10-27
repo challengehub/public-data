@@ -3545,10 +3545,10 @@ b969ef61-49fc-4e97-bf55-6a393489a4e5:
   title: Phase of four sine graphs with the same frequency
 b022458e-203a-45a4-964b-dcb7d586dfa0:
   topics: []
-  modified: 2020-08-05T00:43:38.025865964Z
+  modified: 2020-10-27T23:58:39.077994379Z
   hexsha:
-    private: 8f8021d89d072c8f8525136c31f15df8a1f49162
-    public: a77477041761445d722a68202388e6c45566caae
+    private: 3650e175269d0d17ae926450495c8458628a2795
+    public: 3106178c2cc796b0818fabcacd64d21db36abd82
   title_id: identifying-convergence-of-complex-series-and-calculating-convergence-sums
   language: en
   translations: {}

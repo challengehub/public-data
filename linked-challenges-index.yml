@@ -1092,6 +1092,17 @@ bb12c06b-293a-452d-ab4f-091f552b76f5:
   title_id: understanding-fourier-transform-notation-variations-1f8489
   title: Understanding Fourier transform notation variations
   creator_id: github.NanoScaleDesign
+ca7ec9c8-53e7-4d6f-8b30-18157509bef1:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 76081dd4b56a6b2d08682895c6096e4a4cb92034
+    public: 777db0fd42ca6d856369e14a0808ebd1d1060e5f
+  import_time: 2020-10-28T04:59:05.140706946Z
+  title_id: understanding-the-limits-of-dft-calculations-777db0
+  title: Understanding the limits of DFT calculations
+  creator_id: github.NanoScaleDesign
 3ed2275a-692e-42a8-8064-6e20c3b7061e:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

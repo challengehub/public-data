@@ -1248,6 +1248,17 @@ c13a73c3-7367-4e8c-a74e-2711c0e7da50:
   title_id: sketching-complex-parametric-curves-5fa166
   title: Sketching complex parametric curves
   creator_id: github.NanoScaleDesign
+f06adee3-8a49-4289-92e9-9f1d535c8e50:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 4dfc1f81104d54b565a6557aea192e9263a76aca
+    public: 21741211a09c296cf2a29dbdf381d1307ecd17c1
+  import_time: 2020-10-28T04:58:32.72057577Z
+  title_id: the-origin-of-the-n-log-n-scaling-of-the-fft-217412
+  title: The origin of the N log N scaling of the FFT
+  creator_id: github.NanoScaleDesign
 1c406268-59d9-4d8a-bdfc-cb8fe2fd1b35:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

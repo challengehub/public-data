@@ -359,6 +359,17 @@ b239d7f5-c247-4d80-8d90-2f207008feac:
   title_id: finding-the-harmonic-conjugate-of-uxyx2-y2-d40495
   title: Finding the harmonic conjugate of u(x,y)=x^2 - y^2
   creator_id: github.NanoScaleDesign
+2973505a-bc20-45e5-9a36-b1f35eb57435:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: e4d665debf5e70c92913c03100a5001c03a15c14
+    public: f466736ad2ca7c7d11216a82abd54aba4a444910
+  import_time: 2020-10-28T05:01:17.989846726Z
+  title_id: identifying-even-and-odd-functions-f46673
+  title: Identifying even and odd functions
+  creator_id: github.NanoScaleDesign
 96681381-cb5e-4005-b390-a73a192c00ca:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

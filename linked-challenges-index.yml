@@ -525,6 +525,17 @@ b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   title_id: calculating-the-fourier-series-of-a-sawwave-with-non-unit-period-64844c
   title: Calculating the Fourier Series of a sawwave with non-unit period
   creator_id: github.NanoScaleDesign
+84af0750-f7f4-43c8-a0af-00ef271dd160:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ee9a1be8f3206d51e881f3ea15735d3dcba84163
+    public: d954ba93907aa639b2a70ff84cf63b2f4247ce0e
+  import_time: 2020-10-28T05:01:29.711832258Z
+  title_id: drawing-a-radix-4-butterfly-diagram-d954ba
+  title: Drawing a radix-4 butterfly diagram
+  creator_id: github.NanoScaleDesign
 366df447-5a53-4af9-8ff5-f42ba0c126f0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

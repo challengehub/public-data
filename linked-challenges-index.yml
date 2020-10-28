@@ -136,6 +136,17 @@ c3b05988-8a42-40b7-aae7-2f069d34e329:
   title: Calculating the Fourier transform a triangle function with arbitrary base
     width
   creator_id: github.NanoScaleDesign
+7731a9c7-7a5d-4779-8a6e-7e83d9f880d7:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: be928cff8462cf912663e6c03f6d0b12cf546e27
+    public: 42e5b7c5d06af36d89ad8f582b94462929e1addc
+  import_time: 2020-10-28T05:00:29.219169321Z
+  title_id: period-at-50-thz-42e5b7
+  title: Period at 50 THz
+  creator_id: github.NanoScaleDesign
 f06c20b2-eb25-4e6c-a5d9-50fe937ff0b2:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

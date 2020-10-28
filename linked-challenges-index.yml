@@ -827,6 +827,17 @@ bb12c06b-293a-452d-ab4f-091f552b76f5:
   title_id: calculating-the-fourier-transform-of-a-rocket-function-630bf6
   title: Calculating the Fourier transform of a rocket function
   creator_id: github.NanoScaleDesign
+7669fb99-02b5-450d-8aa5-054c4e31e81e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 1210b6736bafd770277534d1210ed89d5c54a55a
+    public: c7059125e208211b496df466dd08dfc26a18d12b
+  import_time: 2020-10-28T04:57:33.264511944Z
+  title_id: the-fourier-coefficient-bk-optional-challenge-c70591
+  title: The Fourier coefficient b_k (optional challenge)
+  creator_id: github.NanoScaleDesign
 6f21e053-dfed-4930-8aae-7df9eb51f333:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

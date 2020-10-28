@@ -57,6 +57,17 @@ bd50370b-d99c-43e4-9afc-348706d721a2:
   title: 'Cauchy''s integral formulas: Closed contour integral of ((z+1)/(z+i))^3
     on |z|=2'
   creator_id: github.NanoScaleDesign
+907213aa-04a3-47fc-b0a5-3473379d8abe:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6f32052b9ae56b8abc2258e9bdc5203f9b70bc0c
+    public: 57880d451be63cecc402eb3cbf7cb37b63016e75
+  import_time: 2020-10-28T04:58:58.656413962Z
+  title_id: partial-derivatives-practise-57880d
+  title: Partial derivatives practise
+  creator_id: github.NanoScaleDesign
 2c8d9029-ba26-40ba-9d3a-04725ea5fbe0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

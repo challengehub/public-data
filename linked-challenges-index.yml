@@ -504,6 +504,17 @@ db5d8810-7133-4e47-a620-aca09c5bf87c:
   title_id: explaining-the-cauchy-riemann-equations-080449
   title: Explaining the Cauchy-Riemann equations
   creator_id: github.NanoScaleDesign
+0a657100-1ea2-4191-865d-39b68581e08e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 4334d80da5d6c8710d2dceb53bd2b4075406b985
+    public: 34552291564760f7f405092c880289869b0bd75e
+  import_time: 2020-10-28T04:58:29.411706548Z
+  title_id: calculating-the-coefficients-of-the-discrete-fourier-transform-345522
+  title: Calculating the coefficients of the Discrete Fourier Transform
+  creator_id: github.NanoScaleDesign
 622487f1-2458-420f-b2af-81030c4e8aea:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

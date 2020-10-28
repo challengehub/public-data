@@ -782,6 +782,17 @@ aebfc845-cf9f-4a1c-87a9-96b506e29a16:
   title_id: expressing-z-2-2i-9-in-polar-form-ea7a87
   title: Expressing z=(-2-2i)^-9 in polar form
   creator_id: github.NanoScaleDesign
+3e53a62e-b03f-4f16-abac-7db781bfc930:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: a0c310af756a2b341b0ecba37efb1ba5fc080daa
+    public: 6b565e7dd5bb644105cf74be3b676b34d41e8a21
+  import_time: 2020-10-28T04:59:34.67622495Z
+  title_id: the-fourier-coefficient-ak-6b565e
+  title: The Fourier coefficient a_k
+  creator_id: github.NanoScaleDesign
 d6c69ee4-b977-427a-b193-2e9ef238286a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

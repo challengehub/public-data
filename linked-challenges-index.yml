@@ -314,6 +314,17 @@ a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
   title_id: understanding-re-and-im-parts-of-complex-numbers-fc1b03
   title: Understanding Re and Im parts of complex numbers
   creator_id: github.NanoScaleDesign
+2154533e-bb04-4f17-a6db-dc0bcc854fae:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 7726ffb1fed229e50dc70b06c35c356aab579f50
+    public: e886f7a949898fef7c3bd60772e666a4abd8a397
+  import_time: 2020-10-28T04:59:11.639198158Z
+  title_id: calculating-the-fourier-transform-of-a-shifted-window-function-e886f7
+  title: Calculating the Fourier transform of a shifted window function
+  creator_id: github.NanoScaleDesign
 76fb63e3-7948-4749-aa75-83b9a4674306:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

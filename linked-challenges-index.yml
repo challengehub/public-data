@@ -728,6 +728,17 @@ f9ee0430-4846-42cb-9e46-6f0254044091:
   title_id: finding-the-real-and-imaginary-parts-of-functions-eff015
   title: Finding the real and imaginary parts of functions
   creator_id: github.NanoScaleDesign
+c69828c4-d79b-45e3-964d-aaf6328b5d4c:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 2945f54b3aeb61c9d7a0331dd6ca80a71a2d42dd
+    public: 291f0e04e34a5ba6bcaae4bdc72195dd55f3be2d
+  import_time: 2020-10-28T04:58:02.972316635Z
+  title_id: understanding-the-relation-between-twiddle-factors-291f0e
+  title: Understanding the relation between twiddle factors
+  creator_id: github.NanoScaleDesign
 824d260a-a777-4685-a7a2-cd1b57b2aac2:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

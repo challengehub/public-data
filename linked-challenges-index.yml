@@ -1303,6 +1303,17 @@ bfe871b7-6389-4bf6-9603-209c64e0b9c0:
   title_id: calculate-the-derivative-of-cosiez-e02326
   title: Calculate the derivative of cos(ie^z)
   creator_id: github.NanoScaleDesign
+9038265f-e931-469c-99d4-043654e58329:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 407d99fb12c0238e8aba0e8d50e296ddab33b15e
+    public: 6cd65a4b982a0c5501d83d32fa59a1e512c2b1c5
+  import_time: 2020-10-28T04:58:26.232162699Z
+  title_id: using-dft-to-analyse-a-signal-made-of-two-waves-6cd65a
+  title: Using DFT to analyse a signal made of two waves
+  creator_id: github.NanoScaleDesign
 daaf55f7-950d-4b79-a6cc-e52f82a03470:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -658,6 +658,17 @@ e267861f-2e79-4489-9ae0-ec54fbb0a381:
   title_id: complex-number-algebra-in-963b70
   title: 'Complex number algebra: i^n'
   creator_id: github.NanoScaleDesign
+ef385aaa-dba5-4a00-a79a-e9c7b427ad74:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: f17b37acd6bc685abdee7970ba9b93314bdcd9fc
+    public: b7bbfed301deb47888bc3a6eceafc903cd09f3fb
+  import_time: 2020-10-28T05:01:33.57070304Z
+  title_id: fourier-transform-of-sine-and-cosine-b7bbfe
+  title: Fourier transform of sine and cosine
+  creator_id: github.NanoScaleDesign
 c655a344-3e46-4d80-ac3b-cdc8cdae4865:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

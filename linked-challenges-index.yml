@@ -894,6 +894,17 @@ bb12c06b-293a-452d-ab4f-091f552b76f5:
   title: Finding the value of the principle n'th root function at a given value of
     z
   creator_id: github.NanoScaleDesign
+8cc27349-8100-4520-b3bc-62f89e6b2e35:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 15708de169d297f773c8a59a902b4ef17c4bb8b8
+    public: 1f8489b41d2e7e945d54ef1b476fbc8f6deb5088
+  import_time: 2020-10-28T04:57:39.661152448Z
+  title_id: understanding-fourier-transform-notation-variations-1f8489
+  title: Understanding Fourier transform notation variations
+  creator_id: github.NanoScaleDesign
 3ed2275a-692e-42a8-8064-6e20c3b7061e:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

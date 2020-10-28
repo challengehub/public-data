@@ -1125,6 +1125,17 @@ dcb372fa-f429-4032-9145-9f69375d9de3:
   title_id: the-limit-of-sinxt-as-t-goes-to-infinity-dcc17a
   title: The limit of sin(x/T) as T goes to infinity
   creator_id: github.NanoScaleDesign
+7fe1e354-ccde-4a18-aa22-b13ab11dae29:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: af1f63ba6056c54e495a57927569a873f7b35b5d
+    public: 631f8ad3a9b57af813b3d18ba485fc5c72e65649
+  import_time: 2020-10-28T04:59:50.897447176Z
+  title_id: convolution-of-two-window-functions-631f8a
+  title: Convolution of two window functions
+  creator_id: github.NanoScaleDesign
 cba3c698-b3e8-4ebf-8a55-d1d6c7d50dce:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

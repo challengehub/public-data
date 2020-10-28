@@ -57,6 +57,17 @@ bd50370b-d99c-43e4-9afc-348706d721a2:
   title: 'Cauchy''s integral formulas: Closed contour integral of ((z+1)/(z+i))^3
     on |z|=2'
   creator_id: github.NanoScaleDesign
+ff0d77b1-a79e-4cda-9a5c-a0fce108bf3b:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 76e8d6f327fed08a13bb06f3d4b4dbad717f59ca
+    public: cd397902d744e5ee4fdb727925db8e0e4764b1ce
+  import_time: 2020-10-28T04:59:08.333528749Z
+  title_id: link-to-fourier-analysis-coursework-material-2019-cd3979
+  title: Link to Fourier Analysis coursework material (2019)
+  creator_id: github.NanoScaleDesign
 907213aa-04a3-47fc-b0a5-3473379d8abe:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

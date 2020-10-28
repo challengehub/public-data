@@ -783,6 +783,17 @@ a8124252-ab6c-4e07-8592-531baa3e565a:
   title_id: calculating-the-fourier-transform-of-a-window-function-between-12-and-12-b36d54
   title: Calculating the Fourier transform of a window function between -1/2 and 1/2
   creator_id: github.NanoScaleDesign
+e8ef7b2f-ffab-4373-a507-0ab0d03d7fa0:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 56bdf04c02e549ff586545da28151d06ae3b57e7
+    public: e3ed48804300a74af961ebf597efc023fa1e97f2
+  import_time: 2020-10-28T04:58:38.835924897Z
+  title_id: the-transition-from-fourier-series-to-the-fourier-transform-e3ed48
+  title: The transition from Fourier Series to the Fourier Transform
+  creator_id: github.NanoScaleDesign
 f9ee0430-4846-42cb-9e46-6f0254044091:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

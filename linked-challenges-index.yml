@@ -180,6 +180,17 @@ f06c20b2-eb25-4e6c-a5d9-50fe937ff0b2:
   title_id: boundary-points-in-a-complex-plane-dbe2ee
   title: Boundary points in a complex plane
   creator_id: github.NanoScaleDesign
+91b11535-7abe-486e-a274-19ffe5d9a444:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: f3873b85278b1a42548f1b86482a1ec6346ffe53
+    public: 884f8aabcc40528034f874494f5a8bc77f637e8f
+  import_time: 2020-10-28T05:01:37.411207261Z
+  title_id: fourier-series-coefficient-requirements-for-completely-real-signals-884f8a
+  title: Fourier series coefficient requirements for completely real signals
+  creator_id: github.NanoScaleDesign
 330934a4-2767-4464-978e-8cae2578fc0c:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

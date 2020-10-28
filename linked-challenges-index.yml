@@ -135,6 +135,17 @@ bcd7710c-71d3-440e-9e96-ab3c54d38f10:
   title_id: drawing-the-set-and-image-of-the-triangle-with-vertices-0-1-and-1i-353416
   title: Drawing the set and image of the triangle with vertices 0, 1 and 1+i
   creator_id: github.NanoScaleDesign
+f1ae87ed-c786-4a07-af15-2da838e7f72a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 337f6c0f3cab1eebe436e8c1e3b87617a9e3ea44
+    public: 20fe0be98a80da480be7900558b8a2a81674198a
+  import_time: 2020-10-28T04:58:09.519894898Z
+  title_id: calculating-the-frequencies-of-a-signal-made-up-of-two-waves-20fe0b
+  title: Calculating the frequencies of a signal made up of two waves
+  creator_id: github.NanoScaleDesign
 eee6da55-7fa5-4013-b4fa-9f973754597a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

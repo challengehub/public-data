@@ -80,6 +80,17 @@ bd50370b-d99c-43e4-9afc-348706d721a2:
   title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1) on
     |z+i|=1'
   creator_id: github.NanoScaleDesign
+dc19d15b-ff67-43ce-afaa-449ed2becd52:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 0059655cd6d026c38dfc7def2919249f1b3e3661
+    public: 64515019a5a7b16c799aebad38be160ed7cdf133
+  import_time: 2020-10-28T04:57:17.505816912Z
+  title_id: cleaning-an-audio-signal-with-python-645150
+  title: Cleaning an audio signal with python
+  creator_id: github.NanoScaleDesign
 fbaca123-9531-46b7-8fc5-7e23834b0711:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

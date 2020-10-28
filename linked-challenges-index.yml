@@ -1955,6 +1955,17 @@ c71885e8-d119-4afc-8bf4-f085441eac95:
   title_id: calculating-the-closed-integral-of-a-square-in-the-complex-plane-3f1a61
   title: Calculating the closed integral of a square in the complex plane
   creator_id: github.NanoScaleDesign
+4ba35c95-2f3c-408e-8e4b-633439f92268:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: d3672cf5d776b30730a4cb6991546c6eefa07586
+    public: 0303c29940942f5157dc625b422cb1f341ec0994
+  import_time: 2020-10-28T05:00:49.363547932Z
+  title_id: understanding-gibbs-phenomenon-0303c2
+  title: Understanding Gibb's phenomenon
+  creator_id: github.NanoScaleDesign
 32d40300-7e6c-476d-bd4d-d7683aca3058:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

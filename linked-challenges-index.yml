@@ -750,6 +750,17 @@ a8124252-ab6c-4e07-8592-531baa3e565a:
   title_id: heat-equation-on-a-ring-derivation-using-fourier-series-92b882
   title: 'Heat equation on a ring: derivation using Fourier series'
   creator_id: github.NanoScaleDesign
+ee8cbf6a-d1ae-4a0b-8b66-84e0254b587b:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 60b93a312298398b080eaf1479d83f86a9668182
+    public: 703e2d367e221a1f3bc4fc43124bb04dbb55f396
+  import_time: 2020-10-28T04:58:48.6908645Z
+  title_id: integral-of-product-of-two-sines-and-two-cosines-703e2d
+  title: Integral of product of two sines and two cosines
+  creator_id: github.NanoScaleDesign
 9979ec1f-0c9e-4318-bea2-5be9f54c05b6:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -192,6 +192,17 @@ a2fc4e58-45d8-4cd9-8330-83700140fd48:
   title_id: find-the-principle-value-of-1-sqrt3ii-212abd
   title: Find the principle value of (1-sqrt(3)i)^i
   creator_id: github.NanoScaleDesign
+d5364324-e45a-41ae-b2fb-0d32df6feb07:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 03391ef3fac18326f5487d07da1311d95498e380
+    public: c87c10e0df0c79c0ac834daf3d449c1618759331
+  import_time: 2020-10-28T04:57:20.272184576Z
+  title_id: calculating-convolution-of-continuous-functions-c87c10
+  title: Calculating convolution of continuous functions
+  creator_id: github.NanoScaleDesign
 3b2c68ab-f2ed-4b03-94fc-f81d8e2e7fdc:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

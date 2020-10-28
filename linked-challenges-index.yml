@@ -1125,6 +1125,17 @@ c7ef7a05-037f-4289-9dbd-71e4494af8e2:
   title_id: line-integral-of-2xy-given-x5cost-y5sint-9fd6ed
   title: Line integral of 2xy given x=5cos(t) & y=5sin(t)
   creator_id: github.NanoScaleDesign
+9d1c521e-9313-42e7-b0ac-a9b612dc7d96:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: d8af4fc1feb382fad5fb57d072e93c7c9f697937
+    public: b932ca6088bd8b8fb5c5647496d70e6872910190
+  import_time: 2020-10-28T05:00:57.498958748Z
+  title_id: calculating-the-trigonometric-fourier-series-of-a-square-wave-b932ca
+  title: Calculating the trigonometric Fourier series of a square wave
+  creator_id: github.NanoScaleDesign
 4cffd999-af9b-4aca-9a98-9fd707a84b44:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

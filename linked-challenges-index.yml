@@ -1048,6 +1048,17 @@ c69828c4-d79b-45e3-964d-aaf6328b5d4c:
   title_id: understanding-the-relation-between-twiddle-factors-291f0e
   title: Understanding the relation between twiddle factors
   creator_id: github.NanoScaleDesign
+469898ff-38c0-4ac6-af56-e09f0b9ef1c2:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: c6fafd71a4a0cc4b3f8d01b9b1aabb7b828a06f8
+    public: 7ea03e8554975d732bbab7b9ba149fdcb6e4ac8d
+  import_time: 2020-10-28T05:00:41.410396694Z
+  title_id: lhôpitals-rule-with-sinxx-7ea03e
+  title: L'Hôpital's rule with sin(x)/x
+  creator_id: github.NanoScaleDesign
 824d260a-a777-4685-a7a2-cd1b57b2aac2:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

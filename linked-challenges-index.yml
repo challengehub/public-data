@@ -837,6 +837,17 @@ aebfc845-cf9f-4a1c-87a9-96b506e29a16:
   title_id: the-fourier-coefficient-ak-6b565e
   title: The Fourier coefficient a_k
   creator_id: github.NanoScaleDesign
+3f3b15ee-ee69-411b-8aa9-78732e2b120f:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b6edb35c2088769066ed44c2a8c9e86732db2ca8
+    public: 3a7de549ac0fc4414688c1025b0f67a6314087e4
+  import_time: 2020-10-28T05:00:10.0857668Z
+  title_id: the-meaning-of-k-3a7de5
+  title: The meaning of k
+  creator_id: github.NanoScaleDesign
 d6c69ee4-b977-427a-b193-2e9ef238286a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

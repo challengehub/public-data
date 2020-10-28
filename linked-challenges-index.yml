@@ -637,6 +637,17 @@ b8dcab62-de99-458c-870a-2334edaedc58:
   title_id: factoring-z2-2z-3i-0-42be5c
   title: Factoring z^2 + 2z − √3i = 0
   creator_id: github.NanoScaleDesign
+a806f89e-bfa5-4c75-8563-fb8aa4acb446:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 63bf7ec2adf225cadaf7ab30d47b9ec77136b3ac
+    public: 65d22799b88a0e2bdad146197420f9a59c160493
+  import_time: 2020-10-28T04:58:51.884422292Z
+  title_id: understanding-the-fourier-transform-of-a-triangle-function-65d227
+  title: Understanding the Fourier transform of a triangle function
+  creator_id: github.NanoScaleDesign
 aebfc845-cf9f-4a1c-87a9-96b506e29a16:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

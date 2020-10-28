@@ -1193,6 +1193,17 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title_id: understanding-the-first-term-in-a-trigonometric-fourier-series-31d5a2
   title: Understanding the first term in a trigonometric Fourier series
   creator_id: github.NanoScaleDesign
+f47ba08c-32a1-4864-a9c4-4ca9a82140a0:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 5de4f7a3c95853e23b35fcd48ae97ecec24d6587
+    public: 921aff0f100994f21c2edf5249847cfc2e680288
+  import_time: 2020-10-28T04:58:45.185972617Z
+  title_id: amplitude-of-four-sine-graphs-921aff
+  title: Amplitude of four sine graphs
+  creator_id: github.NanoScaleDesign
 d1f3c43e-2716-472d-a0eb-b6581c1f3345:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

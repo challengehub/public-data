@@ -314,6 +314,17 @@ a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
   title_id: calculate-arccosh12-795506
   title: Calculate arccosh(1/2)
   creator_id: github.NanoScaleDesign
+291db4fc-84c3-4b6d-a615-2491f83e545a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 737aeb036073e2d8b3a8aa508a0e4468e572365e
+    public: d7b9ca13bba100ee50e43e559c1f75700f0e93ce
+  import_time: 2020-10-28T04:59:02.011831717Z
+  title_id: analysis-of-the-coefficients-of-the-discrete-fourier-transform-d7b9ca
+  title: Analysis of the coefficients of the Discrete Fourier Transform
+  creator_id: github.NanoScaleDesign
 b9121274-65e5-488d-b253-942a258debdf:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

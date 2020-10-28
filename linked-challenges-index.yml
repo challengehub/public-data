@@ -237,6 +237,17 @@ a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
   title_id: linear-mapping-of-a-closed-disk-in-a-complex-plane-411095
   title: Linear mapping of a closed disk in a complex plane
   creator_id: github.NanoScaleDesign
+291b8eaf-ba07-49e7-82c7-319d918c1241:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 3db9bfa67a0cd944bb645b5f5b0c8fead5829254
+    public: b822e2f6b62350686b07d24d8cf903459438aa86
+  import_time: 2020-10-28T04:58:19.252086098Z
+  title_id: determining-the-fourier-series-coefficients-of-sinx-b822e2
+  title: Determining the Fourier Series coefficients of sin(x)
+  creator_id: github.NanoScaleDesign
 09f9b4aa-4579-40cf-99e3-0c5db01caf08:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

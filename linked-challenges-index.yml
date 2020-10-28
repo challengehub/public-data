@@ -1026,6 +1026,17 @@ dcb372fa-f429-4032-9145-9f69375d9de3:
   title_id: writing-complex-numbers-in-the-form-aib-791b90
   title: Writing complex numbers in the form a+ib
   creator_id: github.NanoScaleDesign
+520f1cec-a017-441f-8381-3d3c8a2f3144:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 88b71a93bf2f076727854d2d6ee6707116178130
+    public: 88b773788e366a3569bf6ae4793a32a72937da83
+  import_time: 2020-10-28T04:59:24.842149197Z
+  title_id: fundamental-period-of-sum-of-signals-88b773
+  title: Fundamental period of sum of signals
+  creator_id: github.NanoScaleDesign
 5f904199-d155-408c-b6e7-c0eebd79ee2e:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

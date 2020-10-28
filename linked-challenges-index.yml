@@ -1513,6 +1513,17 @@ dded9e84-334d-47ff-9466-0101a1196ced:
   title_id: fundamental-frequency-of-sum-of-signals-5321a7
   title: Fundamental frequency of sum of signals
   creator_id: github.NanoScaleDesign
+4f528817-03ae-4423-ab99-b359cb97f5b6:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 91f79ad39bdb421321116aa00bc30fda985e8815
+    public: b6f5223b4f7a376a6c24ad715e5813e2ba176947
+  import_time: 2020-10-28T04:59:31.399953168Z
+  title_id: repetition-of-even-dft-coefficients-b6f522
+  title: Repetition of even DFT coefficients
+  creator_id: github.NanoScaleDesign
 9038265f-e931-469c-99d4-043654e58329:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

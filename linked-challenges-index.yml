@@ -1258,6 +1258,17 @@ bb12c06b-293a-452d-ab4f-091f552b76f5:
   title: Finding the value of the principle n'th root function at a given value of
     z
   creator_id: github.NanoScaleDesign
+fb2bb6af-363b-41f5-8b04-73f7739f9790:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: bc52ccf9a7549ed7b7ab2d2665e4186e37e98bb9
+    public: a8325cb15db7e9b88f6006f4d0544a411f30bd06
+  import_time: 2020-10-28T05:00:17.734949552Z
+  title_id: heat-equation-on-a-ring-understanding-periodicity-a8325c
+  title: 'Heat equation on a ring: Understanding periodicity'
+  creator_id: github.NanoScaleDesign
 8cc27349-8100-4520-b3bc-62f89e6b2e35:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

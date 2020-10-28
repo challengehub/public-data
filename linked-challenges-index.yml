@@ -304,6 +304,17 @@ a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
   title_id: linear-mapping-of-a-closed-disk-in-a-complex-plane-411095
   title: Linear mapping of a closed disk in a complex plane
   creator_id: github.NanoScaleDesign
+b239d7f5-c247-4d80-8d90-2f207008feac:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: be2aabd7d60b48c0be302291cb6732d4e55ec078
+    public: 18acc20853416f8ce02f080e161f7c81e5869e72
+  import_time: 2020-10-28T05:00:25.358058388Z
+  title_id: fourier-analysis-coursework-2019-18acc2
+  title: Fourier Analysis coursework (2019)
+  creator_id: github.NanoScaleDesign
 291b8eaf-ba07-49e7-82c7-319d918c1241:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

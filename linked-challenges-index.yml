@@ -516,6 +516,17 @@ be59c8b1-8ac4-4d2a-a4bd-89b38578f852:
   title_id: finding-the-harmonic-conjugate-of-uxy-x-2953bb
   title: Finding the harmonic conjugate of u(x,y) = x
   creator_id: github.NanoScaleDesign
+8742227b-3127-4371-860e-6d5148422977:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 2b1e857cb3c22d9c9115857ca7e81172b4b286f9
+    public: 6eedf72583b8978677ecedfdc81628488bc8d8eb
+  import_time: 2020-10-28T04:58:06.193258112Z
+  title_id: understanding-the-twiddle-factor-diagram-6eedf7
+  title: Understanding the twiddle factor diagram
+  creator_id: github.NanoScaleDesign
 ef29e0e0-5638-4e0d-8be4-8def1dddd9c4:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

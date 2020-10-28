@@ -1270,6 +1270,17 @@ fc4fd5c1-ca0d-419e-a244-877b6fe91771:
   title_id: relation-of-real-imaginary-fourth-roots-e94bac
   title: Relation of real-imaginary fourth roots
   creator_id: github.NanoScaleDesign
+9d1fcaca-1cfd-4822-90b8-a16dbf3f54b3:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 249f53f87094df88b28e33bdfd5f9f252c29ab8d
+    public: 5cb46c41431f6f87e73b0bc7ecde2b26029f5ec6
+  import_time: 2020-10-28T04:57:52.935847719Z
+  title_id: calculating-the-half-base-width-of-a-triangle-function-5cb46c
+  title: Calculating the half-base-width of a triangle function
+  creator_id: github.NanoScaleDesign
 d9189a40-a700-42b8-92c4-d861b57a7036:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

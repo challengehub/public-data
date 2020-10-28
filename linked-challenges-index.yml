@@ -1103,6 +1103,17 @@ dcb372fa-f429-4032-9145-9f69375d9de3:
   title_id: line-integral-of-2xy-given-x5cost-y5sint-dy-2c8529
   title: Line integral of 2xy given x=5cos(t) & y=5sin(t) (dy)
   creator_id: github.NanoScaleDesign
+5d72257b-8d6f-4942-adb1-4f9621f13c2c:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: a218f220e99e26c7308db56b9189df980b20fa46
+    public: dcc17aad7698195dcafeefa20e863ce902591315
+  import_time: 2020-10-28T04:59:41.136745063Z
+  title_id: the-limit-of-sinxt-as-t-goes-to-infinity-dcc17a
+  title: The limit of sin(x/T) as T goes to infinity
+  creator_id: github.NanoScaleDesign
 cba3c698-b3e8-4ebf-8a55-d1d6c7d50dce:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

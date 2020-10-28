@@ -1367,6 +1367,17 @@ bb12c06b-293a-452d-ab4f-091f552b76f5:
   title_id: the-fourier-coefficient-bk-optional-challenge-c70591
   title: The Fourier coefficient b_k (optional challenge)
   creator_id: github.NanoScaleDesign
+82ef41d7-0d10-4d50-a7c8-402171fbef8f:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: f77adce377e7d5f5df7fb9146e8b2914f1294617
+    public: 786f2ef533dc3af0350230c992b1a6a6f6d9a767
+  import_time: 2020-10-28T05:01:41.223160682Z
+  title_id: convolution-of-t2-with-a-window-function-786f2e
+  title: Convolution of t^2 with a window function
+  creator_id: github.NanoScaleDesign
 6f21e053-dfed-4930-8aae-7df9eb51f333:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

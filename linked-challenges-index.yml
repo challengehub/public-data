@@ -662,6 +662,17 @@ a8124252-ab6c-4e07-8592-531baa3e565a:
   title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1) on
     |z|=2'
   creator_id: github.NanoScaleDesign
+41ec89ed-5275-4096-a4ab-c35fc8b12cc3:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 16ceda75e296168b8333a6177c069424f62e932f
+    public: 92b882e6e91a665c432dbbd065580c080de76c13
+  import_time: 2020-10-28T04:57:42.82961269Z
+  title_id: heat-equation-on-a-ring-derivation-using-fourier-series-92b882
+  title: 'Heat equation on a ring: derivation using Fourier series'
+  creator_id: github.NanoScaleDesign
 9979ec1f-0c9e-4318-bea2-5be9f54c05b6:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

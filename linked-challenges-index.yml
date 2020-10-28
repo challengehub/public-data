@@ -1092,6 +1092,17 @@ dcb372fa-f429-4032-9145-9f69375d9de3:
   title_id: a-first-introduction-to-complex-limits-5451b7
   title: A first introduction to complex limits
   creator_id: github.NanoScaleDesign
+912bda4b-f2c5-4fd4-a43d-ec4d5df651c6:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b12c4f97ce40dc4e0850869855c0675ea092e6a2
+    public: 480a959d6616487aad05fba9344d4e737bf524da
+  import_time: 2020-10-28T04:59:54.493288512Z
+  title_id: deriving-the-fourier-transform-of-a-gaussian-480a95
+  title: Deriving the Fourier transform of a Gaussian
+  creator_id: github.NanoScaleDesign
 59b3ef38-4431-40e9-88f3-4e544b5e2346:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

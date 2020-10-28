@@ -1281,6 +1281,17 @@ fc4fd5c1-ca0d-419e-a244-877b6fe91771:
   title_id: relation-of-real-imaginary-fourth-roots-e94bac
   title: Relation of real-imaginary fourth roots
   creator_id: github.NanoScaleDesign
+d35c7de4-5c63-4bb7-9e34-86cefa2c1504:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 27ffc7f360278ca13fb4c02d5f768807be2be577
+    public: d0dbfcc01711157840f8c0ac84bdea41e0c8eaac
+  import_time: 2020-10-28T04:57:59.56406113Z
+  title_id: identifying-periodic-and-non-periodic-signals-d0dbfc
+  title: Identifying periodic and non-periodic signals
+  creator_id: github.NanoScaleDesign
 9d1fcaca-1cfd-4822-90b8-a16dbf3f54b3:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

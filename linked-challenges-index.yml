@@ -124,6 +124,17 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title_id: prove-analyticity-of-complex-functions-using-the-cauchy-riemann-equations-accb45
   title: Prove analyticity of complex functions using the Cauchy-Riemann equations
   creator_id: github.NanoScaleDesign
+47f951ed-c516-4d34-80bb-9fcd807db3ca:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ddf79f6ec78f31b7df61fd4b4b5c4ff2a156a853
+    public: 67257f3240420290ac5560b09068dc3d2d8e76ce
+  import_time: 2020-10-28T05:01:01.824092193Z
+  title_id: the-limit-of-t-sinxt-as-t-goes-to-infinity-67257f
+  title: The limit of (T sin(x/T)) as T goes to infinity
+  creator_id: github.NanoScaleDesign
 c3b05988-8a42-40b7-aae7-2f069d34e329:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

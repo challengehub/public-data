@@ -627,6 +627,17 @@ db5d8810-7133-4e47-a620-aca09c5bf87c:
   title: Calculating the mass of a wire with density proportional to distance from
     the y-axis, using a line integral
   creator_id: github.NanoScaleDesign
+7eff131c-5671-4ef4-96ab-18a386096aee:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: a7bebdf3bfc4d095f3ae0a0c6c87a3cfad14e32d
+    public: 456ab79fe26fe86a98afb7a5a0865013932b4459
+  import_time: 2020-10-28T04:59:44.351139675Z
+  title_id: understanding-the-significance-of-the-fourier-coefficients-456ab7
+  title: Understanding the significance of the Fourier coefficients
+  creator_id: github.NanoScaleDesign
 be59c8b1-8ac4-4d2a-a4bd-89b38578f852:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

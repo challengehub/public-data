@@ -1446,6 +1446,17 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title_id: drawing-the-set-and-image-of-the-ray-argz-34-pi-08a049
   title: Drawing the set and image of the ray arg(z) = - 3/4 pi
   creator_id: github.NanoScaleDesign
+0f089984-8398-4960-92bc-f7dbc2945882:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: c25cc65b2877e582393331754c2381154ae10c97
+    public: efc3337b710fe2ae6ee44ecf4d761cb3b0cf37f8
+  import_time: 2020-10-28T05:00:33.398055534Z
+  title_id: smallest-period-with-k1-efc333
+  title: Smallest period with k=1
+  creator_id: github.NanoScaleDesign
 1aac2f70-1d62-466f-a1bc-3e8619b08d19:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

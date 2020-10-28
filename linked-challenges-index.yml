@@ -381,6 +381,17 @@ b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   title_id: evaluate-the-limit-n1ni-204aad
   title: Evaluate the limit (n+1)/(n+i)
   creator_id: github.NanoScaleDesign
+e04f7340-4ded-4224-974b-2d4ce15b68e7:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 56b27826f091206c3a413bf2e134483f72fc5752
+    public: 70b56a4bf814e81a4b5eab8a5ee24734a4645e03
+  import_time: 2020-10-28T04:58:35.799725918Z
+  title_id: writing-the-complex-form-of-sine-and-cosine-70b56a
+  title: Writing the complex form of sine and cosine
+  creator_id: github.NanoScaleDesign
 1e875274-a447-4808-b090-87e8d4ea20f4:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

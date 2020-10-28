@@ -259,6 +259,17 @@ d5364324-e45a-41ae-b2fb-0d32df6feb07:
   title_id: derivation-of-the-effect-of-a-shift-in-the-time-domain-on-the-fourier-transform-57a26c
   title: Derivation of the effect of a shift in the time domain on the Fourier transform
   creator_id: github.NanoScaleDesign
+41b1cbfc-aec2-47b2-a089-b7f618e98897:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b5ff1e2a026a0c83cc6ea12db7070820270d50a0
+    public: 82d8cce4b8b9cac99d83ec9837d2fd1a4b10aacf
+  import_time: 2020-10-28T04:59:58.237556331Z
+  title_id: calculating-the-trigonometric-fourier-series-of-another-square-wave-82d8cc
+  title: Calculating the trigonometric Fourier series of another square wave
+  creator_id: github.NanoScaleDesign
 3b2c68ab-f2ed-4b03-94fc-f81d8e2e7fdc:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

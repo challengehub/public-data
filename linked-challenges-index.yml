@@ -1336,6 +1336,17 @@ f66f9ab6-ad8b-496f-8cc7-bf9bd267876b:
   title_id: showing-the-existence-of-complex-limits-18c0e3
   title: Showing the existence of complex limits
   creator_id: github.NanoScaleDesign
+63168873-0817-40df-8098-40615f44906e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b60004d86e239f802d242e4430966aa8001e390f
+    public: 5f15a9a95c676ff4206ecde73c204f3c531b1fd0
+  import_time: 2020-10-28T05:00:02.335435275Z
+  title_id: phase-of-four-sine-graphs-with-the-same-frequency-5f15a9
+  title: Phase of four sine graphs with the same frequency
+  creator_id: github.NanoScaleDesign
 b022458e-203a-45a4-964b-dcb7d586dfa0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -1171,6 +1171,17 @@ fa6e4384-125a-4526-834e-07f517a2215c:
   title_id: cauchy-goursat-theorem-the-general-case-of-1z-z0n-066e19
   title: 'Cauchy-Goursat theorem: The general case of 1/((z-z0)^n)'
   creator_id: github.NanoScaleDesign
+44542db4-3109-44d6-ae6b-3ed4da5dbd87:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 2343a6daa266e9b71bb85659617b6cd1b40c1062
+    public: 20c738e51cdbd8f3be6fd671677f1ee4c7853b15
+  import_time: 2020-10-28T04:57:46.032931371Z
+  title_id: the-relation-of-convolution-and-the-fourier-transform-20c738
+  title: The relation of convolution and the Fourier transform
+  creator_id: github.NanoScaleDesign
 8812243c-f903-42f6-9af1-a9a79fc23a54:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

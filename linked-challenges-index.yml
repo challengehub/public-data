@@ -326,6 +326,17 @@ b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   title_id: identify-the-radius-of-convergence-of-the-series-z1n2in-dc181a
   title: Identify the radius of convergence of the series (z+1)^n/(2+i)^n
   creator_id: github.NanoScaleDesign
+0ba3e51e-f4cc-4367-850a-8c74e07b31bd:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 13b320ffa2b8eeb7a34a880dc6b0632b16b8ee08
+    public: 64844c356e5544e480228b25fe64de90f11a9d09
+  import_time: 2020-10-28T04:57:36.470581235Z
+  title_id: calculating-the-fourier-series-of-a-sawwave-with-non-unit-period-64844c
+  title: Calculating the Fourier Series of a sawwave with non-unit period
+  creator_id: github.NanoScaleDesign
 366df447-5a53-4af9-8ff5-f42ba0c126f0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

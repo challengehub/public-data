@@ -782,6 +782,17 @@ d6c69ee4-b977-427a-b193-2e9ef238286a:
   title_id: calculate-the-laurent-series-of-1zz-3-for-the-annular-domain-0z3-aac9dc
   title: Calculate the Laurent Series of 1/(z(z-3)) for the annular domain 0<|z|<3
   creator_id: github.NanoScaleDesign
+1b8a379b-8af1-4acc-94dd-312c7ef472d8:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 822634a5e1ba45a1ca4cafba8614132c7c30bc40
+    public: 47ce98110a9b19d036c9d23e5e288122d4a3d7da
+  import_time: 2020-10-28T04:59:21.554163672Z
+  title_id: frequency-with-k2-47ce98
+  title: Frequency with k=2
+  creator_id: github.NanoScaleDesign
 43933332-bb15-4d7b-9826-b452b90724d6:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

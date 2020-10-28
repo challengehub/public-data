@@ -1347,6 +1347,17 @@ bfe871b7-6389-4bf6-9603-209c64e0b9c0:
   title_id: calculate-the-derivative-of-cosiez-e02326
   title: Calculate the derivative of cos(ie^z)
   creator_id: github.NanoScaleDesign
+dded9e84-334d-47ff-9466-0101a1196ced:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 578bf9b09fe0113a252b14c5e603e77362bc5deb
+    public: 5321a73bfb6571a84dc0ce869f0d3e3d717c51c7
+  import_time: 2020-10-28T04:58:41.933377723Z
+  title_id: fundamental-frequency-of-sum-of-signals-5321a7
+  title: Fundamental frequency of sum of signals
+  creator_id: github.NanoScaleDesign
 9038265f-e931-469c-99d4-043654e58329:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

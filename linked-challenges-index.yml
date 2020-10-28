@@ -695,6 +695,17 @@ a8124252-ab6c-4e07-8592-531baa3e565a:
   title_id: find-the-maclaurin-series-and-radius-of-conversion-of-ez-dd7bcf
   title: Find the Maclaurin series and radius of conversion of e^z
   creator_id: github.NanoScaleDesign
+630c31c4-1cb9-454d-8913-2bf7f62b1646:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 24723898279266b32e0289aedeb2093d09be8d2c
+    public: b36d54e4050b9f24e0c394f443cb90d004416152
+  import_time: 2020-10-28T04:57:49.476719232Z
+  title_id: calculating-the-fourier-transform-of-a-window-function-between-12-and-12-b36d54
+  title: Calculating the Fourier transform of a window function between -1/2 and 1/2
+  creator_id: github.NanoScaleDesign
 806f0e1e-0a32-4602-89de-524d8ac60592:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -706,6 +706,17 @@ a8124252-ab6c-4e07-8592-531baa3e565a:
   title_id: calculating-the-fourier-transform-of-a-window-function-between-12-and-12-b36d54
   title: Calculating the Fourier transform of a window function between -1/2 and 1/2
   creator_id: github.NanoScaleDesign
+f9ee0430-4846-42cb-9e46-6f0254044091:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 255b45f26b96a13d5b37728d7b26c5ca330b2efb
+    public: 00d17b5444035a2a0dc0e120d076c747841ed637
+  import_time: 2020-10-28T04:57:56.33955928Z
+  title_id: an-introduction-to-digital-signals-and-the-nyquist-sampling-theorem-00d17b
+  title: An introduction to digital signals and the Nyquist sampling theorem
+  creator_id: github.NanoScaleDesign
 806f0e1e-0a32-4602-89de-524d8ac60592:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

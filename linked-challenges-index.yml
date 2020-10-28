@@ -1645,6 +1645,17 @@ c13a73c3-7367-4e8c-a74e-2711c0e7da50:
   title_id: introduction-to-polar-representation-of-complex-numbers-21d5c1
   title: Introduction to polar representation of complex numbers
   creator_id: github.NanoScaleDesign
+8b3fa5f8-dea0-494a-8b41-233cc2075118:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: e2418ca75e46fc22c2793e1b0831d4a0b828fabc
+    public: 8afddf42aa7fc5b89c84177fd98613706b2570db
+  import_time: 2020-10-28T05:01:09.712275437Z
+  title_id: calculating-the-maximum-aliasing-frequency-of-a-signal-made-up-of-two-waves-8afddf
+  title: Calculating the maximum aliasing frequency of a signal made up of two waves
+  creator_id: github.NanoScaleDesign
 67a0bf64-fd13-40c4-8a33-9116f09e5927:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

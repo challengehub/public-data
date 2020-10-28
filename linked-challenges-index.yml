@@ -1136,6 +1136,17 @@ dcb372fa-f429-4032-9145-9f69375d9de3:
   title_id: writing-complex-numbers-in-the-form-aib-791b90
   title: Writing complex numbers in the form a+ib
   creator_id: github.NanoScaleDesign
+7bf78270-ee73-4849-9e61-eb4ab15bc5dd:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: c5ef761be06b2f2849d12b379717b0e40f1936ec
+    public: 6c66c80229e769f2a62dd34b562ed62eb6a7b58d
+  import_time: 2020-10-28T05:00:37.392027671Z
+  title_id: identifying-fourier-sine-and-cosine-series-6c66c8
+  title: Identifying Fourier sine and cosine series
+  creator_id: github.NanoScaleDesign
 520f1cec-a017-441f-8381-3d3c8a2f3144:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -124,6 +124,18 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title_id: prove-analyticity-of-complex-functions-using-the-cauchy-riemann-equations-accb45
   title: Prove analyticity of complex functions using the Cauchy-Riemann equations
   creator_id: github.NanoScaleDesign
+c3b05988-8a42-40b7-aae7-2f069d34e329:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 7bd8be37294bf00058b11f5a6b1dca404e08d346
+    public: b9cbffa213674ffb351d16e1e7ba596676d0e977
+  import_time: 2020-10-28T04:59:14.910706176Z
+  title_id: calculating-the-fourier-transform-a-triangle-function-with-arbitrary-base-width-b9cbff
+  title: Calculating the Fourier transform a triangle function with arbitrary base
+    width
+  creator_id: github.NanoScaleDesign
 f06c20b2-eb25-4e6c-a5d9-50fe937ff0b2:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -638,6 +638,17 @@ be59c8b1-8ac4-4d2a-a4bd-89b38578f852:
   title_id: proving-that-analytic-functions-are-harmonic-in-the-complex-plane-f73793
   title: Proving that analytic functions are harmonic in the complex plane
   creator_id: github.NanoScaleDesign
+b40fbdb5-a0df-48c5-8d54-d0a2bb43a200:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 8f67f5e59bbdab876f5a41ec1a8e535a8e83c07a
+    public: 3ca7a2b9440d717c0f21404f6c5b1b88118644e8
+  import_time: 2020-10-28T04:59:28.168712679Z
+  title_id: derivation-of-the-complex-fourier-coefficients-3ca7a2
+  title: Derivation of the complex Fourier coefficients
+  creator_id: github.NanoScaleDesign
 73dc1ec7-d448-45a2-9226-a13f12195f5d:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

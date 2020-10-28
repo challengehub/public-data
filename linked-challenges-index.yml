@@ -459,6 +459,17 @@ b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   title_id: definitions-of-complex-identities-17bd78
   title: Definitions of complex identities
   creator_id: github.NanoScaleDesign
+61d7b89d-c152-4d20-bd8f-173c7eeb8834:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b65fb24c661b35e05aa5a450d90c07111fa7604d
+    public: d1af729a917be5d9297dd6a7c16917c44745a865
+  import_time: 2020-10-28T05:00:06.247245768Z
+  title_id: making-non-periodic-signals-from-periodic-signals-d1af72
+  title: Making non-periodic signals from periodic signals
+  creator_id: github.NanoScaleDesign
 9a9da3d5-b6f3-4537-86e5-d4b89eff873f:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

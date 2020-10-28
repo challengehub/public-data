@@ -1656,6 +1656,17 @@ d35c7de4-5c63-4bb7-9e34-86cefa2c1504:
   title_id: calculating-the-half-base-width-of-a-triangle-function-5cb46c
   title: Calculating the half-base-width of a triangle function
   creator_id: github.NanoScaleDesign
+5f4be524-2a5c-4ee4-a612-9328a37c837f:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ae83d3f750a55fb9431dac6287df61f1e05b0fd4
+    public: fab0a304b7bb792eb45c2996b48f1aa92db17b5a
+  import_time: 2020-10-28T04:59:47.697819821Z
+  title_id: calculating-the-complex-fourier-coefficients-of-a-square-wave-fab0a3
+  title: Calculating the complex Fourier coefficients of a square wave
+  creator_id: github.NanoScaleDesign
 d9189a40-a700-42b8-92c4-d861b57a7036:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

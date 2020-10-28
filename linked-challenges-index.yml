@@ -1557,6 +1557,17 @@ d1f3c43e-2716-472d-a0eb-b6581c1f3345:
   title_id: cauchy-goursat-theorem-evaluate-z21-along-the-closed-contour-3eit-2a944f
   title: 'Cauchy-Goursat theorem: Evaluate (z^2+1) along the closed contour 3+e^(it)'
   creator_id: github.NanoScaleDesign
+889faba7-7b83-4b38-917d-18a66d47bb33:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: d2b8cc3cf747472cc77944b00950f1bbcdcb980c
+    public: 27694f13e3e954b17777bd57e7f103e748a2c2a2
+  import_time: 2020-10-28T05:00:45.399148868Z
+  title_id: calculating-the-complex-fourier-series-of-a-square-wave-27694f
+  title: Calculating the complex Fourier series of a square wave
+  creator_id: github.NanoScaleDesign
 a9638d95-1303-4a8d-94fc-d6d7c2274786:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

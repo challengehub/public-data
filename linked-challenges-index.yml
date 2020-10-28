@@ -415,6 +415,17 @@ b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   title_id: identify-the-radius-of-convergence-of-the-series-z1n2in-dc181a
   title: Identify the radius of convergence of the series (z+1)^n/(2+i)^n
   creator_id: github.NanoScaleDesign
+8ff930db-0608-4f59-b0a8-d57082730f23:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: a16ec8cea633c2c2f31b0a566fe096bae005b1ad
+    public: 2685300b6a19768bb50f7f2c3cbf122357323195
+  import_time: 2020-10-28T04:59:37.924815685Z
+  title_id: calculating-the-fundamental-frequency-of-a-signal-made-up-of-two-waves-268530
+  title: Calculating the fundamental frequency of a signal made up of two waves
+  creator_id: github.NanoScaleDesign
 0ba3e51e-f4cc-4367-850a-8c74e07b31bd:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

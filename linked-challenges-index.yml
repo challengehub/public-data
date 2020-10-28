@@ -649,6 +649,17 @@ d6c69ee4-b977-427a-b193-2e9ef238286a:
   title_id: calculate-the-laurent-series-of-1zz-3-for-the-annular-domain-0z3-aac9dc
   title: Calculate the Laurent Series of 1/(z(z-3)) for the annular domain 0<|z|<3
   creator_id: github.NanoScaleDesign
+43933332-bb15-4d7b-9826-b452b90724d6:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 3d10dbf5a64539f2e7c4a604d761c911e3ed575f
+    public: 991a77e1e157941f7218c20769a8c811b175d6fc
+  import_time: 2020-10-28T04:58:16.029540411Z
+  title_id: lack-of-multiplication-in-a-dft-of-length-2-991a77
+  title: Lack of multiplication in a DFT of length 2
+  creator_id: github.NanoScaleDesign
 154090a6-324d-482e-b1d6-49ec45faea50:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

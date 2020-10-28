@@ -248,6 +248,17 @@ d5364324-e45a-41ae-b2fb-0d32df6feb07:
   title_id: calculating-convolution-of-continuous-functions-c87c10
   title: Calculating convolution of continuous functions
   creator_id: github.NanoScaleDesign
+5c2f9046-9e8e-41ac-8826-77079d2a32e4:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 7dc30502cc91d6659fbb8da8051884e2edbd8977
+    public: 57a26c52a85e268b9ee8aa5f6e90b5220c491812
+  import_time: 2020-10-28T04:59:18.212237885Z
+  title_id: derivation-of-the-effect-of-a-shift-in-the-time-domain-on-the-fourier-transform-57a26c
+  title: Derivation of the effect of a shift in the time domain on the Fourier transform
+  creator_id: github.NanoScaleDesign
 3b2c68ab-f2ed-4b03-94fc-f81d8e2e7fdc:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

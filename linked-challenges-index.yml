@@ -33,6 +33,17 @@ e85c831f-eead-4d87-b80a-ea46e54022d2:
   title_id: cell-reaction-in-a-pefc-0fc792
   title: Cell Reaction in a PEFC
   creator_id: github.stephenlyth
+51c1c6e4-af0c-40f5-9554-8ce3936c802f:
+  creator:
+    email: tim.emiola@gmail.com
+    name: Tim Emiola
+  hex_sha:
+    private: 0fc2635581e54977955cc46e5d28b37364e781cc
+    public: 155e4b27e7f55ae98429c1464cc77c4caf0f4b53
+  import_time: 2020-10-31T00:55:13.818779229Z
+  title_id: components-of-pefc-fuel-cell-155e4b
+  title: Components of PEFC fuel cell
+  creator_id: linkedin.e5bx9BUaOC
 c8200bf1-189c-4919-a973-33d3a1ffd4f6:
   creator:
     email: 52989109+stephenlyth@users.noreply.github.com

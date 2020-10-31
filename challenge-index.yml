@@ -1546,10 +1546,10 @@ d7cf3ecc-0a2b-48f0-82f5-f3afc7c40425:
   title: A review of complex numbers
 2e8d8182-aaf8-4ae1-99a3-6510723306ea:
   topics: []
-  modified: 2020-10-26T00:31:16.483226822Z
+  modified: 2020-10-31T00:20:50.984630994Z
   hexsha:
-    private: 903c91675b04272bd7715be63732bf5de530bc10
-    public: a12d968828222f8f92f339129261fb43e4d6537a
+    private: c065faa6be6173057da2737135c86cce125ff678
+    public: d5e2b4cc83cfec4b72b06235c19c3ba35fa85e39
   title_id: damping
   language: en
   translations: {}

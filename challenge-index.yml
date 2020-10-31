@@ -20,3 +20,13 @@ de0fc2bf-91ed-4e07-9e98-46da7d276919:
   language: en
   translations: {}
   title: PEFC components and their applications
+51c1c6e4-af0c-40f5-9554-8ce3936c802f:
+  topics: []
+  modified: 2020-10-31T00:47:19.141586598Z
+  hexsha:
+    private: 0fc2635581e54977955cc46e5d28b37364e781cc
+    public: 155e4b27e7f55ae98429c1464cc77c4caf0f4b53
+  title_id: components-of-pefc-fuel-cell
+  language: en
+  translations: {}
+  title: Components of PEFC fuel cell

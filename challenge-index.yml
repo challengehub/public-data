@@ -1168,10 +1168,10 @@ fe7398f3-f822-4a49-b825-348f7f130c48:
   title: Boiling text missing word 7
 65cc3492-2545-4f68-9d25-9758a04fe9a7:
   topics: []
-  modified: 2019-10-17T05:45:31.885362Z
+  modified: 2020-11-01T20:43:20.818235159Z
   hexsha:
-    private: adaabbb818b123342f9ec2c9fc47c10ea7015318
-    public: f6f6ec4effbe8eab2ae430a3c93f37a0e3461205
+    private: 1647e824c14d174ab2fb8f004abcdde778c50c8b
+    public: b24992a42d86d31051d1f9e1d54a8b0ee33c8b86
   title_id: method-of-undetermined-coefficients-determining-the-ode-y-c1-cos4t-c2-sin4t-et-sin-2t
   language: en
   translations: {}

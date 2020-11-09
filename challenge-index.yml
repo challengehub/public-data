@@ -1860,10 +1860,10 @@ a43db494-2821-461b-8765-3cc2a0fc7859:
     = 2 t'
 3f1577f0-4485-4627-abe5-a9fe45b0e338:
   topics: []
-  modified: 2019-10-17T06:00:17.244755Z
+  modified: 2020-11-09T00:11:34.470305052Z
   hexsha:
-    private: 520bee602a634af08eb235082bd1d958d29b47e1
-    public: 1661a5dfd03ca94bf100f09eab6589bfb594a49f
+    private: 773ed7d27041d749e7db85710d65cc01b1f349a8
+    public: ab7d3e586a8fa28f828cfb276d65d52990fa4d0d
   title_id: resonance-derivation-for-a-system-undergoing-harmonic-oscillation
   language: en
   translations: {}

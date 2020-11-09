@@ -397,10 +397,10 @@ d8a27632-bc34-4b99-a633-b3f7c00f92bc:
     |z+i|=1'
 fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
   topics: []
-  modified: 2019-10-17T06:08:09.234677Z
+  modified: 2020-11-09T02:18:45.664726079Z
   hexsha:
-    private: 461d4bac76e2a6a28a5a5bc9cf56bb5890b2c359
-    public: 7a2fc3ddacd72a71bfd96b95940ae145abcd5dde
+    private: 59822b67e3c0eac7d032d7db42a871179b3d3db7
+    public: ccbacaf28a98d36a7b9c3ba988e3cfa26378e3d8
   title_id: free-vibration-of-a-harmonic-spring
   language: en
   translations: {}

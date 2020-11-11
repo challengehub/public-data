@@ -3686,10 +3686,10 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title: Describe branch cuts and branch points
 34619ddf-1257-43e6-82bc-945d549795c0:
   topics: []
-  modified: 2019-10-08T03:58:48.801127Z
+  modified: 2020-11-11T02:15:31.358451384Z
   hexsha:
-    private: 357a7f52915ad22fb015ac9213111696c941e98a
-    public: 31d5a2e233bc400c757732093e209f2af7554603
+    private: e6492ffc26a55d2c9ce2492ac1e8177118bc3e21
+    public: 00f24e61f026e24bf64d17db5632d144d720b1e9
   title_id: understanding-the-first-term-in-a-trigonometric-fourier-series
   language: en
   translations: {}

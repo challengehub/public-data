@@ -1,11 +1,22 @@
 # ChallengeHub Challenge Index
+
 0ad32459-ac38-458b-a64a-be6d244650e8:
+  topics: []
+  modified: 2019-12-25T20:35:47.285227Z
   hexsha:
     private: ce8203767a43763a56664ed55e7cdda32bef92b4
     public: 2103d8ec1cbd80cd3c26d8292cd963b41af67e04
-  language: en
-  modified: '2019-12-25T20:35:47.285227Z'
-  title: Test challenge
   title_id: test-challenge
-  topics: []
+  language: en
   translations: {}
+  title: Test challenge
+0c5f30b6-41e1-45f2-b8e4-6fcf47b57568:
+  topics: []
+  modified: 2020-11-15T05:26:43.187242953Z
+  hexsha:
+    private: e1f21fc6e955e02b57d4e6a95aeff6a773eaf28f
+    public: 8efe535f3cfd63a8b5f7f1b85481d0900d1c8ffa
+  title_id: counting-grapefruit
+  language: en
+  translations: {}
+  title: Counting Grapefruit

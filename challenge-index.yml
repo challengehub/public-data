@@ -4688,6 +4688,16 @@ d828d071-d594-45c6-89ce-9669be9291cb:
   translations: {}
   title: Angular velocity of two masses on a cord after being impinged by a projectile
     (4/28)
+9b536bde-2e78-4b71-a6f6-89f835c00649:
+  topics: []
+  modified: 2020-11-17T01:35:20.619092484Z
+  hexsha:
+    private: d6e2c89099c8685963f589460d583da94db4911b
+    public: 8382ba9d64b0220b893585e78f693bc58eea2e84
+  title_id: counting-apples
+  language: en
+  translations: {}
+  title: Counting apples
 9d1fcaca-1cfd-4822-90b8-a16dbf3f54b3:
   topics: []
   modified: 2019-10-21T08:27:19.068139Z

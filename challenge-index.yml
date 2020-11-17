@@ -3483,6 +3483,16 @@ e0c75c63-d56d-46e1-83ec-9947d54a6372:
   language: en
   translations: {}
   title: The range of valid solution of an ODE
+ae9ab776-99d8-491c-ab56-643f402308e9:
+  topics: []
+  modified: 2020-11-17T01:35:55.646252502Z
+  hexsha:
+    private: 4a923e683543bcb2594e05e7870d9ce9811ccb31
+    public: 0746d74832c134b624607034c1a77695073430ff
+  title_id: counting-bananas
+  language: en
+  translations: {}
+  title: Counting bananas
 51f1bdcf-0695-498b-9c19-9b1289ec86e6:
   topics: []
   modified: 2019-07-10T04:06:27.811256Z

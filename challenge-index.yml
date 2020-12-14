@@ -2587,10 +2587,10 @@ ee8cbf6a-d1ae-4a0b-8b66-84e0254b587b:
   title: Integral of product of two sines and two cosines
 c7132fd6-fb16-4db4-8118-b1bc5f7ec5e9:
   topics: []
-  modified: 2018-11-18T20:07:45.286995Z
+  modified: 2020-12-14T01:11:11.727715934Z
   hexsha:
-    private: 58dd5e1bb2b2e2289c6630d9ab11b063d47c35a7
-    public: cb48ec71e35c92b5a7cf4734abfa72816c35d3c2
+    private: 4a6fecffa8836a2a6f38b1ed75bfdfce4cebd634
+    public: a09e8bb14371ae59df6b7aa567506933f8099b02
   title_id: reverse-laplace-transform-62s4
   language: en
   translations: {}

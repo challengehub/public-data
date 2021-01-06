@@ -1158,10 +1158,10 @@ d178eeca-e586-40de-854e-365f93b0d365:
   title: Identifying autonomous differential equations
 291db4fc-84c3-4b6d-a615-2491f83e545a:
   topics: []
-  modified: 2019-10-30T05:18:44.249711Z
+  modified: 2021-01-06T01:46:25.800257409Z
   hexsha:
-    private: 737aeb036073e2d8b3a8aa508a0e4468e572365e
-    public: d7b9ca13bba100ee50e43e559c1f75700f0e93ce
+    private: 45cc936a0318fc1c823fbd7a34129574e36e2383
+    public: 83b435fa0327b3c061f0f19234cc50d254edeeca
   title_id: analysis-of-the-coefficients-of-the-discrete-fourier-transform
   language: en
   translations: {}

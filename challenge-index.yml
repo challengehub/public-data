@@ -2926,6 +2926,16 @@ ca96add1-6dc2-42c9-b994-2b3d150cd645:
   language: en
   translations: {}
   title: '2D Matrices review: Eigenvalues and Eigenvectors: ((2,-2)(0,-1))'
+bf651911-ab1f-485f-a313-41ce8e51253e:
+  topics: []
+  modified: 2021-01-06T05:57:27.618860239Z
+  hexsha:
+    private: 37745e227141e4d978b9a587c3ae181d67e67068
+    public: a2e23d96b726013cbc11b7f2dc6dced077826412
+  title_id: counting-ide-fish
+  language: en
+  translations: {}
+  title: Counting Ide fish
 4cd95bbf-cca3-4a90-ad30-136ff463c37d:
   topics: []
   modified: 2018-10-26T03:30:27.876834Z

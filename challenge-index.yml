@@ -4577,6 +4577,16 @@ daaf55f7-950d-4b79-a6cc-e52f82a03470:
   language: en
   translations: {}
   title: Finding the real and imaginary parts of complex polar functions
+f01b1f83-2a44-4668-bc64-351a8057d790:
+  topics: []
+  modified: 2021-01-06T05:58:38.133780151Z
+  hexsha:
+    private: 2610c151b9f95ae9815b72d36eb03bc572d13d58
+    public: cbe90eda9bd2bce06f8e0d340bebd2d230503db5
+  title_id: counting-jellyfish
+  language: en
+  translations: {}
+  title: Counting Jellyfish
 0067ab4b-f668-4b39-b0bb-71ee50f0c221:
   topics: []
   modified: 2019-05-07T07:56:40.184122Z

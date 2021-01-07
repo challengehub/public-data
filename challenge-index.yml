@@ -1178,10 +1178,10 @@ b9121274-65e5-488d-b253-942a258debdf:
   title: Drawing the set and image of the line x=2 under transformation f(z) = iz^2-3
 524222dc-8689-40f5-a89e-36cb60594f57:
   topics: []
-  modified: 2020-11-17T01:37:14.107176858Z
+  modified: 2021-01-07T06:07:08.167255287Z
   hexsha:
-    private: c7bb0f439242123a666406d42de3554ad8d44901
-    public: e4d2c194402587d660a34c07cc25162ee76273d9
+    private: 5c4bd6b732229bdca8cbb7dde4d1cde22b9bcb12
+    public: 9773884ab0d152164cedd6b0a5bbedb83b6a1d19
   title_id: counting-eggs
   language: en
   translations: {}

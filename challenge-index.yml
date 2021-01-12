@@ -3603,6 +3603,16 @@ b969ef61-49fc-4e97-bf55-6a393489a4e5:
   language: en
   translations: {}
   title: Showing the existence of complex limits
+1bfc188a-e90e-4123-aff0-636c9dbace9f:
+  topics: []
+  modified: 2021-01-12T02:59:52.558594236Z
+  hexsha:
+    private: 1be9f06c4facada606a09ed7d676052d89a232f7
+    public: 5720760e8f4e35dc8c5f4619c2c0395876a8072b
+  title_id: laplace-transform-of-a-short-pulse-function
+  language: en
+  translations: {}
+  title: Laplace transform of a short pulse function
 63168873-0817-40df-8098-40615f44906e:
   topics: []
   modified: 2019-09-19T06:21:06.034152Z

@@ -3605,10 +3605,10 @@ b969ef61-49fc-4e97-bf55-6a393489a4e5:
   title: Showing the existence of complex limits
 1bfc188a-e90e-4123-aff0-636c9dbace9f:
   topics: []
-  modified: 2021-01-12T03:41:04.304314541Z
+  modified: 2021-01-12T03:41:21.482688328Z
   hexsha:
-    private: 44abd2de68719151f6cd829766eee741eeabead3
-    public: cf4694ea4b2850869040ee7a2511162d37b73e20
+    private: 1ca56a7a06b4f17c820854321607cd06d60737ed
+    public: bd94925d5855340155e9abac1121c49152883a82
   title_id: laplace-transform-of-a-short-pulse-function
   language: en
   translations: {}

@@ -272,6 +272,16 @@ ad274394-954f-4710-8970-5458b94afa4e:
   language: en
   translations: {}
   title: Latent heat language question (liquid-gas)
+958fff68-9492-4135-9f72-68bdc43d6b92:
+  topics: []
+  modified: 2021-01-14T05:54:23.120573392Z
+  hexsha:
+    private: c6c6bc91cfbbfb6c403a28b94925c600e69e057f
+    public: 2acaaf8048ddacd27c70ff1b47e67b8607feaeea
+  title_id: calculating-the-number-of-prey-in-a-predator-prey-system-of-equations
+  language: en
+  translations: {}
+  title: Calculating the number of prey in a predator-prey system of equations
 73ede7e6-5191-4d66-8f60-ca172dcfe8f0:
   topics: []
   modified: 2019-12-02T05:27:40.46156Z

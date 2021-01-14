@@ -4797,6 +4797,16 @@ d35c7de4-5c63-4bb7-9e34-86cefa2c1504:
   language: en
   translations: {}
   title: What is scientific writing?
+94fc7944-d3fd-414d-8e31-3c5f89646d94:
+  topics: []
+  modified: 2021-01-14T06:24:02.905641196Z
+  hexsha:
+    private: 5401fa396f6e34f8cec998ddbc2e857e85e0e0cd
+    public: 18706bb0406de25a66b4ca11764cf225594b2d6c
+  title_id: calculating-population-equilibrium-of-a-predator-prey-system-of-equations
+  language: en
+  translations: {}
+  title: Calculating population equilibrium of a predator-prey system of equations
 d828d071-d594-45c6-89ce-9669be9291cb:
   topics: []
   modified: 2019-04-04T01:05:02.803139Z

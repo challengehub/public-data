@@ -2474,10 +2474,10 @@ acb900a9-e5f1-423a-b72f-ba825b16c4e9:
     interface'
 bafb0068-db14-47b2-b454-76570cb5fd82:
   topics: []
-  modified: 2019-01-11T03:17:05.808439Z
+  modified: 2021-01-18T02:12:23.114697034Z
   hexsha:
-    private: a042fe6a84f18fd1ad57814568ee81648602d9f6
-    public: 888d74192ada787645887af14a4a06cd3671af46
+    private: 7a2a99ece2fd19e1c007c4d80bace18fd71eeb00
+    public: bdf2a9946319dc0dcfde9e43bbb8ede86a489269
   title_id: phase-space-of-pendulum-motion
   language: en
   translations: {}

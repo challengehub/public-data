@@ -2149,6 +2149,16 @@ cf121668-42e8-4fca-a169-c7f8f253c1fa:
   language: en
   translations: {}
   title: Steady-state planer diffusion of helium through a plastic membrane in kmol/s/m^2
+ee280791-6413-4f80-8dbf-38cf81e8af84:
+  topics: []
+  modified: 2021-01-19T05:21:37.878797277Z
+  hexsha:
+    private: dd7e41290ca9e7db064591763718d7453d4c5545
+    public: c6c8fe06633c3976d063f138e2ad6c54d08fb92d
+  title_id: fourier-analysis-coursework-2020
+  language: en
+  translations: {}
+  title: Fourier Analysis coursework (2020)
 0375f5b3-d26e-47ba-b726-f44e0b1a04e1:
   topics: []
   modified: 2019-06-07T08:38:05.237392Z

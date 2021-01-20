@@ -2,7 +2,7 @@
 extra_resources: {}
 topics: []
 editor_id: github.NanoScaleDesign
-modified: 2021-01-20T20:48:21.266692992Z
+modified: 2021-01-20T20:51:46.630604911Z
 affiliated_institute:
   url: https://www.kyushu-u.ac.jp
   en_name: Kyushu University
@@ -23,22 +23,22 @@ Note that running the python program will result in sound being played, which ca
 
 Graphs will also be displayed in the default browser on your computer.
 
-**For Mac users:** I recommend downloading the terminal software iTerm2 (https://www.iterm2.com). It is much easier to use than the default terminal on Macs.
-
-When you download the files below, I recommend that you create a new directory beforehand (for example, on your desktop) and save all the files to that new directory.
-
-
-## Challenge
-You are trying to listen to the BBC news but there is background noise that makes it difficult to hear. Your challenge is to remove the noise from the signal.
-
-You may use the outline python code above to help you, or you may use your own code from scratch. The code above relies on the following libraries:
+The code below relies on the following libraries:
 
 - sounddevice
 - numpy
 - scipy
 - plotly
 
-Generally, to install new libraries you can use *pip3 install sounddevice* etc.
+When you download the files below, I recommend that you create a new directory beforehand (for example, on your desktop) and save all the files to that new directory.
+
+**For Mac users:**
+
+I recommend downloading the terminal software iTerm2 (https://www.iterm2.com). It is much easier to use than the default terminal on Macs.
+
+Generally, to install new libraries you can use *pip3 install sounddevice* etc in the terminal.
+
+**For Windows users:**
 
 For windows users you typically need to do the following on the command line:
 */path/to/python.exe -m pip install plotly*
@@ -50,6 +50,11 @@ If you're using Anaconda on Windows you may need to do the following to install 
 1. Type **conda install -c conda-forge python-sounddevice** and press _enter_.
 1. You may do the same for plotly: **conda install -c conda-forge plotly**
 
+
+## Challenge
+You are trying to listen to the BBC news but there is background noise that makes it difficult to hear. Your challenge is to remove the noise from the signal.
+
+You may use the outline python code below to help you, or you may use your own code from scratch.
 
 ## Resources
 - Python outline code: http://raw.githubusercontent.com/NanoScaleDesign/FourierAnalysis/master/Audio/audio.py [1]

@@ -1,18 +1,19 @@
 ---
-affiliated_institute:
-  en_name: Kyushu University
-  name: "\u4E5D\u5DDE\u5927\u5B66"
-  url: https://www.kyushu-u.ac.jp
-editor_id: github.NanoScaleDesign
 extra_resources: {}
-id: dc19d15b-ff67-43ce-afaa-449ed2becd52
-language: en
-modified: '2019-12-20T04:18:41.211203Z'
-title: Cleaning an audio signal with python
-title_id: cleaning-an-audio-signal-with-python
 topics: []
-translations: {}
+editor_id: github.NanoScaleDesign
+modified: 2021-01-20T00:35:16.658729257Z
+affiliated_institute:
+  url: https://www.kyushu-u.ac.jp
+  en_name: Kyushu University
+  name: 九州大学
 version: '1.0'
+title_id: cleaning-an-audio-signal-with-python
+language: en
+id: dc19d15b-ff67-43ce-afaa-449ed2becd52
+translations: {}
+title: Cleaning an audio signal with python
+
 ---
 
 ## Comments
@@ -56,3 +57,7 @@ etc. To open the command line, press *windows-r* then type *cmd* and press *ente
 ## Solution Form
 There will be a final output file called *bbcnews181210.mediaformat.clean.wav*.
 You can play this in a media player such as iTunes or VLC, and should be a clean sound without the background noise.
+
+Please submit your code along with your challenge logbook at the end of the course.
+
+Please rate the difficulty of the challenge after completion.

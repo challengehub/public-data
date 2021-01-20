@@ -417,10 +417,10 @@ fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
   title: Free vibration of a harmonic spring
 dc19d15b-ff67-43ce-afaa-449ed2becd52:
   topics: []
-  modified: 2019-12-20T04:18:41.211203Z
+  modified: 2021-01-20T00:35:16.658729257Z
   hexsha:
-    private: 0059655cd6d026c38dfc7def2919249f1b3e3661
-    public: 64515019a5a7b16c799aebad38be160ed7cdf133
+    private: dbdc2299a72d35a30d46eff9d6af30ac2237c311
+    public: 605e2e3b807a57f914061bb8d86f02803205131b
   title_id: cleaning-an-audio-signal-with-python
   language: en
   translations: {}

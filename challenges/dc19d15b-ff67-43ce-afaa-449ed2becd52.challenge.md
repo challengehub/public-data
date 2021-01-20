@@ -2,7 +2,7 @@
 extra_resources: {}
 topics: []
 editor_id: github.NanoScaleDesign
-modified: 2021-01-20T00:35:16.658729257Z
+modified: 2021-01-20T20:48:21.266692992Z
 affiliated_institute:
   url: https://www.kyushu-u.ac.jp
   en_name: Kyushu University
@@ -43,6 +43,12 @@ Generally, to install new libraries you can use *pip3 install sounddevice* etc.
 For windows users you typically need to do the following on the command line:
 */path/to/python.exe -m pip install plotly*
 etc. To open the command line, press *windows-r* then type *cmd* and press *enter*.
+
+If you're using Anaconda on Windows you may need to do the following to install _sounddevice_:
+
+1. Click the windows _start_, then search for or select **Anaconda Prompt** to open it.
+1. Type **conda install -c conda-forge python-sounddevice** and press _enter_.
+1. You may do the same for plotly: **conda install -c conda-forge plotly**
 
 
 ## Resources

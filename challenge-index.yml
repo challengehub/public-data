@@ -51,6 +51,16 @@ bd50370b-d99c-43e4-9afc-348706d721a2:
   language: en
   translations: {}
   title: Diffusion coefficient equivalency
+182e44f7-6d42-4a07-81f8-3dbd9cf74a49:
+  topics: []
+  modified: 2021-01-22T02:42:49.055263027Z
+  hexsha:
+    private: 1b0d6a5df69280d4fc2510d2ece73b4a8941b065
+    public: a86c6fa3756a7d5594912d921f7d3dfe1c37a3b7
+  title_id: numerical-solution-of-an-ode-using-a-computer
+  language: en
+  translations: {}
+  title: Numerical solution of an ODE using a computer
 2b446632-3b6f-452a-9268-0d0019928477:
   topics: []
   modified: 2020-05-04T06:13:52.808287369Z

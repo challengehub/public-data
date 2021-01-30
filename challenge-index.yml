@@ -20,6 +20,16 @@ de0fc2bf-91ed-4e07-9e98-46da7d276919:
   language: en
   translations: {}
   title: PEFC components and their applications
+eeab5951-bb02-4ffa-af9f-fbe0b46c2dbe:
+  topics: []
+  modified: 2021-01-30T09:03:14.799140852Z
+  hexsha:
+    private: 4de6e892d4e017b97e569ae111bbb4a3de25b76e
+    public: 1991c639add621890fdf9834d95c68022b59e180
+  title_id: was-convolution-of-t2-with-a-window-function
+  language: en
+  translations: {}
+  title: 'Was: Convolution of t^2 with a window function'
 51c1c6e4-af0c-40f5-9554-8ce3936c802f:
   topics: []
   modified: 2020-10-31T00:47:19.141586598Z

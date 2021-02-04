@@ -467,14 +467,14 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title: The limit of (T sin(x/T)) as T goes to infinity
 f22b6f8c-ffb3-410f-b0a7-ec266a15d210:
   topics: []
-  modified: 2021-01-07T06:06:51.288301334Z
+  modified: 2021-02-04T08:28:25.62285031Z
   hexsha:
-    private: 00555f8c11a1961b62a6280562ce3d335d2ea759
-    public: 9c8f6da4e36f450b9ee64323c5fdeaabcf0cd1dd
-  title_id: counting-durians
+    private: aec5c96db04b9c49c07fa85e0e92526296e5379b
+    public: 6f5d541346c5a8d46b2b2b2286685d3d47e5414c
+  title_id: drawing-durians
   language: en
   translations: {}
-  title: Counting durians
+  title: Drawing durians
 855c7fdc-61bc-4ae8-8ced-ddbf3516a4db:
   topics: []
   modified: 2019-11-10T23:44:08.875095Z

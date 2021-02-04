@@ -403,6 +403,17 @@ b239d7f5-c247-4d80-8d90-2f207008feac:
   title_id: identifying-even-and-odd-functions-f46673
   title: Identifying even and odd functions
   creator_id: github.NanoScaleDesign
+07a1bb79-d1b0-4b09-aabf-ed1522141a99:
+  creator:
+    email: cla.favero@gmail.com
+    name: Claudia Favero
+  hex_sha:
+    private: 81ed6a3ad0bc9226b0d66a4cf6558d79e3ebc100
+    public: 2184f2132483cad88d180c266c803721897e3c1f
+  import_time: 2021-02-04T08:32:28.440959485Z
+  title_id: preliminary-question-on-vectors-2184f2
+  title: Preliminary question on vectors
+  creator_id: linkedin.zNGJIFrVsl
 96681381-cb5e-4005-b390-a73a192c00ca:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

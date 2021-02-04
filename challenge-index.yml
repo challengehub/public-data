@@ -467,10 +467,10 @@ fbaca123-9531-46b7-8fc5-7e23834b0711:
   title: The limit of (T sin(x/T)) as T goes to infinity
 f22b6f8c-ffb3-410f-b0a7-ec266a15d210:
   topics: []
-  modified: 2021-02-04T08:28:25.62285031Z
+  modified: 2021-02-04T08:28:38.06340718Z
   hexsha:
-    private: aec5c96db04b9c49c07fa85e0e92526296e5379b
-    public: 6f5d541346c5a8d46b2b2b2286685d3d47e5414c
+    private: 64e5689103ff35fe451b24d540c54411ae71450c
+    public: 2c0bb2be9d566479c17967696d42ae421eaa9db5
   title_id: drawing-durians
   language: en
   translations: {}

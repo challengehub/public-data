@@ -4599,10 +4599,10 @@ daaf55f7-950d-4b79-a6cc-e52f82a03470:
   title: Expressing z=(sqrt(3)-i)^11 in polar form
 405dec6f-9410-4723-b6d3-893984d79c12:
   topics: []
-  modified: 2021-02-04T08:57:05.892185136Z
+  modified: 2021-02-04T23:23:05.874632153Z
   hexsha:
-    private: 16d67db80b5592641ff650d994248c32722b8d87
-    public: 77129c7ee877df838d36c31f14c6a511b60facc6
+    private: 953a3b97cbdceb344e01c1ffcb82c7af7a1bb5cd
+    public: 939d71365e8c0094cae590ffe9e807888bc036c9
   title_id: counting-fish
   language: en
   translations: {}

@@ -41,6 +41,16 @@ d7e6403210d8fc2a2fcb29db8e9eb2ea80b56e2c:
   challenges_sha: 7e964e464c70710143cd1172d901916446054efe
   title: Fourier Analysis (2019)
   storage_id: b6f844bc-8d11-4f60-9aea-d1f6e801b2b9
+f9cc916577ebb8b4d4ec6d9178bba3344d5844a2:
+  topics:
+  - ordinary differential equations
+  - differential equations
+  - undergraduate
+  modified: 2021-02-16T23:13:06.482368537Z
+  title_id: ordinary-differential-equations-ii-2020-f9cc916577ebb8b4d4ec6d9178bba3344d5844a2
+  challenges_sha: 86050cea6c58ffdc74f4e1b4aa6b639a4c341d4a
+  title: Ordinary Differential Equations II (2020)
+  storage_id: e43c8c48-0a4c-4a2a-80cd-f19244701b07
 b45c1b7c00a0f7d0db25412214660939f7fa1e54:
   topics:
   - Complex analysis

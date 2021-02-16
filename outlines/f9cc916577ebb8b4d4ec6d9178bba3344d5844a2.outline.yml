@@ -1,0 +1,417 @@
+stints:
+- has_teams: false
+  starts_after: 5400
+  challenges:
+  - challenge_sha:
+      private: 2e84992b872bf959e3f56072e663f8c7c24f88ff
+      public: b266c71121f05d746aac7999f10ea3898734b716
+    language: en
+    id: f1ac917c-551c-4196-b5ba-82eb64b91a8d
+    title: Laplace transform of 1
+  - challenge_sha:
+      private: d9c9762965ad09f7a592eaff9e843a7126d8e792
+      public: 50bdf303a0c4d21d0aaedbc8ead42c1afdb707b6
+    language: en
+    id: a981641d-ba54-4e90-a3ba-672807935d17
+    title: Laplace transform of cos(at)
+  - challenge_sha:
+      private: fdc772197c864e6bb38dba68686f064ec4410e81
+      public: e6eb3abf7138acf0e111f56e9fa41715bcadfaf8
+    language: en
+    id: ea1da35f-98a6-41b3-83a7-14df85a62212
+    title: Laplace transform and derivatives
+  - challenge_sha:
+      private: 24ae3e7bebdc28cff466ba1a709d769edfe37e09
+      public: dab16576ce3f21da22740cdcddb7070dd1600ae7
+    language: en
+    id: 3e0f96e1-d3aa-4c49-bbec-5da3b64951c7
+    title: Laplace transform of (a t)
+  - challenge_sha:
+      private: ac17dd64cff075436240575eeb959d43f347ea5f
+      public: f12a1d7adae573b8b368a1dd3415a5cc62a51102
+    language: en
+    id: 8b2c94e5-c9e7-4296-83db-bb0aec0f9cb0
+    title: 'Shifting Laplace transforms: e^(3t) cosh(5t)'
+  - challenge_sha:
+      private: b093a24bdd2d362bae5b99fb6e759c0b752c6cc1
+      public: 83620b0dd22b2fb1e270bf1c07fa3a68ccda7e58
+    language: en
+    id: cb151613-d7d4-40b0-8c0a-5f848645b490
+    title: 'Shifting Laplace transforms: identifying f(t)'
+  - challenge_sha:
+      private: 8f8f9fa6fc9c02b41746fa41bf2a7d63c99ea338
+      public: 38cee0f1848ebce01b71fa1880ad1ee7aa24b67e
+    language: en
+    id: 0d915f52-08f0-4147-b067-05a0437e9f36
+    title: 'Laplace transform of step functions: U_0'
+  - challenge_sha:
+      private: 781cdab3ccee123e97ed54bb5ffa486487e798b9
+      public: 835fb09a6fa3ea09422e62dfd13258c022a988ac
+    language: en
+    id: 4a57e0ee-5c01-4a16-ab89-174c45b27ddd
+    title: 'Laplace transform of step functions: U_c'
+  - challenge_sha:
+      private: 8e5b7964d1bf39af47da5b03c4271aa330e40b61
+      public: a929cb33ca86281439110efa65772cbbfe0c6891
+    language: en
+    id: d5fa7dc8-e1d6-4c6b-b740-ba35ee70785f
+    title: 'Laplace transform of step functions: A 1-second pulse function'
+  - challenge_sha:
+      private: 5020c9694e1ad976b88542fa9af4c78a83f0e29b
+      public: e02d6c826f77b45332fd691a5811e69930ed4f3b
+    language: en
+    id: 5ef934f8-0c6c-4559-99b1-6c6ac8c81e4e
+    title: 'Laplace transform of step functions: L{U_π(t)cos(t−π)}'
+  title: Introduction to Laplace transforms
+- has_teams: false
+  starts_after: 610800
+  challenges:
+  - challenge_sha:
+      private: b3ff83c724a69cbf5f0e609ea0bfbbaa0932ff4c
+      public: 95951873dc3aef2adc8bdad665048ca583c3bc97
+    language: en
+    id: 383d28d9-1c6c-45b2-baa3-fed5d3fe8071
+    title: 'Reverse Laplace transform: 1/(s-1)^2'
+  - challenge_sha:
+      private: b0cebaeb19f4b137b060f12926095631e9b4b5d8
+      public: fb8d135a9a6e02cf8946168b82cf95a57e9231ea
+    language: en
+    id: d8d5e07f-816d-4adb-92df-19e10e8be4b9
+    title: 'Reverse Laplace transform: 1/s^2 - 1/s'
+  - challenge_sha:
+      private: e2bb0fbce8a9a2624b260569558760ec9c8cf73c
+      public: 2b55a6c57f95e135aee167c92e1a8d88dd8b7e83
+    language: en
+    id: 91ce0b79-300c-4536-ae8b-f5a4921153d1
+    title: 'Reverse Laplace transform: (5-5s)/s^2'
+  - challenge_sha:
+      private: e0898d76c681e36dfc059b6ac49ad2bb040c0d4b
+      public: 703b959a0eeca258cf97dec1cb93cd30bcbd646b
+    language: en
+    id: d2e741bb-e128-4d7b-8ded-77dc0d9c87df
+    title: 'Reverse Laplace transform: 2/s^3'
+  - challenge_sha:
+      private: 4a6fecffa8836a2a6f38b1ed75bfdfce4cebd634
+      public: a09e8bb14371ae59df6b7aa567506933f8099b02
+    language: en
+    id: c7132fd6-fb16-4db4-8118-b1bc5f7ec5e9
+    title: 'Reverse Laplace transform: 6/(2+s)^4'
+  - challenge_sha:
+      private: 68fca3fd64fc5664d74cdf7d29bc98829affc58b
+      public: ac0882c318f5e5710a12ba30f86ec2674b4c487f
+    language: en
+    id: ba2728d9-b295-423b-b7e9-ffd106ec8984
+    title: Reverse Laplace transform:(2e^-2s)/(s^2-2s+2)
+  - challenge_sha:
+      private: 0ba5249deb965a68b2331cd2f5eb9ede18559a9e
+      public: 87c5be9a67478a41c3714289cce0145ce96bf439
+    language: en
+    id: 7a35b671-15ff-46d4-a778-3a8bdc2a9c4b
+    title: 'The Dirac delta function and its Laplace transform: delta(t)'
+  - challenge_sha:
+      private: a02e239971ed45674f31dae7f110e089c48a1b45
+      public: 1241c14c8507163de4a260e5c64137bbda66b86c
+    language: en
+    id: 3bdb5c87-a8c0-43e0-8178-c1b7b5558c7c
+    title: 'The Dirac delta function and its Laplace transform: \delta(t-c)'
+  - challenge_sha:
+      private: d51790c003ac3f93624ca49c5f76a79639870223
+      public: 04bce40a0f8b3b85c098870ec5fdd7d01516499c
+    language: en
+    id: 9a933582-fd69-45ff-88fc-c33954f1caf3
+    title: 'The Dirac delta function and its Laplace transform: delta(t-2) cos(4t)'
+  - challenge_sha:
+      private: 6d8b96231572cccc85facc9b9e98bd4b9d1c485a
+      public: 0770142fc8c2677c1a023e1a20ccfd21ee3004a6
+    language: en
+    id: 8f0d9748-048f-4e0b-90da-8dd113cbcda9
+    title: 'The Dirac delta function and its Laplace transform: delta(t) (t^2+10)'
+  title: Inverse Laplace Transforms
+- has_teams: false
+  starts_after: 1215600
+  challenges:
+  - challenge_sha:
+      private: bd98666684d86d6de4b639bb1e4e843b2ca1a451
+      public: 15e9bd03f532b0d3dd1bdaac42ea05c9a71625d6
+    language: en
+    id: a3de3205-4018-4432-b8bd-a450390d67bb
+    title: Solving a forced-spring problem with the Laplace transform
+  - challenge_sha:
+      private: 021765c128e815f8e650dd21a05fe9cb565a44a2
+      public: c24b1510cee9b7a897513fb5c1f8d101fb47f9e9
+    language: en
+    id: c9dfbc7a-e714-4974-a776-57b82b3ff51d
+    title: Solving an ODE with exponential forcing using the Laplace transform method
+  - challenge_sha:
+      private: 4fb8b7025207d021ecbedab19abaa025aacdf415
+      public: 5b8f9edbc896aa4ad560deb78ceb4e1bc7ea2d86
+    language: en
+    id: 162d9156-8356-4137-a2f9-5748ecdc43c0
+    title: 'Comparing solutions of ODE''s: With and without exponential forcing'
+  - challenge_sha:
+      private: f317b20f2059611a7f095b1bf43540cd53e2e76b
+      public: baa5c891db33e74592c77e5c3335b497f0f7bb4e
+    language: en
+    id: 890cd2f7-9843-41b1-a937-bca1077dbb85
+    title: Solving a unit step ODE with Laplace transform
+  - challenge_sha:
+      private: 37408893ef776e483e3e8dc5bbb640c3e9800e1c
+      public: 8144baf9c67ee563d21efe8c980e7b6b72f0280c
+    language: en
+    id: 33dbaf42-ce23-4085-97e8-36400ed58b14
+    title: 'Laplace transform and ODE''s: A sudden impulse'
+  - challenge_sha:
+      private: 890b328a608d1bd1846f1d1f58d13e9bdd15a2c4
+      public: bc001d2eebfbc911a089dd333c67a1709015f902
+    language: en
+    id: 18083bcf-c812-45d5-aa4a-1c7d55c5eaa7
+    title: 'Introduction to convolution: sin(t)*cos(t)'
+  - challenge_sha:
+      private: f1f7f9c5b5ab75f88538e2c73fb5ee6a314b9b87
+      public: 3c22473f639750ce0b3cbb803bc62dd238cdbf57
+    language: en
+    id: 7b819da4-d0ff-4cc2-aa3a-d43863e2473b
+    title: 'Introduction to convolution: t * cos(t)'
+  - challenge_sha:
+      private: 16eb2698dafcc2d8b6ffd8d932f990d9e732ad55
+      public: 7e93a2bb949a31f20a433e06b12b6e7b47e8173e
+    language: en
+    id: a9b599cb-c6e7-4d2d-bab3-f4542b390649
+    title: 'Introduction to convolution: 1 * cos(t)'
+  - challenge_sha:
+      private: 69604e0e5a9e89a2bc5bd944f311aa0cce224f70
+      public: f66a11add89e3575c4911c75af0b87a218da7651
+    language: en
+    id: 38b87ef9-ffbf-48cb-95b1-f2cf745c5cf0
+    title: 'Convolution and the Laplace transform: 1/(2^2 - 2s)'
+  - challenge_sha:
+      private: 2b83fda7658e0cc8018479216eb4dc779227ec3a
+      public: 792dd9c8324d3b6805d71232cb1e86998736e4ce
+    language: en
+    id: 24d3e9ea-6c49-455f-b0fc-2cca2a6f5f2c
+    title: 'Convolution and the Laplace transform: 1/(s^4 + s^2)'
+  title: Solving ODE's with the Laplace Transform, including convolution
+- has_teams: false
+  starts_after: 2425200
+  challenges:
+  - challenge_sha:
+      private: 7b88081e115ca3136c35bb9029bf96d54ccab496
+      public: 937f7497f4385b6a4e468d983aa670a82e22e93d
+    language: en
+    id: bad21262-8553-45d2-91db-e18ecfa80229
+    title: 'Using convolution to solve an ODE: y'''' - 10y'' + 26y = cos(t)'
+  - challenge_sha:
+      private: 361f4fce654f7df4279129d9f02c9ae59dee6144
+      public: a29816a0e358a8bff236da657d66c381bff8f721
+    language: en
+    id: a43db494-2821-461b-8765-3cc2a0fc7859
+    title: 'Using convolution to solve an ODE: y'''''' - 3a y'''' + 3a^2 y'' - a^3
+      y = 2 t'
+  - challenge_sha:
+      private: c85dba5b3252bac2d556c9aac389a47e5ce162fa
+      public: 8e9783bb476443631fac5e2bca22e7d72888ca44
+    language: en
+    id: 80713277-e5fb-4674-852e-89ac898a7b45
+    title: 'Using convolution to solve an ODE: y'''' - 4 y = sin(t)'
+  title: Using convolution
+- has_teams: false
+  starts_after: 3203100
+  challenges:
+  - challenge_sha:
+      private: d3612a0f7ee5fc2e1431202b7ae90d21facd2f9d
+      public: 2d1eb29b5090839ccbd10052001ad12ab4a68635
+    language: en
+    id: e4e87237-eb2b-4a14-ac1f-ad115eeb0e7d
+    title: 'Systems of ODE''s: Homogeneous vs non-homogeneous'
+  - challenge_sha:
+      private: c05d3b543a2fd6ab869a0fb677fda25a8e6f7402
+      public: 1f7070afd3828ee3c90d48231d1b6e6e0c70f8c9
+    language: en
+    id: d7cf3ecc-0a2b-48f0-82f5-f3afc7c40425
+    title: 'Systems of ODE''s: Basis for creating a system of equations from a single
+      homogeneous ODE: 2y'''' + 4y'' - 6y = 0'
+  - challenge_sha:
+      private: 4a565facf4f8749d34bb950b789029b3f17cafb6
+      public: 9c9e8cb1bd16a10110e67f37238540d38de71275
+    language: en
+    id: 32a02bad-bcf3-4c8f-b263-b4608c963a3c
+    title: 'Systems of ODE''s: Basis for creating a system of equations from a single
+      homogeneous ODE: y'''' - 4y'' + 5y = 0'
+  - challenge_sha:
+      private: 9669a5804877d86e68144f4c86403b15b18bab0d
+      public: 6ff0cc2d883b9865aee39bf81d7205c5e78d3cd4
+    language: en
+    id: be22bd55-b482-4a18-820c-28b5aae191a0
+    title: 'Systems of equations from a non-homogeneous ODE: y'''' - 5 y'' + 9 y =
+      t cos(2t)'
+  - challenge_sha:
+      private: ae2ba1e6eae889ddb74df8e714a9476985b720f9
+      public: 8cf6fb9f9b8d5ff5c3dbd757ba2ed5ad47dbad5b
+    language: en
+    id: d09b6da5-636f-44c4-b001-8a31cd92f76d
+    title: '2D Matrices review: Addition'
+  - challenge_sha:
+      private: c78a26b4902c2c512726c10ae031039d53082b33
+      public: 75400a5b7ca6873df2b6f29eb8f491ae4b45b098
+    language: en
+    id: 7f485add-468f-4db6-a3cc-23fe0e18a5aa
+    title: '2D Matrices review: Multiplication'
+  - challenge_sha:
+      private: 63ed6077de088f674d8b84fe9b0386174686e03f
+      public: cec8e6dc9bdc660b97eed62946419113d3dc0ce8
+    language: en
+    id: 21c3a132-4610-4d79-a476-68eded2ddef8
+    title: '2D Matrices review: Determinent'
+  - challenge_sha:
+      private: 06bf21f820782de0615c921cc4c054dd71643fd9
+      public: 28fb4ea6a3565c018d0f642df1536048a60e4563
+    language: en
+    id: 37f4ea0e-1c28-46e3-8863-e97ac8ae2715
+    title: '2D Matrices review: Inverse'
+  - challenge_sha:
+      private: 987ae7d605b88c69d9138c6a9691e9e99b2e9ff8
+      public: c2153a427501d8e74958b15e853a911ebe04a817
+    language: en
+    id: 6097039e-a3a9-4542-9c67-72cc94f63f0c
+    title: '2D Matrices review: Eigenvectors and eigenvalues: ((-5,7),(-1,3))'
+  - challenge_sha:
+      private: 575c1f92eed0cfe5b3e02fee7def34bfe2d73ea5
+      public: 02c8ce7d6eda62c25664952bfe3eb51ed4af9541
+    language: en
+    id: ca96add1-6dc2-42c9-b994-2b3d150cd645
+    title: '2D Matrices review: Eigenvalues and Eigenvectors: ((2,-2)(0,-1))'
+  title: Systems of ODE's introduction
+- has_teams: false
+  starts_after: 3206100
+  challenges:
+  - challenge_sha:
+      private: bb375fa7bd1670e1b9ce611d8c9027e1fad6c532
+      public: ea9efe4ebbeb6c6ff1ca3ef87f6408d90b0b6024
+    language: en
+    id: 1b532910-196a-488b-84bb-338bba19348a
+    title: 'Solving systems of ODE''s: ((2,-5),(7,-10))'
+  - challenge_sha:
+      private: 834745713010e54f81a40784c49e6ad41ceb593e
+      public: fb038a04028add321c6dbacb94d34d4f54cf0ec6
+    language: en
+    id: 4cb10d4a-2324-4b90-8897-dbda94dd4463
+    title: 'Solving systems of ODE''s: ((-3,-3),(6,3))'
+  - challenge_sha:
+      private: e18a8d88b2212eba546d81892156ca3e5efdf7ec
+      public: d014f719c1c914be1ac90de219fffa5fd44998b3
+    language: en
+    id: b359a87e-8e04-4679-b540-3c345ac6eb20
+    title: 'Solving systems of ODE''s: ((8,1),(-4,4))'
+  title: Solving systems of ODE's
+- has_teams: false
+  starts_after: 3635100
+  challenges:
+  - challenge_sha:
+      private: 27063c824e12a27e273bd3e26ce8b25b3eb51743
+      public: 60891fd52181eba71e8a59649c49fb085d144044
+    language: en
+    id: 36cf7182-6f94-45d8-8e21-4fe8f47411ce
+    title: Imaginary eigenvector equivalence
+  - challenge_sha:
+      private: 52e1ef7da9cbedd0094174a486e396e93c172238
+      public: a4583e7a763e6aab4176ee9a3e512cdbc7e2a391
+    language: en
+    id: fd4f0190-c05e-4980-bc5b-8c0531ba2221
+    title: 'Solving systems of ODE''s with initial conditions: ((-1,1),(-1,-1))'
+  - challenge_sha:
+      private: 1a73a3d4d70d3f1254f491b0ae0afe3b9b8f4196
+      public: c4f17e1f3fd09742f6f2ef65c7716550d475a8ca
+    language: en
+    id: f265cffd-1302-4873-965a-2cb973f00fc9
+    title: 'Solving systems of ODE''s with conditions: ((1,2),(4,3))'
+  - challenge_sha:
+      private: 785818a0bfc7d53cebfd550f8228dbd8237fb224
+      public: dcbab76a3477859aa4cd6685b7bf4c187dc77ef8
+    language: en
+    id: aebd34f7-e4df-4eb5-95f8-e58ca739bf80
+    title: 'Solving systems of ODE''s with conditions: ((-4,0),(0,-4))'
+  - challenge_sha:
+      private: 7a2a99ece2fd19e1c007c4d80bace18fd71eeb00
+      public: bdf2a9946319dc0dcfde9e43bbb8ede86a489269
+    language: en
+    id: bafb0068-db14-47b2-b454-76570cb5fd82
+    title: Phase-space of pendulum motion
+  - challenge_sha:
+      private: dcf3fc6cd5f98a65431c045055516f939b97afa6
+      public: ed44d25aa3e9b2c1fe13de24904f3a1daa4ba04b
+    language: en
+    id: edc5f416-4593-418a-80b4-33cd029de35f
+    title: Relating systems of equations to graphs
+  - challenge_sha:
+      private: 2e34de37a3f477e76033f304683b1003be0ea12b
+      public: fa067b76c51d034087f9a385138a626dcec9e979
+    language: en
+    id: c77b825c-caf2-4d41-a555-b0c29cb5f51d
+    title: Understanding the terms of a predator-prey system of equations
+  - challenge_sha:
+      private: c6c6bc91cfbbfb6c403a28b94925c600e69e057f
+      public: 2acaaf8048ddacd27c70ff1b47e67b8607feaeea
+    language: en
+    id: 958fff68-9492-4135-9f72-68bdc43d6b92
+    title: Calculating the number of prey in a predator-prey system of equations
+  - challenge_sha:
+      private: 08d12afacb89d8cec499d1231b6aacb49d502196
+      public: 631a26a4331f4f6ca307612df298809c0e941306
+    language: en
+    id: 94fc7944-d3fd-414d-8e31-3c5f89646d94
+    title: Calculating population equilibrium of a predator-prey system of equations
+  title: Imaginary solutions to systems of ODE's, and graphs and non-linear systems
+- has_teams: false
+  starts_after: 4239600
+  challenges:
+  - challenge_sha:
+      private: 673fbb0528301efc87b40cf4cd8e92afba523d5d
+      public: d1f347c0ca89a5dcdc06ad3b59cdf85e3adc5b1c
+    language: en
+    id: d7b47164-5b33-4d98-b0a8-0cf5596dea04
+    title: Stability of solutions of an ODE describing acceleration under gravity
+  - challenge_sha:
+      private: 857d5196296c7e879d64d6b891db0ebd956de74e
+      public: 65891e6c1eab86c229fe2d84bb3da49a97812e3b
+    language: en
+    id: 227f9b55-7c1d-4742-bab9-db603ba87df0
+    title: Understanding tangent lines
+  - challenge_sha:
+      private: 585100a2c56c7fe9c7c90153c117d8db275fab38
+      public: e6b796ada17fc900f554198827e372687dbb179d
+    language: en
+    id: fcf61b26-f6f4-4764-a305-440d6f215d5c
+    title: Numerical solutions to an ODE using Euler's method, by hand
+  - challenge_sha:
+      private: 0036281e0333e959faa332f2d6f1d0fa3216a622
+      public: 9f170c3311f39cebf4f66a7aeb11de6f79dd9fca
+    language: en
+    id: 38ead30f-bf23-45e9-91dd-2e5f052e6420
+    title: Understanding the 4th-order Runge-Kutta method
+  - challenge_sha:
+      private: 1b0d6a5df69280d4fc2510d2ece73b4a8941b065
+      public: a86c6fa3756a7d5594912d921f7d3dfe1c37a3b7
+    language: en
+    id: 182e44f7-6d42-4a07-81f8-3dbd9cf74a49
+    title: Numerical solution of an ODE using a computer
+  title: Numerical solutions
+other_languages: []
+topics:
+- ordinary differential equations
+- differential equations
+- undergraduate
+editor_id: github.NanoScaleDesign
+challenge_sha: 86050cea6c58ffdc74f4e1b4aa6b639a4c341d4a
+modified: 2021-02-16T23:13:06.482368537Z
+version: '1.0'
+title_id: ordinary-differential-equations-ii-2020-f9cc916577ebb8b4d4ec6d9178bba3344d5844a2
+language: en
+id: f9cc916577ebb8b4d4ec6d9178bba3344d5844a2
+title: Ordinary Differential Equations II (2020)
+storage_id: e43c8c48-0a4c-4a2a-80cd-f19244701b07
+duration: 56
+description: Ordinary Differential Equations II (2020)
+institute:
+  url: https://www.kyushu-u.ac.jp
+  en_name: Kyushu University
+  name: 九州大学

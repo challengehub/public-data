@@ -1,0 +1,359 @@
+stints:
+- has_teams: false
+  starts_after: 5400
+  challenges:
+  - challenge_sha:
+      private: afabe7cedc59918f4843f14af1f876645a97d443
+      public: 3a7fab3b1fe00dd48f03d5fa9199aef68d074ffa
+    language: en
+    id: 303d425e-40fa-4e92-b780-7af2c4c8cdf1
+    title: Rate of decay (ODE in-class challenge)
+  - challenge_sha:
+      private: 23c4d04c698112a9d12a359dfcf4981c9e4786d9
+      public: a0e305915fb1a888a3e86a656e247a4895a20246
+    language: en
+    id: f6eeaa31-2605-48e2-8813-e606df9092be
+    title: Age of charcol (ODE in-class challenge)
+  title: In-class challenges
+- has_teams: false
+  starts_after: 8100
+  challenges:
+  - challenge_sha:
+      private: 509a83fa05713abf5cd91483dd235eb0e95dbf19
+      public: 871d7d976acbc1580b6b5a350ab957d895dde62c
+    language: en
+    id: 0ee92a47-c25f-4fe0-8ffd-2402b915aa65
+    title: Determining the order of an ordinary differential equation
+  - challenge_sha:
+      private: d476dd925db0705a01d00da573091031d18bce06
+      public: ba1534818789000f2a925575e5b69f6fdadc1d40
+    language: en
+    id: c545e64a-a64e-439d-a0a3-4f6fdb2d022c
+    title: Identifying linear and non-linear ordinary differential equations
+  - challenge_sha:
+      private: b56687b1845b0dfd3382c7cc3c7a4fff6aa31f78
+      public: 2af2f21ee404d9ab22887e1268c1c7e9043a058e
+    language: en
+    id: b0e8bcb5-2120-4c31-899b-1baf0d88a4eb
+    title: Valid solutions of ODE's
+  - challenge_sha:
+      private: bc616eef8ea5625d61f6592483a7b7b07d121c68
+      public: f4d1a502b98bb402a0c83cb62837b364ac35c9cf
+    language: en
+    id: 3a0eb512-912b-48c7-a3db-2292449afba4
+    title: The range of valid solution of an ODE
+  - challenge_sha:
+      private: 76c39222ba6333ca11434744ee794beba4e0a43a
+      public: 5096e5b8a6147a47c3ac1b690adb5864e67b007d
+    language: en
+    id: 3f8ef06c-5f7b-46db-9f16-caf60945d873
+    title: Determining a simple ODE from a description - Newton's law of cooling
+  - challenge_sha:
+      private: 3ebc9e23a0f25390b52913833b45ddb0fbc30023
+      public: 706ed8ad4ad528af6ee57856c0c386edb5283738
+    language: en
+    id: c4a66aac-7788-4788-ac55-94f57f60e031
+    title: Drawing the direction field for y'=x
+  - challenge_sha:
+      private: 6dd04f4d9b74d04971194d15db2f60c6a8fba7d6
+      public: 94358574d54e356f102d33dfb760c24c92257751
+    language: en
+    id: 3eef92cd-f762-46a9-953e-4a8c6bb481ff
+    title: Drawing the direction field for y'=0.2y
+  - challenge_sha:
+      private: d9009ab63fd703e79b8b4df8d3b6f250c2ef10b3
+      public: a30c32afde5f97bac3b829ba7fa24e211f58daeb
+    language: en
+    id: 0b532686-b33d-4b06-90ee-33ebd25c188c
+    title: Drawing the direction field for y'=0.2y(1-y/6)
+  title: ODE terminology and direction fields
+- has_teams: true
+  starts_after: 610200
+  challenges:
+  - challenge_sha:
+      private: e59a66ed1dcad0399230a33bc64b1988fc16e5fd
+      public: 6f8f9f2506542b8d35249483079a3e5676fd1d6d
+    language: en
+    id: c0a6c531-8f72-4132-9f58-4a6b8a26cf25
+    title: Identifying direction fields
+  - challenge_sha:
+      private: 182e68948c4c850d51617c6aa234d5c40904b559
+      public: 6c81b81dfbd7924e5a79de655bf148f959ac238d
+    language: en
+    id: 6d95069e-cc0a-4f39-acf8-6881d98674fe
+    title: 'Solving separable ODE''s: y''=y'
+  - challenge_sha:
+      private: 6dd050798764c30f10a910b34ef9d1314831f445
+      public: e0ed86b4a69f84e7de2262ab93dbb2761801669f
+    language: en
+    id: da15d5d5-2b2e-4e8d-abc4-bb220aa80d4a
+    title: Understanding the exponential
+  - challenge_sha:
+      private: 0297e1966663cc8ce09cbf8a26febd54dbe110bf
+      public: 774f1b859bc145c9a7898a7974fcdd7ad9c84591
+    language: en
+    id: 2052ddc3-9737-47d0-884a-1346cb5279f3
+    title: Rate of unrestricted growth
+  - challenge_sha:
+      private: 9fe72f57771f89b7f5445d89a2dcb9971497c6ab
+      public: c2eefa48004f85083a3391e543a1a22bb0e1e7d2
+    language: en
+    id: d40d5f57-b9ee-4ac4-be11-96ab3c73f2f6
+    title: The logistic equation
+  - challenge_sha:
+      private: 53fdd01936fb884a115a3376d777d5ad8f52654d
+      public: ed1d7996c073c768f0298f27d9f589b4549b620e
+    language: en
+    id: d178eeca-e586-40de-854e-365f93b0d365
+    title: Identifying autonomous differential equations
+  - challenge_sha:
+      private: 510400718b983aa13ead5f1f591bd540fed19ea9
+      public: 7b27910b4f297a245bdaa18884cd2c7ce06b7960
+    language: en
+    id: e8e5a20b-fe61-4c5e-bd43-1d9ae999169a
+    title: 'The stability of solutions: N''=0.2(N-1)(1-N/6)'
+  - challenge_sha:
+      private: 9400a25bcd2d8ca0f2aa45757c471e2801e406f4
+      public: aa5984fedb2ad005a732d6a04c6d3a9641af23b0
+    language: en
+    id: 4f5b05c1-779f-4427-8c06-4eec5b47dfcc
+    title: 'The stability of solutions: y''=(y^2-16)(y+3)^2'
+  title: Exponential and limited growth
+- has_teams: true
+  starts_after: 1215900
+  challenges:
+  - challenge_sha:
+      private: e465643becd94f4275e06342bdac39ccb507dbc6
+      public: 419d1f28f48f6c2de5c4d37288b76b16032807c5
+    language: en
+    id: 765d76b3-b013-481e-96c9-d642b3f3ceff
+    title: Hooke's law
+  - challenge_sha:
+      private: cb5a70e7fd1674f30de7322f4140cf5be05a1b5f
+      public: 6db2d974216df44ef9f6d35364c81da7c7712d7b
+    language: en
+    id: 09aedea8-24dd-444c-a67f-b59993e6d0f8
+    title: Trigonometric functions in exponential form
+  - challenge_sha:
+      private: 00fb7c39053101aa7b2291047c63a3cd9c014f81
+      public: 94816689611dac691c683b1341f32b207118433e
+    language: en
+    id: b969ef61-49fc-4e97-bf55-6a393489a4e5
+    title: 'Characteristic equation: understanding'
+  - challenge_sha:
+      private: 76e86933840a0b9024d0e001fa57e2bdbb0c428f
+      public: b869777acf75bd2fedd80ecfcc87391a79ce8ee2
+    language: en
+    id: 252e4f0b-2972-48ac-8729-5e2e2ccfe2ac
+    title: 'Characteristic equation identification: Real, distinct roots'
+  - challenge_sha:
+      private: ac88e5e3bb873dfc86a6dc8c11a7f971fa40fd38
+      public: c2724f0c01d54455c28e393c65df1ba06bf29146
+    language: en
+    id: d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb
+    title: 'Characteristic equation identification: Complex roots'
+  - challenge_sha:
+      private: 398d553374ae1dc274f30314ba139934d42b96cf
+      public: 180ea7a2d42ea3b83542ed1b6902ef9e7bade262
+    language: en
+    id: 00cfeb1f-f257-41a3-aa75-e69506520180
+    title: 'Characteristic equation identification: Equal roots'
+  - challenge_sha:
+      private: 14d52f4c5403e8fcde17ab0e7320f4636061891d
+      public: 419302775f113b3a91d1cb9efb978c67f63dce02
+    language: en
+    id: 3473bf8c-fe46-4221-a1c8-cbf49b2254ef
+    title: 'Characteristic equation: real negative roots'
+  - challenge_sha:
+      private: b4b63ace369aac34c4fcf191166be9d51b72cf5b
+      public: a08a864bda901fff3b766168b862070a2650dd43
+    language: en
+    id: 17986c2c-49ef-4d45-bfd5-3dcf94aed393
+    title: 'Characteristic equation: real positive roots'
+  - challenge_sha:
+      private: 43e099a7a2afccba4afe74e855875fa07673a77b
+      public: 82de37a989a8b8ce955961f40300395c29c27865
+    language: en
+    id: 4ebe97ab-3a92-4aac-9d05-ad825b07de95
+    title: 'Characteristic equation: mixed real roots'
+  - challenge_sha:
+      private: f4728121cb1ff900e4f8a7eb375e4b80b968d6f3
+      public: ebbd509c69062682abdd69fed68864170595076f
+    language: en
+    id: d1d8b7b9-6a76-41a1-aab9-b7e3d677d39f
+    title: 'Characteristic equation: With equal roots'
+  title: Introduction to characteristic equations and real roots
+- has_teams: true
+  starts_after: 1819800
+  challenges:
+  - challenge_sha:
+      private: c4a581daae6821c524a5d7ee46db9740b2a2a82d
+      public: 9d56be2ed223c1b046be372d36b8909514f63ab2
+    language: en
+    id: 80c1cc16-4ece-4177-9759-8674981e2933
+    title: 'Characteristic equation: complex roots with B=0'
+  - challenge_sha:
+      private: 710285faac4ecb3e68a8c72d6a299332621dd339
+      public: 1fbfb61ba3bf930c521a300d74767b222c9396c1
+    language: en
+    id: 3ee6ea3f-bee0-4710-a246-edf6923b84db
+    title: 'Characteristic equation: complex roots with non-zero B (I)'
+  - challenge_sha:
+      private: c7a4385033ab7c8e9c6da1886c17d0333175ca98
+      public: eae2cd712f8c3a29562f71b86e7d28e94efd4f29
+    language: en
+    id: ba2a7b3b-0b51-4aae-beec-9c24a51a5f4e
+    title: 'Characteristic equation: complex roots with non-zero B (II)'
+  - challenge_sha:
+      private: c065faa6be6173057da2737135c86cce125ff678
+      public: d5e2b4cc83cfec4b72b06235c19c3ba35fa85e39
+    language: en
+    id: 2e8d8182-aaf8-4ae1-99a3-6510723306ea
+    title: Damping
+  - challenge_sha:
+      private: b47178bd52936c3ea257309aa5a25b0df1ca4be9
+      public: 75a39c99dda97809202b215a7fbe1f8e377db910
+    language: en
+    id: 1d51e481-8d91-4ed5-82e5-3f44d044837e
+    title: Damping and 2nd-order differential equations
+  - challenge_sha:
+      private: b0072f398baac6aa0531f30938079bd61e707a67
+      public: 1ff9e1681b5dfa4f72c9beee803aba493abbea7f
+    language: en
+    id: 101dc2db-3300-4fa8-ad2a-3cdfcbe5ccde
+    title: 'Characteristic equation exersize: 2y'''' + 8y'' + y = 0'
+  - challenge_sha:
+      private: 7d4459d09bb0ae20e9f49aef67768f6ba13eb537
+      public: 833159b16e209cad2efac8106b45a57ef9fa1956
+    language: en
+    id: 76da5697-3251-4d5e-8382-e35857ed724a
+    title: 'Characteristic equation exersize: 2y'''' + 4y'' + 2y = 0'
+  - challenge_sha:
+      private: dcd37611faf5bc7097d69b2e9f39709c2e0f5fd6
+      public: 8ce188648f8423ed13387ea37f6bf4a9cf13baf5
+    language: en
+    id: ad274394-954f-4710-8970-5458b94afa4e
+    title: 'Characteristic equation exersize: 4y'''' + 3y'' + y = 0'
+  - challenge_sha:
+      private: 6f413046db0aad0689bcbbe5528dab1dbe183027
+      public: ea3f9948112863fdb9a4545d075632361105a4d6
+    language: en
+    id: 855c7fdc-61bc-4ae8-8ced-ddbf3516a4db
+    title: Solving non-homogeneous ODE's
+  title: Damping
+- has_teams: true
+  starts_after: 2425500
+  challenges:
+  - challenge_sha:
+      private: 4d991133dd0679546d44c034f62bc4789d6121ef
+      public: 9d410761c8d67d39e97ed762bac816a7ee4e1d0f
+    language: en
+    id: 36e77427-f07a-4790-a1b6-0bf9c151774f
+    title: 'Method of undetermined coefficients: y'''' + 4y = 8 cos(2t)'
+  - challenge_sha:
+      private: 6994ab6c1a11009728c27e907e56745a7a72e101
+      public: a7b092f4ca638ccdbd3913d3476c428de632d80b
+    language: en
+    id: aceaf9ac-cb3e-4bee-ab01-764112cd80d2
+    title: 'Method of undetermined coefficients: y'''' + 2y'' = 2 te^(-t)'
+  - challenge_sha:
+      private: a5c3a3b1030ce5bc2078640f0368d2394a24d0c5
+      public: 63830230690db0d42d2fe60145d6c6ab0afc2e50
+    language: en
+    id: 8f29022d-ebf7-4d81-bf58-2159a627ed01
+    title: 'Method of undetermined coefficients: y'''' + 2y'' = 6 e^(-2t)'
+  - challenge_sha:
+      private: 40becb78af8a2684d435ca56e39f257769e5a6c8
+      public: b543a30c948e3469eb38edd5780b5c91f708b8de
+    language: en
+    id: 858c648c-95fc-449c-a09f-33dfa0ce06b1
+    title: 'Method of undetermined coefficients: y'''' + 2y'' = 12 t^2'
+  - challenge_sha:
+      private: c356082c939c6acce97164353ec460dacbc834d9
+      public: f65dee2d8c11ff1453680aaf3cfd53670a80598c
+    language: en
+    id: d09bbeae-78f8-48ee-bab7-923df8d14481
+    title: 'Method of undetermined coefficients: y'''' - 6y'' - 7y = 13 cos(2t) +
+      34 sin(2t)'
+  - challenge_sha:
+      private: ad43e8e53f3050a6fea2328860e0c5f6f23c6ea0
+      public: 913af3261319302ba12f909623fbf0a134a5d0c7
+    language: en
+    id: a767ccfa-0821-47fb-a7bf-002272fcc65a
+    title: 'Method of undetermined coefficients: y'''' - 6y'' - 7y = 8e^(-t) - 7t
+      - 6'
+  - challenge_sha:
+      private: 1647e824c14d174ab2fb8f004abcdde778c50c8b
+      public: b24992a42d86d31051d1f9e1d54a8b0ee33c8b86
+    language: en
+    id: 65cc3492-2545-4f68-9d25-9758a04fe9a7
+    title: 'Method of undetermined coefficients: Determining the ODE: y = C_1 cos(4t)
+      + C_2 sin(4t) - e^t sin (2t)'
+  - challenge_sha:
+      private: 066a9e88d016b0da67a47a9d989843c6edd6d96c
+      public: 3a2ea0bec17b3e7e0b805d9cdf86ff20b8d16608
+    language: en
+    id: 82587093-0f57-4142-a64c-bf81f73434fc
+    title: 'Method of undetermined coefficients: Determining the ODE: C_1 e^(-2t)
+      + C_2 t e^(-2t) + t^3 - 3t'
+  title: Method of undetermined coefficients
+- has_teams: true
+  starts_after: 3030300
+  challenges:
+  - challenge_sha:
+      private: 59822b67e3c0eac7d032d7db42a871179b3d3db7
+      public: ccbacaf28a98d36a7b9c3ba988e3cfa26378e3d8
+    language: en
+    id: fe8e46d4-0d92-4f1f-929f-c19965ec4fbb
+    title: Free vibration of a harmonic spring
+  - challenge_sha:
+      private: 41ea10f4d8a10777877c8cdfa64fa2cc7c73c3c1
+      public: ae20e0695356e8602182aa02c05d7a83910d5482
+    language: en
+    id: 84e5e67a-7b46-45a4-9706-f2e5295eb2b6
+    title: Understanding phase-shift from sine to cosine
+  - challenge_sha:
+      private: 6e6b6870fa1e8833079a5c5fa3cd3e12437268a2
+      public: 1affe9bef43420bdc84e6aa7a728f7f75c805f2f
+    language: en
+    id: f5c97038-c150-4774-925e-04a803deb5a6
+    title: Derivation of a periodically-forced harmonically vibrating system
+  - challenge_sha:
+      private: c22972c758a0213a62357ad1325675a4bbcd834e
+      public: f5f58749f2f6de1f81a0d8cad35aca23c6858d8b
+    language: en
+    id: 4148748f-d8fe-4f62-84a6-ce43ba3c96bd
+    title: Beating equation derivation
+  - challenge_sha:
+      private: c7216e7c58d81ca2d22e3d10e8178b7c8bacfb02
+      public: 54f287205f89baac92c85a4ef34c1880fab00af2
+    language: en
+    id: f5748ada-0a79-4ae1-8f96-388d6133f7ca
+    title: Explanation of beating occuring in forced vibration
+  - challenge_sha:
+      private: 773ed7d27041d749e7db85710d65cc01b1f349a8
+      public: ab7d3e586a8fa28f828cfb276d65d52990fa4d0d
+    language: en
+    id: 3f1577f0-4485-4627-abe5-a9fe45b0e338
+    title: Resonance derivation for a system undergoing harmonic oscillation
+  title: Resonance and beating
+other_languages: []
+topics:
+- ordinary differential equations
+- differential equations
+- undergraduate
+editor_id: github.NanoScaleDesign
+challenge_sha: 37c36abf9fb3999af78321fa8c7972e8feafee23
+modified: 2021-02-16T23:12:03.436600756Z
+version: '1.0'
+title_id: ordinary-differential-equations-i-2020-7fa688826bf0fea87ae319456987d2f8db24ddf3
+language: en
+id: 7fa688826bf0fea87ae319456987d2f8db24ddf3
+title: Ordinary Differential Equations I (2020)
+storage_id: 2012eb91-bc3a-4164-9e5d-074f6a527639
+duration: 119
+description: Ordinary Differential Equations I (2020)
+institute:
+  url: https://www.kyushu-u.ac.jp
+  en_name: Kyushu University
+  name: 九州大学

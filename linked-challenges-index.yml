@@ -67,6 +67,17 @@ c4a66aac-7788-4788-ac55-94f57f60e031:
   title_id: drawing-the-direction-field-for-yx-706ed8
   title: Drawing the direction field for y'=x
   creator_id: github.NanoScaleDesign
+8f29022d-ebf7-4d81-bf58-2159a627ed01:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: a5c3a3b1030ce5bc2078640f0368d2394a24d0c5
+    public: 63830230690db0d42d2fe60145d6c6ab0afc2e50
+  import_time: 2021-02-21T12:25:11.1767638Z
+  title_id: method-of-undetermined-coefficients-y-2y-6-e-2t-638302
+  title: 'Method of undetermined coefficients: y'''' + 2y'' = 6 e^(-2t)'
+  creator_id: github.NanoScaleDesign
 6d95069e-cc0a-4f39-acf8-6881d98674fe:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

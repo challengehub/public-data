@@ -11,3 +11,14 @@ b969ef61-49fc-4e97-bf55-6a393489a4e5:
   title_id: characteristic-equation-understanding-948166
   title: 'Characteristic equation: understanding'
   creator_id: github.NanoScaleDesign
+2052ddc3-9737-47d0-884a-1346cb5279f3:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 0297e1966663cc8ce09cbf8a26febd54dbe110bf
+    public: 774f1b859bc145c9a7898a7974fcdd7ad9c84591
+  import_time: 2021-02-21T12:24:30.754295366Z
+  title_id: rate-of-unrestricted-growth-774f1b
+  title: Rate of unrestricted growth
+  creator_id: github.NanoScaleDesign

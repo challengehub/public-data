@@ -347,6 +347,17 @@ f06c20b2-eb25-4e6c-a5d9-50fe937ff0b2:
   title_id: proving-ez2-pi-i-ez-63dc7e
   title: Proving e^(z+2 pi i) = e^z
   creator_id: github.NanoScaleDesign
+5ea6506c-5373-4f4d-add7-051bd224a50d:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 7b149289edd64361b5d3d588577de5b6ec2a7d84
+    public: efeddb9fa6ef26b13506dd8670ab82b0f956cf14
+  import_time: 2021-02-21T21:14:39.534111623Z
+  title_id: counting-carrots-efeddb
+  title: Counting carrots
+  creator_id: github.NanoScaleDesign
 bcd7710c-71d3-440e-9e96-ab3c54d38f10:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

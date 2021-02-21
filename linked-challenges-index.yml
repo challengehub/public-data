@@ -2142,6 +2142,17 @@ fc4fd5c1-ca0d-419e-a244-877b6fe91771:
   title_id: mapping-a-complex-square-onto-another-set-b5294a
   title: Mapping a complex square onto another set
   creator_id: github.NanoScaleDesign
+f5c97038-c150-4774-925e-04a803deb5a6:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6e6b6870fa1e8833079a5c5fa3cd3e12437268a2
+    public: 1affe9bef43420bdc84e6aa7a728f7f75c805f2f
+  import_time: 2021-02-21T21:04:09.363005558Z
+  title_id: derivation-of-a-periodically-forced-harmonically-vibrating-system-1affe9
+  title: Derivation of a periodically-forced harmonically vibrating system
+  creator_id: github.NanoScaleDesign
 73b03f08-fbd8-4fc3-9f99-9de3fb6934be:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

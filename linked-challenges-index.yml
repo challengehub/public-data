@@ -79,6 +79,17 @@ a767ccfa-0821-47fb-a7bf-002272fcc65a:
   title: 'Method of undetermined coefficients: y'''' - 6y'' - 7y = 8e^(-t) - 7t -
     6'
   creator_id: github.NanoScaleDesign
+1d51e481-8d91-4ed5-82e5-3f44d044837e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b47178bd52936c3ea257309aa5a25b0df1ca4be9
+    public: 75a39c99dda97809202b215a7fbe1f8e377db910
+  import_time: 2021-02-21T12:25:18.783976364Z
+  title_id: damping-and-2nd-order-differential-equations-75a39c
+  title: Damping and 2nd-order differential equations
+  creator_id: github.NanoScaleDesign
 c4a66aac-7788-4788-ac55-94f57f60e031:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

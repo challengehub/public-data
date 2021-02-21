@@ -23,6 +23,17 @@ fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
   title_id: free-vibration-of-a-harmonic-spring-ccbaca
   title: Free vibration of a harmonic spring
   creator_id: github.NanoScaleDesign
+855c7fdc-61bc-4ae8-8ced-ddbf3516a4db:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6f413046db0aad0689bcbbe5528dab1dbe183027
+    public: ea3f9948112863fdb9a4545d075632361105a4d6
+  import_time: 2021-02-21T12:24:59.085160492Z
+  title_id: solving-non-homogeneous-odes-ea3f99
+  title: Solving non-homogeneous ODE's
+  creator_id: github.NanoScaleDesign
 c4a66aac-7788-4788-ac55-94f57f60e031:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

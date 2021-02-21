@@ -178,6 +178,17 @@ aceaf9ac-cb3e-4bee-ab01-764112cd80d2:
   title_id: characteristic-equation-mixed-real-roots-82de37
   title: 'Characteristic equation: mixed real roots'
   creator_id: github.NanoScaleDesign
+252e4f0b-2972-48ac-8729-5e2e2ccfe2ac:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 76e86933840a0b9024d0e001fa57e2bdbb0c428f
+    public: b869777acf75bd2fedd80ecfcc87391a79ce8ee2
+  import_time: 2021-02-21T12:25:03.986626409Z
+  title_id: characteristic-equation-identification-real-distinct-roots-b86977
+  title: 'Characteristic equation identification: Real, distinct roots'
+  creator_id: github.NanoScaleDesign
 858c648c-95fc-449c-a09f-33dfa0ce06b1:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

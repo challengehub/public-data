@@ -1315,6 +1315,18 @@ a8124252-ab6c-4e07-8592-531baa3e565a:
   title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1) on
     |z|=2'
   creator_id: github.NanoScaleDesign
+d09bbeae-78f8-48ee-bab7-923df8d14481:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: c356082c939c6acce97164353ec460dacbc834d9
+    public: f65dee2d8c11ff1453680aaf3cfd53670a80598c
+  import_time: 2021-02-21T21:05:26.086715788Z
+  title_id: method-of-undetermined-coefficients-y-6y-7y-13-cos2t-34-sin2t-f65dee
+  title: 'Method of undetermined coefficients: y'''' - 6y'' - 7y = 13 cos(2t) + 34
+    sin(2t)'
+  creator_id: github.NanoScaleDesign
 41ec89ed-5275-4096-a4ab-c35fc8b12cc3:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

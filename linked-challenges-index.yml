@@ -200,6 +200,17 @@ e8e5a20b-fe61-4c5e-bd43-1d9ae999169a:
   title_id: rate-of-unrestricted-growth-774f1b
   title: Rate of unrestricted growth
   creator_id: github.NanoScaleDesign
+f5c97038-c150-4774-925e-04a803deb5a6:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6e6b6870fa1e8833079a5c5fa3cd3e12437268a2
+    public: 1affe9bef43420bdc84e6aa7a728f7f75c805f2f
+  import_time: 2021-02-21T12:24:57.717708739Z
+  title_id: derivation-of-a-periodically-forced-harmonically-vibrating-system-1affe9
+  title: Derivation of a periodically-forced harmonically vibrating system
+  creator_id: github.NanoScaleDesign
 3eef92cd-f762-46a9-953e-4a8c6bb481ff:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

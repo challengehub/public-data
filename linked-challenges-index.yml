@@ -22,6 +22,17 @@
   title_id: characteristic-equation-exersize-2y-8y-y-0-1ff9e1
   title: 'Characteristic equation exersize: 2y'''' + 8y'' + y = 0'
   creator_id: github.NanoScaleDesign
+0b532686-b33d-4b06-90ee-33ebd25c188c:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: d9009ab63fd703e79b8b4df8d3b6f250c2ef10b3
+    public: a30c32afde5f97bac3b829ba7fa24e211f58daeb
+  import_time: 2021-02-21T12:25:36.368775138Z
+  title_id: drawing-the-direction-field-for-y02y1-y6-a30c32
+  title: Drawing the direction field for y'=0.2y(1-y/6)
+  creator_id: github.NanoScaleDesign
 3ee6ea3f-bee0-4710-a246-edf6923b84db:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

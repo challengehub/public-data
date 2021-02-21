@@ -470,6 +470,17 @@ b239d7f5-c247-4d80-8d90-2f207008feac:
   title_id: calculating-the-fourier-transform-of-a-shifted-window-function-e886f7
   title: Calculating the Fourier transform of a shifted window function
   creator_id: github.NanoScaleDesign
+6d95069e-cc0a-4f39-acf8-6881d98674fe:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 182e68948c4c850d51617c6aa234d5c40904b559
+    public: 6c81b81dfbd7924e5a79de655bf148f959ac238d
+  import_time: 2021-02-21T21:03:23.06136838Z
+  title_id: solving-separable-odes-yy-6c81b8
+  title: 'Solving separable ODE''s: y''=y'
+  creator_id: github.NanoScaleDesign
 76fb63e3-7948-4749-aa75-83b9a4674306:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

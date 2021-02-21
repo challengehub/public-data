@@ -1600,6 +1600,17 @@ bb12c06b-293a-452d-ab4f-091f552b76f5:
   title_id: characteristics-of-a-set-of-discrete-points-in-a-complex-plane-65754e
   title: Characteristics of a set of discrete points in a complex plane
   creator_id: github.NanoScaleDesign
+252e4f0b-2972-48ac-8729-5e2e2ccfe2ac:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 76e86933840a0b9024d0e001fa57e2bdbb0c428f
+    public: b869777acf75bd2fedd80ecfcc87391a79ce8ee2
+  import_time: 2021-02-21T21:04:23.528928166Z
+  title_id: characteristic-equation-identification-real-distinct-roots-b86977
+  title: 'Characteristic equation identification: Real, distinct roots'
+  creator_id: github.NanoScaleDesign
 47e7f9fa-6b7f-4b82-a45c-341f6ee1ef63:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

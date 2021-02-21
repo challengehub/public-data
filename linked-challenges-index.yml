@@ -1446,6 +1446,17 @@ c7ef7a05-037f-4289-9dbd-71e4494af8e2:
   title_id: a-review-of-continuous-functions-and-real-limits-khan-academy-85f773
   title: A review of continuous functions and real limits (Khan academy)
   creator_id: github.NanoScaleDesign
+d40d5f57-b9ee-4ac4-be11-96ab3c73f2f6:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 9fe72f57771f89b7f5445d89a2dcb9971497c6ab
+    public: c2eefa48004f85083a3391e543a1a22bb0e1e7d2
+  import_time: 2021-02-21T21:04:40.758144615Z
+  title_id: the-logistic-equation-c2eefa
+  title: The logistic equation
+  creator_id: github.NanoScaleDesign
 dcb372fa-f429-4032-9145-9f69375d9de3:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -12,6 +12,17 @@
   title: 'Method of undetermined coefficients: Determining the ODE: C_1 e^(-2t) +
     C_2 t e^(-2t) + t^3 - 3t'
   creator_id: github.NanoScaleDesign
+fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 59822b67e3c0eac7d032d7db42a871179b3d3db7
+    public: ccbacaf28a98d36a7b9c3ba988e3cfa26378e3d8
+  import_time: 2021-02-21T12:24:52.099501027Z
+  title_id: free-vibration-of-a-harmonic-spring-ccbaca
+  title: Free vibration of a harmonic spring
+  creator_id: github.NanoScaleDesign
 c4a66aac-7788-4788-ac55-94f57f60e031:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -12,6 +12,17 @@ bd50370b-d99c-43e4-9afc-348706d721a2:
   title: 'Independence of path: Integral of e^z on the contour 3t^2+i(t^4+t^2+1) for
     0<=t<=1'
   creator_id: github.NanoScaleDesign
+4f5b05c1-779f-4427-8c06-4eec5b47dfcc:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 9400a25bcd2d8ca0f2aa45757c471e2801e406f4
+    public: aa5984fedb2ad005a732d6a04c6d3a9641af23b0
+  import_time: 2021-02-21T21:04:37.02579939Z
+  title_id: the-stability-of-solutions-yy2-16y32-aa5984
+  title: 'The stability of solutions: y''=(y^2-16)(y+3)^2'
+  creator_id: github.NanoScaleDesign
 2b446632-3b6f-452a-9268-0d0019928477:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

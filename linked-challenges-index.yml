@@ -311,6 +311,17 @@ e8e5a20b-fe61-4c5e-bd43-1d9ae999169a:
   title_id: rate-of-unrestricted-growth-774f1b
   title: Rate of unrestricted growth
   creator_id: github.NanoScaleDesign
+303d425e-40fa-4e92-b780-7af2c4c8cdf1:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: afabe7cedc59918f4843f14af1f876645a97d443
+    public: 3a7fab3b1fe00dd48f03d5fa9199aef68d074ffa
+  import_time: 2021-02-21T12:25:15.643920606Z
+  title_id: rate-of-decay-ode-in-class-challenge-3a7fab
+  title: Rate of decay (ODE in-class challenge)
+  creator_id: github.NanoScaleDesign
 f5c97038-c150-4774-925e-04a803deb5a6:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

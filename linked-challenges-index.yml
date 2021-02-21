@@ -1125,6 +1125,17 @@ aceaf9ac-cb3e-4bee-ab01-764112cd80d2:
   title_id: method-of-undetermined-coefficients-y-2y-2-te-t-a7b092
   title: 'Method of undetermined coefficients: y'''' + 2y'' = 2 te^(-t)'
   creator_id: github.NanoScaleDesign
+80c1cc16-4ece-4177-9759-8674981e2933:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: c4a581daae6821c524a5d7ee46db9740b2a2a82d
+    public: 9d56be2ed223c1b046be372d36b8909514f63ab2
+  import_time: 2021-02-21T21:05:29.944930582Z
+  title_id: characteristic-equation-complex-roots-with-b0-9d56be
+  title: 'Characteristic equation: complex roots with B=0'
+  creator_id: github.NanoScaleDesign
 29fe5fd8-25bc-4367-a04c-0f8a60768bda:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

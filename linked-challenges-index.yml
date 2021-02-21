@@ -101,6 +101,17 @@ f6eeaa31-2605-48e2-8813-e606df9092be:
   title_id: age-of-charcol-ode-in-class-challenge-a0e305
   title: Age of charcol (ODE in-class challenge)
   creator_id: github.NanoScaleDesign
+3f8ef06c-5f7b-46db-9f16-caf60945d873:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 76c39222ba6333ca11434744ee794beba4e0a43a
+    public: 5096e5b8a6147a47c3ac1b690adb5864e67b007d
+  import_time: 2021-02-21T12:25:02.496336777Z
+  title_id: determining-a-simple-ode-from-a-description-newtons-law-of-cooling-5096e5
+  title: Determining a simple ODE from a description - Newton's law of cooling
+  creator_id: github.NanoScaleDesign
 da15d5d5-2b2e-4e8d-abc4-bb220aa80d4a:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

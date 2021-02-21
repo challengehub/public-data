@@ -592,6 +592,17 @@ b9121274-65e5-488d-b253-942a258debdf:
   title_id: obtaining-the-complex-derivative-of-fz-1z-e44ddc
   title: Obtaining the complex derivative of f(z) = 1/z
   creator_id: github.NanoScaleDesign
+76da5697-3251-4d5e-8382-e35857ed724a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 7d4459d09bb0ae20e9f49aef67768f6ba13eb537
+    public: 833159b16e209cad2efac8106b45a57ef9fa1956
+  import_time: 2021-02-21T21:04:31.584036112Z
+  title_id: characteristic-equation-exersize-2y-4y-2y-0-833159
+  title: 'Characteristic equation exersize: 2y'''' + 4y'' + 2y = 0'
+  creator_id: github.NanoScaleDesign
 f6a48495-20a4-49a5-998d-f245406ced61:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

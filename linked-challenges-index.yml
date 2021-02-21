@@ -982,6 +982,17 @@ aebfc845-cf9f-4a1c-87a9-96b506e29a16:
   title: Showing that the complex inverse sine function recovers real angles for real
     values
   creator_id: github.NanoScaleDesign
+00cfeb1f-f257-41a3-aa75-e69506520180:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 398d553374ae1dc274f30314ba139934d42b96cf
+    public: 180ea7a2d42ea3b83542ed1b6902ef9e7bade262
+  import_time: 2021-02-21T21:03:28.958282077Z
+  title_id: characteristic-equation-identification-equal-roots-180ea7
+  title: 'Characteristic equation identification: Equal roots'
+  creator_id: github.NanoScaleDesign
 108bd008-b765-4cc3-9b96-efd054a470be:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

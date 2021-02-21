@@ -970,6 +970,17 @@ b8dcab62-de99-458c-870a-2334edaedc58:
   title_id: find-the-taylor-series-of-ez-centred-at-2i-7a4038
   title: Find the Taylor series of e^z centred at 2i
   creator_id: github.NanoScaleDesign
+aceaf9ac-cb3e-4bee-ab01-764112cd80d2:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6994ab6c1a11009728c27e907e56745a7a72e101
+    public: a7b092f4ca638ccdbd3913d3476c428de632d80b
+  import_time: 2021-02-21T21:03:59.435360242Z
+  title_id: method-of-undetermined-coefficients-y-2y-2-te-t-a7b092
+  title: 'Method of undetermined coefficients: y'''' + 2y'' = 2 te^(-t)'
+  creator_id: github.NanoScaleDesign
 29fe5fd8-25bc-4367-a04c-0f8a60768bda:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

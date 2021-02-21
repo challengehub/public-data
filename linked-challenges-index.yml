@@ -56,6 +56,18 @@ fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
   title_id: solving-non-homogeneous-odes-ea3f99
   title: Solving non-homogeneous ODE's
   creator_id: github.NanoScaleDesign
+a767ccfa-0821-47fb-a7bf-002272fcc65a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ad43e8e53f3050a6fea2328860e0c5f6f23c6ea0
+    public: 913af3261319302ba12f909623fbf0a134a5d0c7
+  import_time: 2021-02-21T12:25:14.252546633Z
+  title_id: method-of-undetermined-coefficients-y-6y-7y-8e-t-7t-6-913af3
+  title: 'Method of undetermined coefficients: y'''' - 6y'' - 7y = 8e^(-t) - 7t -
+    6'
+  creator_id: github.NanoScaleDesign
 c4a66aac-7788-4788-ac55-94f57f60e031:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -691,6 +691,17 @@ b9121274-65e5-488d-b253-942a258debdf:
   title_id: drawing-the-set-and-image-of-the-line-x2-under-transformation-fz-iz2-3-3b91ef
   title: Drawing the set and image of the line x=2 under transformation f(z) = iz^2-3
   creator_id: github.NanoScaleDesign
+524222dc-8689-40f5-a89e-36cb60594f57:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: c35b5d3b1b2a80d71b78ff1bb563d6a41ff44ebd
+    public: aebce6d9b0080dd6d7af4ff5cbf8cec5dde9aea0
+  import_time: 2021-02-21T21:14:50.621700773Z
+  title_id: incubating-eggs-aebce6
+  title: Incubating eggs
+  creator_id: github.NanoScaleDesign
 65cc3492-2545-4f68-9d25-9758a04fe9a7:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

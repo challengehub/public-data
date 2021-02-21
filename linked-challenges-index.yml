@@ -34,3 +34,14 @@ b969ef61-49fc-4e97-bf55-6a393489a4e5:
   title_id: rate-of-unrestricted-growth-774f1b
   title: Rate of unrestricted growth
   creator_id: github.NanoScaleDesign
+3473bf8c-fe46-4221-a1c8-cbf49b2254ef:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 14d52f4c5403e8fcde17ab0e7320f4636061891d
+    public: 419302775f113b3a91d1cb9efb978c67f63dce02
+  import_time: 2021-02-21T12:24:33.491153786Z
+  title_id: characteristic-equation-real-negative-roots-419302
+  title: 'Characteristic equation: real negative roots'
+  creator_id: github.NanoScaleDesign

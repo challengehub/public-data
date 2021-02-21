@@ -488,6 +488,17 @@ f5748ada-0a79-4ae1-8f96-388d6133f7ca:
   title_id: rate-of-decay-ode-in-class-challenge-3a7fab
   title: Rate of decay (ODE in-class challenge)
   creator_id: github.NanoScaleDesign
+765d76b3-b013-481e-96c9-d642b3f3ceff:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: e465643becd94f4275e06342bdac39ccb507dbc6
+    public: 419d1f28f48f6c2de5c4d37288b76b16032807c5
+  import_time: 2021-02-21T12:25:39.481724445Z
+  title_id: hookes-law-419d1f
+  title: Hooke's law
+  creator_id: github.NanoScaleDesign
 f5c97038-c150-4774-925e-04a803deb5a6:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

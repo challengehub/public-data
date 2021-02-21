@@ -45,6 +45,17 @@
   title: 'Method of undetermined coefficients: Determining the ODE: C_1 e^(-2t) +
     C_2 t e^(-2t) + t^3 - 3t'
   creator_id: github.NanoScaleDesign
+c545e64a-a64e-439d-a0a3-4f6fdb2d022c:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: d476dd925db0705a01d00da573091031d18bce06
+    public: ba1534818789000f2a925575e5b69f6fdadc1d40
+  import_time: 2021-02-21T12:25:34.856760627Z
+  title_id: identifying-linear-and-non-linear-ordinary-differential-equations-ba1534
+  title: Identifying linear and non-linear ordinary differential equations
+  creator_id: github.NanoScaleDesign
 fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

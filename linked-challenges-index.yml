@@ -1535,6 +1535,17 @@ ca7ec9c8-53e7-4d6f-8b30-18157509bef1:
   title_id: understanding-the-limits-of-dft-calculations-777db0
   title: Understanding the limits of DFT calculations
   creator_id: github.NanoScaleDesign
+858c648c-95fc-449c-a09f-33dfa0ce06b1:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 40becb78af8a2684d435ca56e39f257769e5a6c8
+    public: b543a30c948e3469eb38edd5780b5c91f708b8de
+  import_time: 2021-02-21T21:03:35.198969635Z
+  title_id: method-of-undetermined-coefficients-y-2y-12-t2-b543a3
+  title: 'Method of undetermined coefficients: y'''' + 2y'' = 12 t^2'
+  creator_id: github.NanoScaleDesign
 3ed2275a-692e-42a8-8064-6e20c3b7061e:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

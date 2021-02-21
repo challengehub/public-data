@@ -2133,6 +2133,17 @@ e8e5a20b-fe61-4c5e-bd43-1d9ae999169a:
   title_id: the-stability-of-solutions-n02n-11-n6-7b2791
   title: 'The stability of solutions: N''=0.2(N-1)(1-N/6)'
   creator_id: github.NanoScaleDesign
+f5748ada-0a79-4ae1-8f96-388d6133f7ca:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: c7216e7c58d81ca2d22e3d10e8178b7c8bacfb02
+    public: 54f287205f89baac92c85a4ef34c1880fab00af2
+  import_time: 2021-02-21T21:05:33.188973008Z
+  title_id: explanation-of-beating-occuring-in-forced-vibration-54f287
+  title: Explanation of beating occuring in forced vibration
+  creator_id: github.NanoScaleDesign
 8b3fa5f8-dea0-494a-8b41-233cc2075118:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

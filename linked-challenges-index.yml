@@ -12,6 +12,17 @@
   title: 'Method of undetermined coefficients: Determining the ODE: C_1 e^(-2t) +
     C_2 t e^(-2t) + t^3 - 3t'
   creator_id: github.NanoScaleDesign
+c4a66aac-7788-4788-ac55-94f57f60e031:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 3ebc9e23a0f25390b52913833b45ddb0fbc30023
+    public: 706ed8ad4ad528af6ee57856c0c386edb5283738
+  import_time: 2021-02-21T12:24:40.663433167Z
+  title_id: drawing-the-direction-field-for-yx-706ed8
+  title: Drawing the direction field for y'=x
+  creator_id: github.NanoScaleDesign
 6d95069e-cc0a-4f39-acf8-6881d98674fe:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -1834,6 +1834,17 @@ f66f9ab6-ad8b-496f-8cc7-bf9bd267876b:
   title_id: factoring-a-difference-of-cubes-ad54c2
   title: Factoring a difference of cubes
   creator_id: github.NanoScaleDesign
+3a0eb512-912b-48c7-a3db-2292449afba4:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: bc616eef8ea5625d61f6592483a7b7b07d121c68
+    public: f4d1a502b98bb402a0c83cb62837b364ac35c9cf
+  import_time: 2021-02-21T21:05:15.533879484Z
+  title_id: the-range-of-valid-solution-of-an-ode-f4d1a5
+  title: The range of valid solution of an ODE
+  creator_id: github.NanoScaleDesign
 b0e8bcb5-2120-4c31-899b-1baf0d88a4eb:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

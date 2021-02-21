@@ -123,6 +123,17 @@ ff0d77b1-a79e-4cda-9a5c-a0fce108bf3b:
   title_id: partial-derivatives-practise-57880d
   title: Partial derivatives practise
   creator_id: github.NanoScaleDesign
+ad274394-954f-4710-8970-5458b94afa4e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: dcd37611faf5bc7097d69b2e9f39709c2e0f5fd6
+    public: 8ce188648f8423ed13387ea37f6bf4a9cf13baf5
+  import_time: 2021-02-21T21:05:51.62487413Z
+  title_id: characteristic-equation-exersize-4y-3y-y-0-8ce188
+  title: 'Characteristic equation exersize: 4y'''' + 3y'' + y = 0'
+  creator_id: github.NanoScaleDesign
 2c8d9029-ba26-40ba-9d3a-04725ea5fbe0:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

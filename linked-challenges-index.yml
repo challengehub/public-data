@@ -123,6 +123,17 @@ b969ef61-49fc-4e97-bf55-6a393489a4e5:
   title_id: characteristic-equation-understanding-948166
   title: 'Characteristic equation: understanding'
   creator_id: github.NanoScaleDesign
+0ee92a47-c25f-4fe0-8ffd-2402b915aa65:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 509a83fa05713abf5cd91483dd235eb0e95dbf19
+    public: 871d7d976acbc1580b6b5a350ab957d895dde62c
+  import_time: 2021-02-21T12:24:47.709930763Z
+  title_id: determining-the-order-of-an-ordinary-differential-equation-871d7d
+  title: Determining the order of an ordinary differential equation
+  creator_id: github.NanoScaleDesign
 2052ddc3-9737-47d0-884a-1346cb5279f3:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

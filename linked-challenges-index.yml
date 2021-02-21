@@ -2111,6 +2111,17 @@ bb5cb248-3c70-402c-99ba-eeb802ba9daa:
   title_id: graphing-z-rez-in-the-complex-plane-d30883
   title: Graphing |z| = Re(z) in the complex plane
   creator_id: github.NanoScaleDesign
+ba2a7b3b-0b51-4aae-beec-9c24a51a5f4e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: c7a4385033ab7c8e9c6da1886c17d0333175ca98
+    public: eae2cd712f8c3a29562f71b86e7d28e94efd4f29
+  import_time: 2021-02-21T21:05:37.193344641Z
+  title_id: characteristic-equation-complex-roots-with-non-zero-b-ii-eae2cd
+  title: 'Characteristic equation: complex roots with non-zero B (II)'
+  creator_id: github.NanoScaleDesign
 c13a73c3-7367-4e8c-a74e-2711c0e7da50:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

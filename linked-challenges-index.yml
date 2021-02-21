@@ -300,6 +300,17 @@ d40d5f57-b9ee-4ac4-be11-96ab3c73f2f6:
   title_id: method-of-undetermined-coefficients-y-2y-12-t2-b543a3
   title: 'Method of undetermined coefficients: y'''' + 2y'' = 12 t^2'
   creator_id: github.NanoScaleDesign
+b0e8bcb5-2120-4c31-899b-1baf0d88a4eb:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b56687b1845b0dfd3382c7cc3c7a4fff6aa31f78
+    public: 2af2f21ee404d9ab22887e1268c1c7e9043a058e
+  import_time: 2021-02-21T12:25:21.609802121Z
+  title_id: valid-solutions-of-odes-2af2f2
+  title: Valid solutions of ODE's
+  creator_id: github.NanoScaleDesign
 b969ef61-49fc-4e97-bf55-6a393489a4e5:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

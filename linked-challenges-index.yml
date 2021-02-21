@@ -1889,6 +1889,17 @@ c13a73c3-7367-4e8c-a74e-2711c0e7da50:
   title_id: sketching-complex-parametric-curves-5fa166
   title: Sketching complex parametric curves
   creator_id: github.NanoScaleDesign
+0ee92a47-c25f-4fe0-8ffd-2402b915aa65:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 509a83fa05713abf5cd91483dd235eb0e95dbf19
+    public: 871d7d976acbc1580b6b5a350ab957d895dde62c
+  import_time: 2021-02-21T21:03:46.60663738Z
+  title_id: determining-the-order-of-an-ordinary-differential-equation-871d7d
+  title: Determining the order of an ordinary differential equation
+  creator_id: github.NanoScaleDesign
 f06adee3-8a49-4289-92e9-9f1d535c8e50:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

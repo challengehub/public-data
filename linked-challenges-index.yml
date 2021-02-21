@@ -68,6 +68,17 @@ f6eeaa31-2605-48e2-8813-e606df9092be:
   title_id: characteristic-equation-identification-equal-roots-180ea7
   title: 'Characteristic equation identification: Equal roots'
   creator_id: github.NanoScaleDesign
+858c648c-95fc-449c-a09f-33dfa0ce06b1:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 40becb78af8a2684d435ca56e39f257769e5a6c8
+    public: b543a30c948e3469eb38edd5780b5c91f708b8de
+  import_time: 2021-02-21T12:24:42.083079551Z
+  title_id: method-of-undetermined-coefficients-y-2y-12-t2-b543a3
+  title: 'Method of undetermined coefficients: y'''' + 2y'' = 12 t^2'
+  creator_id: github.NanoScaleDesign
 b969ef61-49fc-4e97-bf55-6a393489a4e5:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

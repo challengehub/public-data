@@ -101,6 +101,18 @@ ff0d77b1-a79e-4cda-9a5c-a0fce108bf3b:
   title_id: complex-number-algebra-aibn-aaa4b5
   title: 'Complex number algebra: (a+ib)^n'
   creator_id: github.NanoScaleDesign
+82587093-0f57-4142-a64c-bf81f73434fc:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 066a9e88d016b0da67a47a9d989843c6edd6d96c
+    public: 3a2ea0bec17b3e7e0b805d9cdf86ff20b8d16608
+  import_time: 2021-02-21T21:03:14.43676806Z
+  title_id: method-of-undetermined-coefficients-determining-the-ode-c1-e-2t-c2-t-e-2t-t3-3t-3a2ea0
+  title: 'Method of undetermined coefficients: Determining the ODE: C_1 e^(-2t) +
+    C_2 t e^(-2t) + t^3 - 3t'
+  creator_id: github.NanoScaleDesign
 78599696-d265-430c-96b8-46b4470943bc:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

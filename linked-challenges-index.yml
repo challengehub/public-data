@@ -12,6 +12,17 @@
   title: 'Method of undetermined coefficients: Determining the ODE: C_1 e^(-2t) +
     C_2 t e^(-2t) + t^3 - 3t'
   creator_id: github.NanoScaleDesign
+6d95069e-cc0a-4f39-acf8-6881d98674fe:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 182e68948c4c850d51617c6aa234d5c40904b559
+    public: 6c81b81dfbd7924e5a79de655bf148f959ac238d
+  import_time: 2021-02-21T12:24:36.409194789Z
+  title_id: solving-separable-odes-yy-6c81b8
+  title: 'Solving separable ODE''s: y''=y'
+  creator_id: github.NanoScaleDesign
 65cc3492-2545-4f68-9d25-9758a04fe9a7:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

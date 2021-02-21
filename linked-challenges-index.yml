@@ -168,6 +168,17 @@ d178eeca-e586-40de-854e-365f93b0d365:
   title_id: characteristic-equation-exersize-2y-4y-2y-0-833159
   title: 'Characteristic equation exersize: 2y'''' + 4y'' + 2y = 0'
   creator_id: github.NanoScaleDesign
+2e8d8182-aaf8-4ae1-99a3-6510723306ea:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: c065faa6be6173057da2737135c86cce125ff678
+    public: d5e2b4cc83cfec4b72b06235c19c3ba35fa85e39
+  import_time: 2021-02-21T12:25:24.562424055Z
+  title_id: damping-d5e2b4
+  title: Damping
+  creator_id: github.NanoScaleDesign
 f6eeaa31-2605-48e2-8813-e606df9092be:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -57,6 +57,17 @@ f6eeaa31-2605-48e2-8813-e606df9092be:
   title_id: age-of-charcol-ode-in-class-challenge-a0e305
   title: Age of charcol (ODE in-class challenge)
   creator_id: github.NanoScaleDesign
+36e77427-f07a-4790-a1b6-0bf9c151774f:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 4d991133dd0679546d44c034f62bc4789d6121ef
+    public: 9d410761c8d67d39e97ed762bac816a7ee4e1d0f
+  import_time: 2021-02-21T12:24:46.285760262Z
+  title_id: method-of-undetermined-coefficients-y-4y-8-cos2t-9d4107
+  title: 'Method of undetermined coefficients: y'''' + 4y = 8 cos(2t)'
+  creator_id: github.NanoScaleDesign
 00cfeb1f-f257-41a3-aa75-e69506520180:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

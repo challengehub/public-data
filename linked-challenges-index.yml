@@ -33,6 +33,17 @@
   title_id: drawing-the-direction-field-for-y02y1-y6-a30c32
   title: Drawing the direction field for y'=0.2y(1-y/6)
   creator_id: github.NanoScaleDesign
+ad274394-954f-4710-8970-5458b94afa4e:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: dcd37611faf5bc7097d69b2e9f39709c2e0f5fd6
+    public: 8ce188648f8423ed13387ea37f6bf4a9cf13baf5
+  import_time: 2021-02-21T12:25:37.958833973Z
+  title_id: characteristic-equation-exersize-4y-3y-y-0-8ce188
+  title: 'Characteristic equation exersize: 4y'''' + 3y'' + y = 0'
+  creator_id: github.NanoScaleDesign
 3ee6ea3f-bee0-4710-a246-edf6923b84db:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

@@ -90,6 +90,17 @@ d178eeca-e586-40de-854e-365f93b0d365:
   title: 'Method of undetermined coefficients: Determining the ODE: y = C_1 cos(4t)
     + C_2 sin(4t) - e^t sin (2t)'
   creator_id: github.NanoScaleDesign
+76da5697-3251-4d5e-8382-e35857ed724a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 7d4459d09bb0ae20e9f49aef67768f6ba13eb537
+    public: 833159b16e209cad2efac8106b45a57ef9fa1956
+  import_time: 2021-02-21T12:25:06.845984477Z
+  title_id: characteristic-equation-exersize-2y-4y-2y-0-833159
+  title: 'Characteristic equation exersize: 2y'''' + 4y'' + 2y = 0'
+  creator_id: github.NanoScaleDesign
 f6eeaa31-2605-48e2-8813-e606df9092be:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

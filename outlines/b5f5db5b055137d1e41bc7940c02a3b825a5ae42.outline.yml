@@ -1,0 +1,66 @@
+stints:
+- has_teams: false
+  starts_after: 5459
+  challenges:
+  - challenge_sha:
+      private: ba3247c1d5bf102950c57d2576584f97fca43922
+      public: 1e39a37ef0cf8100c27b1b5c2f921116c5049716
+    language: en
+    id: 9b536bde-2e78-4b71-a6f6-89f835c00649
+    title: Weighing apples
+  - challenge_sha:
+      private: 624b20dfc3bf16e10fd791f016db34ef7c5fc0c6
+      public: 739602f2a85908dab482cc4c735badebc525b70c
+    language: en
+    id: ae9ab776-99d8-491c-ab56-643f402308e9
+    title: An introduction to bananas
+  - challenge_sha:
+      private: 7b149289edd64361b5d3d588577de5b6ec2a7d84
+      public: efeddb9fa6ef26b13506dd8670ab82b0f956cf14
+    language: en
+    id: 5ea6506c-5373-4f4d-add7-051bd224a50d
+    title: Counting carrots
+  title: Introduction to fruit and vegetables
+- has_teams: true
+  starts_after: 264659
+  challenges:
+  - challenge_sha:
+      private: 602b219c7b992e898cbc123f56e14528e08a0279
+      public: 44fd1dafd070b5847a2a14f5013f04ff10e5aed8
+    language: en
+    id: f22b6f8c-ffb3-410f-b0a7-ec266a15d210
+    title: Drawing durians
+  - challenge_sha:
+      private: c35b5d3b1b2a80d71b78ff1bb563d6a41ff44ebd
+      public: aebce6d9b0080dd6d7af4ff5cbf8cec5dde9aea0
+    language: en
+    id: 524222dc-8689-40f5-a89e-36cb60594f57
+    title: Incubating eggs
+  - challenge_sha:
+      private: 9d396752d6289ab2a7b04af70b3524da37663b51
+      public: f29c46d773530b4cbe5484c1acfc413295e18985
+    language: en
+    id: 405dec6f-9410-4723-b6d3-893984d79c12
+    title: Tracking fish
+  title: Small animals and large fruit
+other_languages: []
+topics:
+- example
+- fruit
+- vegetables
+- fish
+editor_id: github.NanoScaleDesign
+challenge_sha: ebaf28e06698d07e7d12e95ebad2f9e1956ed7d3
+modified: 2021-02-21T21:11:48.25509621Z
+version: '1.0'
+title_id: example-course-b5f5db5b055137d1e41bc7940c02a3b825a5ae42
+language: en
+id: b5f5db5b055137d1e41bc7940c02a3b825a5ae42
+title: Example course
+storage_id: b0c27184-6614-494a-9d9c-a3bcd7920eae
+duration: 5
+description: Example course
+institute:
+  url: https://www.kyushu-u.ac.jp
+  en_name: Kyushu University
+  name: 九州大学

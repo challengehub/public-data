@@ -60,3 +60,14 @@ b45c1b7c00a0f7d0db25412214660939f7fa1e54:
   challenges_sha: ffcb43912145f463aa860a50ef6d67c15a745308
   title: Complex Analysis I (2020)
   storage_id: 3c6cdf9c-9cfe-49c5-a88e-bb9b1077a2ea
+b5f5db5b055137d1e41bc7940c02a3b825a5ae42:
+  topics:
+  - example
+  - fruit
+  - vegetables
+  - fish
+  modified: 2021-02-21T21:11:48.25509621Z
+  title_id: example-course-b5f5db5b055137d1e41bc7940c02a3b825a5ae42
+  challenges_sha: ebaf28e06698d07e7d12e95ebad2f9e1956ed7d3
+  title: Example course
+  storage_id: b0c27184-6614-494a-9d9c-a3bcd7920eae

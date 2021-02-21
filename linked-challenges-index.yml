@@ -281,6 +281,17 @@ f06c20b2-eb25-4e6c-a5d9-50fe937ff0b2:
   title_id: fourier-series-coefficient-requirements-for-completely-real-signals-884f8a
   title: Fourier series coefficient requirements for completely real signals
   creator_id: github.NanoScaleDesign
+17986c2c-49ef-4d45-bfd5-3dcf94aed393:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b4b63ace369aac34c4fcf191166be9d51b72cf5b
+    public: a08a864bda901fff3b766168b862070a2650dd43
+  import_time: 2021-02-21T21:05:08.41142798Z
+  title_id: characteristic-equation-real-positive-roots-a08a86
+  title: 'Characteristic equation: real positive roots'
+  creator_id: github.NanoScaleDesign
 330934a4-2767-4464-978e-8cae2578fc0c:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

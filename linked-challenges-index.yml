@@ -488,6 +488,17 @@ f5748ada-0a79-4ae1-8f96-388d6133f7ca:
   title_id: rate-of-decay-ode-in-class-challenge-3a7fab
   title: Rate of decay (ODE in-class challenge)
   creator_id: github.NanoScaleDesign
+c0a6c531-8f72-4132-9f58-4a6b8a26cf25:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: e59a66ed1dcad0399230a33bc64b1988fc16e5fd
+    public: 6f8f9f2506542b8d35249483079a3e5676fd1d6d
+  import_time: 2021-02-21T12:25:41.037500028Z
+  title_id: identifying-direction-fields-6f8f9f
+  title: Identifying direction fields
+  creator_id: github.NanoScaleDesign
 765d76b3-b013-481e-96c9-d642b3f3ceff:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

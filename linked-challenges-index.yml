@@ -503,6 +503,18 @@ b9121274-65e5-488d-b253-942a258debdf:
   title_id: drawing-the-set-and-image-of-the-line-x2-under-transformation-fz-iz2-3-3b91ef
   title: Drawing the set and image of the line x=2 under transformation f(z) = iz^2-3
   creator_id: github.NanoScaleDesign
+65cc3492-2545-4f68-9d25-9758a04fe9a7:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 1647e824c14d174ab2fb8f004abcdde778c50c8b
+    public: b24992a42d86d31051d1f9e1d54a8b0ee33c8b86
+  import_time: 2021-02-21T21:03:20.111190204Z
+  title_id: method-of-undetermined-coefficients-determining-the-ode-y-c1-cos4t-c2-sin4t-et-sin-2t-b24992
+  title: 'Method of undetermined coefficients: Determining the ODE: y = C_1 cos(4t)
+    + C_2 sin(4t) - e^t sin (2t)'
+  creator_id: github.NanoScaleDesign
 86d108a7-2ab5-4eb3-92e8-7d8d41a0d08e:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

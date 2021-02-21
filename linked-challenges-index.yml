@@ -79,6 +79,17 @@ f6eeaa31-2605-48e2-8813-e606df9092be:
   title_id: understanding-phase-shift-from-sine-to-cosine-ae20e0
   title: Understanding phase-shift from sine to cosine
   creator_id: github.NanoScaleDesign
+4ebe97ab-3a92-4aac-9d05-ad825b07de95:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 43e099a7a2afccba4afe74e855875fa07673a77b
+    public: 82de37a989a8b8ce955961f40300395c29c27865
+  import_time: 2021-02-21T12:24:44.919053288Z
+  title_id: characteristic-equation-mixed-real-roots-82de37
+  title: 'Characteristic equation: mixed real roots'
+  creator_id: github.NanoScaleDesign
 858c648c-95fc-449c-a09f-33dfa0ce06b1:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

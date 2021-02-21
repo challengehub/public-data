@@ -79,6 +79,17 @@ f6eeaa31-2605-48e2-8813-e606df9092be:
   title_id: age-of-charcol-ode-in-class-challenge-a0e305
   title: Age of charcol (ODE in-class challenge)
   creator_id: github.NanoScaleDesign
+da15d5d5-2b2e-4e8d-abc4-bb220aa80d4a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6dd050798764c30f10a910b34ef9d1314831f445
+    public: e0ed86b4a69f84e7de2262ab93dbb2761801669f
+  import_time: 2021-02-21T12:24:56.258819153Z
+  title_id: understanding-the-exponential-e0ed86
+  title: Understanding the exponential
+  creator_id: github.NanoScaleDesign
 aceaf9ac-cb3e-4bee-ab01-764112cd80d2:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

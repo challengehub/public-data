@@ -1799,6 +1799,17 @@ f06adee3-8a49-4289-92e9-9f1d535c8e50:
   title_id: determine-sini-and-sinhi-de7815
   title: Determine sin(i) and sinh(i)
   creator_id: github.NanoScaleDesign
+2052ddc3-9737-47d0-884a-1346cb5279f3:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 0297e1966663cc8ce09cbf8a26febd54dbe110bf
+    public: 774f1b859bc145c9a7898a7974fcdd7ad9c84591
+  import_time: 2021-02-21T21:03:11.637855095Z
+  title_id: rate-of-unrestricted-growth-774f1b
+  title: Rate of unrestricted growth
+  creator_id: github.NanoScaleDesign
 b8b9034b-e76c-4f58-a074-180a7847ee64:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

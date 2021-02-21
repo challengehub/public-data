@@ -45,6 +45,17 @@ bd50370b-d99c-43e4-9afc-348706d721a2:
   title_id: explaining-analyticity-8b037a
   title: Explaining analyticity
   creator_id: github.NanoScaleDesign
+0b532686-b33d-4b06-90ee-33ebd25c188c:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: d9009ab63fd703e79b8b4df8d3b6f250c2ef10b3
+    public: a30c32afde5f97bac3b829ba7fa24e211f58daeb
+  import_time: 2021-02-21T21:05:48.09174848Z
+  title_id: drawing-the-direction-field-for-y02y1-y6-a30c32
+  title: Drawing the direction field for y'=0.2y(1-y/6)
+  creator_id: github.NanoScaleDesign
 6405e07c-1412-45df-93e6-08a0bbea3c83:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

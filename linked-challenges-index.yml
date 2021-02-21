@@ -34,6 +34,17 @@ c4a66aac-7788-4788-ac55-94f57f60e031:
   title_id: solving-separable-odes-yy-6c81b8
   title: 'Solving separable ODE''s: y''=y'
   creator_id: github.NanoScaleDesign
+d178eeca-e586-40de-854e-365f93b0d365:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 53fdd01936fb884a115a3376d777d5ad8f52654d
+    public: ed1d7996c073c768f0298f27d9f589b4549b620e
+  import_time: 2021-02-21T12:24:50.612431751Z
+  title_id: identifying-autonomous-differential-equations-ed1d79
+  title: Identifying autonomous differential equations
+  creator_id: github.NanoScaleDesign
 65cc3492-2545-4f68-9d25-9758a04fe9a7:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

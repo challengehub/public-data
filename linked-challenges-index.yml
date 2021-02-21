@@ -125,6 +125,17 @@ ff0d77b1-a79e-4cda-9a5c-a0fce108bf3b:
   title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1) on
     |z+i|=1'
   creator_id: github.NanoScaleDesign
+fe8e46d4-0d92-4f1f-929f-c19965ec4fbb:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 59822b67e3c0eac7d032d7db42a871179b3d3db7
+    public: ccbacaf28a98d36a7b9c3ba988e3cfa26378e3d8
+  import_time: 2021-02-21T21:03:56.1376672Z
+  title_id: free-vibration-of-a-harmonic-spring-ccbaca
+  title: Free vibration of a harmonic spring
+  creator_id: github.NanoScaleDesign
 dc19d15b-ff67-43ce-afaa-449ed2becd52:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

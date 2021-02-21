@@ -871,6 +871,17 @@ db5d8810-7133-4e47-a620-aca09c5bf87c:
   title_id: understanding-the-significance-of-the-fourier-coefficients-456ab7
   title: Understanding the significance of the Fourier coefficients
   creator_id: github.NanoScaleDesign
+da15d5d5-2b2e-4e8d-abc4-bb220aa80d4a:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6dd050798764c30f10a910b34ef9d1314831f445
+    public: e0ed86b4a69f84e7de2262ab93dbb2761801669f
+  import_time: 2021-02-21T21:04:06.008260054Z
+  title_id: understanding-the-exponential-e0ed86
+  title: Understanding the exponential
+  creator_id: github.NanoScaleDesign
 be59c8b1-8ac4-4d2a-a4bd-89b38578f852:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

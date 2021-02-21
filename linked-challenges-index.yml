@@ -1534,6 +1534,17 @@ f66f9ab6-ad8b-496f-8cc7-bf9bd267876b:
   title_id: factoring-a-difference-of-cubes-ad54c2
   title: Factoring a difference of cubes
   creator_id: github.NanoScaleDesign
+b969ef61-49fc-4e97-bf55-6a393489a4e5:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 00fb7c39053101aa7b2291047c63a3cd9c014f81
+    public: 94816689611dac691c683b1341f32b207118433e
+  import_time: 2021-02-21T21:03:08.250649745Z
+  title_id: characteristic-equation-understanding-948166
+  title: 'Characteristic equation: understanding'
+  creator_id: github.NanoScaleDesign
 96416f79-8418-43d2-aeb6-b1e5a4a143f2:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

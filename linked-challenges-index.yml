@@ -101,6 +101,17 @@ ff0d77b1-a79e-4cda-9a5c-a0fce108bf3b:
   title_id: complex-number-algebra-aibn-aaa4b5
   title: 'Complex number algebra: (a+ib)^n'
   creator_id: github.NanoScaleDesign
+3ee6ea3f-bee0-4710-a246-edf6923b84db:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 710285faac4ecb3e68a8c72d6a299332621dd339
+    public: 1fbfb61ba3bf930c521a300d74767b222c9396c1
+  import_time: 2021-02-21T21:04:16.106275104Z
+  title_id: characteristic-equation-complex-roots-with-non-zero-b-i-1fbfb6
+  title: 'Characteristic equation: complex roots with non-zero B (I)'
+  creator_id: github.NanoScaleDesign
 82587093-0f57-4142-a64c-bf81f73434fc:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

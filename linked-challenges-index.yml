@@ -882,6 +882,17 @@ db5d8810-7133-4e47-a620-aca09c5bf87c:
   title: Calculating the mass of a wire with density proportional to distance from
     the y-axis, using a line integral
   creator_id: github.NanoScaleDesign
+3f1577f0-4485-4627-abe5-a9fe45b0e338:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 773ed7d27041d749e7db85710d65cc01b1f349a8
+    public: ab7d3e586a8fa28f828cfb276d65d52990fa4d0d
+  import_time: 2021-02-21T21:04:27.183756173Z
+  title_id: resonance-derivation-for-a-system-undergoing-harmonic-oscillation-ab7d3e
+  title: Resonance derivation for a system undergoing harmonic oscillation
+  creator_id: github.NanoScaleDesign
 7eff131c-5671-4ef4-96ab-18a386096aee:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

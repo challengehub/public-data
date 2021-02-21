@@ -2353,6 +2353,17 @@ f6b7e2ab-628d-4fda-a53d-50cd6aaba1dd:
   title_id: edge-detection-and-blurring-with-fourier-analysis-and-python-196094
   title: Edge detection and blurring with Fourier analysis and python
   creator_id: github.NanoScaleDesign
+765d76b3-b013-481e-96c9-d642b3f3ceff:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: e465643becd94f4275e06342bdac39ccb507dbc6
+    public: 419d1f28f48f6c2de5c4d37288b76b16032807c5
+  import_time: 2021-02-21T21:05:55.667523839Z
+  title_id: hookes-law-419d1f
+  title: Hooke's law
+  creator_id: github.NanoScaleDesign
 4f528817-03ae-4423-ab99-b359cb97f5b6:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

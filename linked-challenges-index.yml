@@ -35,6 +35,17 @@
   title: 'Method of undetermined coefficients: Determining the ODE: y = C_1 cos(4t)
     + C_2 sin(4t) - e^t sin (2t)'
   creator_id: github.NanoScaleDesign
+f6eeaa31-2605-48e2-8813-e606df9092be:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 23c4d04c698112a9d12a359dfcf4981c9e4786d9
+    public: a0e305915fb1a888a3e86a656e247a4895a20246
+  import_time: 2021-02-21T12:24:37.893445266Z
+  title_id: age-of-charcol-ode-in-class-challenge-a0e305
+  title: Age of charcol (ODE in-class challenge)
+  creator_id: github.NanoScaleDesign
 b969ef61-49fc-4e97-bf55-6a393489a4e5:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

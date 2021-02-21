@@ -2430,6 +2430,17 @@ c71885e8-d119-4afc-8bf4-f085441eac95:
   title_id: can-there-be-a-2nd-cube-root-in-the-1st-quadrant-e76c65
   title: Can there be a 2nd cube root in the 1st quadrant?
   creator_id: github.NanoScaleDesign
+d6ff6e83-e3b6-4a12-bbab-35e5c9c650bb:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ac88e5e3bb873dfc86a6dc8c11a7f971fa40fd38
+    public: c2724f0c01d54455c28e393c65df1ba06bf29146
+  import_time: 2021-02-21T21:04:47.593462786Z
+  title_id: characteristic-equation-identification-complex-roots-c2724f
+  title: 'Characteristic equation identification: Complex roots'
+  creator_id: github.NanoScaleDesign
 861cce0a-fc1f-428a-83d9-df8926f4561f:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

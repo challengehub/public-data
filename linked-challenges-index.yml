@@ -2110,6 +2110,17 @@ b8b9034b-e76c-4f58-a074-180a7847ee64:
   title_id: finding-the-complex-roots-of-unity-3f3c1a
   title: Finding the complex roots of unity
   creator_id: github.NanoScaleDesign
+303d425e-40fa-4e92-b780-7af2c4c8cdf1:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: afabe7cedc59918f4843f14af1f876645a97d443
+    public: 3a7fab3b1fe00dd48f03d5fa9199aef68d074ffa
+  import_time: 2021-02-21T21:04:55.246547025Z
+  title_id: rate-of-decay-ode-in-class-challenge-3a7fab
+  title: Rate of decay (ODE in-class challenge)
+  creator_id: github.NanoScaleDesign
 fa6e4384-125a-4526-834e-07f517a2215c:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

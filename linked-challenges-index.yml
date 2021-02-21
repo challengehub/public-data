@@ -415,6 +415,17 @@ d5364324-e45a-41ae-b2fb-0d32df6feb07:
   title_id: understanding-the-2d-fourier-transform-e22c02
   title: Understanding the 2D Fourier transform
   creator_id: github.NanoScaleDesign
+8f29022d-ebf7-4d81-bf58-2159a627ed01:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: a5c3a3b1030ce5bc2078640f0368d2394a24d0c5
+    public: 63830230690db0d42d2fe60145d6c6ab0afc2e50
+  import_time: 2021-02-21T21:04:44.263291028Z
+  title_id: method-of-undetermined-coefficients-y-2y-6-e-2t-638302
+  title: 'Method of undetermined coefficients: y'''' + 2y'' = 6 e^(-2t)'
+  creator_id: github.NanoScaleDesign
 a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

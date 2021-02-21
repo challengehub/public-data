@@ -23,6 +23,17 @@ bd50370b-d99c-43e4-9afc-348706d721a2:
   title_id: the-stability-of-solutions-yy2-16y32-aa5984
   title: 'The stability of solutions: y''=(y^2-16)(y+3)^2'
   creator_id: github.NanoScaleDesign
+101dc2db-3300-4fa8-ad2a-3cdfcbe5ccde:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: b0072f398baac6aa0531f30938079bd61e707a67
+    public: 1ff9e1681b5dfa4f72c9beee803aba493abbea7f
+  import_time: 2021-02-21T21:04:58.880029693Z
+  title_id: characteristic-equation-exersize-2y-8y-y-0-1ff9e1
+  title: 'Characteristic equation exersize: 2y'''' + 8y'' + y = 0'
+  creator_id: github.NanoScaleDesign
 2b446632-3b6f-452a-9268-0d0019928477:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

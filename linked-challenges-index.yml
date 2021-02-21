@@ -68,6 +68,17 @@ f6eeaa31-2605-48e2-8813-e606df9092be:
   title_id: characteristic-equation-identification-equal-roots-180ea7
   title: 'Characteristic equation identification: Equal roots'
   creator_id: github.NanoScaleDesign
+84e5e67a-7b46-45a4-9706-f2e5295eb2b6:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 41ea10f4d8a10777877c8cdfa64fa2cc7c73c3c1
+    public: ae20e0695356e8602182aa02c05d7a83910d5482
+  import_time: 2021-02-21T12:24:43.538429529Z
+  title_id: understanding-phase-shift-from-sine-to-cosine-ae20e0
+  title: Understanding phase-shift from sine to cosine
+  creator_id: github.NanoScaleDesign
 858c648c-95fc-449c-a09f-33dfa0ce06b1:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

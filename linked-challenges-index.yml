@@ -1,3 +1,13 @@
 # ChallengeHub Linked Challenge Index
 
-{}
+b969ef61-49fc-4e97-bf55-6a393489a4e5:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 00fb7c39053101aa7b2291047c63a3cd9c014f81
+    public: 94816689611dac691c683b1341f32b207118433e
+  import_time: 2021-02-21T12:24:29.347668127Z
+  title_id: characteristic-equation-understanding-948166
+  title: 'Characteristic equation: understanding'
+  creator_id: github.NanoScaleDesign

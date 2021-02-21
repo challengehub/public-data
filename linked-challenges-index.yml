@@ -189,6 +189,17 @@ e8e5a20b-fe61-4c5e-bd43-1d9ae999169a:
   title_id: rate-of-unrestricted-growth-774f1b
   title: Rate of unrestricted growth
   creator_id: github.NanoScaleDesign
+3eef92cd-f762-46a9-953e-4a8c6bb481ff:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 6dd04f4d9b74d04971194d15db2f60c6a8fba7d6
+    public: 94358574d54e356f102d33dfb760c24c92257751
+  import_time: 2021-02-21T12:24:54.827836122Z
+  title_id: drawing-the-direction-field-for-y02y-943585
+  title: Drawing the direction field for y'=0.2y
+  creator_id: github.NanoScaleDesign
 3473bf8c-fe46-4221-a1c8-cbf49b2254ef:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

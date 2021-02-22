@@ -50,3 +50,13 @@ eeab5951-bb02-4ffa-af9f-fbe0b46c2dbe:
   language: en
   translations: {}
   title: A new challenge
+d2c6f467-3918-451f-8c0e-6c1e698888fe:
+  topics: []
+  modified: 2021-02-22T03:20:16.694192145Z
+  hexsha:
+    private: 542ec9ac4a344edab8b3e50ed77640c23b0e0b0c
+    public: cc5540072edcf56665b8ac15c0fb99ab1594d9dc
+  title_id: a-test-challenge
+  language: en
+  translations: {}
+  title: A test challenge

@@ -44,3 +44,14 @@ ae9ab776-99d8-491c-ab56-643f402308e9:
   title_id: tracking-fish-f29c46
   title: Tracking fish
   creator_id: github.NanoScaleDesign
+9b536bde-2e78-4b71-a6f6-89f835c00649:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: ba3247c1d5bf102950c57d2576584f97fca43922
+    public: 1e39a37ef0cf8100c27b1b5c2f921116c5049716
+  import_time: 2021-03-01T00:07:06.100772382Z
+  title_id: weighing-apples-1e39a3
+  title: Weighing apples
+  creator_id: github.NanoScaleDesign

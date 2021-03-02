@@ -33,6 +33,17 @@ f22b6f8c-ffb3-410f-b0a7-ec266a15d210:
   title_id: incubating-eggs-aebce6
   title: Incubating eggs
   creator_id: github.NanoScaleDesign
+947ed4aa-ccb6-4968-bd25-e4b3e9c7d914:
+  creator:
+    email: karawapo@gmail.com
+    name: Alejandro Cremades
+  hex_sha:
+    private: b78cee29fe05717093a5120a504da5b2c7a63cb1
+    public: 2341d5df15d5550bf194f56cd3466ffa7fb25728
+  import_time: 2021-03-02T21:55:46.032705847Z
+  title_id: test-challenge-2341d5
+  title: Test challenge
+  creator_id: linkedin.Dsug2pTB8R
 ae9ab776-99d8-491c-ab56-643f402308e9:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

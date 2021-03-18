@@ -1,0 +1,563 @@
+stints:
+- has_teams: false
+  starts_after: 96600
+  challenges:
+  - challenge_sha:
+      private: fd0905b15efcf2e7f7d254f8f70b41fdda301cad
+      public: aacbd69cbece7fad3a11e88fc1224f6f4c8acabf
+    language: en
+    id: a0ed605d-5922-4f03-a6ac-979f3e7a8b88
+    title: Centre-of-mass position of 3 particles
+  - challenge_sha:
+      private: 16d700c1a5a2ca7d7c428d16591d86c907755f74
+      public: e5c8298445df31e3bf0dc0fb19e33891bca13a44
+    language: en
+    id: ddccff02-8932-4545-88f0-fca842a2554b
+    title: Centre-of-mass acceleration of 3 particles
+  - challenge_sha:
+      private: 5b3e6b8af92c841ebe6293c99421552a3009d839
+      public: 031f18b138b68b17034d895617f0a85cd38fde07
+    language: en
+    id: 62c2a3e2-cc5c-4031-bf1d-85bb5adaa7db
+    title: Centre-of-mass velocity of 3 particles
+  - challenge_sha:
+      private: ee3fec7be86a42ddd6c1c716cca7c2c6b1d2bc96
+      public: b61e30fd7e1fae8fe64560f9a54038f514e27787
+    language: en
+    id: 15dae042-098e-4860-9642-35c7232dc59b
+    title: 'Tension: Three monkeys climbing a rope'
+  - challenge_sha:
+      private: e59df1e458b590bc036f4511e67f2d14c7f55a6c
+      public: 34cd70e529e0748ff40aa4b98a3d31d87adabf64
+    language: en
+    id: f3613f95-d6f4-47de-9b85-9c181ba7d6ad
+    title: Magnitude of acceleration of a system of 3 particles
+  - challenge_sha:
+      private: 137d7f5a1b653a28e74b5fad97348a976fd7c15a
+      public: 08fed301e144e7f8f0ccfb35665ef99d70eb85d5
+    language: en
+    id: da7f72e5-e9f0-40ec-a10f-df648bd9aa64
+    title: Translation of an object and the position of the applied force
+  - challenge_sha:
+      private: 879d754463ed8c8d4f81769907b4c06bf0db76cb
+      public: 4e8665f683b0c20916c4d201fadd71119c7b9e45
+    language: en
+    id: 429373ee-dd8d-4db4-a3b6-a467c0c3a30a
+    title: Magnitude of acceleration of 3 connected bars
+  - challenge_sha:
+      private: 51317b7d1dd046015628e90d1bb26fbd75e25cbf
+      public: 54d628c5b1172e767e711cbedc4046dd31cf863b
+    language: en
+    id: 16563811-f0a3-49ee-86d6-753c217b79de
+    title: Kinetic energy of a system of 3 free particles
+  - challenge_sha:
+      private: 4391ee9554657d3ddcfc512c113a68092c73cefa
+      public: 7d1176032324db8c9f0b3c3cafc29e112b3e97d2
+    language: en
+    id: 746a78ce-f826-4855-9d66-62009f3f4442
+    title: Kinetic and potential energy of 3 particles connected by a rigid rod
+  title: Class 1
+- has_teams: false
+  starts_after: 701400
+  challenges:
+  - challenge_sha:
+      private: ca442aee0e4a2c32382fb9fa7a0f2dc22491d350
+      public: e8509e6555b19290a8044eec04be173c0328bd77
+    language: en
+    id: 2aa3defc-10ab-447b-8ab6-d62f2a631c1f
+    title: Calculation of cross-product of 2 vectors, using the angle between them
+  - challenge_sha:
+      private: 742c44aa0a9b94497f204eae5526c812e86a8b66
+      public: 8ce33035a7918bc996c7ee742dd40f28bdbd2468
+    language: en
+    id: 197ba1e8-960a-477a-abac-881bca15494a
+    title: Calculation of cross-product of 2 vectors, without using the angle between
+      them
+  - challenge_sha:
+      private: e718e7503f866979a29259d29edfba23fc981e5f
+      public: 260ac07c3f7fa8145f66fac6f7e6813c9658bdc7
+    language: en
+    id: 639e1675-f3d9-40a7-a095-03e653f034d6
+    title: Determining the angular momentum and rate of change of angular momentum
+      of particles relative to the origin
+  - challenge_sha:
+      private: 2e479a7cc55ae8e408cedb9ea370153a56edaa82
+      public: 776fa90f50a8bb87f356d88afd9cf9c5ab1cebb3
+    language: en
+    id: cf4144a5-5a0f-48aa-9d8a-fe89c64551fc
+    title: Increase in angular velocity of 3 particles after application of a couple
+  - challenge_sha:
+      private: 4471c7d51edd87b6e53e87f9087c7848703056ac
+      public: 18402da8cd8aa8ccbbd078785fde52553c0b311b
+    language: en
+    id: 7f1880ea-7fe1-4fd5-9c04-9ecd0804cd5e
+    title: Time required to reverse angular velocity of 4 particles about the origin
+  - challenge_sha:
+      private: 7ce8811332e2fa8e584ee0b21bade0d458f68869
+      public: 15221b572bdf87a9d65d0a7adfa96d7b8d90307c
+    language: en
+    id: 52f54f10-ab1a-4aa7-909c-822e28c52ff3
+    title: Determining the angular momentum of particles relative to the centre-of-mass
+  - challenge_sha:
+      private: be30c48dbd7d89392165134c157f07a84f7b53ab
+      public: 242e2e5149d4ea78a151a84c31f5079daede335d
+    language: en
+    id: d8a27632-bc34-4b99-a633-b3f7c00f92bc
+    title: Determining the torque of particles relative to the centre-of-mass
+  - challenge_sha:
+      private: 640d3b069b48d658ca7a071ccd5e47c0f1880ead
+      public: e3b115738ff4568eb62528334bea0b9aa3a5c324
+    language: en
+    id: deac25c3-00ee-417c-8ebc-1cc83297a62a
+    title: Velocity after collision of a projectile and a cord with two masses (4/28)
+  - challenge_sha:
+      private: ecc80d236294fec883f96d39a78398d404117400
+      public: 2f3d2788b3951fe7e4ef67eeabb9bb517d8cd6d5
+    language: en
+    id: d828d071-d594-45c6-89ce-9669be9291cb
+    title: Angular velocity of two masses on a cord after being impinged by a projectile
+      (4/28)
+  title: Class 2
+- has_teams: false
+  starts_after: 1313100
+  challenges:
+  - challenge_sha:
+      private: e9f9254c0c4d6cd27885506a28adfa10f7e04d32
+      public: 0a2abceea9b0cf8464357aca4e046399407378fe
+    language: en
+    id: 1a72dc61-d422-4073-94b2-6828b0763c83
+    title: Mass flow rate of a rocket
+  - challenge_sha:
+      private: bb71b9f5867715b34a9b43f1f87f9ac384c263f6
+      public: fe4eab1a138afc7c97c822dd36f6605dd911cb1b
+    language: en
+    id: c5c7b366-3d09-4188-9994-1a5395945d99
+    title: Rate of increase of mass of a rocket
+  - challenge_sha:
+      private: 041ad458ecba61389421479d2e5460e12656dc9b
+      public: d880c2f02928d287bf439b8145ec6f1227862233
+    language: en
+    id: 60a8248b-464a-43fd-9bea-3aaf9fa3df59
+    title: Rocket sample problem
+  - challenge_sha:
+      private: ab771ede4d66dc23a317b019667bd866b848d6f2
+      public: 0666e6bb34a5353982cc695340a3148a59923cb8
+    language: en
+    id: 319b5364-1969-40c2-b292-cdfcb667cc77
+    title: Calculating the mass of a rocket and its fuel at launch
+  - challenge_sha:
+      private: ca02d6c377a1b46a9991f4723d1c2fa5153c5738
+      public: 7e547ff92843f7dbef8569a69ec43f493fd467c4
+    language: en
+    id: 4ff09d7b-e049-4d9a-aeb0-3062ee846e4a
+    title: Maximum velocity of a rocket on an incline
+  - challenge_sha:
+      private: c25a1ccf266b12caa5db3e5d380f1b7358742161
+      public: b164752a95beb94eee97d0b1969e1770cf5f3c41
+    language: en
+    id: 978f3e18-effe-4c0e-9c44-49ecbcdf086e
+    title: Mass intake and power
+  - challenge_sha:
+      private: eda9ab4a2dd547f70076f246cb82e478b4ada108
+      public: 04817124422dfa203aab816d58732a64a9352eba
+    language: en
+    id: 3ca28800-bbba-442a-a9cc-f68dd304b355
+    title: Acceleration while gaining mass
+  title: Class 3
+- has_teams: false
+  starts_after: 3124817
+  challenges:
+  - challenge_sha:
+      private: 7169cf8799c680f7fd00c5685693a5cb7e154a30
+      public: 79cf703b46ee396649a1472595c0bf31c049cc82
+    language: en
+    id: 980ef17b-31a2-41e5-a993-4eae68d3e540
+    title: Thought process for solving a challenge
+  title: Class 4 (in-class challenge)
+- has_teams: false
+  starts_after: 3126000
+  challenges:
+  - challenge_sha:
+      private: 3895226738faf6355c7d56a2e8ff505aa5f659b9
+      public: 49006862e5bdb3d91a2147a6d8030df7eea9c43a
+    language: en
+    id: f4f78e8e-eda1-4789-8028-8283b38c07c9
+    title: Chain style sample problem (SP 4/9)
+  - challenge_sha:
+      private: 8d5759a3a3e0d24d9ee59b78b71279a82a6531c9
+      public: 47be9dd5d07b35dd556758f0a3855318784e908b
+    language: en
+    id: 6275022c-f0db-4aac-a459-78be02d27dfb
+    title: Rope style sample problem (SP 4/10)
+  - challenge_sha:
+      private: 9f9dabd0a7b4611a4dc2ac18c943656276e08ffe
+      public: 8cd70c9d9b1657abd4aa9f0565a14419b3c4502b
+    language: en
+    id: 46c6645c-e972-4c6f-9044-5efb418e1b41
+    title: The difference between the Chain and Rope style problems
+  - challenge_sha:
+      private: 2a0dbb7d078174039396c5809b83d1c34bea046f
+      public: 068addd20b6f2ca6b56abc9274aaf914c90a05a8
+    language: en
+    id: 9fd492fa-1c4d-42a2-9f02-25b1c749c8ed
+    title: Considering constrained and unconstrained rope-style problems
+  - challenge_sha:
+      private: 156885d8c9929035bdb8b36e1ea4439974a57ac5
+      public: df492a68b00779eed9a0a005562a52826ecb707a
+    language: en
+    id: 5de80663-f19b-4e4d-b56a-00125c968615
+    title: Lifting a chain
+  - challenge_sha:
+      private: 7de1acd5bbe2f3416ec890cf62e78236b3d4d68a
+      public: 2c60bd2c17fa2fc5011fe42457a1cef099a929c2
+    language: en
+    id: eecde493-188e-41d8-ab86-93a76c5ae887
+    title: Force pulling a chain around a pully
+  - challenge_sha:
+      private: b1c989f924737706442246535fb47a6f843a5cc7
+      public: ed1bdc61b875829e801ce854a02ef076745f49f8
+    language: en
+    id: 65717e7d-d8ac-469e-8bb9-bc3e19751bff
+    title: Acceleration of a chain placed around the edge of a block
+  title: Class 4
+- has_teams: false
+  starts_after: 3725400
+  challenges:
+  - challenge_sha:
+      private: 55031e15b1d1e3445fdd7e5f406eb75fca332813
+      public: daf47d5f47d85a2f02e987870588a8f45e375cd5
+    language: en
+    id: a8d7908b-debc-45f3-b759-585fa86261d1
+    title: Question creation (particles)
+  - challenge_sha:
+      private: e1a36a9c135d325b5a314e9825e0a5a87ca2271e
+      public: 8dadd351f22c4ba3ca493018aa4c207de07fb6af
+    language: en
+    id: d7c688fc-38b9-430f-a10f-d2db3c653955
+    title: Answering peers' question(s) (particles)
+  title: Class 5
+- has_teams: false
+  starts_after: 4941000
+  challenges:
+  - challenge_sha:
+      private: ad5118b1db8cf84a7b4068ed4abcffffc406a350
+      public: 6eb306a17d7e063a50bfa8ab6e18646113f1f87f
+    language: en
+    id: 8da3d669-1ac4-40b3-8b4f-4c1b74779d22
+    title: Mid-term review points (Mechanics 2019)
+  title: Mid-term review points
+- has_teams: false
+  starts_after: 4942800
+  challenges:
+  - challenge_sha:
+      private: 0c4158078f94c03b8cb048159e62e45dc16a399d
+      public: 77a4bb690541029455dfd1fab3da378b530bbce9
+    language: en
+    id: 0067ab4b-f668-4b39-b0bb-71ee50f0c221
+    title: Radial velocity of a point with no angular acceleration
+  - challenge_sha:
+      private: abb2e5f2c318bd1bbd5e5261ba2264f854e384e6
+      public: 2c951cbf19fca907913dbbefc2624736ee8f8ec5
+    language: en
+    id: 8faa60f3-a7b1-464c-a22d-2b8cf3c39966
+    title: Radial acceleration towards the axis of rotation of a point with no angular
+      acceleration
+  - challenge_sha:
+      private: 01dafa8791bf09ecb0a5e6965d6089ce4153cece
+      public: ce513ae23ab4606d98e24599e15e2858d5b9e08d
+    language: en
+    id: 18c8d9e8-09b6-4894-956e-16d5141ffdf5
+    title: Tangential radial acceleration of a point with no angular acceleration
+  - challenge_sha:
+      private: b84c1a23d24c78fa6d9e1343fa6d35d74071e7d6
+      public: 6e45cc29a255242c1ccd990d6a4040ead97e7d2b
+    language: en
+    id: 2d665ad7-18f9-4f65-b335-871cedf1e07f
+    title: Magnitude of acceleration of a tip during 3D rotation (7/4)
+  - challenge_sha:
+      private: 8621b140d602142c73f10800ee81b20cbf35c989
+      public: ade0d77f3caef2744d2c1b98f645fcdbebd7bbd0
+    language: en
+    id: 39841efc-79de-4517-a8f0-5e3f79063d89
+    title: Definitions of space cones and body cones
+  - challenge_sha:
+      private: dbfa8319b05466e314e5832eb57bdc3722766eb7
+      public: df592e94e56bbf0d6324daf238a295ac66c1fde4
+    language: en
+    id: 0404233f-e37f-4d36-9629-eda764d570f5
+    title: A worked example of calculations of two simultanious rotations on different
+      axes (SP 7/2)
+  - challenge_sha:
+      private: ab94b68e74d164bf69cfe535f03e218babd94159
+      public: c75aee52daed3b34a000ec2eec226e320f24cfbb
+    language: en
+    id: 878c507d-bd32-4aa3-8f9c-846ade54a46f
+    title: A worked example of calculations of two simultanious rotations on different
+      axes (SP 7/1)
+  title: Class 7 - Introduction to 3D rotation, space- and body-cones and examples
+- has_teams: false
+  starts_after: 5544000
+  challenges:
+  - challenge_sha:
+      private: 353797adf53796207961550eddf894c838c245b8
+      public: bade49f532776ebbe294e422c04bd8c2059a2a6b
+    language: en
+    id: e4019de6-0585-4b7f-b282-6ff9c5cba0ac
+    title: Two simultaneous rotations on different axes, solved with fixed and with
+      rotating reference axes
+  - challenge_sha:
+      private: 723dfa62ece50c2cb65d583fd5a547a00cdacef9
+      public: 7d0c5c7caf0d76bd90ba200ba7469f0f1739a080
+    language: en
+    id: 8e101498-7e71-4b05-84df-2910b170d474
+    title: Simultaneous rotations on two axes - velocity
+  - challenge_sha:
+      private: d27ac035c3676cf01b051896f98c01db62dd92b7
+      public: 300749128a3b98f3374a78863787ebf25c93b75d
+    language: en
+    id: 2a57d650-2c00-4147-9113-ea0096d60ca3
+    title: Simultaneous rotations on two axes - acceleration
+  - challenge_sha:
+      private: 93de11a45e15a686d4a770d44bf6002455e67350
+      public: eec7ba46b9a918da6bbf7cdcfddfcedbad4180d7
+    language: en
+    id: 4333e8c8-9dd0-4161-8be6-8d838801b47e
+    title: Crank-style problem (SP7/3)
+  - challenge_sha:
+      private: 7b61ba1ee2f0ce674c870b4e289ef3cb4b938a06
+      public: 907fa5e97583bb0958d20a9c3c818e6f38d7a252
+    language: en
+    id: 93060e2e-176f-4811-95e3-8b2df617ccf7
+    title: Crank-style problem - Perpendicularity of position, velocity and rotation
+      vectors
+  - challenge_sha:
+      private: 050889fa13b0784a5753712685ab75ce2b01c1c8
+      public: 73de6ab4aab6a263a59deb094efbb2e83030cea9
+    language: en
+    id: 5854fe63-949b-4516-b973-1c5d2010a94a
+    title: Triple cross-product
+  title: Class 8 - Rotating reference frames, crank-style rotation
+- has_teams: true
+  starts_after: 6148800
+  challenges:
+  - challenge_sha:
+      private: 25659ba8285b046a60a9690b4fd39858bfd88e1c
+      public: 2d6e902f1e586041ae868915c49976dc5165772b
+    language: en
+    id: ccca6e05-5da4-4bd8-b7d0-3a042ab6e7d3
+    title: 3D linear acceleration of two points on a crank
+  - challenge_sha:
+      private: fcb82414394ad880f9662d2c48f8a91f208b81f3
+      public: 0d178fecb77f43d8b57be1a5ca900f451d775ad5
+    language: en
+    id: 526f79d3-07c1-48e1-954f-bde59de813bb
+    title: 'Sample problem: Angular acceleration of a crank'
+  - challenge_sha:
+      private: 03adb143abb03a699d53c7be25d4d8fb27b6af83
+      public: bc814608f2ec3065bb79de63ecdb01534a549734
+    language: en
+    id: bcc14a44-15e8-431a-9e65-f2574a7d2676
+    title: Angular momentum of a rigid link
+  - challenge_sha:
+      private: 7c55c348b0143d8f355df571fbc002d6c5c7db97
+      public: a8296d787d599ad70e04eff419d5c79e3dd2195d
+    language: en
+    id: 9021759c-ab08-49b2-941b-5fec81293cb7
+    title: Velocity of a point at the end of an arm with two rotating joints
+  - challenge_sha:
+      private: f197812272abe652b0063f0864eb97f3d2c8ade7
+      public: baf692231c81a468d4d5dcd39ec8f3b010b3b780
+    language: en
+    id: 62b554d8-939e-4c66-91b2-b2fa1bca91c9
+    title: Velocity and acceleration of a disk that is undergoing rotation on 2 axes
+  - challenge_sha:
+      private: 26f54418640a50c8d5f92019df22e67969818b58
+      public: a874837347c42c993da0453d5bca8d7cccb92b18
+    language: en
+    id: 1e7d063d-d0fa-403a-9b30-dfb8d9ddcd30
+    title: Velocity and acceleration of a disk that is undergoing rotation on 2 axes,
+      using a reference frame rotating in 2 dimensions
+  title: Class on 17th June
+- has_teams: true
+  starts_after: 6753600
+  challenges:
+  - challenge_sha:
+      private: ab4c72b8dc6fc1b06ae2cb67da747a671dbff5a8
+      public: 0c9891546fdbd0180286bee6c25a35f79d7f1847
+    language: en
+    id: 2ef1adc3-15b6-4738-84e6-79fe0c7126b6
+    title: The definition and derivation of the moment of inertia
+  - challenge_sha:
+      private: 6614f7976a01e20b460fc158a3be5c8ae2ae328a
+      public: d298eeadc74445f040ed866ba89ea25e883d40d4
+    language: en
+    id: 1199a50f-f776-48d1-be62-afbb61581f16
+    title: 'Inertia: A simple cylinder (sample problem)'
+  - challenge_sha:
+      private: 10e7aea6db16d29a4f64c806a910598abeef6bfa
+      public: 1e1424dfbb8a40401d19245f206bcdf1c475c61c
+    language: en
+    id: 1e1043e3-4368-40df-8217-f54fced23e58
+    title: 'Inertia: A simple sphere (sample problem)'
+  - challenge_sha:
+      private: 9a1a875d4301b58f6030f572d02abad9a67cfcff
+      public: a70b3086ae74fb687eb502e950d3326340695f38
+    language: en
+    id: 742ab5e4-5f2b-427b-82bd-a98ac753bc61
+    title: 'Inertia: A 2D rectangle'
+  - challenge_sha:
+      private: 147c2ca05596b411a552cb2cb8d3d4350a11dae2
+      public: 4a00c45c601f7f5c055faaf3d3e161efb6fc22ab
+    language: en
+    id: 0375f5b3-d26e-47ba-b726-f44e0b1a04e1
+    title: 'Inertia: A simple parallelepiped (sample problem)'
+  - challenge_sha:
+      private: 58eca238d65549234bb934d8b6681e1473407b0a
+      public: 4c459fb358f8cf20c427e6d753cb81d11819b3b0
+    language: en
+    id: 8faeb8f2-8965-49f3-9467-366f4464d586
+    title: 'Inertia: A cone'
+  - challenge_sha:
+      private: fe7f85397b72e7367596e86f72ba9d5cd9d790b8
+      public: 9155457e9337953747fe7364e63065ba4fbf5a7a
+    language: en
+    id: d9c95807-fedc-44ab-bcaf-97558c83fd86
+    title: 'Inertia: A rod'
+  - challenge_sha:
+      private: b884a51b636a7856b06d4b75c197748faacfe663
+      public: 61f2023f633fbb7862cc1cb84496d36d1289be0d
+    language: en
+    id: cab4e678-660c-44a5-9b65-3c7b5f7e263d
+    title: Calculating the length of a rod in a rod-disk system so that moments of
+      inertia are equal on two axes
+  - challenge_sha:
+      private: 8afc87b3bbdbd4a8c34485507288661e5fdf6426
+      public: 6b1aa1ce46b74c0b06acec7ffc067f9c584a10ca
+    language: en
+    id: fb01b540-65d4-4374-be2f-69b6fbbecc8a
+    title: Calculating the inertia of a bent rod
+  title: Inertia
+- has_teams: true
+  starts_after: 7358400
+  challenges:
+  - challenge_sha:
+      private: b7d6b4295eb5cb78e1ee9dfb65d85dcd71157c6c
+      public: 8fd4b167cd546b7a74f7a9ba55f8192d95055b4e
+    language: en
+    id: 586b9694-7787-46b9-a173-e9456dee6ad2
+    title: Proving that the off-diagonal values of inertia of a centred homogeneous
+      cube are zero
+  - challenge_sha:
+      private: 3c9a486f0473f05d1128a640bd4a8d859aea7a77
+      public: 1e39331c2a1528458a1ef8e4a798f2c20dbcac9d
+    language: en
+    id: 3a442166-414f-48d6-9e0d-669400de4367
+    title: 'Sample problem: Angular momentum and kinetic energy of two perpendicular
+      plates'
+  title: Angular momentum and kinetics
+- has_teams: true
+  starts_after: 7963249
+  challenges:
+  - challenge_sha:
+      private: e6c139d97596103f6d09e6255ea6105b5924c0f5
+      public: 9361ccb993f6b5145ce800ae7e4419b0ec3c751a
+    language: en
+    id: e507aca1-6afc-4a48-bcb5-73c162c245f5
+    title: Angular momentum and kinetic energy of a cone rotating on 2 axes
+  - challenge_sha:
+      private: e1a5a53c5caf379b92a1b3c3daaa2636313509cf
+      public: 21e79f173054285f4644c79179ca9c98bc21a023
+    language: en
+    id: c562d8c6-9141-4b55-9b84-1c224d78bff2
+    title: Angular momentum and kinetic energy of a rolling disk
+  - challenge_sha:
+      private: 736b0a3f435079a6006a3af0a00f8c93012c7073
+      public: d579a9840a9dcc3fdc72f0b7d0e44e8b6fde959d
+    language: en
+    id: 4483fde2-1551-466e-b2fa-f1fe9ee2e8ca
+    title: Derivation of Euler's equations for 3D rotation
+  - challenge_sha:
+      private: 146607b4f3ac7433687ca373e91f1514cb684ea4
+      public: 53b4c1393ed38e9cb58368f792414ecc20622af7
+    language: en
+    id: 2eb17c86-a058-4b5f-8a70-07c2f8c375f5
+    title: Rolling friction of two disks connected by a rod (sample calculation)
+  title: More on angular momentum and kinetics
+- has_teams: true
+  starts_after: 8654400
+  challenges:
+  - challenge_sha:
+      private: be95814d2ed3ed6088443fe12432c29fbbbdd497
+      public: 0911b7825d289631be05f67d053358ec747712cd
+    language: en
+    id: f7e2a6f2-0f9d-431c-a3c6-2a0e014e9b90
+    title: Inertia I_{xz} of two vertical rods on a rotating disk
+  - challenge_sha:
+      private: b93f51bb243db6676835134f9a952abeab29f690
+      public: c09e5bcfe06de5bc2721f6d93b738e57fe9b7bb1
+    language: en
+    id: f2e9d4c6-ce34-437b-aef1-126dadbfb5e3
+    title: Bending moment acting on a rod on a rotating disk
+  - challenge_sha:
+      private: b6848efc4b93e872757d7a6579b247d9cce57852
+      public: 3770b37eb2fa808b308ed0b44e485b95f145094c
+    language: en
+    id: ca276a0b-311c-4b9b-8141-77fa3e027bb9
+    title: The physical meaning behind a the "bending moment" acting on a rod on a
+      rotating disk
+  - challenge_sha:
+      private: 344513599361c55c443429849b55cc5d101330dc
+      public: 82b58e8ae7e35e0783aba69da1b07040f36caf48
+    language: en
+    id: c4a9da17-c0be-418e-b04e-33779aab9e5a
+    title: Bending moment of a misaligned spinning rod
+  - challenge_sha:
+      private: a7f645d648b570530e6ac0c9753c1df519f16bd7
+      public: d71089d3374d87434d6dc4f8f3fa252ed83e7c03
+    language: en
+    id: ef789560-0442-42b4-9dcd-050b807dc0ed
+    title: Understanding of the angle of maximum bending moment of a misaligned spinning
+      rod
+  - challenge_sha:
+      private: 6a9d7301f28f71465104f0b9342d1ca094ef0ded
+      public: c9bb8137b6dd5422d29782e7858eb20e530ceabb
+    language: en
+    id: a63253bd-e97a-4231-9dfe-ccaa0b53a19e
+    title: Off-diagonal inertia for a mass point
+  - challenge_sha:
+      private: 7e7b09607f987bfc71b81d417b2d8a8aadb3eaeb
+      public: 8cb472731b27c980390092b104cda844d8f231e7
+    language: en
+    id: 88c6d8cc-c2c7-4664-b1f3-a36b4cbeec8e
+    title: Restoring force with two rotating point masses
+  title: Bending moments and restoring force
+- has_teams: true
+  starts_after: 9174600
+  challenges:
+  - challenge_sha:
+      private: 558603b0c304fcdd477b2ea91b9afc07333ca32f
+      public: fcc9c9bfa97f3164783cf7f098e9f3208e078393
+    language: en
+    id: e78aa02f-4775-47af-8c86-8e5992a4b0de
+    title: Mechanics 2019 end-of-course survey
+  title: Final class
+other_languages: []
+topics:
+- mechanics
+- undergraduate
+- 3d
+editor_id: github.NanoScaleDesign
+challenge_sha: 3ecb45de5f2522341b3c6ad676cd0a6fe2790e27
+modified: 2021-03-18T08:44:17.037637781Z
+version: '1.0'
+title_id: mechanics-2019-4d4ce8be2e7746b67d4981f529a38e754a0cb952
+language: en
+id: 4d4ce8be2e7746b67d4981f529a38e754a0cb952
+title: Mechanics (2019)
+storage_id: 354d567c-74fb-4763-a8cf-61542b6a9e45
+duration: 114
+description: Mechanics (2019)
+institute:
+  url: https://www.kyushu-u.ac.jp
+  en_name: Kyushu University
+  name: 九州大学

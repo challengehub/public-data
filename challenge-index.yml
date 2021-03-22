@@ -2927,10 +2927,10 @@ d40d5f57-b9ee-4ac4-be11-96ab3c73f2f6:
   title: The logistic equation
 dcb372fa-f429-4032-9145-9f69375d9de3:
   topics: []
-  modified: 2020-05-13T01:00:18.371576909Z
+  modified: 2021-03-22T05:33:49.334256926Z
   hexsha:
-    private: 25f35652f76d559d56d94ded7d5443fc60df6280
-    public: 791b901f3183fb6a76206b45e05bab604b7411f9
+    private: ab710e398402d4bcf35ee8f54e28d149aa8e01c8
+    public: db22f493e42b5802114e2e41ff223a6d8b332813
   title_id: writing-complex-numbers-in-the-form-aib
   language: en-gb
   translations: {}

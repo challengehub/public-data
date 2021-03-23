@@ -22,6 +22,17 @@ f22b6f8c-ffb3-410f-b0a7-ec266a15d210:
   title_id: counting-carrots-efeddb
   title: Counting carrots
   creator_id: github.NanoScaleDesign
+0ad32459-ac38-458b-a64a-be6d244650e8:
+  creator:
+    email: nanoscaledesign@gmail.com
+    name: James Cannon (test, NSD - photon - NSD)
+  hex_sha:
+    private: ce8203767a43763a56664ed55e7cdda32bef92b4
+    public: 2103d8ec1cbd80cd3c26d8292cd963b41af67e04
+  import_time: 2021-03-23T04:09:14.409851006Z
+  title_id: test-challenge-2103d8
+  title: Test challenge
+  creator_id: linkedin.hLnYdnklS-
 524222dc-8689-40f5-a89e-36cb60594f57:
   creator:
     email: cannon@mech.kyushu-u.ac.jp

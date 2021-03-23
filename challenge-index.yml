@@ -3545,10 +3545,10 @@ da413fae-b256-4fc8-814e-0d036e0c5047:
   title: 'Cauchy-Goursat theorem: Evaluate (z+(1/z)) along the closed contour |z|=2'
 f66f9ab6-ad8b-496f-8cc7-bf9bd267876b:
   topics: []
-  modified: 2020-05-13T00:45:12.228299984Z
+  modified: 2021-03-23T05:47:22.614551428Z
   hexsha:
-    private: 16198d00222c97623ce4cbd93af79c5be0f81add
-    public: 480c5cbc72053cbac470b6d6d7bde064c26e03e8
+    private: 25f6283fe9bae4ed43e03eeb2b7614a9a9913927
+    public: 5510a45ad87205d04a4fd4a611f15f3f48ce6c4a
   title_id: evaluate-1-i
   language: en-gb
   translations: {}

@@ -1745,6 +1745,16 @@ ea22fb9b-f151-42a2-ace2-81546dce5705:
   language: en-gb
   translations: {}
   title: Test
+fe0097a0-44c5-4cdd-98c5-031b25d00eeb:
+  topics: []
+  modified: 2021-03-23T05:41:44.79188695Z
+  hexsha:
+    private: 088257793ab2580a38fab4425a928d4f47ad837b
+    public: 4ab8593ce77355bf42aa4e41f5220ad7a553ec47
+  title_id: expressing-z-2-2i-9-in-cartesian-coordinate-form
+  language: en
+  translations: {}
+  title: Expressing z=(-2-2i)^-9 in Cartesian coordinate form
 319b5364-1969-40c2-b292-cdfcb667cc77:
   topics: []
   modified: 2019-04-12T01:17:07.277177Z

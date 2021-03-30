@@ -567,6 +567,16 @@ f06c20b2-eb25-4e6c-a5d9-50fe937ff0b2:
   language: en
   translations: {}
   title: Boundary points in a complex plane
+c8f24f89-f24a-4626-b7fa-5ad5d950c0aa:
+  topics: []
+  modified: 2021-03-30T02:08:00.186924664Z
+  hexsha:
+    private: 897cffb93f4f68e996c95d0848a8c38b7b59a63a
+    public: 4c2fa661fcc9fab5ccbd10f1ac09af289ff6a046
+  title_id: what-is-the-norm-of-a-complex-root-of-unity
+  language: en
+  translations: {}
+  title: What is the norm of a complex root of unity?
 91b11535-7abe-486e-a274-19ffe5d9a444:
   topics: []
   modified: 2019-10-04T04:53:57.78548Z

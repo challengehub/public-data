@@ -4388,10 +4388,10 @@ ba2728d9-b295-423b-b7e9-ffd106ec8984:
   title: Reverse Laplace transform:(2e^-2s)/(s^2-2s+2)
 8812243c-f903-42f6-9af1-a9a79fc23a54:
   topics: []
-  modified: 2020-03-02T06:13:30.390067Z
+  modified: 2021-03-30T03:34:15.179190189Z
   hexsha:
-    private: 9baab63eca774bac52d0540c866bd219759a08b1
-    public: e7b4207110c874f9733b63bd69f8bf2de493ba96
+    private: 6fedaf0bcc7f7d191a6ccb8ccb1817c07ae64e89
+    public: 8631fdbc0743b18c0bdc31c7b69d9f7492b723a7
   title_id: understanding-the-multiple-complex-roots-of-a-number
   language: en
   translations: {}

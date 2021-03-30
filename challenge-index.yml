@@ -71,6 +71,16 @@ bd50370b-d99c-43e4-9afc-348706d721a2:
   language: en-gb
   translations: {}
   title: Explaining analyticity
+104cc7b5-aa61-4f62-bad8-3723701424b4:
+  topics: []
+  modified: 2021-03-30T04:31:14.066481892Z
+  hexsha:
+    private: 918537a04044841e7279ffb7bb80ad1b6713105b
+    public: 072914a787cdd354f05c48f45f99aed0c1bd452e
+  title_id: identify-the-interior-of-this-set
+  language: en
+  translations: {}
+  title: Identify the interior of this set
 0b532686-b33d-4b06-90ee-33ebd25c188c:
   topics: []
   modified: 2019-09-27T02:02:53.697784Z

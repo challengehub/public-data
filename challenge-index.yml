@@ -5020,6 +5020,16 @@ c31df9d7-0f5e-4c99-ae4d-05b9caf4152e:
   translations: {}
   title: Understanding the effect of order of composition of two translations, two
     rotations or two magnifications
+47b3ab9a-558b-4584-9246-43e3b29751f3:
+  topics: []
+  modified: 2021-04-06T06:16:59.209103776Z
+  hexsha:
+    private: 63b994182579d7450a75ffe6a7eee040aaa1863c
+    public: 3b617ed636ddd893a58c5930a7fc277058653864
+  title_id: open-and-closed-sets-in-the-complex-plane
+  language: en
+  translations: {}
+  title: Open and closed sets in the complex plane
 53abf9f0-82c4-44df-8457-693329fa567c:
   topics: []
   modified: 2020-05-27T02:39:29.761129838Z

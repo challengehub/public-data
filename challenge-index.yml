@@ -3379,6 +3379,16 @@ da7f72e5-e9f0-40ec-a10f-df648bd9aa64:
   language: en
   translations: {}
   title: Calculating mass-fraction from partial pressure
+1811e563-70d3-45fc-9d55-664511596e0a:
+  topics: []
+  modified: 2021-04-06T08:25:23.060566706Z
+  hexsha:
+    private: a3d9db0e897d387521c51e02f345b83b62cf523d
+    public: 1bff595a734f8060b0058c0f78b185a629121863
+  title_id: calculate-the-4th-iterative-of-zi
+  language: en
+  translations: {}
+  title: Calculate the 4th iterative of z+i
 022e0aee-5de5-4841-96f8-e372da0bf2af:
   topics: []
   modified: 2019-12-02T05:34:31.898803Z

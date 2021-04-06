@@ -4125,6 +4125,16 @@ c13a73c3-7367-4e8c-a74e-2711c0e7da50:
   language: en
   translations: {}
   title: Test 006
+e0be3b11-bf9c-4323-86b7-355516b37968:
+  topics: []
+  modified: 2021-04-06T21:04:21.948566683Z
+  hexsha:
+    private: 2cff88cead498ee4e102fc5f823d983955dff383
+    public: 9e09b07d16d6a4766c32e4935d2023a3f08e1a1a
+  title_id: limit-as-n-goes-to-infinity-of-13-i4n
+  language: en
+  translations: {}
+  title: Limit as n goes to infinity of (1/3 + i/4)^n
 60a8248b-464a-43fd-9bea-3aaf9fa3df59:
   topics: []
   modified: 2019-04-11T07:02:59.145892Z

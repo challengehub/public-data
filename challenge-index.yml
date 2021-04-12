@@ -3533,10 +3533,10 @@ dea97d08-19c4-4940-a89f-e29f4faf38ec:
   title: Calculation of cross-product of 2 vectors, using the angle between them
 3ed2275a-692e-42a8-8064-6e20c3b7061e:
   topics: []
-  modified: 2020-03-24T05:27:25.442808Z
+  modified: 2021-04-12T06:40:48.807301188Z
   hexsha:
-    private: e38fe2021f6731f3ff483b34a37dc4d9e5cb13c5
-    public: 3b4e7b2d51fd6da97d7cc70a44da59a5d58a1004
+    private: a87b5953dc73f6e93c8819893790982ea73e9a8d
+    public: 0acebf91e48e626eb59c98e3e97c1314cabd24f9
   title_id: drawing-the-set-and-image-of-the-line-y-5
   language: en
   translations: {}

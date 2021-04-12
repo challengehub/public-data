@@ -3846,10 +3846,10 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title: 'Solving systems of ODE''s: ((2,-5),(7,-10))'
 3002e7a2-9703-4464-9618-f098800b046c:
   topics: []
-  modified: 2020-04-23T05:25:04.225910984Z
+  modified: 2021-04-12T06:44:20.903732332Z
   hexsha:
-    private: ecfa5f18e550195adfdf5f3a7d7a83f691b34b03
-    public: 76623b72a85bc9177b696f05bc2fd5e7ca3b3219
+    private: ec664100c2beb9a376a0ab0d74c15211454ee7f7
+    public: 8e97bd0536534e5d43dbe3e0685dcb1a1b104b18
   title_id: showing-that-a-complex-function-is-continuous-at-z0
   language: en-gb
   translations: {}

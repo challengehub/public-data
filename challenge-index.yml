@@ -1817,10 +1817,10 @@ c77b2063-0915-40fd-9c1b-3c1edc32fda6:
   title: Obtaining the complex derivative of f(z) = iz^3 - 7z^2
 6a660d8b-22a9-4e13-ba38-be530abc5c35:
   topics: []
-  modified: 2021-04-06T21:12:25.861530792Z
+  modified: 2021-04-12T06:42:53.379322756Z
   hexsha:
-    private: f6112ca7893b024b0dc4c8cc6ff2ba456064d2bf
-    public: 2d43ad0dca4b84cb561ffb85764d784a61357b03
+    private: 66aa6c6ddfb066ffa0879eb88210d94333d6422e
+    public: 40585fb82fa339a01de3ff76c2633708aaed7267
   title_id: limit-as-n-goes-to-infinity-of-sinnn
   language: en
   translations: {}

@@ -2715,6 +2715,16 @@ c7132fd6-fb16-4db4-8118-b1bc5f7ec5e9:
   language: en-gb
   translations: {}
   title: Prove |z_1 z_2| = |z_1||z_2|
+98c4d56c-6044-4d85-b1e2-97654995b711:
+  topics: []
+  modified: 2021-04-13T17:31:16.520297982Z
+  hexsha:
+    private: f20ce6eb778f1d3aadf04f4f7f955467afcffa47
+    public: 4dccfeea0ed481d3fff47b981677c62f4702b9a6
+  title_id: what-is-an-analytic-function-in-the-complex-plane
+  language: en-gb
+  translations: {}
+  title: What is an analytic function in the complex plane?
 5db7fb2d-c210-488f-9ec7-e7214ee293fc:
   topics: []
   modified: 2020-07-03T00:47:45.910056905Z

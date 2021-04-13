@@ -63,14 +63,14 @@ bd50370b-d99c-43e4-9afc-348706d721a2:
   title: Numerical solution of an ODE using a computer
 2b446632-3b6f-452a-9268-0d0019928477:
   topics: []
-  modified: 2020-05-04T06:13:52.808287369Z
+  modified: 2021-04-13T17:27:25.402854986Z
   hexsha:
-    private: 3c9bc1ba74a109a6331252885a32229a965656b8
-    public: 8b037aecb3d86ffff2a71faf9753d98f7ba40f9a
-  title_id: explaining-analyticity
+    private: 0e95069a10d6ded9821ea6278e66d16ac7688928
+    public: 9bedd20935720aa05a098f80e8888bcee4478063
+  title_id: explaining-analyticity-at-a-point-in-the-complex-plane
   language: en-gb
   translations: {}
-  title: Explaining analyticity
+  title: Explaining analyticity at a point in the complex plane
 104cc7b5-aa61-4f62-bad8-3723701424b4:
   topics: []
   modified: 2021-03-30T04:31:14.066481892Z

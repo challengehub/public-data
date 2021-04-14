@@ -2120,10 +2120,10 @@ be59c8b1-8ac4-4d2a-a4bd-89b38578f852:
   title: Smallest period with k=2
 6c9387df-8649-420c-bd3d-20d96bc6d753:
   topics: []
-  modified: 2020-05-04T07:17:58.458605058Z
+  modified: 2021-04-14T05:56:55.73742295Z
   hexsha:
-    private: bfbf957c33936a46d4461103a6760fe327986d5a
-    public: f737932d15c89ddbee4301ce5eb98020ecebe592
+    private: 13a8db8aee780fd6a18299679bfcbd8cc2a49028
+    public: 131ca1b9157812eaa8bee2d015db7f3d12c1ff10
   title_id: proving-that-analytic-functions-are-harmonic-in-the-complex-plane
   language: en-gb
   translations: {}

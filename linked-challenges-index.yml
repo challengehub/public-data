@@ -1,3 +1,13 @@
 # ChallengeHub Linked Challenge Index
 
-{}
+f22b6f8c-ffb3-410f-b0a7-ec266a15d210:
+  creator:
+    email: cannon@mech.kyushu-u.ac.jp
+    name: James Cannon
+  hex_sha:
+    private: 602b219c7b992e898cbc123f56e14528e08a0279
+    public: 44fd1dafd070b5847a2a14f5013f04ff10e5aed8
+  import_time: 2021-04-14T02:29:32.639383895Z
+  title_id: drawing-durians-44fd1d
+  title: Drawing durians
+  creator_id: github.NanoScaleDesign

@@ -5132,10 +5132,10 @@ cdb0e8ae-746e-49b2-aeed-5a8749cb2cc8:
   title: 'Sample problem: Angular acceleration of a crank'
 bb8193aa-c617-4aee-bea6-8dd3af722fa0:
   topics: []
-  modified: 2020-05-26T05:44:30.033499631Z
+  modified: 2021-04-14T06:17:40.05890277Z
   hexsha:
-    private: 7d755b75929c7fc7f1838c8c997d81e23af9642d
-    public: daf021639fb316698f038641b11eb6ebc94d6c13
+    private: 83e81b18ca9b4f84f134ae4e22a220a72efa89c4
+    public: 0df3a8b6a68a33fa357c1740b155c11909274205
   title_id: harmonic-conjugate-relationship-of-u-and-v
   language: en-gb
   translations: {}

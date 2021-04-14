@@ -2,7 +2,7 @@
 extra_resources: {}
 topics: []
 editor_id: github.NanoScaleDesign
-modified: 2020-05-26T05:44:30.033499631Z
+modified: 2021-04-14T06:17:40.05890277Z
 affiliated_institute:
   url: https://www.kyushu-u.ac.jp
   en_name: Kyushu University
@@ -23,6 +23,8 @@ b) Give an example of *an exception* to the general rule referenced in the state
 *If v is a harmonic conjugate of u in some domain D, then u is, in general, not a harmonic conjugate of v.*
 
 ## Resources
+- [YouTube lecture (W3L2)](https://www.youtube.com/watch?v=GvOzQXIbVts&list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ&index=12)
+- https://www.youtube.com/watch?v=Vhm225csPsY
 - Chapter 3.3 of *A first course in complex analysis with applications* by D. Zill and P. Shanahan, 1st edition
 
 

@@ -681,14 +681,15 @@ c8f24f89-f24a-4626-b7fa-5ad5d950c0aa:
   title: The definition and derivation of the moment of inertia
 bcd7710c-71d3-440e-9e96-ab3c54d38f10:
   topics: []
-  modified: 2020-06-16T02:59:28.091854198Z
+  modified: 2021-04-19T21:11:59.803803091Z
   hexsha:
-    private: 471d963565ef28e30c080b36e09de64458225572
-    public: 353416c95d0bae75332862fbc6a97d2b3feebaac
-  title_id: drawing-the-set-and-image-of-the-triangle-with-vertices-0-1-and-1i
+    private: 5018f7e89842b8fb0a5b67092cba1bd85d9d7171
+    public: bb0e31ea0d9da563de3f173347fdeb6dcb9754cc
+  title_id: drawing-the-set-and-image-of-the-triangle-with-vertices-0-1-and-1i-under-the-mapping-wz2
   language: en
   translations: {}
-  title: Drawing the set and image of the triangle with vertices 0, 1 and 1+i
+  title: Drawing the set and image of the triangle with vertices 0, 1 and 1+i under
+    the mapping w=z^2
 f1ae87ed-c786-4a07-af15-2da838e7f72a:
   topics: []
   modified: 2019-10-30T05:39:04.140653Z

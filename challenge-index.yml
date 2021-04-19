@@ -3210,6 +3210,16 @@ d451c6d7-ecb1-4598-aeff-40e3115bfd6e:
   language: en
   translations: {}
   title: Partial-pressure definition
+24b00ed1-34a2-4c32-8f12-66be5bee057f:
+  topics: []
+  modified: 2021-04-19T23:40:25.135254163Z
+  hexsha:
+    private: a5faf779ab6fa46f05c9643a5b335068bb448fc1
+    public: 72569a1502e32ee244223cb18a13381ee14b4ea4
+  title_id: calculate-cospi2-i
+  language: en-gb
+  translations: {}
+  title: Calculate Cos(pi/2 + i)
 4ff09d7b-e049-4d9a-aeb0-3062ee846e4a:
   topics: []
   modified: 2019-04-12T03:24:00.3466Z

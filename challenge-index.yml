@@ -1118,14 +1118,15 @@ b239d7f5-c247-4d80-8d90-2f207008feac:
   title: Identifying even and odd functions
 96681381-cb5e-4005-b390-a73a192c00ca:
   topics: []
-  modified: 2020-06-16T02:58:39.492081197Z
+  modified: 2021-04-19T21:10:46.934653047Z
   hexsha:
-    private: cf49856424ef9e258dd7b1351f2d68459135e5d5
-    public: ab64e8caf1056c64cc931fd06fdc3147388009c9
-  title_id: drawing-the-set-and-image-of-the-square-with-vertices-0-1-1i-and-i
+    private: 8ae9f3196112c300a3fdd280dadcdef08b460b30
+    public: b3f41dbbd5d1bb92c04bccefae86fef885e21e79
+  title_id: drawing-the-set-and-image-of-the-square-with-vertices-0-1-1i-and-i-under-the-mapping-wz2
   language: en
   translations: {}
-  title: Drawing the set and image of the square with vertices 0, 1, 1+i and i
+  title: Drawing the set and image of the square with vertices 0, 1, 1+i and i under
+    the mapping w=z^2
 37c64bd2-2c1c-40fe-894e-278d5d629dcb:
   topics: []
   modified: 2020-07-03T01:24:05.183868342Z

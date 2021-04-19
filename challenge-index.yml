@@ -3543,14 +3543,14 @@ dea97d08-19c4-4940-a89f-e29f4faf38ec:
   title: Calculation of cross-product of 2 vectors, using the angle between them
 3ed2275a-692e-42a8-8064-6e20c3b7061e:
   topics: []
-  modified: 2021-04-12T06:40:48.807301188Z
+  modified: 2021-04-19T21:08:53.500066909Z
   hexsha:
-    private: a87b5953dc73f6e93c8819893790982ea73e9a8d
-    public: 0acebf91e48e626eb59c98e3e97c1314cabd24f9
-  title_id: drawing-the-set-and-image-of-the-line-y-5
+    private: 81fa088063170d933918ca2855bf2c889c1a2a9c
+    public: 1375f98c5208caa8dbc0e1fdd4970b0f8c7c02f9
+  title_id: drawing-the-set-and-image-of-the-line-y-5-under-wz2-mapping
   language: en
   translations: {}
-  title: Drawing the set and image of the line y = -5
+  title: Drawing the set and image of the line y = -5 under w=z^2 mapping
 c562d8c6-9141-4b55-9b84-1c224d78bff2:
   topics: []
   modified: 2019-07-11T02:21:58.53159Z

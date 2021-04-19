@@ -3555,10 +3555,10 @@ dea97d08-19c4-4940-a89f-e29f4faf38ec:
   title: Calculation of cross-product of 2 vectors, using the angle between them
 3ed2275a-692e-42a8-8064-6e20c3b7061e:
   topics: []
-  modified: 2021-04-19T21:08:53.500066909Z
+  modified: 2021-04-19T23:51:07.091160936Z
   hexsha:
-    private: 81fa088063170d933918ca2855bf2c889c1a2a9c
-    public: 1375f98c5208caa8dbc0e1fdd4970b0f8c7c02f9
+    private: 099d8ef82f7b605b529412be6d8715fcec531ef1
+    public: eb6dedc37f06bf961c1170d200beccb76a3005b0
   title_id: drawing-the-set-and-image-of-the-line-y-5-under-wz2-mapping
   language: en
   translations: {}

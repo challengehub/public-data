@@ -4668,6 +4668,16 @@ e4e87237-eb2b-4a14-ac1f-ad115eeb0e7d:
   language: en
   translations: {}
   title: Repetition of even DFT coefficients
+1e2e94b0-f30e-481b-b862-1f21ea7f4e3e:
+  topics: []
+  modified: 2021-04-19T23:53:48.911243454Z
+  hexsha:
+    private: 3b8ae423be48a0b967cc648d20bbe8fb40536edd
+    public: c8b249c76832d59f52a86929fa456f6e86ec7d9a
+  title_id: calculate-e2i-pi
+  language: en
+  translations: {}
+  title: Calculate e^(2+i pi)
 32a02bad-bcf3-4c8f-b263-b4608c963a3c:
   topics: []
   modified: 2018-12-27T07:34:30.807786Z

@@ -3322,10 +3322,10 @@ bdba6966-b5a6-47e9-b8b3-d36815906434:
   title: Convolution of t^2 with a window function
 6f21e053-dfed-4930-8aae-7df9eb51f333:
   topics: []
-  modified: 2020-05-26T07:01:42.807906296Z
+  modified: 2021-04-20T03:06:06.165680947Z
   hexsha:
-    private: 0746ad28e38d0e3c94ced24072c3bcdef8dc761d
-    public: 334431b4f6a84159750f5cde56376b13e7acf05d
+    private: 787ee26415431470837936a38c15d27d8a3143bb
+    public: 27959368621e5af3c549b0cd1350ef68aed7fa86
   title_id: finding-complex-values-of-logi
   language: en-gb
   translations: {}

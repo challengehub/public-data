@@ -4831,10 +4831,10 @@ a1549546-f57b-498b-8a31-07d880e12754:
   title: 'Reverse Laplace transform: (5-5s)/s^2'
 2578ba3a-295b-46b1-82f1-100ee89216e7:
   topics: []
-  modified: 2020-07-08T23:54:33.758758855Z
+  modified: 2021-04-20T03:06:21.175905988Z
   hexsha:
-    private: 6364de32cf8bcc6b6c1d9f051d92b095b0e4fec4
-    public: 85b68baad26d255347bcc0abfd03b41eb0c2bcb3
+    private: 6489c28c5b58ca2371413686d21c67b76582cda2
+    public: 46ef115aee2b2134a224df2e5c36c954a2b7388b
   title_id: finding-complex-values-of-log1-i
   language: en-gb
   translations: {}

@@ -617,6 +617,16 @@ c8f24f89-f24a-4626-b7fa-5ad5d950c0aa:
   language: en
   translations: {}
   title: Boiling text missing word 15
+251b8109-7ab3-4b20-b602-d645a74405db:
+  topics: []
+  modified: 2021-04-27T18:07:12.081681755Z
+  hexsha:
+    private: 3cce2924945a80235ebe5f8892005327da70ab8d
+    public: 8f7c76581a81c43ea19aa344876a67fb89b56ebb
+  title_id: calculating-the-complex-roots-of-16i1i18
+  language: en
+  translations: {}
+  title: Calculating the complex roots of (16i/(1+i))^(1/8)
 05654b55-b029-44b1-8725-c2c3b328e9b9:
   topics: []
   modified: 2019-07-08T02:38:58.16422Z

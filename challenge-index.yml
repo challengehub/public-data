@@ -2102,10 +2102,10 @@ eecde493-188e-41d8-ab86-93a76c5ae887:
   title: Determining a simple ODE from a description - Newton's law of cooling
 e3b7ddb5-8655-48dc-92f4-af0cb114226b:
   topics: []
-  modified: 2021-04-27T18:07:40.374948604Z
+  modified: 2021-04-28T02:25:42.906035684Z
   hexsha:
-    private: afe04333744777964c6047ae380f2e40dc61e15b
-    public: b78af0a837786c5cd79dceb7d0439b2b593bd0b0
+    private: ec8b64863e59cf78d0e40bbdef4c72cb2b386ced
+    public: 57b0e3561e8cb230232da7a03241dc4703523d04
   title_id: calculating-the-complex-roots-of-1i15
   language: en
   translations: {}

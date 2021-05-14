@@ -1391,6 +1391,16 @@ cb8bf493-4808-4c6e-944d-67e8439a6b59:
   translations: {}
   title: Crank-style problem - Perpendicularity of position, velocity and rotation
     vectors
+39ddc78e-8092-4267-b9ef-a41f9f110fa8:
+  topics: []
+  modified: 2021-05-14T06:50:18.914712896Z
+  hexsha:
+    private: 3a8f3a2f2c25bfaa77393ad07163e5bd60b0f7c8
+    public: 8b5e116745454951fcff6e44e467226dce3e373a
+  title_id: basic-limits-of-complex-functions-and-their-properties-limz-i-of-z4-1z-i
+  language: en
+  translations: {}
+  title: Basic limits of complex functions and their properties - lim(z->i) of (z^4-1)/(z-i)
 b6c5b2cd-fa17-4efa-84b2-90c27ee11bc0:
   topics: []
   modified: 2020-08-05T01:02:50.190952014Z

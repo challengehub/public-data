@@ -5091,6 +5091,16 @@ d9189a40-a700-42b8-92c4-d861b57a7036:
   language: en-gb
   translations: {}
   title: Properties of complex numbers under the conditions z=z* and (z)^2=(z*)^2
+bbe9a885-956e-410a-bc2b-62d2662c53bc:
+  topics: []
+  modified: 2021-05-14T06:45:14.144667812Z
+  hexsha:
+    private: 9540e3c2e86a1473a2c2a9b9c1dd42430be418df
+    public: 0b987a05fede0491bef0e09919725bc55a24737f
+  title_id: basic-limits-of-complex-functions-and-their-properties-limz-1i-of-z21z2-1
+  language: en
+  translations: {}
+  title: Basic limits of complex functions and their properties - lim(z->1+i) of (z^2+1)/(z^2-1)
 677d99f8-204b-44b4-a2cb-27488fcf5371:
   topics: []
   modified: 2019-12-09T04:35:21.797451Z

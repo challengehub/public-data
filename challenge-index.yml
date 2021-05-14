@@ -1585,6 +1585,17 @@ ef789560-0442-42b4-9dcd-050b807dc0ed:
   language: en
   translations: {}
   title: Mass Transfer 2019 end-of-course survey
+f0d8f7ca-d8ce-4e76-87ac-db3c732ad64a:
+  topics: []
+  modified: 2021-05-14T06:48:08.801141321Z
+  hexsha:
+    private: 18c3f298dafc0431cce6a7df8549c4b1cd39e575
+    public: 8e3e5f9bb81c7fcc607a946786b44fda78006584
+  title_id: basic-limits-of-complex-functions-and-their-properties-limz-ei-pi4-of-z1z
+  language: en
+  translations: {}
+  title: Basic limits of complex functions and their properties - lim(z->e^i pi/4)
+    of (z+(1/z))
 e267861f-2e79-4489-9ae0-ec54fbb0a381:
   topics: []
   modified: 2021-03-22T05:34:31.050706149Z

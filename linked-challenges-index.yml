@@ -33,6 +33,17 @@ e85c831f-eead-4d87-b80a-ea46e54022d2:
   title_id: cell-reaction-in-a-pefc-0fc792
   title: Cell Reaction in a PEFC
   creator_id: github.stephenlyth
+07a1bb79-d1b0-4b09-aabf-ed1522141a99:
+  creator:
+    email: cla.favero@gmail.com
+    name: Claudia Favero
+  hex_sha:
+    private: 81ed6a3ad0bc9226b0d66a4cf6558d79e3ebc100
+    public: 2184f2132483cad88d180c266c803721897e3c1f
+  import_time: 2021-05-21T05:18:53.410888915Z
+  title_id: preliminary-question-on-vectors-2184f2
+  title: Preliminary question on vectors
+  creator_id: linkedin.zNGJIFrVsl
 de0fc2bf-91ed-4e07-9e98-46da7d276919:
   creator:
     email: tim.emiola@gmail.com

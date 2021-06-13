@@ -2687,10 +2687,10 @@ d6c69ee4-b977-427a-b193-2e9ef238286a:
   title: Graphing z* = z^-1 in the complex plane
 ef2b201c-25d8-4be6-a073-e2bba384acf4:
   topics: []
-  modified: 2021-05-25T02:23:53.179587185Z
+  modified: 2021-06-13T20:36:15.716544534Z
   hexsha:
-    private: 282534b1651b7457c82735447eab6239c3b7ddc4
-    public: def2e2f415322f14d3c195c070c339c7a76c9e13
+    private: 39f1c42645645c4f3c3d12d693550709279bbcab
+    public: e2bc995e1fad857c8bda991c2c04420cc34b38a6
   title_id: defining-diffusion-vs-driven-mass-transfer
   language: en
   translations: {}

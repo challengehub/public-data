@@ -10,6 +10,16 @@ ac5e8f95-6bfb-47ff-8bcd-abe70df31092:
   language: en
   translations: {}
   title: Simple Addition
+1ef9a48e-07af-4dfa-b042-2cdb099dd6c7:
+  topics: []
+  modified: 2021-06-22T05:43:00.122639367Z
+  hexsha:
+    private: 75adf1f6f0afb7b42e5a7554f80acf9ea495fb64
+    public: 8d8b88a817623be4696ef8e005bf185666616c9e
+  title_id: lemon-juice-calculation
+  language: en
+  translations: {}
+  title: Lemon Juice Calculation
 de0fc2bf-91ed-4e07-9e98-46da7d276919:
   topics: []
   modified: 2020-10-31T00:46:04.187397142Z

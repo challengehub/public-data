@@ -2869,6 +2869,16 @@ bad21262-8553-45d2-91db-e18ecfa80229:
   language: en
   translations: {}
   title: Calculating the Fourier transform of a window function between -1/2 and 1/2
+8d85e4c3-2a35-48d6-b2ab-14eb3f6702a9:
+  topics: []
+  modified: 2021-07-02T06:32:18.390928485Z
+  hexsha:
+    private: cf38e1bba9134f1f275a6a84767b0595bda32b95
+    public: 2911cc296af682421fc9237f51808669738ae3f2
+  title_id: determine-the-residue-of-1z21-without-calculating-the-laurent-series
+  language: en
+  translations: {}
+  title: Determine the residue of 1/(z^2+1) without calculating the Laurent series
 e8ef7b2f-ffab-4373-a507-0ab0d03d7fa0:
   topics: []
   modified: 2019-11-05T18:46:42.028731Z

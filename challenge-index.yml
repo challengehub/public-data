@@ -2848,6 +2848,17 @@ bad21262-8553-45d2-91db-e18ecfa80229:
   language: en
   translations: {}
   title: 'Using convolution to solve an ODE: y'''' - 10y'' + 26y = cos(t)'
+296ea19b-fb3a-489b-8997-226eac254605:
+  topics: []
+  modified: 2021-07-02T05:42:34.970494028Z
+  hexsha:
+    private: 1cd59475948659df5384bb2f23657facc6989ee6
+    public: 67b169f70ff721bbe92a46244f671a15f92762cb
+  title_id: calculate-the-integral-around-z0-for-the-function-sin1z-using-the-residue-theorum
+  language: en
+  translations: {}
+  title: Calculate the integral around z=0 for the function sin(1/z) using the residue
+    theorum
 630c31c4-1cb9-454d-8913-2bf7f62b1646:
   topics: []
   modified: 2019-10-17T03:34:54.70278Z

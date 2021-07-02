@@ -5599,3 +5599,13 @@ af5cfa3b-5187-4685-9415-66f97193283a:
   language: en-gb
   translations: {}
   title: Line integral of 2xy given x=5cos(t) & y=5sin(t) (dx)
+ec58a436-624a-44f7-9f0d-1e42ff680bd3:
+  topics: []
+  modified: 2021-07-02T07:42:57.542241035Z
+  hexsha:
+    private: 4d76de1afd53dbc3005de9d59c31074445123bce
+    public: d5e6dc6f33919620e8c12bbcf5fcec6f4dee1e77
+  title_id: explain-why-an-analytic-curve-is-conformal-at-a-given-point-z0
+  language: en
+  translations: {}
+  title: Explain why an analytic curve is conformal at a given point z0

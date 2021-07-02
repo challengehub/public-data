@@ -2869,6 +2869,16 @@ bad21262-8553-45d2-91db-e18ecfa80229:
   language: en
   translations: {}
   title: 'Using convolution to solve an ODE: y'''' - 10y'' + 26y = cos(t)'
+7fffd3f6-03e9-4421-8830-ae111cf7e95c:
+  topics: []
+  modified: 2021-07-02T09:14:25.567851561Z
+  hexsha:
+    private: e63346707ab0cca8c409deddf1b6341995de67d3
+    public: bcc91c9c400811b351e46b3e0623aae1e3cf21a3
+  title_id: show-that-curve-ipit-mapped-by-ez-is-conformal
+  language: en
+  translations: {}
+  title: Show that curve (ipi+t) mapped by e^z is conformal
 296ea19b-fb3a-489b-8997-226eac254605:
   topics: []
   modified: 2021-07-02T05:42:34.970494028Z

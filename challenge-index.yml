@@ -2554,6 +2554,16 @@ d1d8b7b9-6a76-41a1-aab9-b7e3d677d39f:
   language: en
   translations: {}
   title: Test challenge 3
+2369d26e-970e-4adb-ab27-034d67d3490d:
+  topics: []
+  modified: 2021-07-02T03:31:51.320315531Z
+  hexsha:
+    private: c0b8b41fa93afb671c7982f1be261a3705681141
+    public: 50ba842c04e6508615460dd54858f719eb66df8b
+  title_id: show-that-cauchys-integral-formula-can-be-re-written-as-a-lower-power
+  language: en
+  translations: {}
+  title: Show that Cauchy's integral formula can be re-written as a lower power
 108bd008-b765-4cc3-9b96-efd054a470be:
   topics: []
   modified: 2020-03-11T01:52:52.633644Z

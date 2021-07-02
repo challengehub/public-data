@@ -4220,6 +4220,16 @@ aebd34f7-e4df-4eb5-95f8-e58ca739bf80:
   language: en
   translations: {}
   title: 'Solving systems of ODE''s with conditions: ((-4,0),(0,-4))'
+4aa01a19-8e28-4c8b-8202-5ab6f0a3dbe9:
+  topics: []
+  modified: 2021-07-02T07:34:03.59841016Z
+  hexsha:
+    private: dc5a0d498dc9413a64c13319a555b52fe61ab837
+    public: 3946aba0cb2e3d1e1a69207996e3841d84ae1857
+  title_id: difference-between-conformal-curves-and-conformal-mapping
+  language: en
+  translations: {}
+  title: Difference between conformal curves and conformal mapping
 e4d8f0b4-c32d-4676-bcb5-19c2498cfa06:
   topics: []
   modified: 2019-12-02T05:29:29.745128Z

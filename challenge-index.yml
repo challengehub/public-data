@@ -2020,6 +2020,16 @@ b359a87e-8e04-4679-b540-3c345ac6eb20:
   translations: {}
   title: Calculating the mass of a wire with density proportional to distance from
     the y-axis, using a line integral
+9076bfdb-35b6-4c2a-9926-18a7f558427c:
+  topics: []
+  modified: 2021-07-02T03:22:24.507401767Z
+  hexsha:
+    private: 0e98fec67181866b06f2df705159b3e976ccfef1
+    public: c5d700420d93ceeeda727ecdecf5b383342b469b
+  title_id: prove-that-the-closed-integral-of-1z-zon-is-0-except-for-n1
+  language: en
+  translations: {}
+  title: Prove that the closed integral of 1/(z-zo)^n is 0 except for n=1
 a43db494-2821-461b-8765-3cc2a0fc7859:
   topics: []
   modified: 2019-01-15T02:58:45.486414Z

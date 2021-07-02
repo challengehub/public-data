@@ -2232,6 +2232,16 @@ b40fbdb5-a0df-48c5-8d54-d0a2bb43a200:
   translations: {}
   title: Radial acceleration towards the axis of rotation of a point with no angular
     acceleration
+d7db46d0-2142-4ab2-85a6-b9146f308cb3:
+  topics: []
+  modified: 2021-07-02T07:22:15.415035381Z
+  hexsha:
+    private: a31f6314d8f306e51cf7b8e8599e17a7a8617a42
+    public: 7674e686267ff8b84262d95cefc66ad06adbaf92
+  title_id: drawing-smooth-and-piecewise-smooth-curves
+  language: en
+  translations: {}
+  title: Drawing smooth and piecewise smooth curves
 73dc1ec7-d448-45a2-9226-a13f12195f5d:
   topics: []
   modified: 2021-04-14T06:17:00.715321818Z

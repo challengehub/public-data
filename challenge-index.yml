@@ -5314,6 +5314,16 @@ bb8193aa-c617-4aee-bea6-8dd3af722fa0:
   translations: {}
   title: Expressing complex linear mapping in terms of rotation, magnification and
     translation
+2e5c252b-b9df-438a-9a8b-543c25f744e8:
+  topics: []
+  modified: 2021-07-02T05:31:24.210240472Z
+  hexsha:
+    private: 1b0d2e3d27d89a4b376c70c7679fa42124e3a21e
+    public: 81295209667480bb7a96e09b123d854b71f03cda
+  title_id: calculate-the-residue-of-sin1z-around-the-singularity-0
+  language: en
+  translations: {}
+  title: Calculate the residue of sin(1/z) around the singularity 0
 76536e3c-0cd9-416c-b650-f01f6fa8e92d:
   topics: []
   modified: 2019-07-10T05:32:07.471261Z

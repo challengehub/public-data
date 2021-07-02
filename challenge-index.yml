@@ -5316,10 +5316,10 @@ bb8193aa-c617-4aee-bea6-8dd3af722fa0:
     translation
 2e5c252b-b9df-438a-9a8b-543c25f744e8:
   topics: []
-  modified: 2021-07-02T05:31:24.210240472Z
+  modified: 2021-07-02T05:38:01.387549066Z
   hexsha:
-    private: 1b0d2e3d27d89a4b376c70c7679fa42124e3a21e
-    public: 81295209667480bb7a96e09b123d854b71f03cda
+    private: 86fdd6fe301255f2c1c6ac1b4696a479e1527794
+    public: 126322df12cc966a7452f1a6bd9c9b1810f84b43
   title_id: calculate-the-residue-of-sin1z-around-the-singularity-0
   language: en
   translations: {}

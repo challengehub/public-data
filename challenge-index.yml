@@ -2463,6 +2463,17 @@ c3f21ef7-8f93-4954-b4c6-771f9be31c26:
   language: en
   translations: {}
   title: Factoring z^2 + 2z − √3i = 0
+b67c8c95-f0df-476f-a503-54ebd7fc9e7b:
+  topics: []
+  modified: 2021-07-02T07:29:45.030413821Z
+  hexsha:
+    private: e46b69c92037d965d38add39321ee0b6603571d1
+    public: 07f6f20347fdc2fa7508636c8f489f7062432f43
+  title_id: determine-the-tangent-lines-and-angle-between-the-curves-eit-and-t-on-the-complex-plane
+  language: en
+  translations: {}
+  title: Determine the tangent lines and angle between the curves e^(it) and t on
+    the complex plane
 a806f89e-bfa5-4c75-8563-fb8aa4acb446:
   topics: []
   modified: 2019-10-21T01:14:47.17691Z

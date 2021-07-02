@@ -5011,6 +5011,17 @@ f5c97038-c150-4774-925e-04a803deb5a6:
   language: en
   translations: {}
   title: Boiling text missing word 19
+e43f6cbd-c01b-402a-a49e-d163cd3637cb:
+  topics: []
+  modified: 2021-07-02T06:35:47.434254683Z
+  hexsha:
+    private: b795f7f75a17ac6af59fb0771263bb8a94b759fd
+    public: fed43123c083b145becf5b9c6e58ba122047e4dd
+  title_id: calculate-the-integral-along-a-circular-contour-of-radius-02-centred-at-04i-for-the-function-1z21
+  language: en
+  translations: {}
+  title: Calculate the integral along a circular contour of radius 0.2 centred at
+    0.4i for the function 1/(z^2+1)
 5127c3d8-b419-4406-8eff-9f2c9fc33114:
   topics: []
   modified: 2019-09-27T05:54:26.430145Z

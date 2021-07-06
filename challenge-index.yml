@@ -4000,10 +4000,10 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title: 'Laplace transform of a unit step function: U_0'
 1aac2f70-1d62-466f-a1bc-3e8619b08d19:
   topics: []
-  modified: 2021-06-07T09:22:32.885005145Z
+  modified: 2021-07-06T20:42:25.625372256Z
   hexsha:
-    private: f9a840d0c547416116e2ffe6e27ac2892deb277b
-    public: c3717e2c6019ce4b0df197e384a17081e69d1017
+    private: 83aa78be89f67c77f6cda6bfd81f106d8bc5104a
+    public: dca425e9d0b2a7a303103f1dacbde6d38aaa6048
   title_id: cauchy-goursat-theorem-evaluate-the-integral-of-2z3zz-1-over-a-complex-style-curve
   language: en-gb
   translations: {}

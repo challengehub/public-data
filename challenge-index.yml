@@ -762,15 +762,14 @@ c4a66aac-7788-4788-ac55-94f57f60e031:
   title: Drawing the direction field for y'=x
 2634f805-ff27-4830-94f7-740635a458e2:
   topics: []
-  modified: 2019-07-18T06:36:09.446563Z
+  modified: 2021-07-11T21:14:48.508470267Z
   hexsha:
-    private: 5c27596894d6fe739fe0e66d033b7cabfa066f5f
-    public: de14c43f77395fda65c0037f6f7453f1f92cbaf5
-  title_id: calculation-of-the-volume-of-a-soluble-species-in-the-gas-phase-at-stp-given-its-volume-in-the-solid-phase-at-an-interface
+    private: 8f4888e8f70c3a9eaf2d04b7dce226278565e1e3
+    public: db1ee077c02db9c0a144b2205949371a26cb3676
+  title_id: calculation-of-stp-solubility
   language: en
   translations: {}
-  title: Calculation of the volume of a soluble species in the gas-phase at STP given
-    its volume in the solid phase at an interface
+  title: Calculation of STP solubility
 29669082-6d57-4c9f-8f76-74e9f2f2664f:
   topics: []
   modified: 2019-06-28T07:32:32.287798Z

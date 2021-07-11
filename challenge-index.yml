@@ -4060,10 +4060,10 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title: Understanding the first term in a trigonometric Fourier series
 b4a27bb7-480b-4c00-924b-0e3714b270a6:
   topics: []
-  modified: 2019-07-16T03:50:38.593851Z
+  modified: 2021-07-11T21:29:46.862512552Z
   hexsha:
-    private: c73383afc12c740769ab596f3ae912c8667d7d0e
-    public: 7c4bca33fb87f55515a0c8731ef9ab2c64a43cbb
+    private: 77dde9fc95a3827a2051d8cfd113c0615eabcb62
+    public: 119fc5b776b3c586092ae2394cc8060da8a48369
   title_id: calculation-of-flux-through-a-spherical-membrane
   language: en
   translations: {}

@@ -66,3 +66,14 @@ ae9ab776-99d8-491c-ab56-643f402308e9:
   title_id: weighing-apples-1e39a3
   title: Weighing apples
   creator_id: github.NanoScaleDesign
+00b115d6-0bad-4845-8298-13489bd19803:
+  creator:
+    email: kurata@mech.kyushu-u.ac.jp
+    name: cbal-kurata
+  hex_sha:
+    private: 53baf9e6efb74f5a00953631cc15b9713173ecea
+    public: 28f7f82f11fa13f23eed13ee7347edbd0553f544
+  import_time: 2021-09-07T06:56:02.854448774Z
+  title_id: 条件a9qev-28f7f8
+  title: 条件A：9，Q_EV
+  creator_id: github.cbal-kurata

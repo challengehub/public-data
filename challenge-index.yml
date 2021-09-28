@@ -180,6 +180,16 @@ c33985dc-9a69-4ec8-9ae6-423058ede353:
   language: ja
   translations: {}
   title: ふく射（ふく射エネルギーが届く割合）
+ca601e30-c53e-46f3-b0d4-cbe00a7aeeac:
+  topics: []
+  modified: 2021-09-28T23:25:05.904788812Z
+  hexsha:
+    private: 7c30d1f10b02cf9c6e9427c4ba3e81158778d30c
+    public: cc4f84703157124c40deba9730e99894a3f95145
+  title_id: 条件a1条件b1gb
+  language: ja
+  translations: {}
+  title: 条件A：1，条件B：1，G_B
 efb77b4a-da64-4163-81e5-46d42772d92b:
   topics: []
   modified: 2020-09-23T04:52:23.679370126Z

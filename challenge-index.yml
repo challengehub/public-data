@@ -670,6 +670,16 @@ f0899ab0-7aff-479d-a57f-d83da0a309d0:
   language: ja
   translations: {}
   title: 対流　局所熱伝達率から伝熱量を計算する（1）
+d673c3cd-af6e-47b7-9eb7-34c646cea6a2:
+  topics: []
+  modified: 2021-09-29T03:32:14.144250278Z
+  hexsha:
+    private: 4e4a5f7ec0bb08a461deeae25fec4ad8f797821a
+    public: f126c63e412c2c13f8bca63aed1aa718f13e9034
+  title_id: 条件a8hbi
+  language: ja
+  translations: {}
+  title: 条件A：8，h_Bi
 7cc7a509-291a-41af-9dd4-048d89d39f6f:
   topics: []
   modified: 2020-09-23T04:10:54.525133739Z

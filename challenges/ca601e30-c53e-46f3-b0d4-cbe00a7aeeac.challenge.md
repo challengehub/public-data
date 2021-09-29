@@ -2,23 +2,24 @@
 extra_resources: {}
 topics: []
 editor_id: github.cbal-kurata
-modified: 2021-09-28T23:25:05.904788812Z
+modified: 2021-09-29T05:07:58.567135424Z
 affiliated_institute:
   url: https://www.kyushu-u.ac.jp
   en_name: Kyushu University
   name: 九州大学
 version: '1.0'
-title_id: 条件a1条件b1gb
+title_id: 条件a1条件b1条件c1gb
 language: ja
 id: ca601e30-c53e-46f3-b0d4-cbe00a7aeeac
 translations: {}
-title: 条件A：1，条件B：1，G_B
+title: 条件A：1，条件B：1，条件C：1，G_B
 
 ---
 
 ## Comments
 条件A：1
 条件B：1
+条件C：1
 
 ## Challenge
 G_B [kJ/s] ?

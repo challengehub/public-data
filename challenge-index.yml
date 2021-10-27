@@ -1098,10 +1098,10 @@ b239d7f5-c247-4d80-8d90-2f207008feac:
   title: Fourier Analysis coursework (2019)
 291b8eaf-ba07-49e7-82c7-319d918c1241:
   topics: []
-  modified: 2020-11-04T02:57:24.904848625Z
+  modified: 2021-10-27T00:54:10.244688835Z
   hexsha:
-    private: ca68cb7e4e0831c045750d8165f535bfc7eb5dc3
-    public: 6dfa54b40ff265fdabab5a378a14ee2ee1e6d846
+    private: 4be04ce3727c901a5e2ed5d91355d4908e921d90
+    public: 4a32a8dcc06f12c7df33bb9fc78da8d6f3a694bb
   title_id: determining-the-fourier-series-coefficients-of-sinx
   language: en
   translations: {}

@@ -3949,14 +3949,14 @@ b022458e-203a-45a4-964b-dcb7d586dfa0:
   title: Identifying convergence of complex series and calculating convergence sums
 1d0d2b90-d2d5-4005-bd42-25e9ee45862e:
   topics: []
-  modified: 2019-10-24T02:47:13.91895Z
+  modified: 2021-11-17T00:59:55.292971041Z
   hexsha:
-    private: d7b5b41ae589fa42538c83e0d36b2900676b4e20
-    public: 39a3ebc34a206ac29d3ef265b2e746bb4963bfdf
-  title_id: derivation-of-the-effect-of-a-stretch-in-the-time-domain-on-the-fourier-transform
+    private: b97b95d2361723d7d238aef7a6db821681300627
+    public: 7ab4d4fcfcd883c1a76464b1bbced75749354247
+  title_id: the-effect-of-a-stretch-in-the-time-domain-on-the-fourier-transform
   language: en
   translations: {}
-  title: Derivation of the effect of a stretch in the time domain on the Fourier transform
+  title: The effect of a stretch in the time domain on the Fourier transform
 48855029-8d08-4e8f-b080-f97fee748d28:
   topics: []
   modified: 2020-05-13T00:27:39.945222191Z

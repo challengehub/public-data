@@ -4620,6 +4620,16 @@ c09c3204-39b9-406c-9ab2-a64905fc844f:
   language: en
   translations: {}
   title: Boiling text missing word 32
+04270ec1-754b-4489-90dc-6407584e1814:
+  topics: []
+  modified: 2022-01-19T01:11:12.1042626Z
+  hexsha:
+    private: 4dd76ad8f3d2511120ecb50698d92cc7a5fe71b7
+    public: 71c697693cb7da6313b916e3d9222b9543ce9ddf
+  title_id: fourier-analysis-coursework-2021
+  language: en
+  translations: {}
+  title: Fourier Analysis coursework (2021)
 39841efc-79de-4517-a8f0-5e3f79063d89:
   topics: []
   modified: 2019-05-09T07:50:58.46436Z

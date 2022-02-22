@@ -1,0 +1,419 @@
+stints:
+- has_teams: false
+  starts_after: 6000
+  challenges:
+  - challenge_sha:
+      private: 9e7f347041dbcb93a6f9b625fe410498fdc8d3ca
+      public: f7efc2c8d34cbfc2f4e68fbffc2f71a10a1c55a5
+    language: en-gb
+    id: 744701f7-b841-48a9-9ff2-3e6c5b19c81f
+    title: 'Complex number algebra: i^n'
+  - challenge_sha:
+      private: ab710e398402d4bcf35ee8f54e28d149aa8e01c8
+      public: db22f493e42b5802114e2e41ff223a6d8b332813
+    language: en-gb
+    id: dcb372fa-f429-4032-9145-9f69375d9de3
+    title: Writing complex numbers in the form a+ib
+  - challenge_sha:
+      private: 14e671ef9e4a411399059fb068707b33943d1945
+      public: 22555ba3dcbf83f335eca010fb5c79936454aa76
+    language: en-gb
+    id: 0b6011b1-0a6f-45ce-9b7f-8d2ce50388cc
+    title: Understanding Re and Im parts of complex numbers
+  - challenge_sha:
+      private: 60d9401a22eee5d5eee0ba80eec08a4563695568
+      public: 289dadc333868ee5334e1d408cf0dc73181fc757
+    language: en-gb
+    id: d9189a40-a700-42b8-92c4-d861b57a7036
+    title: Properties of complex numbers under the conditions z=z* and (z)^2=(z*)^2
+  - challenge_sha:
+      private: a9231d07544cb4a20ee7db073af5dd1abd8033a1
+      public: 61ffc5e27de5d6dd7f61de090e04ca5f8c17fa9a
+    language: en-gb
+    id: e267861f-2e79-4489-9ae0-ec54fbb0a381
+    title: Express |z+ 5z*| in terms of x and y
+  - challenge_sha:
+      private: 25f6283fe9bae4ed43e03eeb2b7614a9a9913927
+      public: 5510a45ad87205d04a4fd4a611f15f3f48ce6c4a
+    language: en-gb
+    id: f66f9ab6-ad8b-496f-8cc7-bf9bd267876b
+    title: Evaluate |1-i|
+  - challenge_sha:
+      private: 718d71fda6dae40e8939982b26552b8f68893f51
+      public: fd9be5e4ff3fc8726c2068e83f79bd22c81d5345
+    language: en-gb
+    id: c13a73c3-7367-4e8c-a74e-2711c0e7da50
+    title: Introduction to polar representation of complex numbers
+  - challenge_sha:
+      private: 3bd43f4f4ea55598a1ad29db8c9f2ca418b9dc33
+      public: 74f9c420094b94cb5101f7ca27d832931c9a2029
+    language: en
+    id: 436ba164-9015-490d-a05c-c4102780bb77
+    title: Relation of complex numbers if Arg(z1)=Arg(z2)
+  - challenge_sha:
+      private: 919793a9db90cea8c7c65a1c50bcd154b26fea4d
+      public: 4f0b4c584099a5304b3dc5eda322405f06be5b1f
+    language: en-gb
+    id: cba3c698-b3e8-4ebf-8a55-d1d6c7d50dce
+    title: Converting the polar representation of complex numbers into a Cartesian
+      representation
+  - challenge_sha:
+      private: 372d86ce0b147f8835c3165b7c1cec9dabba07a0
+      public: ed8bd5834badd7ff5bd7ef8d04c2315b4ca9b2c8
+    language: en
+    id: daaf55f7-950d-4b79-a6cc-e52f82a03470
+    title: Expressing z=(sqrt(3)-i)^11 in polar form
+  - challenge_sha:
+      private: dbf6fe8db9338b0a73c8723e968c1fac8b31dd82
+      public: 33b842b86f0480fb8b077baa57ceb4e67e7a9bcf
+    language: en
+    id: fe0097a0-44c5-4cdd-98c5-031b25d00eeb
+    title: Expressing z=(-2-2i)^-9 in Cartesian coordinate form
+  title: Algebra and geometry of complex numbers
+- has_teams: false
+  starts_after: 611100
+  challenges:
+  - challenge_sha:
+      private: a86aaca2b79406ee8e0f87560fe39e2f0c9f52cb
+      public: aaa4b5764c4bcb046f45dd37daac19d65140685e
+    language: en-gb
+    id: 2c8d9029-ba26-40ba-9d3a-04725ea5fbe0
+    title: 'Complex number algebra: (a+ib)^n'
+  - challenge_sha:
+      private: 08906df51928f54f5ea3f0e732523809b4a6c821
+      public: 2a7732d9edab36ab03fe7a6fe8c7f7bdbd5f2920
+    language: en-gb
+    id: 48855029-8d08-4e8f-b080-f97fee748d28
+    title: Showing z_2 = k z_1*
+  - challenge_sha:
+      private: 1e05b3bb60be041385aa1e52d3658fa0d4b11a30
+      public: 17bd78f1f5ca01c16fd79048939ef8280303db76
+    language: en-gb
+    id: 366df447-5a53-4af9-8ff5-f42ba0c126f0
+    title: Definitions of complex identities
+  - challenge_sha:
+      private: 171124d0b7c36c12f98337090f7599d06b06ea1e
+      public: 61b5d47bd431cd38be4706f6aa30f0bef21eebaa
+    language: en-gb
+    id: aebfc845-cf9f-4a1c-87a9-96b506e29a16
+    title: Graphing |z-i| = | z-1| in the complex plane
+  title: Missing challenges from stint 1
+- has_teams: false
+  starts_after: 611400
+  challenges:
+  - challenge_sha:
+      private: d4fba13e54e831cfc0824cf5e1b3c03060fa8741
+      public: 48276fbc0c9d260de16f1ebbbadfef2082babcf5
+    language: en-gb
+    id: 154090a6-324d-482e-b1d6-49ec45faea50
+    title: Graphing z* = z^-1 in the complex plane
+  - challenge_sha:
+      private: efca54f2d9da0dad5a956475c3eaee9d2754bb36
+      public: d30883d04b16fbf62034471f1f5d4d8494485f9a
+    language: en-gb
+    id: 2a0aea6d-a239-4014-9e17-1336ff09500e
+    title: Graphing |z| = Re(z) in the complex plane
+  - challenge_sha:
+      private: 547bad495fb98db83aeaa6317e875f9bd0264833
+      public: 88c6f7d57276688102a3c5f9ef51ed72e7d45463
+    language: en
+    id: 3b74e733-bd62-43ba-aff5-ea28149928d7
+    title: Definition of circles, discs, neighbourhoods and deleted neighbourhoods
+  - challenge_sha:
+      private: b0586b44362595f1d23fb5fbf91759fd6175e775
+      public: 78e829c58c853f4f324bcc87770511d3aa6f65df
+    language: en
+    id: 1120c1ca-b85e-41a1-9854-2353a6e859f9
+    title: Sketching complex number sets and determining their nature
+  - challenge_sha:
+      private: 4a155dba4a7aaa579b5a428caa5fac9386441c0b
+      public: 96367b480263263f39ac99492b2769d42ee44dce
+    language: en
+    id: 0154c40f-6277-4ee6-9ea2-69ca544f9469
+    title: Sketching graphs in the complex plane
+  - challenge_sha:
+      private: 97a27594450fe3f1f66286dab5f2a56e71717833
+      public: 586f5d49f8f5194442748c0bd9d366166d2691c3
+    language: en-gb
+    id: 9979ec1f-0c9e-4318-bea2-5be9f54c05b6
+    title: Prove |z_1 z_2| = |z_1||z_2|
+  title: Stint 2
+- has_teams: false
+  starts_after: 1215900
+  challenges:
+  - challenge_sha:
+      private: da4f45b992358808f5ab765df7c62dafe4e4afee
+      public: ea7a87898eec17ccd5bfc104dff33beea49ceff5
+    language: en
+    id: 583afed2-f312-4a74-89b9-4bb88a48bf7c
+    title: Expressing z=(-2-2i)^-9 in polar form
+  - challenge_sha:
+      private: 4843d908413bc23fba0ccad922292e2377fa6b04
+      public: 93733ac5357cb73fc6b8133314bfe6ca67cd41df
+    language: en
+    id: ddee407a-8ba6-4635-9d00-54bcd4a21f4f
+    title: Calculating the complex roots of 8^(1/3)
+  - challenge_sha:
+      private: ec8b64863e59cf78d0e40bbdef4c72cb2b386ced
+      public: 57b0e3561e8cb230232da7a03241dc4703523d04
+    language: en
+    id: e3b7ddb5-8655-48dc-92f4-af0cb114226b
+    title: Calculating the complex roots of (1+i)^(1/5)
+  - challenge_sha:
+      private: 12af6aafcaa44a3dc413769948e252c657335a6c
+      public: f527518d2179fdf668d9c5ccef5cf8cd58c35ed1
+    language: en
+    id: 251b8109-7ab3-4b20-b602-d645a74405db
+    title: Calculating the complex roots of (16i/(1+i))^(1/8)
+  - challenge_sha:
+      private: e471e79fdbed768c28aff7c0ebf430b186410e51
+      public: 929c367d64311aa3567e2861f3fe190221380172
+    language: en
+    id: d1f3c43e-2716-472d-a0eb-b6581c1f3345
+    title: Finding all solutions to the equation (z^4)+1=0
+  - challenge_sha:
+      private: 9c23ae27b289067ff700413bc76be218d8b5faac
+      public: e5d702408da729ca99d5b238cece7eeed8ea938d
+    language: en
+    id: b8b9034b-e76c-4f58-a074-180a7847ee64
+    title: Finding the complex roots of unity
+  - challenge_sha:
+      private: c56b94d3900e0a5d706d9a41ac458f30a169a059
+      public: 3aa9e15f2cd2d2dcf8a6663f0e3b6064c33ee6ab
+    language: en
+    id: 73b03f08-fbd8-4fc3-9f99-9de3fb6934be
+    title: Relation of real-imaginary fourth roots
+  - challenge_sha:
+      private: cb549fa0513f32c7cdb97953de948bb4fe8bd3d7
+      public: dbe2eeb19ed35e4a8389ef2573dd091847f0bde6
+    language: en
+    id: f06c20b2-eb25-4e6c-a5d9-50fe937ff0b2
+    title: Boundary points in a complex plane
+  - challenge_sha:
+      private: a51a2b85d4e160aa4164d1d341b6e08975a65721
+      public: a8166d6bc8a6014d532f3f37b486bb460335f1e0
+    language: en
+    id: cdb0e8ae-746e-49b2-aeed-5a8749cb2cc8
+    title: Factoring iz^2 - z + i = 0
+  - challenge_sha:
+      private: aa391fe8acaf2b83e25dc429ce96763e696e56c0
+      public: 60ac4417e2f5931a7ffca318edff84287c76eb2f
+    language: en
+    id: 108bd008-b765-4cc3-9b96-efd054a470be
+    title: Factoring z^2 −(1+9i)z−20+5i=0
+  - challenge_sha:
+      private: a4224389c48c03c01d0cb76193d673340d952d86
+      public: 49233dea9cfb907dd2f855977624c1c94063245b
+    language: en
+    id: 806f0e1e-0a32-4602-89de-524d8ac60592
+    title: Finding the real and imaginary parts of functions
+  - challenge_sha:
+      private: 012784725d9dd923f8640f92f73210d880bf7964
+      public: 5fa1663924e339d47d360754e63be83612c9e624
+    language: en
+    id: 67a0bf64-fd13-40c4-8a33-9116f09e5927
+    title: Sketching complex parametric curves
+  title: Stint 3
+- has_teams: false
+  starts_after: 2425500
+  challenges:
+  - challenge_sha:
+      private: d5e2f2f1ded8409e2285405ff9a4a66b211dfd32
+      public: f44275b08437af54f3ed8308f11b166b5a61b30c
+    language: en
+    id: a3b57ed6-0ea4-46bb-9ef2-fe53b03b16ab
+    title: Linear mapping of a closed disk in a complex plane
+  - challenge_sha:
+      private: ae6f8c32e25ed19c9c918029dc5fc75654ad3c16
+      public: 922c35ed71d460b757d6dcbe8473e9421c7f1c72
+    language: en
+    id: 23400430-2516-4ad9-afa4-d0642a4d745b
+    title: Expressing complex linear mapping in terms of rotation, magnification and
+      translation
+  - challenge_sha:
+      private: 3b929c84f77f2c926f93540f23c8d9602d6dcd9e
+      public: b5294a0c208cbe1f41e07f619a2bb4a316470526
+    language: en
+    id: fc4fd5c1-ca0d-419e-a244-877b6fe91771
+    title: Mapping a complex square onto another set
+  - challenge_sha:
+      private: 6e8909efd26704366e85ccb6a434cf80e12b5c20
+      public: e6312d7197858b0e328c5751b1b68db8714c185d
+    language: en
+    id: 1e875274-a447-4808-b090-87e8d4ea20f4
+    title: Expressing a composition of a magnification, translation and rotation as
+      a linear mapping
+  - challenge_sha:
+      private: 89c948822d2f31305cd620282208337ff8735134
+      public: 6e61a2b722d6ce042be2144a118f7d4990e80bc6
+    language: en
+    id: c31df9d7-0f5e-4c99-ae4d-05b9caf4152e
+    title: Understanding the effect of order of composition of two translations, two
+      rotations or two magnifications
+  - challenge_sha:
+      private: 3583f7fa537d367fb78722f919001c07ccee4a06
+      public: e6fb868b313c7863c22a74e0d74a96c4f0d074d1
+    language: en
+    id: a8124252-ab6c-4e07-8592-531baa3e565a
+    title: Understanding commutation of translation, rotation and magnification of
+      complex mapping
+  - challenge_sha:
+      private: bd85a92e2e90004cf5c1ee8d1e1c05f96a140d41
+      public: 8d30bb9ab8977ebe9b71250b16ba7abe6ef30ed7
+    language: en
+    id: 38bad5f9-3df1-473e-a243-ed1bf08a746b
+    title: Drawing the set and image of the ray arg(z) = - 3/4 pi under w=z^2 mapping
+  - challenge_sha:
+      private: 099d8ef82f7b605b529412be6d8715fcec531ef1
+      public: eb6dedc37f06bf961c1170d200beccb76a3005b0
+    language: en
+    id: 3ed2275a-692e-42a8-8064-6e20c3b7061e
+    title: Drawing the set and image of the line y = -5 under w=z^2 mapping
+  - challenge_sha:
+      private: 8ae9f3196112c300a3fdd280dadcdef08b460b30
+      public: b3f41dbbd5d1bb92c04bccefae86fef885e21e79
+    language: en
+    id: 96681381-cb5e-4005-b390-a73a192c00ca
+    title: Drawing the set and image of the square with vertices 0, 1, 1+i and i under
+      the mapping w=z^2
+  - challenge_sha:
+      private: 5018f7e89842b8fb0a5b67092cba1bd85d9d7171
+      public: bb0e31ea0d9da563de3f173347fdeb6dcb9754cc
+    language: en
+    id: bcd7710c-71d3-440e-9e96-ab3c54d38f10
+    title: Drawing the set and image of the triangle with vertices 0, 1 and 1+i under
+      the mapping w=z^2
+  title: Stint 4
+- has_teams: false
+  starts_after: 3030300
+  challenges:
+  - challenge_sha:
+      private: 9c140e7688ed05f3c82240168eb18263c0425928
+      public: 80b4924291203cf22545f0d5f78f38e78b33d800
+    language: en
+    id: 1190e23a-bfce-4dc7-af1d-374fd6f2453a
+    title: Finding the image of a set under square-root mapping
+  - challenge_sha:
+      private: 667e681cfe28b91b358b228d110c07c7ed0022e2
+      public: e2574a5c2a52fd25b42774732321322644450303
+    language: en
+    id: 47e7f9fa-6b7f-4b82-a45c-341f6ee1ef63
+    title: Finding the value of the principle n'th root function at a given value
+      of z
+  - challenge_sha:
+      private: b42976e44ba1232b24ee50e7f6cdc1339b1d2b33
+      public: 3b91ef2443efdc4bd558e7e4a16b91346ccaa23c
+    language: en
+    id: b9121274-65e5-488d-b253-942a258debdf
+    title: Drawing the set and image of the line x=2 under transformation f(z) = iz^2-3
+  - challenge_sha:
+      private: 553126e4452c918b1aeb7e86c961d312544f50ee
+      public: 85f773a7f0b1b577b82b82f8876b48c9ed54e298
+    language: en
+    id: 4cffd999-af9b-4aca-9a98-9fd707a84b44
+    title: A review of continuous functions and real limits (Khan academy)
+  - challenge_sha:
+      private: 58d6814b78c4b408deaffd3b82a4a6878965ab95
+      public: 0658a55b8709b43e7bc549e883bed384b7fa6fb2
+    language: en-gb
+    id: 5f904199-d155-408c-b6e7-c0eebd79ee2e
+    title: A first introduction to complex limits
+  - challenge_sha:
+      private: 9540e3c2e86a1473a2c2a9b9c1dd42430be418df
+      public: 0b987a05fede0491bef0e09919725bc55a24737f
+    language: en
+    id: bbe9a885-956e-410a-bc2b-62d2662c53bc
+    title: Basic limits of complex functions and their properties - lim(z->1+i) of
+      (z^2+1)/(z^2-1)
+  - challenge_sha:
+      private: 18c3f298dafc0431cce6a7df8549c4b1cd39e575
+      public: 8e3e5f9bb81c7fcc607a946786b44fda78006584
+    language: en
+    id: f0d8f7ca-d8ce-4e76-87ac-db3c732ad64a
+    title: Basic limits of complex functions and their properties - lim(z->e^i pi/4)
+      of (z+(1/z))
+  - challenge_sha:
+      private: 3a8f3a2f2c25bfaa77393ad07163e5bd60b0f7c8
+      public: 8b5e116745454951fcff6e44e467226dce3e373a
+    language: en
+    id: 39ddc78e-8092-4267-b9ef-a41f9f110fa8
+    title: Basic limits of complex functions and their properties - lim(z->i) of (z^4-1)/(z-i)
+  - challenge_sha:
+      private: 1e6746abc7990a974acb93198f6aacb76c9b9baf
+      public: fd4f6961b6cac94935b0a8f97f192d34448ad35a
+    language: en
+    id: 96416f79-8418-43d2-aeb6-b1e5a4a143f2
+    title: Showing the existence of complex limits
+  - challenge_sha:
+      private: ef4e0e96f71ef0417a3b35c7e2c4bafbcbc0a4d7
+      public: ad54c252d67198d116ec19bfb970e2f5f0311387
+    language: en
+    id: 34e99769-6721-4176-b94d-f1110eb2d22d
+    title: Factoring a difference of cubes
+  - challenge_sha:
+      private: ec664100c2beb9a376a0ab0d74c15211454ee7f7
+      public: 8e97bd0536534e5d43dbe3e0685dcb1a1b104b18
+    language: en-gb
+    id: 3002e7a2-9703-4464-9618-f098800b046c
+    title: Showing that a complex function is continuous at z0
+  title: Special power functions and introduction to limits
+- has_teams: false
+  starts_after: 3635100
+  challenges:
+  - challenge_sha:
+      private: ba1212a163d563c970873a050b846957c775b386
+      public: 4e32d0dd6d636cd6107a6fd3a9909863595da1f5
+    language: en-gb
+    id: c77b2063-0915-40fd-9c1b-3c1edc32fda6
+    title: Obtaining the complex derivative of f(z) = iz^3 - 7z^2
+  - challenge_sha:
+      private: 823d755560ce3bfdcbfd76d85cb9ee6c3a88b391
+      public: e44ddce6f44a8a41a5360f864fc0ec929f4c9496
+    language: en-gb
+    id: 86d108a7-2ab5-4eb3-92e8-7d8d41a0d08e
+    title: Obtaining the complex derivative of f(z) = 1/z
+  - challenge_sha:
+      private: c5509dfec179949364acf6770b32710f0075c09c
+      public: 0b4e8e5e6e5a126f004c41d2b0e08214908cb481
+    language: en-gb
+    id: db5d8810-7133-4e47-a620-aca09c5bf87c
+    title: Explaining the Cauchy-Riemann equations
+  - challenge_sha:
+      private: 0e95069a10d6ded9821ea6278e66d16ac7688928
+      public: 9bedd20935720aa05a098f80e8888bcee4478063
+    language: en-gb
+    id: 2b446632-3b6f-452a-9268-0d0019928477
+    title: Explaining analyticity at a point in the complex plane
+  - challenge_sha:
+      private: db8f861e55facc70caf93ca5f50c0a695719688e
+      public: d805c278b34e749ae78ce53b143aeef2e2d6cb8a
+    language: en-gb
+    id: fbaca123-9531-46b7-8fc5-7e23834b0711
+    title: Prove analyticity of complex functions using the Cauchy-Riemann equations
+  - challenge_sha:
+      private: e743769b78c1014cd4f73b9bb9fecb49f712d783
+      public: 080500cce55eff21f8783bda288c11fb0380e5ac
+    language: en-gb
+    id: 6c9387df-8649-420c-bd3d-20d96bc6d753
+    title: Proving that analytic functions are harmonic in the complex plane
+  title: Complex limits
+other_languages:
+- en-gb
+topics:
+- Complex Analysis
+- Undergraduate
+editor_id: github.NanoScaleDesign
+challenge_sha: 89fb1e7d1478c659bf457522450a17889d62f6b5
+modified: 2022-02-22T07:50:41.029332372Z
+version: '1.0'
+title_id: complex-analysis-i-2021-60a0cf2578800716cba939043b53346cc184dcfd
+language: en
+id: 60a0cf2578800716cba939043b53346cc184dcfd
+title: Complex Analysis I (2021)
+storage_id: 4089970e-0934-4cc7-baac-4b8f74cb8b66
+duration: 56
+description: Complex Analysis I (2021)
+institute:
+  url: https://www.kyushu-u.ac.jp
+  en_name: Kyushu University
+  name: 九州大学

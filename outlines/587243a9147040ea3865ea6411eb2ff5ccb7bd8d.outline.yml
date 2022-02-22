@@ -1,0 +1,418 @@
+stints:
+- has_teams: false
+  starts_after: 6300
+  challenges:
+  - challenge_sha:
+      private: 608c4ff06c83854234d94535e108c389d46ab04b
+      public: 12ff56ca733370b12c8e2b84c955e449922ece52
+    language: en-gb
+    id: 73dc1ec7-d448-45a2-9226-a13f12195f5d
+    title: Finding the harmonic conjugate of u(x,y) = x
+  - challenge_sha:
+      private: 52ba76ad28ad224d17646ed061bffd9f27718bd9
+      public: 9b5821ccbc0931d0537e033e6d8fc7a74adf7342
+    language: en-gb
+    id: 3f9c9ae0-0042-409d-8c87-2e9e52e3a018
+    title: Finding the harmonic conjugate of u(x,y)=y^3-3x^2y
+  - challenge_sha:
+      private: 3fdc937a7bdb386dc3b071fc29093bf4dcd39a45
+      public: b6fc63231051f96ee702a98dce8eb71c7c715d34
+    language: en-gb
+    id: 09f9b4aa-4579-40cf-99e3-0c5db01caf08
+    title: Finding the harmonic conjugate of u(x,y)=x^2 - y^2
+  - challenge_sha:
+      private: 83e81b18ca9b4f84f134ae4e22a220a72efa89c4
+      public: 0df3a8b6a68a33fa357c1740b155c11909274205
+    language: en-gb
+    id: bb8193aa-c617-4aee-bea6-8dd3af722fa0
+    title: Harmonic conjugate relationship of u and v
+  - challenge_sha:
+      private: 787ee26415431470837936a38c15d27d8a3143bb
+      public: 27959368621e5af3c549b0cd1350ef68aed7fa86
+    language: en-gb
+    id: 6f21e053-dfed-4930-8aae-7df9eb51f333
+    title: Finding complex values of Log(i)
+  - challenge_sha:
+      private: 6489c28c5b58ca2371413686d21c67b76582cda2
+      public: 46ef115aee2b2134a224df2e5c36c954a2b7388b
+    language: en-gb
+    id: 2578ba3a-295b-46b1-82f1-100ee89216e7
+    title: Finding complex values of Log(1-i)
+  - challenge_sha:
+      private: 16d21d6f4aaad3205ead8fe70f5b3fbc8b69c2a2
+      public: ab5e26722c1fbe3170f163927f5e17a3b5c60e01
+    language: en-gb
+    id: 9256eff6-9628-4ae2-a3dc-9106833c54f2
+    title: Finding complex values of Log((1+i)^6)
+  - challenge_sha:
+      private: 3ffdcc9ecca1b59636f677cc6ad40b5d73765630
+      public: 9b4f116ca894eefc85dfb81ee8d29e9de57807ba
+    language: en-gb
+    id: 59b3ef38-4431-40e9-88f3-4e544b5e2346
+    title: Calculate i^i
+  - challenge_sha:
+      private: 63c2c19f08a07717888ae9288d32adf649a9832b
+      public: 212abd0b5f8c0def90f6a7bf8d53d69c8479f2a3
+    language: en-gb
+    id: a2fc4e58-45d8-4cd9-8330-83700140fd48
+    title: Find the principle value of (1-sqrt(3)i)^i
+  - challenge_sha:
+      private: 542193ff4baa22d65b44f00cd2a8e08675696a71
+      public: de7815d007da368a6d361aa95d373d4f27537cab
+    language: en-gb
+    id: 1c406268-59d9-4d8a-bdfc-cb8fe2fd1b35
+    title: Determine sin(i) and sinh(i)
+  - challenge_sha:
+      private: 825c339e0b5097a6e9874027a5c7548df13db965
+      public: 6cd1f6a49ad0f9059be2ac44388a42fc0c336a76
+    language: en-gb
+    id: fd69fc7a-c186-4416-822b-8e25ce77ba18
+    title: Deriving the complex inverse sine function
+  - challenge_sha:
+      private: 6c76c087898b12e08727a6a595bbb91bb6dcf9a4
+      public: a312e955142824bea2d889829149bf324b70f513
+    language: en-gb
+    id: 308d9c1d-ed27-4533-b984-f4ff058b0dfc
+    title: Showing that the complex inverse sine function recovers real angles for
+      real values
+  title: Complex derivatives and analyticity
+- has_teams: false
+  starts_after: 611100
+  challenges:
+  - challenge_sha:
+      private: a8c284d4eab4f8920f0efdb99c071eb68578b294
+      public: a7e4385cfa67b2adb0e9db743551287f653bd7b3
+    language: en-gb
+    id: ef29e0e0-5638-4e0d-8be4-8def1dddd9c4
+    title: Calculate arccos(i)
+  - challenge_sha:
+      private: d2ffb6b76a16623beb59df116176a1626df705a9
+      public: 795506ba93cb265ab66c4b8dce66bb0fae8039bd
+    language: en-gb
+    id: 76fb63e3-7948-4749-aa75-83b9a4674306
+    title: Calculate arccosh(1/2)
+  - challenge_sha:
+      private: ae64c719e57f6c468f0ff9a8a19a0d4a9bd36bc7
+      public: e023267450a7f0e12a05210856f0c1e3ce0eaa75
+    language: en-gb
+    id: bfe871b7-6389-4bf6-9603-209c64e0b9c0
+    title: Calculate the derivative of cos(ie^z)
+  - challenge_sha:
+      private: ffde6639b199c646d4cd209a72ad0bc265e89362
+      public: 9fd6ed781083cc1d8536c438df3b433ea00a65db
+    language: en-gb
+    id: 5dea9b76-a244-4610-a85a-afd0a00c5233
+    title: Line integral of 2xy given x=5cos(t) & y=5sin(t)
+  - challenge_sha:
+      private: c9da376aee97405e5e33df643d29c2f5d641141f
+      public: 6b937af5b3135652c7da02dcdda56aef771e83a5
+    language: en-gb
+    id: af5cfa3b-5187-4685-9415-66f97193283a
+    title: Line integral of 2xy given x=5cos(t) & y=5sin(t) (dx)
+  - challenge_sha:
+      private: 914f5e47b82f89dc92309db179c69e5c9de2c9de
+      public: 2c8529467e3689f45b0dc6ea873784643dc0f75e
+    language: en-gb
+    id: 140d128a-94db-490d-9a03-87cd0b492cd7
+    title: Line integral of 2xy given x=5cos(t) & y=5sin(t) (dy)
+  - challenge_sha:
+      private: b503f2620283d4020850eb708391e2d3a876377b
+      public: bcd5056dc1919075e54b10760ea419dd39b6f95f
+    language: en-gb
+    id: 622487f1-2458-420f-b2af-81030c4e8aea
+    title: Calculating the mass of a wire with density proportional to distance from
+      the y-axis, using a line integral
+  - challenge_sha:
+      private: 6854b2c85aaa2d702d8717ade5c85d55975bbf7e
+      public: 4b9f2aee2c5cce8b1a40d61b87688abb81fe57f8
+    language: en-gb
+    id: eee6da55-7fa5-4013-b4fa-9f973754597a
+    title: Calculating the complex integral of 2z+3 on the contour z=t+it^2
+  - challenge_sha:
+      private: b88be6de45520b3ee9896609e107d87712f654b7
+      public: 175f4133514e13c7e9f0c1270be3be15305e221d
+    language: en-gb
+    id: a9638d95-1303-4a8d-94fc-d6d7c2274786
+    title: Calculating the complex integral of |z|^2 on the line from (-1+i) to (1)
+  - challenge_sha:
+      private: aa01b84b919c0918a323a619b59b47816e329ff7
+      public: 714d4d2bcbc09f87588c07cf760cdb90bb25554f
+    language: en-gb
+    id: 32d40300-7e6c-476d-bd4d-d7683aca3058
+    title: Calculating the complex integral of Re(z) on the circle |z|=1
+  title: Complex trigonometry and integration
+- has_teams: false
+  starts_after: 1215900
+  challenges:
+  - challenge_sha:
+      private: 631598aa50a954523bd85d280ef23591bdb8ff20
+      public: 3f1a61a01fa6d9d2ce80358a085d33f86558db8c
+    language: en-gb
+    id: 861cce0a-fc1f-428a-83d9-df8926f4561f
+    title: Calculating the closed integral of a square in the complex plane
+  - challenge_sha:
+      private: e34faf2aac93d9de44aa015c9d414279db19483c
+      public: b84e9f0027b3090c0ec33b6e34538c811bd11919
+    language: en
+    id: 6405e07c-1412-45df-93e6-08a0bbea3c83
+    title: Calculate the length of the curve z=t^2+it^3 in the complex plane
+  - challenge_sha:
+      private: aaee0aa8c3768cd7e36d3503fd8639683b01ccc2
+      public: 15408ad2c9609fd8b12bc723a7797a30a5e0787c
+    language: en
+    id: 80e3abdc-bd27-4963-80c6-dcb38fff1a75
+    title: Calculate the length of the curve z=2e^(it) in the complex plane
+  - challenge_sha:
+      private: 56448c8abaac6faaecfbe3acb65c90f368cc342d
+      public: 44b8a95177438ee276c2f41e7071e02aa30d8e8b
+    language: en-gb
+    id: 7de1b294-fdfa-40fa-ab9f-64c5a0448180
+    title: Defining simply-connected and multiply-connected sets
+  - challenge_sha:
+      private: 8af02f0496ba2089a38a491daa76001421ca34fe
+      public: b0da8c39c9979277f9447b2085eb482bd2addf5c
+    language: en-gb
+    id: 8a16a2a2-1801-43f6-9439-b16122ea930a
+    title: 'Cauchy-Goursat theorem: Evaluate (z^2+1) along the closed contour 3+e^(it)'
+  - challenge_sha:
+      private: 64367f7de30ffee0b70c33c09f8a654538240c5a
+      public: e96f0f61f9e888c269e4aed76a8a46d25ad9b777
+    language: en-gb
+    id: 41e8f207-523b-4871-8167-ab2cd310d48a
+    title: 'Cauchy-Goursat theorem: Evaluate (z+(1/z)) along the closed contour |z|=2'
+  - challenge_sha:
+      private: 83aa78be89f67c77f6cda6bfd81f106d8bc5104a
+      public: dca425e9d0b2a7a303103f1dacbde6d38aaa6048
+    language: en-gb
+    id: 1aac2f70-1d62-466f-a1bc-3e8619b08d19
+    title: 'Cauchy-Goursat theorem: Evaluate the integral of (2z+3)/(z(z-1)) over
+      a complex ∞-style curve'
+  - challenge_sha:
+      private: ca0a0342fc419d22d5d48d1c8a13f3a304939d7e
+      public: 79586a1d35894398b6b19527d6ea133d8d7139f2
+    language: en-gb
+    id: 3b2c68ab-f2ed-4b03-94fc-f81d8e2e7fdc
+    title: 'Cauchy-Goursat theorem: Evaluate ((3z+i)/(z^2+1)) along the closed contour
+      |z-i|=1'
+  - challenge_sha:
+      private: 2b669f5cc5c262d6f2f996460da63d56a515ef37
+      public: 066e19cf9f23cbce4484f58b26bb3a945f4652b8
+    language: en-gb
+    id: fa6e4384-125a-4526-834e-07f517a2215c
+    title: 'Cauchy-Goursat theorem: The general case of 1/((z-z0)^n)'
+  title: Complex integration
+- has_teams: false
+  starts_after: 1820400
+  challenges:
+  - challenge_sha:
+      private: 413fc9a4aeb3ff1578b6fe45bc0d555c3c9876b5
+      public: 4c2917ff319d4ac17530b2b87ec0551b02e61e84
+    language: en
+    id: bd50370b-d99c-43e4-9afc-348706d721a2
+    title: 'Independence of path: Integral of e^z on the contour 3t^2+i(t^4+t^2+1)
+      for 0<=t<=1'
+  - challenge_sha:
+      private: 149b5984f9b6cf38ad5dac44005ceef1626ab82d
+      public: 82046fbcf4a3f9048053dab1589101126369b833
+    language: en
+    id: bb5cb248-3c70-402c-99ba-eeb802ba9daa
+    title: 'Independence of path: Integral of 2z+1 on a piecewise contour'
+  - challenge_sha:
+      private: f06b61ad6d6d1222ce97c89fe67d7fd6c991e990
+      public: 9ee7d12c120d89c47d6694577806678754c9e607
+    language: en
+    id: f6a48495-20a4-49a5-998d-f245406ced61
+    title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1)
+      on |z-i|=1'
+  - challenge_sha:
+      private: e45340ec8cc0b78713a31ecaac0e181387fbaaa5
+      public: a531e04d85c1e13ad110782e2a7f35a6a4a5c766
+    language: en
+    id: 78599696-d265-430c-96b8-46b4470943bc
+    title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1)
+      on |z+i|=1'
+  - challenge_sha:
+      private: 19499d5056a0294af4404c80a201f2b48c4e8aa7
+      public: 3a23d2c40befef070de3f635c599b7b30c8e2451
+    language: en
+    id: 582d4df6-2511-4814-8e70-24475049b16f
+    title: 'Cauchy''s integral formulas: Closed contour integral of (3z+i)/(z^2+1)
+      on |z|=2'
+  - challenge_sha:
+      private: 63843a5064799a4513fe1ed22d737b330909b843
+      public: 7dff9c170456292c25b0e1b634832cd118f6c786
+    language: en
+    id: 1cf15242-82ed-4897-a3fd-bd68a4e0be68
+    title: 'Cauchy''s integral formulas: Closed contour integral of ((z+1)/(z+i))^3
+      on |z|=2'
+  - challenge_sha:
+      private: 0c16d2cedc5058a00237815fa1716ebbaecc0ea8
+      public: 9e58c9c24b6546134be3172ab0d5e99c1da04976
+    language: en
+    id: 01fd70ec-4051-4561-bb2a-f3a109bf4a3c
+    title: 'Cauchy''s integral formulas: Closed contour integral of e^(2z)/(z^5) on
+      |z-1-i|=2'
+  - challenge_sha:
+      private: 910af117511fbbfedefff9f6616039818ef72e9b
+      public: 204aadd9c25a99c95d6cf0cddf1ede11e181c4d7
+    language: en
+    id: 9a9da3d5-b6f3-4537-86e5-d4b89eff873f
+    title: Evaluate the limit (n+1)/(n+i)
+  - challenge_sha:
+      private: 3650e175269d0d17ae926450495c8458628a2795
+      public: 3106178c2cc796b0818fabcacd64d21db36abd82
+    language: en
+    id: b022458e-203a-45a4-964b-dcb7d586dfa0
+    title: Identifying convergence of complex series and calculating convergence sums
+  title: The Cauchy-Goursat theorem
+- has_teams: false
+  starts_after: 2424600
+  challenges:
+  - challenge_sha:
+      private: f832374dc6c3aa2d61d87542c80d18d1f328a604
+      public: b584c5bb7211a4c35d4a86c84258696cc6627070
+    language: en
+    id: c7ef7a05-037f-4289-9dbd-71e4494af8e2
+    title: Identify the radius of convergence of the series n!(z+1-i)^n
+  - challenge_sha:
+      private: addd4ca709b78aaf0a4aa3ba1b86d4bd0756a9d3
+      public: f6959e44022316f96bdae801901cf267011ea83f
+    language: en
+    id: 6fae0465-fd1f-411c-8997-eaaf8dc290ef
+    title: Identify the radius of convergence of the series ((z-1-3i)^n)/(n+3i)
+  - challenge_sha:
+      private: 3ad89fc851c79bbeb1ce7841fb53af8b80d5eeca
+      public: 33282025d66ac338fc7c80b8cec8aa9eea7487dd
+    language: en
+    id: 04457f88-b681-47a4-b2da-ccda9684de07
+    title: Identify the radius of convergence of the series ((n-1)^2 z^n)/n!
+  - challenge_sha:
+      private: 48d7905e44407531cb54953dfc1bf20b9f05b91e
+      public: dd7bcfeefeb69acc6740b0ec7cfaff5e18006fee
+    language: en
+    id: 5db7fb2d-c210-488f-9ec7-e7214ee293fc
+    title: Find the Maclaurin series and radius of conversion of e^z
+  - challenge_sha:
+      private: e524db16af9868ebc522aef415db2f5576e380f4
+      public: 5513b8ba549ba0a4f8df4db0583a1cb045289e3e
+    language: en
+    id: 37c64bd2-2c1c-40fe-894e-278d5d629dcb
+    title: Find the Maclaurin series and radius of conversion of ze^(2z)
+  - challenge_sha:
+      private: ddb4668d7ef14504bdeceb485d57cd99da4db585
+      public: 7a403865a925702105be298436fa7701fe7da3ce
+    language: en
+    id: b8dcab62-de99-458c-870a-2334edaedc58
+    title: Find the Taylor series of e^z centred at 2i
+  - challenge_sha:
+      private: 95954f488021ce38ab3b6a102eaf436d5c018c16
+      public: 88ad6ea2b7e5cc8fb42a3aae69166c5c46463cdb
+    language: en
+    id: 83e99bf0-ea72-4007-a9bd-71e5b20203f2
+    title: Describe branch cuts and branch points
+  - challenge_sha:
+      private: 751613ca35cf2f358ce2f3a57207f67740b18be4
+      public: aac9dcb93344bf26031474b03cdf076125651fed
+    language: en
+    id: d6c69ee4-b977-427a-b193-2e9ef238286a
+    title: Calculate the Laurent Series of 1/(z(z-3)) for the annular domain 0<|z|<3
+  - challenge_sha:
+      private: 6127fbe23d47c0f08b79e78b2ae182aead3ae4e1
+      public: 1ca31386e1dfceded259c8c2e58fa165160b8705
+    language: en
+    id: fe45c912-e338-4bbf-9060-dcd3e4c66671
+    title: Calculate the Laurent Series of 1/(z(z-3)) for the annular domain 3<|z|
+  - challenge_sha:
+      private: ce531e3faab54b21c283181683fe6db1977bf1c0
+      public: 05b1f62a771e93ca92d2db6b7c736b19825c8a85
+    language: en
+    id: da413fae-b256-4fc8-814e-0d036e0c5047
+    title: When to use Taylor series and Laurent series
+  title: Series
+- has_teams: false
+  starts_after: 5276700
+  challenges:
+  - challenge_sha:
+      private: c0b8b41fa93afb671c7982f1be261a3705681141
+      public: 50ba842c04e6508615460dd54858f719eb66df8b
+    language: en
+    id: 2369d26e-970e-4adb-ab27-034d67d3490d
+    title: Show that Cauchy's integral formula can be re-written as a lower power
+  - challenge_sha:
+      private: 86fdd6fe301255f2c1c6ac1b4696a479e1527794
+      public: 126322df12cc966a7452f1a6bd9c9b1810f84b43
+    language: en
+    id: 2e5c252b-b9df-438a-9a8b-543c25f744e8
+    title: Calculate the residue of sin(1/z) around the singularity 0
+  - challenge_sha:
+      private: 1cd59475948659df5384bb2f23657facc6989ee6
+      public: 67b169f70ff721bbe92a46244f671a15f92762cb
+    language: en
+    id: 296ea19b-fb3a-489b-8997-226eac254605
+    title: Calculate the integral around z=0 for the function sin(1/z) using the residue
+      theorum
+  - challenge_sha:
+      private: cf38e1bba9134f1f275a6a84767b0595bda32b95
+      public: 2911cc296af682421fc9237f51808669738ae3f2
+    language: en
+    id: 8d85e4c3-2a35-48d6-b2ab-14eb3f6702a9
+    title: Determine the residue of 1/(z^2+1) without calculating the Laurent series
+  - challenge_sha:
+      private: b795f7f75a17ac6af59fb0771263bb8a94b759fd
+      public: fed43123c083b145becf5b9c6e58ba122047e4dd
+    language: en
+    id: e43f6cbd-c01b-402a-a49e-d163cd3637cb
+    title: Calculate the integral along a circular contour of radius 0.2 centred at
+      0.4i for the function 1/(z^2+1)
+  - challenge_sha:
+      private: a31f6314d8f306e51cf7b8e8599e17a7a8617a42
+      public: 7674e686267ff8b84262d95cefc66ad06adbaf92
+    language: en
+    id: d7db46d0-2142-4ab2-85a6-b9146f308cb3
+    title: Drawing smooth and piecewise smooth curves
+  - challenge_sha:
+      private: e46b69c92037d965d38add39321ee0b6603571d1
+      public: 07f6f20347fdc2fa7508636c8f489f7062432f43
+    language: en
+    id: b67c8c95-f0df-476f-a503-54ebd7fc9e7b
+    title: Determine the tangent lines and angle between the curves e^(it) and t on
+      the complex plane
+  - challenge_sha:
+      private: dc5a0d498dc9413a64c13319a555b52fe61ab837
+      public: 3946aba0cb2e3d1e1a69207996e3841d84ae1857
+    language: en
+    id: 4aa01a19-8e28-4c8b-8202-5ab6f0a3dbe9
+    title: Difference between conformal curves and conformal mapping
+  - challenge_sha:
+      private: 4d76de1afd53dbc3005de9d59c31074445123bce
+      public: d5e6dc6f33919620e8c12bbcf5fcec6f4dee1e77
+    language: en
+    id: ec58a436-624a-44f7-9f0d-1e42ff680bd3
+    title: Explain why an analytic curve is conformal at a given point z0
+  - challenge_sha:
+      private: e63346707ab0cca8c409deddf1b6341995de67d3
+      public: bcc91c9c400811b351e46b3e0623aae1e3cf21a3
+    language: en
+    id: 7fffd3f6-03e9-4421-8830-ae111cf7e95c
+    title: Show that curve (ipi+t) mapped by e^z is conformal
+  title: Residues and conformal mapping (unused)
+other_languages:
+- en-gb
+topics:
+- Complex Analysis
+- Undergraduate
+editor_id: github.NanoScaleDesign
+challenge_sha: b47d42cd65ebc6ab79c3b0d5e7362d72e0d83e91
+modified: 2022-02-22T07:53:48.414249638Z
+version: '1.0'
+title_id: complex-analysis-ii-2021-587243a9147040ea3865ea6411eb2ff5ccb7bd8d
+language: en
+id: 587243a9147040ea3865ea6411eb2ff5ccb7bd8d
+title: Complex analysis II (2021)
+storage_id: 09102c1a-568e-4315-92ae-d7e4d1079292
+duration: 61
+description: Complex analysis II (2021)
+institute:
+  url: https://www.kyushu-u.ac.jp
+  en_name: Kyushu University
+  name: 九州大学

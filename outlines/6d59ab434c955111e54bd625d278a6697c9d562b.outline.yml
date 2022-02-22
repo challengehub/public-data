@@ -1,0 +1,189 @@
+stints:
+- has_teams: false
+  starts_after: 5400
+  challenges:
+  - challenge_sha:
+      private: 15708de169d297f773c8a59a902b4ef17c4bb8b8
+      public: 1f8489b41d2e7e945d54ef1b476fbc8f6deb5088
+    language: en
+    id: 8cc27349-8100-4520-b3bc-62f89e6b2e35
+    title: Understanding Fourier transform notation variations
+  - challenge_sha:
+      private: 2343a6daa266e9b71bb85659617b6cd1b40c1062
+      public: 20c738e51cdbd8f3be6fd671677f1ee4c7853b15
+    language: en
+    id: 44542db4-3109-44d6-ae6b-3ed4da5dbd87
+    title: The relation of convolution and the Fourier transform
+  - challenge_sha:
+      private: e86167cf8861424701198a0e4518629e083541ad
+      public: 967a744df2a08f8e7f733ef8d5a0e216a501e837
+    language: en
+    id: 97d2f16d-a7c7-48c7-a255-db12902eb449
+    title: Filtering with band-pass filters - example with turbidity
+  - challenge_sha:
+      private: f77adce377e7d5f5df7fb9146e8b2914f1294617
+      public: 786f2ef533dc3af0350230c992b1a6a6f6d9a767
+    language: en
+    id: 82ef41d7-0d10-4d50-a7c8-402171fbef8f
+    title: Convolution of t^2 with a window function
+  - challenge_sha:
+      private: 03391ef3fac18326f5487d07da1311d95498e380
+      public: c87c10e0df0c79c0ac834daf3d449c1618759331
+    language: en
+    id: d5364324-e45a-41ae-b2fb-0d32df6feb07
+    title: Calculating convolution of continuous functions
+  - challenge_sha:
+      private: af1f63ba6056c54e495a57927569a873f7b35b5d
+      public: 631f8ad3a9b57af813b3d18ba485fc5c72e65649
+    language: en
+    id: 7fe1e354-ccde-4a18-aa22-b13ab11dae29
+    title: Convolution of two window functions
+  - challenge_sha:
+      private: 255b45f26b96a13d5b37728d7b26c5ca330b2efb
+      public: 00d17b5444035a2a0dc0e120d076c747841ed637
+    language: en
+    id: f9ee0430-4846-42cb-9e46-6f0254044091
+    title: An introduction to digital signals and the Nyquist sampling theorem
+  title: Convolution
+- has_teams: false
+  starts_after: 610800
+  challenges:
+  - challenge_sha:
+      private: 4334d80da5d6c8710d2dceb53bd2b4075406b985
+      public: 34552291564760f7f405092c880289869b0bd75e
+    language: en
+    id: 0a657100-1ea2-4191-865d-39b68581e08e
+    title: Calculating the coefficients of the Discrete Fourier Transform
+  - challenge_sha:
+      private: 45cc936a0318fc1c823fbd7a34129574e36e2383
+      public: 83b435fa0327b3c061f0f19234cc50d254edeeca
+    language: en
+    id: 291db4fc-84c3-4b6d-a615-2491f83e545a
+    title: Analysis of the coefficients of the Discrete Fourier Transform
+  - challenge_sha:
+      private: 337f6c0f3cab1eebe436e8c1e3b87617a9e3ea44
+      public: 20fe0be98a80da480be7900558b8a2a81674198a
+    language: en
+    id: f1ae87ed-c786-4a07-af15-2da838e7f72a
+    title: Calculating the frequencies of a signal made up of two waves
+  - challenge_sha:
+      private: a16ec8cea633c2c2f31b0a566fe096bae005b1ad
+      public: 2685300b6a19768bb50f7f2c3cbf122357323195
+    language: en
+    id: 8ff930db-0608-4f59-b0a8-d57082730f23
+    title: Calculating the fundamental frequency of a signal made up of two waves
+  - challenge_sha:
+      private: e2418ca75e46fc22c2793e1b0831d4a0b828fabc
+      public: 8afddf42aa7fc5b89c84177fd98613706b2570db
+    language: en
+    id: 8b3fa5f8-dea0-494a-8b41-233cc2075118
+    title: Calculating the maximum aliasing frequency of a signal made up of two waves
+  - challenge_sha:
+      private: 407d99fb12c0238e8aba0e8d50e296ddab33b15e
+      public: 6cd65a4b982a0c5501d83d32fa59a1e512c2b1c5
+    language: en
+    id: 9038265f-e931-469c-99d4-043654e58329
+    title: Using DFT to analyse a signal made of two waves
+  - challenge_sha:
+      private: 76081dd4b56a6b2d08682895c6096e4a4cb92034
+      public: 777db0fd42ca6d856369e14a0808ebd1d1060e5f
+    language: en
+    id: ca7ec9c8-53e7-4d6f-8b30-18157509bef1
+    title: Understanding the limits of DFT calculations
+  title: The digital fourier transform
+- has_teams: false
+  starts_after: 1215000
+  challenges:
+  - challenge_sha:
+      private: 2b1e857cb3c22d9c9115857ca7e81172b4b286f9
+      public: 6eedf72583b8978677ecedfdc81628488bc8d8eb
+    language: en
+    id: 8742227b-3127-4371-860e-6d5148422977
+    title: Understanding the twiddle factor diagram
+  - challenge_sha:
+      private: 2945f54b3aeb61c9d7a0331dd6ca80a71a2d42dd
+      public: 291f0e04e34a5ba6bcaae4bdc72195dd55f3be2d
+    language: en
+    id: c69828c4-d79b-45e3-964d-aaf6328b5d4c
+    title: Understanding the relation between twiddle factors
+  - challenge_sha:
+      private: dfa39239c2df4d1d87e4659cb9c4ffd2257307b5
+      public: 5bca4dfd75aa55e88dbcc8141c66c6f8331dd8af
+    language: en
+    id: a1549546-f57b-498b-8a31-07d880e12754
+    title: Explaining how a DFT of length N can be split into two DFT's of length
+      N/2
+  - challenge_sha:
+      private: 91f79ad39bdb421321116aa00bc30fda985e8815
+      public: b6f5223b4f7a376a6c24ad715e5813e2ba176947
+    language: en
+    id: 4f528817-03ae-4423-ab99-b359cb97f5b6
+    title: Repetition of even DFT coefficients
+  - challenge_sha:
+      private: ee9a1be8f3206d51e881f3ea15735d3dcba84163
+      public: d954ba93907aa639b2a70ff84cf63b2f4247ce0e
+    language: en
+    id: 84af0750-f7f4-43c8-a0af-00ef271dd160
+    title: Drawing a radix-4 butterfly diagram
+  - challenge_sha:
+      private: 3d10dbf5a64539f2e7c4a604d761c911e3ed575f
+      public: 991a77e1e157941f7218c20769a8c811b175d6fc
+    language: en
+    id: 43933332-bb15-4d7b-9826-b452b90724d6
+    title: Lack of multiplication in a DFT of length 2
+  - challenge_sha:
+      private: 4dfc1f81104d54b565a6557aea192e9263a76aca
+      public: 21741211a09c296cf2a29dbdf381d1307ecd17c1
+    language: en
+    id: f06adee3-8a49-4289-92e9-9f1d535c8e50
+    title: The origin of the N log N scaling of the FFT
+  title: The fast Fourier transform
+- has_teams: false
+  starts_after: 3030000
+  challenges:
+  - challenge_sha:
+      private: 4665813cff1acc29e2fe644846385152e78031ea
+      public: 0ea29ed1976a33bd1ecb7a87ca11d05a3aa906d1
+    language: en
+    id: dc19d15b-ff67-43ce-afaa-449ed2becd52
+    title: Cleaning an audio signal with python
+  title: First DFT analysis with python
+- has_teams: false
+  starts_after: 3634800
+  challenges:
+  - challenge_sha:
+      private: 9cbdc82b24c518203a24426d62c6a78b6122b11f
+      public: 024f2901b17731f5bd525a7df346ac2b2c6a7990
+    language: en
+    id: 04270ec1-754b-4489-90dc-6407584e1814
+    title: Fourier Analysis coursework (2021)
+  title: Coursework
+- has_teams: false
+  starts_after: 4843800
+  challenges:
+  - challenge_sha:
+      private: 76e8d6f327fed08a13bb06f3d4b4dbad717f59ca
+      public: cd397902d744e5ee4fdb727925db8e0e4764b1ce
+    language: en
+    id: ff0d77b1-a79e-4cda-9a5c-a0fce108bf3b
+    title: Link to Fourier Analysis coursework material (2019)
+  title: Final class
+other_languages: []
+topics:
+- Fourier Analysis
+- Undergraduate
+editor_id: github.NanoScaleDesign
+challenge_sha: b83aa3a175d73f56c8b56a86920616b9a68c4599
+modified: 2022-02-22T07:49:03.544615654Z
+version: '1.0'
+title_id: fourier-analysis-ii-2021-6d59ab434c955111e54bd625d278a6697c9d562b
+language: en
+id: 6d59ab434c955111e54bd625d278a6697c9d562b
+title: Fourier Analysis II (2021)
+storage_id: cb3350f2-e574-460c-a107-7ce94b8d04d7
+duration: 70
+description: Fourier Analysis II (2021)
+institute:
+  url: https://www.kyushu-u.ac.jp
+  en_name: Kyushu University
+  name: 九州大学

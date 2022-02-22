@@ -79,6 +79,15 @@ b45c1b7c00a0f7d0db25412214660939f7fa1e54:
   challenges_sha: ffcb43912145f463aa860a50ef6d67c15a745308
   title: Complex Analysis I (2020)
   storage_id: 3c6cdf9c-9cfe-49c5-a88e-bb9b1077a2ea
+6d59ab434c955111e54bd625d278a6697c9d562b:
+  topics:
+  - Fourier Analysis
+  - Undergraduate
+  modified: 2022-02-22T07:49:03.544615654Z
+  title_id: fourier-analysis-ii-2021-6d59ab434c955111e54bd625d278a6697c9d562b
+  challenges_sha: b83aa3a175d73f56c8b56a86920616b9a68c4599
+  title: Fourier Analysis II (2021)
+  storage_id: cb3350f2-e574-460c-a107-7ce94b8d04d7
 b5f5db5b055137d1e41bc7940c02a3b825a5ae42:
   topics:
   - example

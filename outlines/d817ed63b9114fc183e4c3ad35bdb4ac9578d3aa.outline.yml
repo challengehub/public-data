@@ -1,0 +1,346 @@
+stints:
+- has_teams: false
+  starts_after: 7200
+  challenges:
+  - challenge_sha:
+      private: be928cff8462cf912663e6c03f6d0b12cf546e27
+      public: 42e5b7c5d06af36d89ad8f582b94462929e1addc
+    language: en
+    id: 7731a9c7-7a5d-4779-8a6e-7e83d9f880d7
+    title: Period at 50 THz
+  - challenge_sha:
+      private: 11fe2bd8e3d60e03b4cabc969c1fad5840a39c3e
+      public: f9c825bb69b46aa0464c38ad6c1478920c5bbbc6
+    language: en
+    id: 861c31cf-75b7-4286-b06e-540573cc8526
+    title: Frequency with k=1
+  - challenge_sha:
+      private: 822634a5e1ba45a1ca4cafba8614132c7c30bc40
+      public: 47ce98110a9b19d036c9d23e5e288122d4a3d7da
+    language: en
+    id: 1b8a379b-8af1-4acc-94dd-312c7ef472d8
+    title: Frequency with k=2
+  - challenge_sha:
+      private: b6edb35c2088769066ed44c2a8c9e86732db2ca8
+      public: 3a7de549ac0fc4414688c1025b0f67a6314087e4
+    language: en
+    id: 3f3b15ee-ee69-411b-8aa9-78732e2b120f
+    title: The meaning of k
+  - challenge_sha:
+      private: c25cc65b2877e582393331754c2381154ae10c97
+      public: efc3337b710fe2ae6ee44ecf4d761cb3b0cf37f8
+    language: en
+    id: 0f089984-8398-4960-92bc-f7dbc2945882
+    title: Smallest period with k=1
+  - challenge_sha:
+      private: 089b65245957f207defc377f8e6cb8793358faf2
+      public: 5dde84c19668430af867d522d5ea31903984a9d7
+    language: en
+    id: be59c8b1-8ac4-4d2a-a4bd-89b38578f852
+    title: Smallest period with k=2
+  - challenge_sha:
+      private: b60004d86e239f802d242e4430966aa8001e390f
+      public: 5f15a9a95c676ff4206ecde73c204f3c531b1fd0
+    language: en
+    id: 63168873-0817-40df-8098-40615f44906e
+    title: Phase of four sine graphs with the same frequency
+  - challenge_sha:
+      private: 5de4f7a3c95853e23b35fcd48ae97ecec24d6587
+      public: 921aff0f100994f21c2edf5249847cfc2e680288
+    language: en
+    id: f47ba08c-32a1-4864-a9c4-4ca9a82140a0
+    title: Amplitude of four sine graphs
+  - challenge_sha:
+      private: 27ffc7f360278ca13fb4c02d5f768807be2be577
+      public: d0dbfcc01711157840f8c0ac84bdea41e0c8eaac
+    language: en
+    id: d35c7de4-5c63-4bb7-9e34-86cefa2c1504
+    title: Identifying periodic and non-periodic signals
+  - challenge_sha:
+      private: b65fb24c661b35e05aa5a450d90c07111fa7604d
+      public: d1af729a917be5d9297dd6a7c16917c44745a865
+    language: en
+    id: 61d7b89d-c152-4d20-bd8f-173c7eeb8834
+    title: Making non-periodic signals from periodic signals
+  - challenge_sha:
+      private: 578bf9b09fe0113a252b14c5e603e77362bc5deb
+      public: 5321a73bfb6571a84dc0ce869f0d3e3d717c51c7
+    language: en
+    id: dded9e84-334d-47ff-9466-0101a1196ced
+    title: Fundamental frequency of sum of signals
+  - challenge_sha:
+      private: 88b71a93bf2f076727854d2d6ee6707116178130
+      public: 88b773788e366a3569bf6ae4793a32a72937da83
+    language: en
+    id: 520f1cec-a017-441f-8381-3d3c8a2f3144
+    title: Fundamental period of sum of signals
+  title: 'Periods and frequencies '
+- has_teams: false
+  starts_after: 610800
+  challenges:
+  - challenge_sha:
+      private: e4d665debf5e70c92913c03100a5001c03a15c14
+      public: f466736ad2ca7c7d11216a82abd54aba4a444910
+    language: en
+    id: 2973505a-bc20-45e5-9a36-b1f35eb57435
+    title: Identifying even and odd functions
+  - challenge_sha:
+      private: 401f1f726a4ab0b4643cf239b4daf64ac1dd02d8
+      public: ea3cbdfe732c47a116036dab91c63de6903710d7
+    language: en
+    id: 3198fd1c-d946-4490-809d-539ae5c33c68
+    title: Introduction to sine and cosine Fourier coefficients
+  - challenge_sha:
+      private: a7bebdf3bfc4d095f3ae0a0c6c87a3cfad14e32d
+      public: 456ab79fe26fe86a98afb7a5a0865013932b4459
+    language: en
+    id: 7eff131c-5671-4ef4-96ab-18a386096aee
+    title: Understanding the significance of the Fourier coefficients
+  - challenge_sha:
+      private: e60895d477442b88617192d8d630bdf607f0a3e4
+      public: 5826a8c8f5db12d809a02eda6534b7aad7d06bc9
+    language: en
+    id: 2083cca7-eddc-4139-af2b-0d626d215f01
+    title: Integral of sine signals over a whole interval
+  - challenge_sha:
+      private: 60b93a312298398b080eaf1479d83f86a9668182
+      public: 703e2d367e221a1f3bc4fc43124bb04dbb55f396
+    language: en
+    id: ee8cbf6a-d1ae-4a0b-8b66-84e0254b587b
+    title: Integral of product of two sines and two cosines
+  - challenge_sha:
+      private: e6492ffc26a55d2c9ce2492ac1e8177118bc3e21
+      public: 00f24e61f026e24bf64d17db5632d144d720b1e9
+    language: en
+    id: 34619ddf-1257-43e6-82bc-945d549795c0
+    title: Understanding the first term in a trigonometric Fourier series
+  - challenge_sha:
+      private: a0c310af756a2b341b0ecba37efb1ba5fc080daa
+      public: 6b565e7dd5bb644105cf74be3b676b34d41e8a21
+    language: en
+    id: 3e53a62e-b03f-4f16-abac-7db781bfc930
+    title: The Fourier coefficient a_k
+  - challenge_sha:
+      private: 1210b6736bafd770277534d1210ed89d5c54a55a
+      public: c7059125e208211b496df466dd08dfc26a18d12b
+    language: en
+    id: 7669fb99-02b5-450d-8aa5-054c4e31e81e
+    title: The Fourier coefficient b_k (optional challenge)
+  - challenge_sha:
+      private: d8af4fc1feb382fad5fb57d072e93c7c9f697937
+      public: b932ca6088bd8b8fb5c5647496d70e6872910190
+    language: en
+    id: 9d1c521e-9313-42e7-b0ac-a9b612dc7d96
+    title: calculating-the-trigonometric-fourier-series-of-a-square-wave
+  - challenge_sha:
+      private: b5ff1e2a026a0c83cc6ea12db7070820270d50a0
+      public: 82d8cce4b8b9cac99d83ec9837d2fd1a4b10aacf
+    language: en
+    id: 41b1cbfc-aec2-47b2-a089-b7f618e98897
+    title: Calculating the trigonometric Fourier series of another square wave
+  title: Fundamentals of Fourier series
+- has_teams: false
+  starts_after: 1215600
+  challenges:
+  - challenge_sha:
+      private: c5ef761be06b2f2849d12b379717b0e40f1936ec
+      public: 6c66c80229e769f2a62dd34b562ed62eb6a7b58d
+    language: en
+    id: 7bf78270-ee73-4849-9e61-eb4ab15bc5dd
+    title: Identifying Fourier sine and cosine series
+  - challenge_sha:
+      private: 6eb0c6a955cad1a30f3adbc26edccde0de66b463
+      public: 82717f4b2be40e218a0aa81bc82270caf3ad6834
+    language: en
+    id: 3393acd3-f1dd-4ec8-b5e5-8b3487336b74
+    title: A review of complex numbers
+  - challenge_sha:
+      private: 56b27826f091206c3a413bf2e134483f72fc5752
+      public: 70b56a4bf814e81a4b5eab8a5ee24734a4645e03
+    language: en
+    id: e04f7340-4ded-4224-974b-2d4ce15b68e7
+    title: Writing the complex form of sine and cosine
+  - challenge_sha:
+      private: f3873b85278b1a42548f1b86482a1ec6346ffe53
+      public: 884f8aabcc40528034f874494f5a8bc77f637e8f
+    language: en
+    id: 91b11535-7abe-486e-a274-19ffe5d9a444
+    title: Fourier series coefficient requirements for completely real signals
+  - challenge_sha:
+      private: e40f02d9c85bc5ef8f729a8039164a70dbb842bb
+      public: 7f10f48a506a9e955b7c5a05c1a50b8d1be148a9
+    language: en
+    id: 9e37ed35-9a8d-4b1e-82c8-e201664be0ad
+    title: The meaning of the complex Fourier coefficients
+  - challenge_sha:
+      private: 8f67f5e59bbdab876f5a41ec1a8e535a8e83c07a
+      public: 3ca7a2b9440d717c0f21404f6c5b1b88118644e8
+    language: en
+    id: b40fbdb5-a0df-48c5-8d54-d0a2bb43a200
+    title: Derivation of the complex Fourier coefficients
+  - challenge_sha:
+      private: ae83d3f750a55fb9431dac6287df61f1e05b0fd4
+      public: fab0a304b7bb792eb45c2996b48f1aa92db17b5a
+    language: en
+    id: 5f4be524-2a5c-4ee4-a612-9328a37c837f
+    title: Calculating the complex Fourier coefficients of a square wave
+  - challenge_sha:
+      private: d2b8cc3cf747472cc77944b00950f1bbcdcb980c
+      public: 27694f13e3e954b17777bd57e7f103e748a2c2a2
+    language: en
+    id: 889faba7-7b83-4b38-917d-18a66d47bb33
+    title: Calculating the complex Fourier series of a square wave
+  title: Complex Fourier series
+- has_teams: false
+  starts_after: 1820100
+  challenges:
+  - challenge_sha:
+      private: 13b320ffa2b8eeb7a34a880dc6b0632b16b8ee08
+      public: 64844c356e5544e480228b25fe64de90f11a9d09
+    language: en
+    id: 0ba3e51e-f4cc-4367-850a-8c74e07b31bd
+    title: Calculating the Fourier Series of a sawwave with non-unit period
+  - challenge_sha:
+      private: 4be04ce3727c901a5e2ed5d91355d4908e921d90
+      public: 4a32a8dcc06f12c7df33bb9fc78da8d6f3a694bb
+    language: en
+    id: 291b8eaf-ba07-49e7-82c7-319d918c1241
+    title: Determining the Fourier Series coefficients of sin(x)
+  - challenge_sha:
+      private: d3672cf5d776b30730a4cb6991546c6eefa07586
+      public: 0303c29940942f5157dc625b422cb1f341ec0994
+    language: en
+    id: 4ba35c95-2f3c-408e-8e4b-633439f92268
+    title: Understanding Gibb's phenomenon
+  - challenge_sha:
+      private: 6f32052b9ae56b8abc2258e9bdc5203f9b70bc0c
+      public: 57880d451be63cecc402eb3cbf7cb37b63016e75
+    language: en
+    id: 907213aa-04a3-47fc-b0a5-3473379d8abe
+    title: Partial derivatives practise
+  - challenge_sha:
+      private: bc52ccf9a7549ed7b7ab2d2665e4186e37e98bb9
+      public: a8325cb15db7e9b88f6006f4d0544a411f30bd06
+    language: en
+    id: fb2bb6af-363b-41f5-8b04-73f7739f9790
+    title: 'Heat equation on a ring: Understanding periodicity'
+  - challenge_sha:
+      private: 16ceda75e296168b8333a6177c069424f62e932f
+      public: 92b882e6e91a665c432dbbd065580c080de76c13
+    language: en
+    id: 41ec89ed-5275-4096-a4ab-c35fc8b12cc3
+    title: 'Heat equation on a ring: derivation using Fourier series'
+  title: Heat on a ring
+- has_teams: false
+  starts_after: 3029700
+  challenges:
+  - challenge_sha:
+      private: c6fafd71a4a0cc4b3f8d01b9b1aabb7b828a06f8
+      public: 7ea03e8554975d732bbab7b9ba149fdcb6e4ac8d
+    language: en
+    id: 469898ff-38c0-4ac6-af56-e09f0b9ef1c2
+    title: L'Hôpital's rule with sin(x)/x
+  - challenge_sha:
+      private: a218f220e99e26c7308db56b9189df980b20fa46
+      public: dcc17aad7698195dcafeefa20e863ce902591315
+    language: en
+    id: 5d72257b-8d6f-4942-adb1-4f9621f13c2c
+    title: The limit of sin(x/T) as T goes to infinity
+  - challenge_sha:
+      private: ddf79f6ec78f31b7df61fd4b4b5c4ff2a156a853
+      public: 67257f3240420290ac5560b09068dc3d2d8e76ce
+    language: en
+    id: 47f951ed-c516-4d34-80bb-9fcd807db3ca
+    title: The limit of (T sin(x/T)) as T goes to infinity
+  - challenge_sha:
+      private: 56bdf04c02e549ff586545da28151d06ae3b57e7
+      public: e3ed48804300a74af961ebf597efc023fa1e97f2
+    language: en
+    id: e8ef7b2f-ffab-4373-a507-0ab0d03d7fa0
+    title: The transition from Fourier Series to the Fourier Transform
+  - challenge_sha:
+      private: 24723898279266b32e0289aedeb2093d09be8d2c
+      public: b36d54e4050b9f24e0c394f443cb90d004416152
+    language: en
+    id: 630c31c4-1cb9-454d-8913-2bf7f62b1646
+    title: Calculating the Fourier transform of a window function between -1/2 and
+      1/2
+  - challenge_sha:
+      private: f17b37acd6bc685abdee7970ba9b93314bdcd9fc
+      public: b7bbfed301deb47888bc3a6eceafc903cd09f3fb
+    language: en
+    id: ef385aaa-dba5-4a00-a79a-e9c7b427ad74
+    title: Fourier transform of sine and cosine
+  title: Introduction to Fourier Transforms
+- has_teams: false
+  starts_after: 3634200
+  challenges:
+  - challenge_sha:
+      private: 63bf7ec2adf225cadaf7ab30d47b9ec77136b3ac
+      public: 65d22799b88a0e2bdad146197420f9a59c160493
+    language: en
+    id: a806f89e-bfa5-4c75-8563-fb8aa4acb446
+    title: Understanding the Fourier transform of a triangle function
+  - challenge_sha:
+      private: b12c4f97ce40dc4e0850869855c0675ea092e6a2
+      public: 480a959d6616487aad05fba9344d4e737bf524da
+    language: en
+    id: 912bda4b-f2c5-4fd4-a43d-ec4d5df651c6
+    title: Deriving the Fourier transform of a Gaussian
+  - challenge_sha:
+      private: 103dab679b74d8a48c89dcde45e229751364549e
+      public: 630bf6ae7da7d3744bc9a3f32f828b761efc8774
+    language: en
+    id: bb12c06b-293a-452d-ab4f-091f552b76f5
+    title: Calculating the Fourier transform of a rocket function
+  - challenge_sha:
+      private: 5d478b61cf8f758011b35efb0ca98933503e1f8f
+      public: 1c17ea2ca15d981f4b3748d518eda8ee863e7b88
+    language: en
+    id: 2154533e-bb04-4f17-a6db-dc0bcc854fae
+    title: Calculating the Fourier transform of a shifted window function
+  - challenge_sha:
+      private: 7dc30502cc91d6659fbb8da8051884e2edbd8977
+      public: 57a26c52a85e268b9ee8aa5f6e90b5220c491812
+    language: en
+    id: 5c2f9046-9e8e-41ac-8826-77079d2a32e4
+    title: Derivation of the effect of a shift in the time domain on the Fourier transform
+  - challenge_sha:
+      private: 249f53f87094df88b28e33bdfd5f9f252c29ab8d
+      public: 5cb46c41431f6f87e73b0bc7ecde2b26029f5ec6
+    language: en
+    id: 9d1fcaca-1cfd-4822-90b8-a16dbf3f54b3
+    title: Calculating the half-base-width of a triangle function
+  - challenge_sha:
+      private: 7bd8be37294bf00058b11f5a6b1dca404e08d346
+      public: b9cbffa213674ffb351d16e1e7ba596676d0e977
+    language: en
+    id: c3b05988-8a42-40b7-aae7-2f069d34e329
+    title: Calculating the Fourier transform a triangle function with arbitrary base
+      width
+  - challenge_sha:
+      private: b97b95d2361723d7d238aef7a6db821681300627
+      public: 7ab4d4fcfcd883c1a76464b1bbced75749354247
+    language: en
+    id: 1d0d2b90-d2d5-4005-bd42-25e9ee45862e
+    title: The effect of a stretch in the time domain on the Fourier transform
+  title: Fourier transform operations
+other_languages: []
+topics:
+- Fourier Analysis
+- Undergraduate
+editor_id: github.NanoScaleDesign
+challenge_sha: e02e4d651928ee0417aecbfc900bf32ceef87ed2
+modified: 2022-02-22T07:48:17.569878769Z
+version: '1.0'
+title_id: fourier-analysis-i-2021-d817ed63b9114fc183e4c3ad35bdb4ac9578d3aa
+language: en
+id: d817ed63b9114fc183e4c3ad35bdb4ac9578d3aa
+title: Fourier Analysis I (2021)
+storage_id: 436dd2b5-d1a5-4af0-9cf2-54069533c93d
+duration: 119
+description: Fourier Analysis I (2021)
+institute:
+  url: https://www.kyushu-u.ac.jp
+  en_name: Kyushu University
+  name: 九州大学

@@ -9,6 +9,15 @@
   challenges_sha: b47d42cd65ebc6ab79c3b0d5e7362d72e0d83e91
   title: Complex analysis II (2021)
   storage_id: 09102c1a-568e-4315-92ae-d7e4d1079292
+d710fcd95833dabf16334969c31d9a82b624a63e:
+  topics:
+  - Ordinary differential equations
+  - Undergraduate
+  modified: 2022-02-25T04:35:13.417829537Z
+  title_id: ordinary-differential-equations-i-2021-d710fcd95833dabf16334969c31d9a82b624a63e
+  challenges_sha: 37c36abf9fb3999af78321fa8c7972e8feafee23
+  title: Ordinary Differential Equations I (2021)
+  storage_id: 45cc3201-4525-46cc-8d37-8825979ff838
 d817ed63b9114fc183e4c3ad35bdb4ac9578d3aa:
   topics:
   - Fourier Analysis

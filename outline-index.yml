@@ -27,6 +27,16 @@ d817ed63b9114fc183e4c3ad35bdb4ac9578d3aa:
   challenges_sha: e02e4d651928ee0417aecbfc900bf32ceef87ed2
   title: Fourier Analysis I (2021)
   storage_id: 436dd2b5-d1a5-4af0-9cf2-54069533c93d
+94b6f840494f1cdb923744c8dbc4adc6d1003652:
+  topics:
+  - Mass transfer
+  - Diffusion
+  - Postgraduate
+  modified: 2022-02-25T04:37:29.225098856Z
+  title_id: mass-transfer-2021-94b6f840494f1cdb923744c8dbc4adc6d1003652
+  challenges_sha: 5cc5380599f4d66d7c2039e0fb3181776ae9a956
+  title: Mass Transfer (2021)
+  storage_id: 9eb8cee2-93d8-4f45-8839-99a6be103df3
 7fa688826bf0fea87ae319456987d2f8db24ddf3:
   topics:
   - ordinary differential equations
